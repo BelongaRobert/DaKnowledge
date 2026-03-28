@@ -1,0 +1,17 @@
+{
+  "name": "daknowledge",
+  "version": "1.0.0",
+  "description": "Research-focused theological knowledge base",
+  "type": "module",
+  "main": "src/engine.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "cli": "node src/cli.js",
+    "index": "node scripts/build-index.js"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3"
+  },
+  "author": "DaSage",
+  "license": "MIT"
+}
