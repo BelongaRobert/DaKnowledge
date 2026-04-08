@@ -1,3 +1,5 @@
+<img src="/assets/images/banner-emmaus.jpg" alt="The Road to Emmaus" style="width:100%; max-height:300px; object-fit:cover; border-radius:8px;">
+
 # DaKnowledge
 
 ## Biblical Theology Knowledge Base
