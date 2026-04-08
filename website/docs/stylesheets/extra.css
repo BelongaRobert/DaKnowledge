@@ -1,0 +1,241 @@
+/* ============================================
+   DaKnowledge - Catholic Theme
+   Professional styling with Roman Catholic symbols
+   ============================================ */
+
+/* Catholic Color Palette */
+:root {
+    --catholic-gold: #D4AF37;
+    --catholic-gold-light: #E8C547;
+    --catholic-gold-dark: #B8941F;
+    --catholic-red: #8B0000;
+    --catholic-red-dark: #5c0000;
+    --catholic-white: #F5F5DC;
+    --catholic-cream: #FAF7E8;
+    --catholic-purple: #4B0082;
+    --catholic-purple-light: #6B2C91;
+}
+
+/* Header Styling - Deep crimson with gold accents */
+.md-header {
+    background: linear-gradient(135deg, var(--catholic-red) 0%, var(--catholic-red-dark) 100%);
+    box-shadow: 0 2px 10px rgba(139, 0, 0, 0.3);
+}
+
+.md-header__title {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+/* Navigation styling */
+.md-tabs {
+    background: linear-gradient(135deg, var(--catholic-red-dark) 0%, #3d0000 100%);
+}
+
+.md-tabs__link {
+    font-family: 'Georgia', serif;
+    font-weight: 500;
+}
+
+/* Accent colors - Gold links */
+.md-typeset a {
+    color: var(--catholic-gold-dark);
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: all 0.2s ease;
+}
+
+.md-typeset a:hover {
+    color: var(--catholic-gold);
+    border-bottom-color: var(--catholic-gold);
+}
+
+/* Custom admonitions for relics */
+.md-typeset .admonition.relic {
+    border-left: 4px solid var(--catholic-gold);
+    background-color: rgba(212, 175, 55, 0.08);
+    border-radius: 0 4px 4px 0;
+}
+
+.md-typeset .admonition.relic > .admonition-title {
+    background-color: rgba(212, 175, 55, 0.15);
+    color: var(--catholic-gold-dark);
+    font-family: 'Georgia', serif;
+}
+
+.md-typeset .admonition.relic > .admonition-title::before {
+    content: "✝";
+    color: var(--catholic-gold);
+    margin-right: 0.5em;
+}
+
+/* Sacred admonition - for highest importance */
+.md-typeset .admonition.sacred {
+    border-left: 4px solid var(--catholic-red);
+    background-color: rgba(139, 0, 0, 0.05);
+}
+
+.md-typeset .admonition.sacred > .admonition-title {
+    background-color: rgba(139, 0, 0, 0.1);
+    color: var(--catholic-red);
+}
+
+.md-typeset .admonition.sacred > .admonition-title::before {
+    content: "✝";
+    color: var(--catholic-gold);
+    margin-right: 0.5em;
+}
+
+/* Catholic symbols decoration */
+.catholic-cross::before {
+    content: "✝";
+    color: var(--catholic-gold);
+    margin-right: 0.5em;
+    font-size: 1.1em;
+}
+
+.catholic-cross-gold {
+    color: var(--catholic-gold);
+    font-weight: bold;
+}
+
+/* Section dividers with religious motifs */
+.divider-sacred {
+    border: none;
+    height: 2px;
+    background: linear-gradient(90deg, 
+        transparent 0%, 
+        var(--catholic-gold) 20%, 
+        var(--catholic-gold) 80%, 
+        transparent 100%
+    );
+    margin: 2em 0;
+    position: relative;
+}
+
+.divider-sacred::after {
+    content: "✝";
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background: var(--catholic-cream);
+    padding: 0 1em;
+    color: var(--catholic-gold);
+    font-size: 1.2em;
+}
+
+/* Headings with Catholic styling */
+.md-typeset h1 {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    color: var(--catholic-red-dark);
+    border-bottom: 2px solid var(--catholic-gold);
+    padding-bottom: 0.3em;
+}
+
+.md-typeset h2 {
+    font-family: 'Georgia', serif;
+    color: var(--catholic-red);
+    border-bottom: 1px solid rgba(212, 175, 55, 0.5);
+    padding-bottom: 0.2em;
+}
+
+.md-typeset h3 {
+    font-family: 'Georgia', serif;
+    color: var(--catholic-purple);
+}
+
+/* Enhanced typography */
+.md-typeset {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    line-height: 1.7;
+}
+
+/* Lists with cross bullets */
+.md-typeset ul.custom-cross li {
+    list-style: none;
+    position: relative;
+}
+
+.md-typeset ul.custom-cross li::before {
+    content: "✝";
+    color: var(--catholic-gold);
+    position: absolute;
+    left: -1.5em;
+    font-size: 0.8em;
+    top: 0.2em;
+}
+
+/* Quote blocks for scripture or sacred text */
+.md-typeset blockquote {
+    border-left: 4px solid var(--catholic-gold);
+    background-color: rgba(212, 175, 55, 0.05);
+    font-style: italic;
+    color: #444;
+}
+
+/* Code blocks styling */
+.md-typeset code {
+    background-color: rgba(212, 175, 55, 0.1);
+    color: var(--catholic-purple);
+}
+
+/* Table styling */
+.md-typeset table th {
+    background-color: var(--catholic-red);
+    color: white;
+    font-family: 'Georgia', serif;
+}
+
+.md-typeset table tr:nth-child(even) {
+    background-color: rgba(212, 175, 55, 0.05);
+}
+
+/* Footer styling */
+.md-footer {
+    background: linear-gradient(135deg, var(--catholic-red-dark) 0%, #2a0000 100%);
+}
+
+/* Search highlight */
+.md-search-result__highlight {
+    color: var(--catholic-gold-dark);
+}
+
+/* Sidebar styling */
+.md-sidebar {
+    background-color: var(--catholic-cream);
+}
+
+.md-nav__link--active {
+    color: var(--catholic-red);
+    font-weight: 600;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .md-typeset h1 {
+        font-size: 1.8em;
+    }
+    
+    .divider-sacred::after {
+        font-size: 1em;
+    }
+}
+
+/* Dark mode adjustments */
+[data-md-color-scheme="slate"] {
+    --catholic-cream: #1a1a2e;
+}
+
+[data-md-color-scheme="slate"] .md-typeset h1 {
+    color: var(--catholic-gold);
+}
+
+[data-md-color-scheme="slate"] .md-typeset h2 {
+    color: var(--catholic-gold-light);
+}
+
+[data-md-color-scheme="slate"] .md-typeset blockquote {
+    color: #ccc;
+}
