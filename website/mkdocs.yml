@@ -21,7 +21,7 @@ theme:
 extra_css:
   - stylesheets/extra.css
 nav:
-  - Home: index.md
+  - ✝ Home: index.md
   - Trinity:
     - Overview: trinity/index.md
   - Scripture:
