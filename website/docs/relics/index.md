@@ -102,3 +102,16 @@ As St. Jerome wrote: "We do not worship the relics of the martyrs, but rather ve
 ---
 
 *"The bodies of the saints, which were temples of the Holy Spirit, are not to be treated like the bodies of other men."* — Council of Trent
+
+---
+
+<div class="divider-sacred"></div>
+
+## Catalog of Relics
+
+Explore our research on individual relics:
+
+- [The Shroud of Turin](shroud-of-turin.md) — Burial cloth of Christ
+- *More relics to be added...*
+
+<div class="divider-sacred"></div>

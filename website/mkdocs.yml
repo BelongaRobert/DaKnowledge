@@ -32,6 +32,7 @@ nav:
     - Overview: prayer/index.md
   - Relics:
     - Overview: relics/index.md
+    - Shroud of Turin: relics/shroud-of-turin.md
   - Spiritual Formation:
     - Discipleship Reflection: spiritual-formation/discipleship-reflection.md
 markdown_extensions:
