@@ -1,4 +1,4 @@
-<img src="/assets/images/banner-emmaus.jpg" alt="The Road to Emmaus" style="width:100%; max-height:300px; object-fit:cover; border-radius:8px;">
+<img src="/assets/images/banner-emmaus.jpg" alt="The Road to Emmaus" style="width:100%; max-height:400px; object-position:center 25%; object-fit:cover; border-radius:8px;">
 
 # DaKnowledge
 
@@ -18,3 +18,4 @@ A collection of theological reflections, scripture studies, and spiritual format
 ## About
 
 This knowledge base is organized around Catholic theological tradition with a focus on the Triune God.
+
