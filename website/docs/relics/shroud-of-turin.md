@@ -49,7 +49,7 @@ The Shroud is periodically displayed to the public. During these exhibitions, mi
 
 ---
 
-*Research ongoing. The Emperor protects the truth.* ⚔️🐙
+*Research ongoing. Last updated: April 8, 2026*
 
 ---
 
