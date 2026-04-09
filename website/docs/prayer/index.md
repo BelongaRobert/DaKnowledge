@@ -31,17 +31,14 @@ Prayers to sanctify the rhythms of daily life:
 
 ## Forms of Prayer
 
-The Church recognizes many expressions of prayer:
+The Church recognizes many expressions of prayer. Click each form to explore prayers and learn more:
 
 | Form | Description |
 |------|-------------|
-| **Liturgical Prayer** | The official prayer of the Church: Mass, Liturgy of the Hours, sacraments |
-| **Personal Prayer** | Individual conversation with God: meditation, contemplation, intercession |
-| **Devotional Prayer** | Traditional practices: Rosary, novenas, litanies, Stations of the Cross |
-| **Prayer of Petition** | Asking God for what we need (for ourselves or others) |
-| **Prayer of Thanksgiving** | Expressing gratitude for blessings received |
-| **Prayer of Adoration** | Praising God for who He is |
-| **Prayer of Contrition** | Sorrow for sin and desire for forgiveness |
+| [**Liturgical Prayer**](liturgical-prayer.md) | The official prayer of the Church: Mass, Liturgy of the Hours, sacraments |
+| [**Personal Prayer**](personal-prayer.md) | Individual conversation with God: meditation, contemplation, intercession |
+| [**Contemplative Prayer**](contemplative-prayer.md) | Silent union with God beyond words and concepts |
+| [**Devotional Prayer**](devotional-prayer.md) | Traditional practices: Rosary, novenas, litanies, Stations of the Cross |
 
 ---
 

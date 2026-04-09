@@ -255,3 +255,158 @@
 .md-typeset h2[id*="sources"] ~ ol li {
     margin-bottom: 0.5em;
 }
+
+/* ============================================
+   ROSARY BORDER - For Prayer Pages
+   ============================================ */
+
+.rosary-page {
+    position: relative;
+    padding-left: 60px;
+    min-height: 100vh;
+}
+
+.rosary-page::before {
+    content: "";
+    position: fixed;
+    left: 0;
+    top: 64px;
+    bottom: 0;
+    width: 50px;
+    background: 
+        /* Vertical chain */
+        linear-gradient(90deg, transparent 23px, #B8941F 23px, #B8941F 27px, transparent 27px),
+        /* Beads pattern */
+        repeating-linear-gradient(
+            0deg,
+            transparent 0px,
+            transparent 15px,
+            rgba(212, 175, 55, 0.3) 15px,
+            rgba(212, 175, 55, 0.3) 25px,
+            transparent 25px,
+            transparent 40px
+        );
+    z-index: 1;
+}
+
+.rosary-page::after {
+    content: "🕊️";
+    position: fixed;
+    left: 10px;
+    top: 70px;
+    font-size: 24px;
+    z-index: 2;
+}
+
+/* Beads decorations */
+.rosary-bead {
+    position: fixed;
+    left: 18px;
+    width: 14px;
+    height: 14px;
+    background: radial-gradient(circle at 30% 30%, #E8C547, #B8941F, #8B6914);
+    border-radius: 50%;
+    box-shadow: 
+        2px 2px 4px rgba(0,0,0,0.3),
+        inset -2px -2px 4px rgba(0,0,0,0.2),
+        inset 2px 2px 4px rgba(255,255,255,0.3);
+    z-index: 2;
+}
+
+/* ============================================
+   EXPANDABLE SECTIONS - Read More
+   ============================================ */
+
+.expandable-section {
+    margin: 1.5em 0;
+    border: 1px solid rgba(139, 0, 0, 0.2);
+    border-radius: 8px;
+    overflow: hidden;
+    background: rgba(250, 247, 232, 0.5);
+}
+
+.expandable-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1em 1.2em;
+    background: linear-gradient(135deg, rgba(139, 0, 0, 0.05) 0%, rgba(212, 175, 55, 0.1) 100%);
+    cursor: pointer;
+    transition: all 0.3s ease;
+    border-left: 4px solid var(--catholic-gold);
+}
+
+.expandable-header:hover {
+    background: linear-gradient(135deg, rgba(139, 0, 0, 0.1) 0%, rgba(212, 175, 55, 0.2) 100%);
+}
+
+.expandable-header h3 {
+    margin: 0;
+    font-family: 'Georgia', serif;
+    color: var(--catholic-red-dark);
+    font-size: 1.1em;
+}
+
+.expandable-header .toggle-icon {
+    font-size: 1.2em;
+    color: var(--catholic-gold);
+    transition: transform 0.3s ease;
+}
+
+.expandable-section.expanded .toggle-icon {
+    transform: rotate(180deg);
+}
+
+.expandable-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.4s ease, padding 0.4s ease;
+    padding: 0 1.2em;
+}
+
+.expandable-section.expanded .expandable-content {
+    max-height: 2000px;
+    padding: 1.2em;
+}
+
+/* Prayer card styling within expandable */
+.prayer-card {
+    background: white;
+    border: 1px solid rgba(212, 175, 55, 0.3);
+    border-radius: 6px;
+    padding: 1.2em;
+    margin: 1em 0;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.prayer-card h4 {
+    color: var(--catholic-red);
+    font-family: 'Georgia', serif;
+    margin-top: 0;
+    border-bottom: 1px solid rgba(212, 175, 55, 0.3);
+    padding-bottom: 0.5em;
+}
+
+.prayer-text {
+    font-style: italic;
+    color: #444;
+    line-height: 1.8;
+    margin: 1em 0;
+    padding-left: 1em;
+    border-left: 3px solid var(--catholic-gold);
+}
+
+/* Dark mode adjustments */
+[data-md-color-scheme="slate"] .expandable-section {
+    background: rgba(26, 26, 46, 0.8);
+    border-color: rgba(212, 175, 55, 0.3);
+}
+
+[data-md-color-scheme="slate"] .prayer-card {
+    background: rgba(40, 40, 60, 0.9);
+    border-color: rgba(212, 175, 55, 0.2);
+}
+
+[data-md-color-scheme="slate"] .prayer-text {
+    color: #ccc;
+}
