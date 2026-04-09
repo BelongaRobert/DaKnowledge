@@ -12,9 +12,9 @@ tags: ["christianity", "archaeology", "forensics", "textile analysis", "radiatio
 
 # The Shroud of Turin: A Multidisciplinary Examination of the Evidence
 
-:::danger[Relic Status Advisory]
-The Shroud of Turin is classified as a **relic of disputed authenticity**. While scientific evidence has accumulated in support of its antiquity and the enigmatic nature of its image formation, definitive proof of its origin remains elusive. Readers should approach this subject with appropriate scholarly skepticism.
-:::
+!!! warning "Relic Status Advisory"
+
+    The Shroud of Turin is classified as a **relic of disputed authenticity**. While scientific evidence has accumulated in support of its antiquity and the enigmatic nature of its image formation, definitive proof of its origin remains elusive. Readers should approach this subject with appropriate scholarly skepticism.
 
 ## Abstract
 
