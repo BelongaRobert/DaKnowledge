@@ -239,3 +239,23 @@
 [data-md-color-scheme="slate"] .md-typeset blockquote {
     color: #ccc;
 }
+
+/* Smaller text for Sources Used section */
+.md-typeset h2#sources-used + ul,
+.md-typeset h2#sources-used ~ ul,
+.md-typeset h2#sources-used ~ ol {
+    font-size: 0.85em;
+    line-height: 1.5;
+}
+
+.md-typeset h2#sources-used + ul li,
+.md-typeset h2#sources-used ~ ul li {
+    margin-bottom: 0.5em;
+}
+
+/* Alternative: target any heading containing "Sources" */
+.md-typeset h2[id*="sources"] + * ,
+.md-typeset h2[id*="sources"] ~ ul,
+.md-typeset h2[id*="sources"] ~ ol {
+    font-size: 0.85em;
+}
