@@ -1,20 +1,5 @@
 {
-  "version": 2,
-  "name": "daknowledge",
-  "builds": [
-    {
-      "src": "build.sh",
-      "use": "@vercel/static-build",
-      "config": {
-        "distDir": "site"
-      }
-    }
-  ],
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/$1"
-    }
-  ],
-  "outputDirectory": "site"
+  "buildCommand": "pip install mkdocs mkdocs-material PyYAML && cd website && mkdocs build -d ../site",
+  "outputDirectory": "site",
+  "installCommand": "pip install mkdocs mkdocs-material PyYAML"
 }
