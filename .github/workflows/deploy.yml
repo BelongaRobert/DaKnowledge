@@ -1,11 +1,11 @@
-name: Deploy to Vercel
+name: Build and Deploy to Vercel
 
 on:
   push:
     branches: [main]
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -15,17 +15,20 @@ jobs:
         with:
           python-version: '3.11'
       
-      - name: Install MkDocs
+      - name: Install dependencies
         run: |
-          pip install mkdocs-material
-          pip install mkdocs
+          pip install mkdocs mkdocs-material PyYAML
       
-      - name: Build MkDocs
-        run: cd website && mkdocs build -d ../site
+      - name: Build site
+        run: |
+          cd website
+          mkdocs build -d ../site
+          cd ..
       
       - name: Deploy to Vercel
-        uses: vercel/action-deploy@v1
+        uses: amondnet/vercel-action@v25
         with:
           vercel-token: ${{ secrets.VERCEL_TOKEN }}
           vercel-org-id: ${{ secrets.VERCEL_ORG_ID }}
           vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }}
+          working-directory: ./site

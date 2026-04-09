@@ -1,5 +1,0 @@
-{
-  "buildCommand": "pip install mkdocs mkdocs-material PyYAML && cd website && mkdocs build -d ../site",
-  "outputDirectory": "site",
-  "installCommand": "pip install mkdocs mkdocs-material PyYAML"
-}
