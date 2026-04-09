@@ -3,17 +3,11 @@
   "name": "daknowledge",
   "builds": [
     {
-      "src": "package.json",
+      "src": "build.sh",
       "use": "@vercel/static-build",
       "config": {
         "distDir": "site"
       }
-    }
-  ],
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/$1"
     }
   ]
 }
