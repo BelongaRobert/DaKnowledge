@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "Biblical Theology Knowledge Base",
   "scripts": {
-    "build": "pip install -r requirements.txt && mkdocs build -d site"
+    "build": "pip install -r requirements.txt && cd website && mkdocs build -d ../site"
   }
 }

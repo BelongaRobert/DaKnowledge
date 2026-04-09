@@ -9,5 +9,12 @@
         "distDir": "site"
       }
     }
-  ]
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/$1"
+    }
+  ],
+  "outputDirectory": "site"
 }
