@@ -1,4 +1,4 @@
-<img src="/assets/images/banner-emmaus.jpg" alt="The Road to Emmaus" style="width:100%; max-height:380px; object-fit:contain; border-radius:8px;">
+<img src="assets/images/banner-emmaus.jpg" alt="The Road to Emmaus" style="width:100%; max-height:380px; object-fit:contain; border-radius:8px;">
 
 ## Biblical Theology Knowledge Base
 
