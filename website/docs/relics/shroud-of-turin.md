@@ -273,9 +273,9 @@ The preponderance of recent scientific evidence—particularly the WAXS dating, 
 
 The Shroud of Turin stands as a remarkable artifact regardless of its ultimate origin—a testament to the enduring intersection of faith, history, and scientific inquiry. Future research may resolve some of the current controversies, though the shroud's capacity to generate scholarly debate appears likely to persist.
 
-:::tip[For Further Study]
-Researchers interested in primary source documentation should consult the peer-reviewed papers cited below. The Shroud of Turin Research Project (STURP) archive remains the foundational scientific database for shroud studies.
-:::
+!!! tip "For Further Study"
+
+    Researchers interested in primary source documentation should consult the peer-reviewed papers cited below. The Shroud of Turin Research Project (STURP) archive remains the foundational scientific database for shroud studies.
 
 ---
 
