@@ -1,5 +1,6 @@
 site_name: DaKnowledge
 site_description: Biblical Theology Knowledge Base
+site_url: https://belongarobert.github.io/DaKnowledge/
 theme:
   name: material
   palette:
@@ -18,16 +19,57 @@ theme:
   font:
     text: Georgia
     code: Roboto Mono
+  logo: assets/images/banner-emmaus.jpg
+  favicon: assets/images/banner-emmaus.jpg
 extra_css:
   - stylesheets/extra.css
 nav:
-  - ✝ Home: index.md
-  - Trinity:
+  - Home: index.md
+  - Theology Proper:
+    - Overview: theology-proper/index.md
+    - Attributes of God: theology-proper/attributes-of-god.md
+    - Names of God: theology-proper/names-of-god.md
+  - The Trinity:
     - Overview: trinity/index.md
-  - Scripture:
-    - Overview: scripture/index.md
+    - God the Father: trinity/the-father.md
+    - God the Son: trinity/the-son.md
+    - The Holy Spirit: trinity/the-holy-spirit.md
+    - Economic & Immanent: trinity/economic-immanent.md
+  - Christology:
+    - Overview: christology/index.md
+    - Hypostatic Union: christology/hypostatic-union.md
+    - Two Natures: christology/two-natures.md
+    - Person of Christ: christology/person-of-christ.md
+    - Work of Christ: christology/work-of-christ.md
+  - Pneumatology:
+    - Overview: pneumatology/index.md
+    - Person of the Spirit: pneumatology/person-of-the-spirit.md
+    - Work of the Spirit: pneumatology/work-of-the-spirit.md
+    - Spiritual Gifts: pneumatology/spiritual-gifts.md
+  - Soteriology:
+    - Overview: soteriology/index.md
+    - Justification: soteriology/justification.md
+    - Sanctification: soteriology/sanctification.md
+    - Atonement: soteriology/atonement.md
+    - Election: soteriology/election.md
+  - Ecclesiology:
+    - Overview: ecclesiology/index.md
+    - Nature of the Church: ecclesiology/nature-of-the-church.md
+    - Church Government: ecclesiology/church-government.md
   - Sacraments:
     - Overview: sacraments/index.md
+    - Baptism: sacraments/baptism.md
+    - Confirmation: sacraments/confirmation.md
+    - Eucharist: sacraments/eucharist.md
+    - Reconciliation: sacraments/reconciliation.md
+    - Anointing of the Sick: sacraments/anointing.md
+    - Holy Orders: sacraments/holy-orders.md
+    - Matrimony: sacraments/matrimony.md
+  - Scripture:
+    - Overview: scripture/index.md
+    - Biblical Inspiration: scripture/inspiration.md
+    - Biblical Canon: scripture/canon.md
+    - Biblical Interpretation: scripture/interpretation.md
   - Prayer:
     - Overview: prayer/index.md
     - The Lord's Prayer: prayer/lord's-prayer.md
@@ -47,3 +89,8 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - toc:
+      permalink: true
