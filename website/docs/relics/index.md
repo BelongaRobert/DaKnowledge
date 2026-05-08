@@ -111,7 +111,21 @@ As St. Jerome wrote: "We do not worship the relics of the martyrs, but rather ve
 
 Explore our research on individual relics:
 
-- [The Shroud of Turin](shroud-of-turin.md) — Burial cloth of Christ
-- *More relics to be added...*
+| Relic | Description |
+|-------|-------------|
+| [The Shroud of Turin](shroud-of-turin.md) | Burial cloth bearing the image of a crucified man — comprehensive scientific analysis |
+| [The True Cross](true-cross.md) | Fragments of Christ's cross — from St. Helena's discovery to modern veneration |
+| [The Crown of Thorns](crown-of-thorns.md) | The kingly suffering of Christ — history, devotion, and the Notre-Dame fire |
+| [The Holy Lance](holy-lance.md) | The spear that pierced Christ's side — from Longinus to Vienna |
+| [The Veil of Veronica & Sudarium of Oviedo](veil-of-veronica.md) | Holy facial images "not made by human hands" — tradition and scientific study |
+
+<div class="divider-sacred"></div>
+
+### Quick Navigation
+
+- [Overview of Relic Classes](#classes-of-relics)
+- [What Are Relics?](#what-are-relics)
+- [The Veneration of Relics](#veneration)
+- [The Spiritual Value of Relics](#the-spiritual-value-of-relics)
 
 <div class="divider-sacred"></div>

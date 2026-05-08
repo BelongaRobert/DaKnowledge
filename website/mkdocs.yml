@@ -83,6 +83,10 @@ nav:
   - Relics:
     - Overview: relics/index.md
     - Shroud of Turin: relics/shroud-of-turin.md
+    - True Cross: relics/true-cross.md
+    - Crown of Thorns: relics/crown-of-thorns.md
+    - Holy Lance: relics/holy-lance.md
+    - Veil of Veronica & Sudarium: relics/veil-of-veronica.md
   - Spiritual Formation:
     - Discipleship Reflection: spiritual-formation/discipleship-reflection.md
 markdown_extensions:
