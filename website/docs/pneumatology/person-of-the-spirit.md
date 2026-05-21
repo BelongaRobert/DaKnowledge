@@ -2,7 +2,7 @@
 
 ## A Divine Person, Not an Impersonal Force
 
-The Holy Spirit is often misunderstood as an abstract power, a cosmic energy, or a vague divine presence. But the Church's faith is clear: the Holy Spirit is a **divine person** — the third person of the Holy Trinity — who thinks, wills, loves, and acts in personal ways.
+The Holy Spirit is often misunderstood as an abstract power, a cosmic energy, or a vague divine presence. But the Church's faith is clear: the Holy Spirit is a **divine person**, the third person of the Holy Trinity, who thinks, wills, loves, and acts in personal ways.
 
 > *"The Spirit searches everything, even the depths of God."*  
 > — 1 Corinthians 2:10
@@ -37,7 +37,7 @@ Only a person can be grieved. You cannot grieve a force or an abstract quality.
 > *"Peter said, 'Ananias, why has Satan filled your heart to lie to the Holy Spirit? ... You have not lied to men but to God.'"*  
 > — Acts 5:3-4
 
-To lie to the Spirit is to lie to **God** — a direct identification of the Spirit with the divine nature.
+To lie to the Spirit is to lie to **God**: a direct identification of the Spirit with the divine nature.
 
 ---
 
@@ -47,11 +47,11 @@ As God, the Spirit possesses all divine perfections:
 
 | Attribute | Evidence |
 |-----------|----------|
-| **Omnipresence** | Psalm 139:7 — *"Where shall I go from thy Spirit?"* |
-| **Omniscience** | 1 Corinthians 2:10-11 — *"The Spirit searches everything, even the depths of God"* |
-| **Eternity** | Hebrews 9:14 — *"The eternal Spirit"* |
-| **Holiness** | His very name — "the **Holy** Spirit" |
-| **Creative Power** | Genesis 1:2; Psalm 104:30 — He creates and renews |
+| **Omnipresence** | Psalm 139:7. *"Where shall I go from thy Spirit?"* |
+| **Omniscience** | 1 Corinthians 2:10-11. *"The Spirit searches everything, even the depths of God"* |
+| **Eternity** | Hebrews 9:14. *"The eternal Spirit"* |
+| **Holiness** | His very name, "the **Holy** Spirit" |
+| **Creative Power** | Genesis 1:2; Psalm 104:30. He creates and renews |
 
 ---
 
@@ -88,7 +88,7 @@ The Catholic Church maintains the Filioque for these reasons:
 - The Spirit is sent by both the Father and the Son (John 14:26, 15:26, 16:7)
 - The Son's eternal generation from the Father includes the Father communicating to the Son the power to spirate the Spirit
 
-The Catholic Church also recognizes that the Eastern formulation — "proceeds from the Father through the Son" — safeguards the same truth: the Spirit's origin is from the Father, with the Son's essential involvement.
+The Catholic Church also recognizes that the Eastern formulation, "proceeds from the Father through the Son", safeguards the same truth: the Spirit's origin is from the Father, with the Son's essential involvement.
 
 ---
 

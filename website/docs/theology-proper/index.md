@@ -2,7 +2,7 @@
 
 ## The Study of God the Father
 
-Theology proper is the study of God in Himself — the divine essence, attributes, and being of the one true God, the Father Almighty. It is the foundation of all Christian doctrine, for every truth we confess about creation, redemption, and sanctification flows from who God is in His eternal nature.
+Theology proper is the study of God in Himself: the divine essence, attributes, and being of the one true God, the Father Almighty. It is the foundation of all Christian doctrine, for every truth we confess about creation, redemption, and sanctification flows from who God is in His eternal nature.
 
 > *"I believe in God, the Father Almighty, Creator of heaven and earth."*  
 > — The Apostles' Creed
@@ -22,7 +22,7 @@ The oneness of God is not merely numerical but speaks to the perfect unity of th
 
 ## The Father as Source
 
-Within the inner life of the Trinity, the Father is the **principle without principle** — the unoriginate origin of the divine being. The Son is eternally begotten of the Father, and the Holy Spirit eternally proceeds from the Father and the Son (Filioque). This does not imply subordination but rather an order of relation within the one divine nature.
+Within the inner life of the Trinity, the Father is the **principle without principle**: the unoriginate origin of the divine being. The Son is eternally begotten of the Father, and the Holy Spirit eternally proceeds from the Father and the Son (Filioque). This does not imply subordination but rather an order of relation within the one divine nature.
 
 > *"The Father is greater than I"* (John 14:28) speaks not of essence but of the Son's mission in the economy of salvation. In the immanent Trinity, Father, Son, and Spirit are co-equal and co-eternal, sharing one divine will and one divine nature.
 
@@ -42,4 +42,4 @@ Within the inner life of the Trinity, the Father is the **principle without prin
 
 ---
 
-*See also: [The Trinity](../trinity/) — the full doctrine of the Triune God*
+*See also: [The Trinity](../trinity/), the full doctrine of the Triune God*

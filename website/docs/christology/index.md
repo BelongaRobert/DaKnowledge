@@ -2,7 +2,7 @@
 
 ## The Study of Jesus Christ
 
-Christology is the study of the person and work of Jesus Christ — the Son of God incarnate. It seeks to understand who Jesus is (His person) and what He accomplished (His work). Every other doctrine in Christian theology flows from this central truth: **God became man in Jesus Christ.**
+Christology is the study of the person and work of Jesus Christ: the Son of God incarnate. It seeks to understand who Jesus is (His person) and what He accomplished (His work). Every other doctrine in Christian theology flows from this central truth: **God became man in Jesus Christ.**
 
 > *"Jesus asked his disciples, 'Who do you say that I am?' Simon Peter replied, 'You are the Christ, the Son of the living God.'"*  
 > — Matthew 16:15-16
@@ -23,7 +23,7 @@ Jesus revealed the Father, died for our sins, rose from the dead, and ascended i
 > *"God became man that man might become God."*  
 > — St. Athanasius, *On the Incarnation*
 
-The Incarnation was not necessary — God could have redeemed us in countless other ways — but it was fitting. By assuming human nature, God heals it from within, raising it to share in His divine life.
+The Incarnation was not necessary, God could have redeemed us in countless other ways, but it was fitting. By assuming human nature, God heals it from within, raising it to share in His divine life.
 
 ---
 
@@ -41,7 +41,7 @@ The Incarnation was not necessary — God could have redeemed us in countless ot
 ## The Titles of Christ
 
 ### Christ / Messiah
-**Christ** (Greek *Christos*) means **"Anointed One,"** the translation of Hebrew **Messiah**. Jesus is the fulfillment of Israel's hopes — the prophet, priest, and king anointed by God.
+**Christ** (Greek *Christos*) means **"Anointed One,"** the translation of Hebrew **Messiah**. Jesus is the fulfillment of Israel's hopes: the prophet, priest, and king anointed by God.
 
 ### Son of God
 This title speaks of Jesus' divine nature and His unique, eternal relationship with the Father. It is not merely a title of honor but a confession of His divinity.
@@ -88,7 +88,7 @@ From the resurrection to the ascension and session at the Father's right hand, C
 
 ## Reflection
 
-Christology is not mere speculation about a historical figure. It is the contemplation of the **living Person** who continues to act in the world through His Church and His sacraments. To study Christology is to grow in love for the One who first loved us — "not that we loved God but that he loved us and sent his Son to be the expiation for our sins" (1 John 4:10).
+Christology is not mere speculation about a historical figure. It is the contemplation of the **living Person** who continues to act in the world through His Church and His sacraments. To study Christology is to grow in love for the One who first loved us, "not that we loved God but that he loved us and sent his Son to be the expiation for our sins" (1 John 4:10).
 
 ---
 

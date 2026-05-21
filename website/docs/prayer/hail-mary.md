@@ -28,21 +28,21 @@ The Hail Mary has two parts:
 > *"And coming to her, he said, 'Hail, favored one! The Lord is with you...' Elizabeth, filled with the Holy Spirit, cried out in a loud voice and said, 'Most blessed are you among women, and blessed is the fruit of your womb.'"*
 
 **The Church's Petition (added over centuries):**
-- "Holy Mary, Mother of God" — Council of Ephesus (431 AD)
-- "Pray for us sinners" — Medieval addition
-- "Now and at the hour of our death" — 16th century
+- "Holy Mary, Mother of God". Council of Ephesus (431 AD)
+- "Pray for us sinners". Medieval addition
+- "Now and at the hour of our death". 16th century
 
 ---
 
 ## Meaning
 
-- **"Full of grace"** — Mary is filled with God's favor and presence
-- **"The Lord is with thee"** — God has chosen her for a unique mission
-- **"Blessed art thou among women"** — She is elevated above all women
-- **"Fruit of thy womb, Jesus"** — The Holy Name is the center of the prayer
-- **"Mother of God"** — Affirms Jesus' divinity from conception
-- **"Pray for us"** — We ask her intercession, not worship
-- **"At the hour of our death"** — We ask for her help at life's final moment
+- **"Full of grace"**: Mary is filled with God's favor and presence
+- **"The Lord is with thee"**: God has chosen her for a unique mission
+- **"Blessed art thou among women"**: She is elevated above all women
+- **"Fruit of thy womb, Jesus"**: The Holy Name is the center of the prayer
+- **"Mother of God"**: Affirms Jesus' divinity from conception
+- **"Pray for us"**: We ask her intercession, not worship
+- **"At the hour of our death"**: We ask for her help at life's final moment
 
 ---
 

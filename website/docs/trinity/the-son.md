@@ -11,7 +11,7 @@ The Son is the **second person of the Holy Trinity**, eternally begotten of the 
 
 ## Eternal Generation
 
-The Son is **begotten, not made**. His generation is eternal — there was never a time when the Son was not. This distinguishes Him from creation (which had a beginning) and shows that He shares the same divine nature as the Father.
+The Son is **begotten, not made**. His generation is eternal: there was never a time when the Son was not. This distinguishes Him from creation (which had a beginning) and shows that He shares the same divine nature as the Father.
 
 > *"We believe in one Lord, Jesus Christ, the only Son of God, eternally begotten of the Father, God from God, Light from Light, true God from true God, begotten, not made, one in Being with the Father."*  
 > — Nicene Creed
@@ -22,11 +22,11 @@ To be "begotten" in this sense does not imply a beginning in time but a mode of 
 
 ## The Incarnation
 
-The Son, who is eternally God, became man in Jesus of Nazareth. This is the **Incarnation** — the central mystery of the Christian faith.
+The Son, who is eternally God, became man in Jesus of Nazareth. This is the **Incarnation**: the central mystery of the Christian faith.
 
 > *"And the Word became flesh and dwelt among us, full of grace and truth; we have beheld his glory, glory as of the only Son from the Father."*  > — John 1:14
 
-The Son assumed a true human nature — body, soul, intellect, will — without ceasing to be God. In Jesus Christ, there are **two natures** (divine and human) united in **one divine person**.
+The Son assumed a true human nature, body, soul, intellect, will, without ceasing to be God. In Jesus Christ, there are **two natures** (divine and human) united in **one divine person**.
 
 For more on the union of natures, see [Christology: Hypostatic Union](../christology/hypostatic-union.md).
 
@@ -54,7 +54,7 @@ The Gospel of **John** presents Jesus as the eternal Word, the divine Son equal 
 
 > *"I and the Father are one."*  > — John 10:30
 
-This statement of unity does not erase the distinction of persons — Jesus and the Father are not the same person — but affirms that they share one divine nature and one divine will.
+This statement of unity does not erase the distinction of persons, Jesus and the Father are not the same person, but affirms that they share one divine nature and one divine will.
 
 ---
 
@@ -64,7 +64,7 @@ The Son's unique, eternal sonship is the pattern for our adopted sonship. By gra
 
 > *"See what love the Father has given us, that we should be called children of God; and so we are."*  > — 1 John 3:1
 
-Our sonship is real but not natural — it is supernatural, given by grace, and perfected in glory.
+Our sonship is real but not natural: it is supernatural, given by grace, and perfected in glory.
 
 ---
 

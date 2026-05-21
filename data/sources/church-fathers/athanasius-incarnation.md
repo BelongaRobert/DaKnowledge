@@ -31,7 +31,7 @@ date_added: 2026-03-27
 The Incarnation was necessary because:
 
 1. **Humanity was perishing** through sin and corruption
-2. **Repentance alone was insufficient** — the penalty needed payment
+2. **Repentance alone was insufficient**: the penalty needed payment
 3. **Only the Creator could recreate** what had fallen
 4. **The Word became flesh** to accomplish both: death for sin and resurrection for new life
 
@@ -53,7 +53,7 @@ What was lost in Adam is restored in Christ. The Word takes on human nature to r
 
 ## Significance
 
-Athanasius grounds the Incarnation in the very being of God — it is not an arbitrary decree but the necessary outworking of divine goodness. God creates; God redeems; God deifies.
+Athanasius grounds the Incarnation in the very being of God: it is not an arbitrary decree but the necessary outworking of divine goodness. God creates; God redeems; God deifies.
 
 ---
 

@@ -16,7 +16,7 @@ The most common name for God in the Old Testament, used over 2,500 times. **Eloh
 > *"In the beginning, Elohim created the heavens and the earth."*  
 > — Genesis 1:1
 
-Elohim speaks of God as **Creator** — the all-powerful one who brings order out of chaos, who speaks and it is done.
+Elohim speaks of God as **Creator**: the all-powerful one who brings order out of chaos, who speaks and it is done.
 
 ---
 
@@ -27,7 +27,7 @@ The personal, covenant name of God revealed to Moses at the burning bush. Tradit
 > *"God said to Moses, 'I AM WHO I AM.' And he said, 'Say this to the people of Israel: I AM has sent me to you.' ... This is my name forever, and thus I am to be remembered throughout all generations."*  
 > — Exodus 3:14-15
 
-The name **Yahweh** derives from the Hebrew verb *hayah* (to be) and speaks of God's self-existence, His eternal presence, and His faithfulness to His promises. He is the God who **is** — not a God of the past or future only, but the ever-present "I AM."
+The name **Yahweh** derives from the Hebrew verb *hayah* (to be) and speaks of God's self-existence, His eternal presence, and His faithfulness to His promises. He is the God who **is**: not a God of the past or future only, but the ever-present "I AM."
 
 ---
 
@@ -38,7 +38,7 @@ Traditionally translated **"God Almighty,"** though the precise meaning is debat
 > *"I am God Almighty [El Shaddai]; walk before me, and be blameless."*  
 > — Genesis 17:1
 
-El Shaddai is the name by which God revealed Himself to the patriarchs — Abraham, Isaac, and Jacob. It speaks of divine power sufficiency for every need.
+El Shaddai is the name by which God revealed Himself to the patriarchs. Abraham, Isaac, and Jacob. It speaks of divine power sufficiency for every need.
 
 ---
 
@@ -55,7 +55,7 @@ In later Jewish tradition, out of reverence for the sacred name Yahweh, Jews beg
 
 ## El Elyon
 
-**"God Most High"** — the name that speaks of God's supreme sovereignty over all powers, nations, and authorities.
+**"God Most High"**: the name that speaks of God's supreme sovereignty over all powers, nations, and authorities.
 
 > *"Melchizedek king of Salem brought out bread and wine. He was priest of God Most High [El Elyon]."*  
 > — Genesis 14:18
@@ -66,7 +66,7 @@ Jesus is called a priest "according to the order of Melchizedek" (Psalm 110:4, H
 
 ## El Roi
 
-**"The God who sees me"** — revealed to Hagar in the wilderness when she fled from Sarah.
+**"The God who sees me"**: revealed to Hagar in the wilderness when she fled from Sarah.
 
 > *"She called the name of the Lord who spoke to her, 'You are a God of seeing,' for she said, 'Have I really seen God and remained alive after seeing him?'"*  
 > — Genesis 16:13
@@ -77,7 +77,7 @@ This name reveals God's personal care. He is not a distant deity but the One who
 
 ## Jehovah-Jireh
 
-**"The Lord will provide"** — the name Abraham gave to the mountain where God provided a ram in place of Isaac.
+**"The Lord will provide"**: the name Abraham gave to the mountain where God provided a ram in place of Isaac.
 
 > *"Abraham called the name of that place The Lord will provide [Yahweh Yireh], as it is said to this day, 'On the mount of the Lord it shall be provided.'"*  
 > — Genesis 22:14
@@ -88,7 +88,7 @@ This name is a prophecy of Calvary, where God would provide His own Son as the L
 
 ## Abba
 
-The Aramaic word for **"Father"** — intimate, familial, the language of the home. Jesus teaches His disciples to address God as **"Our Father"** (Matthew 6:9), and the Spirit enables us to cry **"Abba! Father!"** (Romans 8:15, Galatians 4:6).
+The Aramaic word for **"Father"**: intimate, familial, the language of the home. Jesus teaches His disciples to address God as **"Our Father"** (Matthew 6:9), and the Spirit enables us to cry **"Abba! Father!"** (Romans 8:15, Galatians 4:6).
 
 > *"Abba, Father, all things are possible to you."*  
 > — Mark 14:36 (Jesus in Gethsemane)
@@ -104,7 +104,7 @@ The name above every name, given by the angel before His birth: **"You shall cal
 > *"At the name of Jesus every knee should bow, in heaven and on earth and under the earth, and every tongue confess that Jesus Christ is Lord, to the glory of God the Father."*  
 > — Philippians 2:10-11
 
-To invoke the name of Jesus is to invoke His saving power. The Church has always recognized the power of the holy name — in prayer, in exorcism, in healing, and in blessing.
+To invoke the name of Jesus is to invoke His saving power. The Church has always recognized the power of the holy name: in prayer, in exorcism, in healing, and in blessing.
 
 ---
 
@@ -117,7 +117,7 @@ The Catholic Church honors this reverence while recognizing that the fullness of
 > *"I have manifested thy name to the men whom thou gavest me."*  
 > — John 17:6
 
-Jesus manifests the Father's name not by speaking the syllables YHWH but by revealing the Father's heart — love, mercy, justice, and truth.
+Jesus manifests the Father's name not by speaking the syllables YHWH but by revealing the Father's heart, love, mercy, justice, and truth.
 
 ---
 
@@ -129,6 +129,6 @@ Jesus manifests the Father's name not by speaking the syllables YHWH but by reve
 
 ## Reflection
 
-Every name of God is an invitation. Elohim calls us to trust the Creator. Yahweh calls us to covenant fidelity. Abba calls us into the intimate embrace of divine sonship. The names of God are not dry theological data — they are the living revelation of the One who seeks us, saves us, and sanctifies us.
+Every name of God is an invitation. Elohim calls us to trust the Creator. Yahweh calls us to covenant fidelity. Abba calls us into the intimate embrace of divine sonship. The names of God are not dry theological data, they are the living revelation of the One who seeks us, saves us, and sanctifies us.
 
 *See also: [Attributes of God](attributes-of-god.md)*

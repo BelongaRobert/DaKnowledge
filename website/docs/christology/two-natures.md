@@ -2,7 +2,7 @@
 
 ## Fully Divine, Fully Human
 
-Jesus Christ possesses **two complete natures** — a divine nature and a human nature — united in one divine person. He is not half-God and half-man, nor is He a blend of the two. He is **fully God** and **fully man**.
+Jesus Christ possesses **two complete natures**, a divine nature and a human nature, united in one divine person. He is not half-God and half-man, nor is He a blend of the two. He is **fully God** and **fully man**.
 
 > *"For in him the whole fullness of deity dwells bodily."*  
 > — Colossians 2:9
@@ -23,13 +23,13 @@ As God, Jesus knows all things. He knows the thoughts of men (Mark 2:8), He know
 As God, Jesus is present everywhere. He promises, **"Where two or three are gathered in my name, there am I in the midst of them"** (Matthew 18:20). Yet His human body was physically present in one place at a time during His earthly ministry.
 
 ### Eternity
-As God, Jesus has no beginning. **"Before Abraham was, I am"** (John 8:58). Yet His human nature had a beginning in time — conceived by the Holy Spirit and born of the Virgin Mary.
+As God, Jesus has no beginning. **"Before Abraham was, I am"** (John 8:58). Yet His human nature had a beginning in time, conceived by the Holy Spirit and born of the Virgin Mary.
 
 ---
 
 ## The Human Nature in Christ
 
-Christ's human nature is a true and complete human nature — not defective, not incomplete, not merely apparent.
+Christ's human nature is a true and complete human nature: not defective, not incomplete, not merely apparent.
 
 ### True Human Body
 Jesus had a real body of flesh and blood. He was born, He grew, He ate and drank, He slept, He suffered, He died. After the resurrection, He bore the marks of the nails and the spear in His glorified body (John 20:27).
@@ -38,12 +38,12 @@ Jesus had a real body of flesh and blood. He was born, He grew, He ate and drank
 Jesus had a true human soul with human consciousness, emotions, and spiritual life. He prayed to the Father (Mark 1:35), He experienced sorrow (Matthew 26:38), He rejoiced in the Spirit (Luke 10:21).
 
 ### True Human Will
-Jesus had a true human will, distinct from His divine will. The Church condemned **monothelitism** (the heresy that Christ had only one will), affirming that Christ has two wills — divine and human — with the human will always perfectly submitting to the divine will.
+Jesus had a true human will, distinct from His divine will. The Church condemned **monothelitism** (the heresy that Christ had only one will), affirming that Christ has two wills, divine and human, with the human will always perfectly submitting to the divine will.
 
 > *"Father, if thou art willing, remove this cup from me; nevertheless not my will, but thine, be done."*  > — Luke 22:42
 
 ### True Human Knowledge
-Jesus had true human knowledge — acquired through experience, study, and the normal operations of the human intellect. As a child, He grew in wisdom (Luke 2:52). Yet His human intellect was also immediately united with the divine wisdom, giving Him a knowledge beyond ordinary human capacity.
+Jesus had true human knowledge: acquired through experience, study, and the normal operations of the human intellect. As a child, He grew in wisdom (Luke 2:52). Yet His human intellect was also immediately united with the divine wisdom, giving Him a knowledge beyond ordinary human capacity.
 
 ---
 
@@ -67,7 +67,7 @@ Yet because they are united in one person, we can say:
 
 ## The Grace of Union
 
-The highest grace Christ possesses is the **grace of union** — the very fact that His human nature is united to the divine person of the Son. This is not a grace added to His nature but the foundation of all His grace.
+The highest grace Christ possesses is the **grace of union**: the very fact that His human nature is united to the divine person of the Son. This is not a grace added to His nature but the foundation of all His grace.
 
 Because of the hypostatic union:
 - Christ's humanity is the **temple of God** (John 2:21)
@@ -83,7 +83,7 @@ Because of the hypostatic union:
 
 ## The Anointing of Christ
 
-Christ's humanity was anointed with the Holy Spirit beyond measure (John 3:34). This anointing — which the Church calls the **capital grace** of Christ — is the source from which all other graces flow to His members.
+Christ's humanity was anointed with the Holy Spirit beyond measure (John 3:34). This anointing, which the Church calls the **capital grace** of Christ, is the source from which all other graces flow to His members.
 
 > *"The Spirit of the Lord is upon me, because he has anointed me to preach good news to the poor."*  
 > — Luke 4:18

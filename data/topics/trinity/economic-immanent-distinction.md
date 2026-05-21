@@ -25,7 +25,7 @@ The distinction between the **economic Trinity** (*trinitas ad extra*) and the *
 
 ### Economic Trinity
 
-The *economic Trinity* refers to God's self-revelation and activity **ad extra** — toward creation. This is how God reveals Himself in salvation history:
+The *economic Trinity* refers to God's self-revelation and activity **ad extra**: toward creation. This is how God reveals Himself in salvation history:
 
 - **The Father** as the source and origin
 - **The Son** as the incarnate Word
@@ -33,7 +33,7 @@ The *economic Trinity* refers to God's self-revelation and activity **ad extra**
 
 ### Immanent Trinity
 
-The *immanent Trinity* refers to God's eternal being **ad intra** — in Himself, apart from creation. This is the eternal relations of origin:
+The *immanent Trinity* refers to God's eternal being **ad intra**: in Himself, apart from creation. This is the eternal relations of origin:
 
 - **The Father** as unoriginate
 - **The Son** as eternally begotten
@@ -49,7 +49,7 @@ While the works are undivided, the distinctions among the persons are not merely
 
 ## Contemporary Relevance
 
-Karl Rahner's axiom — "The economic Trinity is the immanent Trinity, and vice versa" — has sparked significant debate about the relationship between revelation and the divine being.
+Karl Rahner's axiom, "The economic Trinity is the immanent Trinity, and vice versa", has sparked significant debate about the relationship between revelation and the divine being.
 
 ## Key Questions
 

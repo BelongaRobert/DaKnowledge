@@ -2,7 +2,7 @@
 
 ## The Hierarchical Structure of the Church
 
-The Catholic Church is not a democracy, a republic, or a corporation. She is a **hierarchical communion** — structured by divine institution, governed by apostolic succession, and united under the authority of the successor of St. Peter.
+The Catholic Church is not a democracy, a republic, or a corporation. She is a **hierarchical communion**: structured by divine institution, governed by apostolic succession, and united under the authority of the successor of St. Peter.
 
 > *"He who hears you hears me, and he who rejects you rejects me, and he who rejects me rejects him who sent me."*  > — Luke 10:16
 
@@ -13,10 +13,10 @@ The Catholic Church is not a democracy, a republic, or a corporation. She is a *
 Christ established the Church on the **apostles** (Ephesians 2:20). They were eyewitnesses of His resurrection, recipients of His teaching, and ambassadors of His kingdom. Their authority was not self-appointed but given by Christ Himself.
 
 ### The Twelve Apostles
-Christ chose twelve apostles as the foundation of the new Israel — corresponding to the twelve tribes of Israel. They were given authority to preach, to heal, to cast out demons, and to bind and loose (Matthew 10:1, 16:19, 18:18).
+Christ chose twelve apostles as the foundation of the new Israel: corresponding to the twelve tribes of Israel. They were given authority to preach, to heal, to cast out demons, and to bind and loose (Matthew 10:1, 16:19, 18:18).
 
 ### The College of Apostles
-The apostles formed a **college** — a unified body with collective authority. Yet within this college, St. Peter held a unique position as head.
+The apostles formed a **college**: a unified body with collective authority. Yet within this college, St. Peter held a unique position as head.
 
 ---
 
@@ -29,7 +29,7 @@ Christ gave Peter a special role among the apostles:
 - **The Shepherd**: *"Feed my sheep"* (John 21:15-17)
 - **The Confessor of Faith**: Peter alone confessed Christ as "the Son of the living God" and was confirmed in that role (Matthew 16:16-18)
 
-The **keys** symbolize royal authority — the power to open and close, to admit and exclude, to govern and judge. In Isaiah 22:22, the keys are given to the royal steward; Christ applies this imagery to Peter as the steward of His kingdom.
+The **keys** symbolize royal authority: the power to open and close, to admit and exclude, to govern and judge. In Isaiah 22:22, the keys are given to the royal steward; Christ applies this imagery to Peter as the steward of His kingdom.
 
 ---
 
@@ -38,17 +38,17 @@ The **keys** symbolize royal authority — the power to open and close, to admit
 The Pope is the **successor of St. Peter** and the **Bishop of Rome**. As successor of Peter, he holds the primacy over the universal Church.
 
 ### The Pope's Titles
-- **Vicar of Christ** — representing Christ on earth in His governance of the Church
-- **Servant of the Servants of God** — a reminder that authority is service
-- **Supreme Pontiff** — the high priest who presides over the Church's worship
+- **Vicar of Christ**: representing Christ on earth in His governance of the Church
+- **Servant of the Servants of God**: a reminder that authority is service
+- **Supreme Pontiff**: the high priest who presides over the Church's worship
 
 ### Papal Infallibility
-The Pope is **infallible** when he speaks **ex cathedra** (from the chair) — that is, when he definitively proclaims a doctrine concerning faith or morals to be held by the whole Church. This charism is not a personal privilege but a guarantee given to the Church that she will never be led into error in matters essential to salvation.
+The Pope is **infallible** when he speaks **ex cathedra** (from the chair): that is, when he definitively proclaims a doctrine concerning faith or morals to be held by the whole Church. This charism is not a personal privilege but a guarantee given to the Church that she will never be led into error in matters essential to salvation.
 
-This has been exercised rarely in history — notably in the definitions of the Immaculate Conception (1854) and the Assumption (1950).
+This has been exercised rarely in history: notably in the definitions of the Immaculate Conception (1854) and the Assumption (1950).
 
 ### Papal Primacy
-The Pope has **universal jurisdiction** — the authority to govern the entire Church, to confirm his brethren in the faith (Luke 22:32), and to ensure communion among all local churches.
+The Pope has **universal jurisdiction**: the authority to govern the entire Church, to confirm his brethren in the faith (Luke 22:32), and to ensure communion among all local churches.
 
 ---
 
@@ -85,19 +85,19 @@ Deacons are ordained for **service** (diakonia). They assist the bishop and prie
 The **lay faithful** are not passive recipients of the Church's ministry but active participants in her mission. By Baptism, every Christian shares in Christ's triple office of priest, prophet, and king.
 
 ### The Universal Call to Holiness
-Every member of the Church is called to holiness — not just clergy and religious but husbands, wives, workers, students, and citizens.
+Every member of the Church is called to holiness: not just clergy and religious but husbands, wives, workers, students, and citizens.
 
 > *"All the faithful of Christ of whatever rank or status, are called to the fullness of the Christian life and to the perfection of charity."*  
 > — Lumen Gentium, 40
 
 ### The Mission of the Laity
-The laity have a special mission in the **secular sphere** — bringing the light of the Gospel to politics, culture, business, education, and family life.
+The laity have a special mission in the **secular sphere**: bringing the light of the Gospel to politics, culture, business, education, and family life.
 
 ---
 
 ## Religious Life
 
-Religious orders and congregations — monks, nuns, friars, sisters, and brothers — bear witness to the **eschatological dimension** of the Kingdom. By vows of poverty, chastity, and obedience, they anticipate the life of heaven and offer a powerful sign of radical discipleship.
+Religious orders and congregations, monks, nuns, friars, sisters, and brothers, bear witness to the **eschatological dimension** of the Kingdom. By vows of poverty, chastity, and obedience, they anticipate the life of heaven and offer a powerful sign of radical discipleship.
 
 ---
 
@@ -108,7 +108,7 @@ Religious orders and congregations — monks, nuns, friars, sisters, and brother
 
 ## Reflection
 
-The Church's hierarchy is not an imposition on the Gospel but part of it. Christ Himself established it, the apostles transmitted it, and the Holy Spirit preserves it. It exists not for power but for service — to guard the faith, to shepherd the flock, and to ensure that the Church remains one, holy, catholic, and apostolic until Christ returns.
+The Church's hierarchy is not an imposition on the Gospel but part of it. Christ Himself established it, the apostles transmitted it, and the Holy Spirit preserves it. It exists not for power but for service, to guard the faith, to shepherd the flock, and to ensure that the Church remains one, holy, catholic, and apostolic until Christ returns.
 
 ---
 

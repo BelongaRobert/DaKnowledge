@@ -14,10 +14,10 @@ The veneration of relics has been practiced since the earliest days of Christian
 
 A **reliquary** is a container, often ornate and crafted from precious materials (gold, silver, ivory), used to store and display relics. These vessels reflect the honor and reverence due to the saints and may take various forms:
 
-- **Arm reliquaries** — Shaped like the arm or body part they contain
-- **Cross reliquaries** — Incorporating relics within the form of a cross
-- **Chasse reliquaries** — Rectangular or house-shaped boxes
-- **Monstrance-style reliquaries** — For public exposition and veneration
+- **Arm reliquaries**: Shaped like the arm or body part they contain
+- **Cross reliquaries**: Incorporating relics within the form of a cross
+- **Chasse reliquaries**: Rectangular or house-shaped boxes
+- **Monstrance-style reliquaries**: For public exposition and veneration
 
 The beauty of reliquaries signifies the Church's belief in the dignity of the human body as "temple of the Holy Spirit" (1 Corinthians 6:19), destined for resurrection.
 
@@ -92,16 +92,16 @@ Throughout history, certain relics have drawn millions of pilgrims and inspired 
 
 The Church encourages the veneration of relics for several reasons:
 
-1. **Communion of Saints** — Relics remind us that we are united with those who have gone before us
-2. **Model of Holiness** — They provide concrete examples of lives lived in God's grace
-3. **Intercession** — We ask the saints to pray for us, and relics serve as focal points for this request
-4. **Faith Manifested** — They make tangible our belief in the resurrection of the body
+1. **Communion of Saints**: Relics remind us that we are united with those who have gone before us
+2. **Model of Holiness**: They provide concrete examples of lives lived in God's grace
+3. **Intercession**: We ask the saints to pray for us, and relics serve as focal points for this request
+4. **Faith Manifested**: They make tangible our belief in the resurrection of the body
 
 As St. Jerome wrote: "We do not worship the relics of the martyrs, but rather venerate them, honoring the One whose martyrs they are, while we pray for their intercession."
 
 ---
 
-*"The bodies of the saints, which were temples of the Holy Spirit, are not to be treated like the bodies of other men."* — Council of Trent
+*"The bodies of the saints, which were temples of the Holy Spirit, are not to be treated like the bodies of other men."*. Council of Trent
 
 ---
 
@@ -113,11 +113,11 @@ Explore our research on individual relics:
 
 | Relic | Description |
 |-------|-------------|
-| [The Shroud of Turin](shroud-of-turin.md) | Burial cloth bearing the image of a crucified man — comprehensive scientific analysis |
-| [The True Cross](true-cross.md) | Fragments of Christ's cross — from St. Helena's discovery to modern veneration |
-| [The Crown of Thorns](crown-of-thorns.md) | The kingly suffering of Christ — history, devotion, and the Notre-Dame fire |
-| [The Holy Lance](holy-lance.md) | The spear that pierced Christ's side — from Longinus to Vienna |
-| [The Veil of Veronica & Sudarium of Oviedo](veil-of-veronica.md) | Holy facial images "not made by human hands" — tradition and scientific study |
+| [The Shroud of Turin](shroud-of-turin.md) | Burial cloth bearing the image of a crucified man, comprehensive scientific analysis |
+| [The True Cross](true-cross.md) | Fragments of Christ's cross, from St. Helena's discovery to modern veneration |
+| [The Crown of Thorns](crown-of-thorns.md) | The kingly suffering of Christ, history, devotion, and the Notre-Dame fire |
+| [The Holy Lance](holy-lance.md) | The spear that pierced Christ's side, from Longinus to Vienna |
+| [The Veil of Veronica & Sudarium of Oviedo](veil-of-veronica.md) | Holy facial images "not made by human hands", tradition and scientific study |
 
 <div class="divider-sacred"></div>
 

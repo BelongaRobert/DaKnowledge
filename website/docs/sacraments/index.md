@@ -2,7 +2,7 @@
 
 ## Signs of Grace
 
-The sacraments are **efficacious signs of grace**, instituted by Christ and entrusted to the Church, by which divine life is dispensed to us. They are not mere symbols or empty rituals; they are **channels of grace** — visible actions that confer invisible gifts.
+The sacraments are **efficacious signs of grace**, instituted by Christ and entrusted to the Church, by which divine life is dispensed to us. They are not mere symbols or empty rituals; they are **channels of grace**: visible actions that confer invisible gifts.
 
 > *"The sacraments are perceptible signs (words and actions) accessible to our human nature. By the action of Christ and the power of the Holy Spirit they make present efficaciously the grace that they signify."*  
 > — Catechism of the Catholic Church, 1084
@@ -28,10 +28,10 @@ The Catholic Church recognizes **seven sacraments**, each corresponding to a sta
 ## How the Sacraments Work
 
 ### Ex Opere Operato
-The sacraments confer grace **by the very fact of the action being performed** (*ex opere operato* — "from the work worked"). This means the grace does not depend on the personal holiness of the minister or the recipient. A sacrament celebrated validly confers the grace it signifies, because it is Christ who acts.
+The sacraments confer grace **by the very fact of the action being performed** (*ex opere operato*, "from the work worked"). This means the grace does not depend on the personal holiness of the minister or the recipient. A sacrament celebrated validly confers the grace it signifies, because it is Christ who acts.
 
 ### Ex Opere Operantis
-However, the **fruitfulness** of the sacrament depends on the disposition of the recipient (*ex opere operantis* — "from the work of the worker"). One who receives a sacrament with faith, devotion, and repentance receives greater grace than one who approaches it carelessly.
+However, the **fruitfulness** of the sacrament depends on the disposition of the recipient (*ex opere operantis*, "from the work of the worker"). One who receives a sacrament with faith, devotion, and repentance receives greater grace than one who approaches it carelessly.
 
 ---
 
@@ -63,7 +63,7 @@ Yet God is not bound by His sacraments. He can and does work outside them when n
 
 ## Sacramentals
 
-In addition to the seven sacraments, the Church uses **sacramentals** — sacred signs that dispose us to receive grace and sanctify various circumstances of life. These include:
+In addition to the seven sacraments, the Church uses **sacramentals**: sacred signs that dispose us to receive grace and sanctify various circumstances of life. These include:
 - Blessings (of persons, meals, objects, places)
 - Holy water
 - The sign of the cross

@@ -1,18 +1,18 @@
-# DaKnowledge Project — Biblical Theology
+# DaKnowledge Project. Biblical Theology
 
 **Initial Concept Date:** March 28, 2026  
 **Status:** Ideation / Exploration Phase  
-**Theme:** Biblical and Theological — Catholic Perspective on the Triune God
+**Theme:** Biblical and Theological. Catholic Perspective on the Triune God
 
 ---
 
 ## Project Vision
 
 A knowledge base/resource organized around:
-- **Biblical** — Scripture-based
-- **Theological** — Systematic and pastoral theology
-- **Catholic** — Rooted in Catholic tradition and magisterium
-- **Triune God** — Father, Son, Holy Spirit as central focus
+- **Biblical**: Scripture-based
+- **Theological**: Systematic and pastoral theology
+- **Catholic**: Rooted in Catholic tradition and magisterium
+- **Triune God**: Father, Son, Holy Spirit as central focus
 
 ---
 
@@ -25,9 +25,9 @@ A knowledge base/resource organized around:
 - Prayer
 
 ### Option B: Trinitarian Structure
-- **The Father** — Creator, Providence, Fatherhood
-- **The Son** — Incarnation, Redemption, Church
-- **The Holy Spirit** — Sanctifier, Gifts, Fruits
+- **The Father**: Creator, Providence, Fatherhood
+- **The Son**: Incarnation, Redemption, Church
+- **The Holy Spirit**: Sanctifier, Gifts, Fruits
 
 ### Option C: Liturgical Structure
 - Advent/Christmas (Incarnation)
@@ -48,7 +48,7 @@ A knowledge base/resource organized around:
 
 | Asset | Location | Description |
 |-------|----------|-------------|
-| Discipleship Reflection | `spiritual-formation/discipleship-reflection-2026-03-28.md` | First entry — 6 questions answered from church training |
+| Discipleship Reflection | `spiritual-formation/discipleship-reflection-2026-03-28.md` | First entry. 6 questions answered from church training |
 
 ---
 

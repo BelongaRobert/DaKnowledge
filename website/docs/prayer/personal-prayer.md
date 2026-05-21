@@ -5,7 +5,7 @@
 > *"Prayer is the raising of one's mind and heart to God."*  
 > — St. John Damascene
 
-Personal prayer is **individual conversation with God** — the intimate dialogue between the soul and its Creator. While liturgical prayer is the prayer of the whole Church, personal prayer is your unique relationship with God.
+Personal prayer is **individual conversation with God**: the intimate dialogue between the soul and its Creator. While liturgical prayer is the prayer of the whole Church, personal prayer is your unique relationship with God.
 
 ---
 
@@ -13,9 +13,9 @@ Personal prayer is **individual conversation with God** — the intimate dialogu
 
 Personal prayer flows from the conviction that God is present, listens, and responds. It requires:
 
-- **Faith** — Believing God is real and attentive
-- **Hope** — Trusting in God's loving response
-- **Love** — Desiring union with God above all things
+- **Faith**: Believing God is real and attentive
+- **Hope**: Trusting in God's loving response
+- **Love**: Desiring union with God above all things
 
 ---
 
@@ -31,9 +31,9 @@ Personal prayer flows from the conviction that God is present, listens, and resp
 <div class="prayer-text">
 Prayer expressed in words, whether spoken aloud or silently recited. Using our lips and mind to address God:
 
-- **Spontaneous prayer** — Speaking to God in our own words
-- **Memorized prayers** — Our Father, Hail Mary, etc.
-- **Psalms** — The prayer book of the Church
+- **Spontaneous prayer**: Speaking to God in our own words
+- **Memorized prayers**: Our Father, Hail Mary, etc.
+- **Psalms**: The prayer book of the Church
 
 > *"Vocal prayer is an essential element of the Christian life. To his disciples, drawn by their longing for God, Jesus taught a simple prayer, the Our Father."* — CCC, §2700
 </div>
@@ -42,9 +42,9 @@ Prayer expressed in words, whether spoken aloud or silently recited. Using our l
 <div class="prayer-text">
 Engaging the mind, imagination, emotions, and will to ponder God's truth:
 
-1. **Lectio Divina** — Sacred reading (Scripture → meditation → prayer → contemplation)
-2. **Meditation on mysteries** — Rosary mysteries, events of salvation history
-3. **Discursive meditation** — Reasoning about God's attributes, works, or presence
+1. **Lectio Divina**: Sacred reading (Scripture → meditation → prayer → contemplation)
+2. **Meditation on mysteries**: Rosary mysteries, events of salvation history
+3. **Discursive meditation**: Reasoning about God's attributes, works, or presence
 
 > *"Meditation is above all a quest. The mind seeks to understand the why and how of the Christian life, in order to adhere and respond to what the Lord is asking."* — CCC, §2705
 </div>
@@ -88,11 +88,11 @@ Rest in God's presence. Simply be with him, beyond words. Receive his love and g
 
 <h4>Recommended Scripture for Beginners</h4>
 <div class="prayer-text">
-- **Psalm 23** — The Lord is my shepherd
-- **Psalm 42** — As the deer longs for streams of water
-- **Matthew 6:25-34** — Do not worry about your life
-- **Luke 10:38-42** — Martha and Mary
-- **John 14:1-7** — The way, the truth, and the life
+- **Psalm 23**: The Lord is my shepherd
+- **Psalm 42**: As the deer longs for streams of water
+- **Matthew 6:25-34**: Do not worry about your life
+- **Luke 10:38-42**: Martha and Mary
+- **John 14:1-7**: The way, the truth, and the life
 </div>
 
 </div>
@@ -114,25 +114,25 @@ Rest in God's presence. Simply be with him, beyond words. Receive his love and g
 <div class="prayer-text">
 Set aside 30 minutes daily for personal prayer. Structure it:
 
-- **5 minutes** — Quiet and recollection
-- **10 minutes** — Scripture reading (Lectio Divina)
-- **10 minutes** — Mental prayer or meditation
-- **5 minutes** — Thanksgiving and resolutions
+- **5 minutes**: Quiet and recollection
+- **10 minutes**: Scripture reading (Lectio Divina)
+- **10 minutes**: Mental prayer or meditation
+- **5 minutes**: Thanksgiving and resolutions
 </div>
 
 <h4>Moments Throughout the Day</h4>
 <div class="prayer-text">
-**Morning Offering** — Surrender the day to God
+**Morning Offering**. Surrender the day to God
 
-**Morning commute/walk** — The Rosary or memorized prayers
+**Morning commute/walk**. The Rosary or memorized prayers
 
-**Lunch break** — Brief Scripture reading or spiritual reading
+**Lunch break**. Brief Scripture reading or spiritual reading
 
-**Afternoon pause** — Visit to the Blessed Sacrament or Angelus
+**Afternoon pause**. Visit to the Blessed Sacrament or Angelus
 
-**Evening** — Examination of conscience and Act of Contrition
+**Evening**. Examination of conscience and Act of Contrition
 
-**Night Prayer** — Thanksgiving and entrustment to God's care
+**Night Prayer**. Thanksgiving and entrustment to God's care
 </div>
 
 <h4>The Practice of the Presence of God</h4>
@@ -159,11 +159,11 @@ Brother Lawrence taught that we can pray continually by maintaining awareness of
 <div class="prayer-card">
 <h4>Spiritual Reading</h4>
 <div class="prayer-text">
-- **Introduction to the Devout Life** — St. Francis de Sales
-- **The Imitation of Christ** — Thomas à Kempis
-- **Story of a Soul** — St. Thérèse of Lisieux
-- **Confessions** — St. Augustine
-- **The Practice of the Presence of God** — Brother Lawrence
+- **Introduction to the Devout Life**: St. Francis de Sales
+- **The Imitation of Christ**: Thomas à Kempis
+- **Story of a Soul**: St. Thérèse of Lisieux
+- **Confessions**: St. Augustine
+- **The Practice of the Presence of God**: Brother Lawrence
 </div>
 
 <h4>Keeping a Prayer Journal</h4>
@@ -198,7 +198,7 @@ Create a prayer corner in your home:
 
 > *"Prayer is the life of the new heart. It ought to animate us at every moment. But we tend to forget him who is our life and our all. This is why the Fathers of the spiritual life in the Deuteronomic and prophetic traditions insist that prayer is a remembrance of God often awakened by the memory of the heart."* — CCC, §2697
 
-Personal prayer is the school where we learn to love God and hear his voice. It is preparation for the Beatific Vision — seeing God face to face in heaven.
+Personal prayer is the school where we learn to love God and hear his voice. It is preparation for the Beatific Vision, seeing God face to face in heaven.
 
 ---
 

@@ -3,7 +3,7 @@
 > *"This is how you are to pray: Our Father in heaven..."*  
 > — Matthew 6:9
 
-The Lord's Prayer — also called the **Our Father** — is the prayer that Jesus taught his disciples when they asked him how to pray. It is the model for all Christian prayer, containing everything we need to ask of God and everything God promises to give.
+The Lord's Prayer, also called the **Our Father**, is the prayer that Jesus taught his disciples when they asked him how to pray. It is the model for all Christian prayer, containing everything we need to ask of God and everything God promises to give.
 
 ---
 
@@ -33,13 +33,13 @@ The Lord's Prayer — also called the **Our Father** — is the prayer that Jesu
 
 The Lord's Prayer moves through seven petitions:
 
-1. **"Our Father"** — We approach God not as slaves, but as children
-2. **"Hallowed be thy name"** — We desire that God be glorified
-3. **"Thy kingdom come"** — We long for God's reign in hearts and nations
-4. **"Thy will be done"** — We surrender to divine providence
-5. **"Give us this day our daily bread"** — We trust God for our needs
-6. **"Forgive us our trespasses"** — We seek mercy and offer mercy
-7. **"Deliver us from evil"** — We ask protection from sin and the enemy
+1. **"Our Father"**: We approach God not as slaves, but as children
+2. **"Hallowed be thy name"**: We desire that God be glorified
+3. **"Thy kingdom come"**: We long for God's reign in hearts and nations
+4. **"Thy will be done"**: We surrender to divine providence
+5. **"Give us this day our daily bread"**: We trust God for our needs
+6. **"Forgive us our trespasses"**: We seek mercy and offer mercy
+7. **"Deliver us from evil"**: We ask protection from sin and the enemy
 
 St. Thomas Aquinas called this prayer "the most perfect of prayers" because it summarizes the entire Gospel.
 

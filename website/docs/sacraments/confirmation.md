@@ -23,13 +23,13 @@ This promise was fulfilled at Pentecost, when the apostles were confirmed in the
 ## The Effects of Confirmation
 
 ### 1. Full Outpouring of the Holy Spirit
-While Baptism gives the Holy Spirit, Confirmation pours out the Spirit in abundance — as at Pentecost. The confirmed are anointed, consecrated, and empowered.
+While Baptism gives the Holy Spirit, Confirmation pours out the Spirit in abundance: as at Pentecost. The confirmed are anointed, consecrated, and empowered.
 
 ### 2. Indelible Character
 Like Baptism, Confirmation imprints an **indelible spiritual mark** on the soul. It configures the person more deeply to Christ and consecrates them for divine worship.
 
 ### 3. Strengthening for Mission
-Confirmation equips the Christian for the **apostolate** — the work of evangelization, witness, and service. The confirmed are "soldiers of Christ," strengthened to defend and spread the faith.
+Confirmation equips the Christian for the **apostolate**: the work of evangelization, witness, and service. The confirmed are "soldiers of Christ," strengthened to defend and spread the faith.
 
 ### 4. Bond with the Church
 Confirmation deepens the bond with the Church, binding the confirmed more perfectly to Christ and to the Body of Christ.
@@ -41,18 +41,18 @@ Confirmation deepens the bond with the Church, binding the confirmed more perfec
 - **Matter**: The anointing with **chrism** (holy oil mixed with balsam, consecrated by the bishop)
 - **Form**: The words *"Be sealed with the gift of the Holy Spirit"*
 
-The bishop is the ordinary minister of Confirmation, though priests may be delegated. In the Eastern Churches, Confirmation (called **Chrismation**) is administered immediately after Baptism — even to infants — by the priest.
+The bishop is the ordinary minister of Confirmation, though priests may be delegated. In the Eastern Churches, Confirmation (called **Chrismation**) is administered immediately after Baptism, even to infants, by the priest.
 
 ---
 
 ## The Rite of Confirmation
 
 The liturgy of Confirmation includes:
-- **Renewal of baptismal promises** — the confirmed reaffirm their rejection of Satan and their faith in Christ
-- **The laying on of hands** — the bishop extends his hands over the candidates, invoking the Holy Spirit
-- **The anointing with chrism** — the sign of the cross is traced on the forehead with holy oil
-- **The words** — "Be sealed with the gift of the Holy Spirit"
-- **The slap on the cheek** (in some traditions) — a symbolic reminder that the Christian life involves struggle and witness
+- **Renewal of baptismal promises**: the confirmed reaffirm their rejection of Satan and their faith in Christ
+- **The laying on of hands**: the bishop extends his hands over the candidates, invoking the Holy Spirit
+- **The anointing with chrism**: the sign of the cross is traced on the forehead with holy oil
+- **The words**: "Be sealed with the gift of the Holy Spirit"
+- **The slap on the cheek** (in some traditions): a symbolic reminder that the Christian life involves struggle and witness
 
 ---
 

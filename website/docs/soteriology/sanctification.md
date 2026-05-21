@@ -2,7 +2,7 @@
 
 ## Being Made Holy
 
-Sanctification is the work of God's grace by which the believer is **made holy** — conformed to the image of Christ, purified from sin, and perfected in love. While justification removes the guilt of sin and restores grace, sanctification is the **ongoing transformation** of the whole person into the likeness of God.
+Sanctification is the work of God's grace by which the believer is **made holy**: conformed to the image of Christ, purified from sin, and perfected in love. While justification removes the guilt of sin and restores grace, sanctification is the **ongoing transformation** of the whole person into the likeness of God.
 
 > *"This is the will of God, your sanctification."*  
 > — 1 Thessalonians 4:3
@@ -22,7 +22,7 @@ These two aspects of salvation are distinct but inseparable:
 | Occurs at conversion | Continues throughout life |
 | Removes guilt | Heals wounds |
 
-Justification is the **beginning** of sanctification. When God justifies the sinner, He also begins the work of sanctification — infusing not only grace but the virtues and gifts that enable growth in holiness.
+Justification is the **beginning** of sanctification. When God justifies the sinner, He also begins the work of sanctification, infusing not only grace but the virtues and gifts that enable growth in holiness.
 
 ---
 
@@ -45,11 +45,11 @@ The Spirit's work in sanctification includes:
 
 ### The Sacraments
 The sacraments are the **ordinary channels** of sanctifying grace:
-- **Baptism** — initiates the life of grace
-- **Confirmation** — strengthens for spiritual battle
-- **Eucharist** — nourishes with the Body and Blood of Christ
-- **Reconciliation** — restores grace lost by sin
-- **Anointing of the Sick** — heals and prepares for eternity
+- **Baptism**: initiates the life of grace
+- **Confirmation**: strengthens for spiritual battle
+- **Eucharist**: nourishes with the Body and Blood of Christ
+- **Reconciliation**: restores grace lost by sin
+- **Anointing of the Sick**: heals and prepares for eternity
 
 ### Prayer
 Prayer is the **breath** of the spiritual life. Through prayer, we commune with God, receive His grace, and are gradually transformed.
@@ -58,7 +58,7 @@ Prayer is the **breath** of the spiritual life. Through prayer, we commune with 
 > — 1 Thessalonians 5:17
 
 ### The Word of God
-Scripture illumines the mind, convicts the conscience, and guides the will. Lectio Divina — prayerful reading of Scripture — is a powerful means of sanctification.
+Scripture illumines the mind, convicts the conscience, and guides the will. Lectio Divina, prayerful reading of Scripture, is a powerful means of sanctification.
 
 ### Suffering
 Suffering, when united to Christ's cross, becomes a means of purification and growth. The Church has always taught the **redemptive value** of suffering.
@@ -70,7 +70,7 @@ Suffering, when united to Christ's cross, becomes a means of purification and gr
 Self-denial, fasting, and the discipline of the passions (*mortification*) open space for grace to work. This is not self-hatred but the loving surrender of everything that hinders communion with God.
 
 ### The Communion of Saints
-The prayers, example, and intercession of the saints — both on earth and in heaven — assist our growth in holiness.
+The prayers, example, and intercession of the saints, both on earth and in heaven, assist our growth in holiness.
 
 ---
 
@@ -116,7 +116,7 @@ These are not rigid categories but helpful descriptions of the journey. Progress
 
 ## Perseverance
 
-Sanctification must continue to the **end of life**. The Church teaches the necessity of final perseverance — remaining in grace until death.
+Sanctification must continue to the **end of life**. The Church teaches the necessity of final perseverance: remaining in grace until death.
 
 > *"He who endures to the end will be saved."*  
 > — Matthew 24:13

@@ -10,10 +10,10 @@ The Holy Spirit is the **third person of the Holy Trinity**, eternally proceedin
 
 ## The Procession of the Spirit
 
-The Spirit proceeds from the Father **and the Son** (Filioque — "and the Son"). This teaching, affirmed by the Western Church and the Catholic Church, safeguards two truths:
+The Spirit proceeds from the Father **and the Son** (Filioque, "and the Son"). This teaching, affirmed by the Western Church and the Catholic Church, safeguards two truths:
 
-1. The Spirit is not a creature — He has His eternal origin from the Father and the Son
-2. The Son is not subordinate to the Father — as the Father is the source of the Son's generation, so both Father and Son are the source of the Spirit's procession
+1. The Spirit is not a creature. He has His eternal origin from the Father and the Son
+2. The Son is not subordinate to the Father, as the Father is the source of the Son's generation, so both Father and Son are the source of the Spirit's procession
 
 > *"The Holy Spirit, whom the Father will send in my name, he will teach you all things."*  > — John 14:26
 
@@ -33,7 +33,7 @@ In the Old Testament, the Spirit:
 - **Equips artisans** for building the tabernacle (Exodus 31:3-5)
 - **Renews the face of the earth** (Psalm 104:30)
 
-Yet the Spirit's presence was selective and temporary in the Old Testament — resting on specific individuals for specific purposes. The prophets looked forward to a day when the Spirit would be poured out on all flesh.
+Yet the Spirit's presence was selective and temporary in the Old Testament: resting on specific individuals for specific purposes. The prophets looked forward to a day when the Spirit would be poured out on all flesh.
 
 ---
 
@@ -42,17 +42,17 @@ Yet the Spirit's presence was selective and temporary in the Old Testament — r
 The Spirit's outpouring at **Pentecost** (Acts 2) fulfills the promises of the prophets. No longer limited to kings and prophets, the Spirit is given to every baptized believer.
 
 ### The Spirit in the Church
-- **Baptism** — We receive the Spirit and are incorporated into Christ (1 Corinthians 12:13)
-- **Confirmation** — We are sealed with the Spirit and empowered for mission
-- **Eucharist** — The Spirit transforms the bread and wine into the Body and Blood of Christ
-- **Ordination** — The Spirit consecrates ministers for service
+- **Baptism**: We receive the Spirit and are incorporated into Christ (1 Corinthians 12:13)
+- **Confirmation**: We are sealed with the Spirit and empowered for mission
+- **Eucharist**: The Spirit transforms the bread and wine into the Body and Blood of Christ
+- **Ordination**: The Spirit consecrates ministers for service
 
 ### The Spirit in the Christian Life
-- **Regeneration** — The Spirit gives new life (John 3:5-8)
-- **Indwelling** — The Spirit makes His home in the believer (1 Corinthians 6:19)
-- **Sanctification** — The Spirit makes us holy (2 Thessalonians 2:13)
-- **Guidance** — The Spirit leads us into truth (John 16:13)
-- **Intercession** — The Spirit prays in us when we do not know how to pray (Romans 8:26)
+- **Regeneration**: The Spirit gives new life (John 3:5-8)
+- **Indwelling**: The Spirit makes His home in the believer (1 Corinthians 6:19)
+- **Sanctification**: The Spirit makes us holy (2 Thessalonians 2:13)
+- **Guidance**: The Spirit leads us into truth (John 16:13)
+- **Intercession**: The Spirit prays in us when we do not know how to pray (Romans 8:26)
 
 ---
 
@@ -79,7 +79,7 @@ For more on the gifts, see [Pneumatology: Spiritual Gifts](../pneumatology/spiri
 
 ## The Spirit and the Church
 
-The Holy Spirit is the **soul of the Church**. Just as the soul animates the body, the Spirit animates the Church — making it the temple of God, the body of Christ, and the communion of saints.
+The Holy Spirit is the **soul of the Church**. Just as the soul animates the body, the Spirit animates the Church, making it the temple of God, the body of Christ, and the communion of saints.
 
 > *"The Church is one, not because her members are welded together, but because the Holy Spirit makes her one."*  > — St. Thomas Aquinas
 

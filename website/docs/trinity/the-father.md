@@ -2,7 +2,7 @@
 
 ## The Source and Origin
 
-God the Father is the **first person of the Holy Trinity**, the unoriginate origin of all things. He is the principle without principle — not caused by any other, not begotten, not proceeding. From Him, the Son is eternally begotten, and the Holy Spirit eternally proceeds.
+God the Father is the **first person of the Holy Trinity**, the unoriginate origin of all things. He is the principle without principle, not caused by any other, not begotten, not proceeding. From Him, the Son is eternally begotten, and the Holy Spirit eternally proceeds.
 
 > *"Blessed be God the Father of our Lord Jesus Christ, who has blessed us in Christ with every spiritual blessing in the heavenly places."*  
 > — Ephesians 1:3
@@ -42,18 +42,18 @@ Creation is **ex nihilo** (out of nothing). God did not fashion the world from p
 
 ## The Father in the Teaching of Jesus
 
-Jesus reveals the Father as no one before Him ever had. He calls God **"Abba"** — a term of intimate familiarity, the word a child uses for their father. At the same time, He teaches us to approach God with holy reverence: **"Our Father, who art in heaven, hallowed be thy name."**
+Jesus reveals the Father as no one before Him ever had. He calls God **"Abba"**: a term of intimate familiarity, the word a child uses for their father. At the same time, He teaches us to approach God with holy reverence: **"Our Father, who art in heaven, hallowed be thy name."**
 
 > *"All things have been delivered to me by my Father; and no one knows the Son except the Father, and no one knows the Father except the Son and any one to whom the Son chooses to reveal him."*  
 > — Matthew 11:27
 
-Jesus is the **only-begotten Son** — unique in His eternal generation from the Father. Yet through grace, we are adopted as sons and daughters and given the Spirit of sonship.
+Jesus is the **only-begotten Son**: unique in His eternal generation from the Father. Yet through grace, we are adopted as sons and daughters and given the Spirit of sonship.
 
 ---
 
 ## The Fatherhood of God
 
-God's fatherhood is not metaphorical. It is real, though analogical — God is Father in a way that infinitely transcends human fatherhood while also fulfilling its deepest meaning.
+God's fatherhood is not metaphorical. It is real, though analogical. God is Father in a way that infinitely transcends human fatherhood while also fulfilling its deepest meaning.
 
 ### The Father Provides
 > *"Look at the birds of the air: they neither sow nor reap nor gather into barns, and yet your heavenly Father feeds them."*  

@@ -2,7 +2,7 @@
 
 ## One Person, Two Natures
 
-The **Hypostatic Union** is the central mystery of Christology: in Jesus Christ, the **divine nature** and a **human nature** are united in the **one divine person** (hypostasis) of the Son. Jesus is not two persons — one divine and one human. He is **one divine person** who possesses both natures fully, perfectly, and without confusion.
+The **Hypostatic Union** is the central mystery of Christology: in Jesus Christ, the **divine nature** and a **human nature** are united in the **one divine person** (hypostasis) of the Son. Jesus is not two persons, one divine and one human. He is **one divine person** who possesses both natures fully, perfectly, and without confusion.
 
 > *"The Word became flesh and dwelt among us, full of grace and truth."*  
 > — John 1:14
@@ -42,7 +42,7 @@ The Church's faith is clear: the person of Jesus **is** the eternal Son of God.
 
 ## Jesus is Truly Human
 
-Jesus possesses a complete human nature — body, soul, intellect, will, emotions, and the capacity to suffer and die.
+Jesus possesses a complete human nature: body, soul, intellect, will, emotions, and the capacity to suffer and die.
 
 ### His Human Body
 Jesus was born of the Virgin Mary (Luke 2:7), grew in wisdom and stature (Luke 2:52), ate and drank (Matthew 11:19), suffered fatigue (John 4:6), and died on the cross (Mark 15:37).
@@ -51,9 +51,9 @@ Jesus was born of the Virgin Mary (Luke 2:7), grew in wisdom and stature (Luke 2
 Jesus had a human soul with human emotions: He wept at Lazarus' tomb (John 11:35), He was troubled in spirit (John 12:27), He experienced agony in Gethsemane (Luke 22:44).
 
 ### His Human Will
-Jesus had a true human will, distinct from His divine will. In Gethsemane, He prayed: **"Not my will, but thine, be done"** (Luke 22:42). This shows two wills — a human will that naturally shrinks from suffering, and a divine will that perfectly aligns with the Father's will.
+Jesus had a true human will, distinct from His divine will. In Gethsemane, He prayed: **"Not my will, but thine, be done"** (Luke 22:42). This shows two wills, a human will that naturally shrinks from suffering, and a divine will that perfectly aligns with the Father's will.
 
-The Church teaches that Christ's human will was always perfectly obedient to His divine will. There was no conflict or rebellion — only the free acceptance of the Father's plan.
+The Church teaches that Christ's human will was always perfectly obedient to His divine will. There was no conflict or rebellion, only the free acceptance of the Father's plan.
 
 ---
 
@@ -84,9 +84,9 @@ This means: Jesus is not a human person whom God adopted (adoptionism). He is th
 
 The Hypostatic Union is not abstract theology. It is the foundation of our salvation:
 
-1. **Because He is God**, His sacrifice has infinite value — sufficient for all the sins of humanity.
-2. **Because He is man**, His sacrifice is truly offered on behalf of humanity — a man stands in our place.
-3. **Because He is one person**, His divine life flows into His humanity — and from His humanity, into us through grace and the sacraments.
+1. **Because He is God**, His sacrifice has infinite value, sufficient for all the sins of humanity.
+2. **Because He is man**, His sacrifice is truly offered on behalf of humanity, a man stands in our place.
+3. **Because He is one person**, His divine life flows into His humanity, and from His humanity, into us through grace and the sacraments.
 
 > *"For there is one God, and there is one mediator between God and men, the man Christ Jesus, who gave himself as a ransom for all."*  
 > — 1 Timothy 2:5-6
@@ -101,7 +101,7 @@ The Hypostatic Union is not abstract theology. It is the foundation of our salva
 
 ## Reflection
 
-The Hypostatic Union is the greatest of all mysteries — greater than creation, greater than the Trinity considered abstractly. In it, the infinite God draws near to the finite creature, not by diminishing Himself but by raising humanity to share in His divine life.
+The Hypostatic Union is the greatest of all mysteries: greater than creation, greater than the Trinity considered abstractly. In it, the infinite God draws near to the finite creature, not by diminishing Himself but by raising humanity to share in His divine life.
 
 > *"The Son of God... worked with human hands, he thought with a human mind, he acted with a human will, and he loved with a human heart. Born of the Virgin Mary, he truly became one of us, like us in all things except sin."*  
 > — Catechism of the Catholic Church, 470

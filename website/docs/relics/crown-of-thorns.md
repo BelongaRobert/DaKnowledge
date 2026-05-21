@@ -14,7 +14,7 @@ tags: ["christianity", "Passion", "Notre-Dame", "medieval", "Good Friday", "devo
 
 !!! sacred "First-Class Relic"
 
-    The Crown of Thorns is venerated as a **first-class relic** — an object that directly touched Christ's body during His Passion. It represents the terrible irony of Christ's kingship: the King of Kings crowned not with gold but with suffering, not with glory but with mockery.
+ The Crown of Thorns is venerated as a **first-class relic**: an object that directly touched Christ's body during His Passion. It represents the terrible irony of Christ's kingship: the King of Kings crowned not with gold but with suffering, not with glory but with mockery.
 
 ## The Biblical Account
 
@@ -24,7 +24,7 @@ The Gospels record that before Jesus was led to crucifixion, Roman soldiers wove
 
 This act of humiliation, intended as bitter satire by the soldiers, became in the Christian imagination a profound revelation of Christ's true kingship. The crown of mockery was transformed by faith into the royal diadem of the Redeemer.
 
-The synoptic Gospels describe Pilate presenting the scourged and crowned Christ to the crowds with the words *"Ecce Homo"* — "Behold the Man" (John 19:5). This moment, captured in countless works of Christian art, shows the Savior bearing the thorny crown as the representative Man — the New Adam — whose suffering reverses the curse of the first Adam.
+The synoptic Gospels describe Pilate presenting the scourged and crowned Christ to the crowds with the words *"Ecce Homo"*, "Behold the Man" (John 19:5). This moment, captured in countless works of Christian art, shows the Savior bearing the thorny crown as the representative Man, the New Adam, whose suffering reverses the curse of the first Adam.
 
 ### The Thorns and the Curse
 
@@ -46,7 +46,7 @@ The most significant chapter in the Crown of Thorns' history began with the **La
 
 In 1238, Baldwin II pawned the Crown of Thorns to the **Venetian bankers** Nicolas and Angelo. Recognizing the relic's importance, they negotiated its sale to the most devout monarch in Western Europe: **King Louis IX of France** (1214-1270), later canonized as St. Louis.
 
-Louis purchased the crown for an enormous sum — 135,000 livres, plus a separate payment for a fragment of the True Cross and the Holy Lance. The king's acquisition was motivated by intense personal piety rather than political prestige. He wrote at the time that the relic was "the glory of his kingdom."
+Louis purchased the crown for an enormous sum. 135,000 livres, plus a separate payment for a fragment of the True Cross and the Holy Lance. The king's acquisition was motivated by intense personal piety rather than political prestige. He wrote at the time that the relic was "the glory of his kingdom."
 
 ### The Sainte-Chapelle: A Reliquary Palace
 
@@ -60,7 +60,7 @@ The Sainte-Chapelle remains one of the supreme achievements of Gothic architectu
 
 !!! sacred "The Cost of Devotion"
 
-    The 135,000 livres paid for the Crown of Thorns represented an extraordinary sum — roughly equal to one-sixth of France's annual royal revenue at the time. St. Louis' willingness to expend such wealth on a relic, while living personally in austerity, exemplifies the medieval Christian understanding of spiritual value transcending material cost.
+ The 135,000 livres paid for the Crown of Thorns represented an extraordinary sum, roughly equal to one-sixth of France's annual royal revenue at the time. St. Louis' willingness to expend such wealth on a relic, while living personally in austerity, exemplifies the medieval Christian understanding of spiritual value transcending material cost.
 
 ### From the Sainte-Chapelle to Notre-Dame
 
@@ -90,7 +90,7 @@ Following the fire, the Crown of Thorns was taken to the **Palace of the Legion 
 
 The Crown of Thorns as venerated today consists of a **braided circlet of rushes** (flexible stemmed plants) into which thorn branches have been woven. The current form likely represents a medieval reconstruction of the original crown, which would have deteriorated significantly over the centuries.
 
-The thorns themselves have been identified by botanical analysis as belonging to species of the genus *Ziziphus* — particularly *Ziziphus spina-christi*, commonly called **Christ's Thorn**. This species is native to the Mediterranean region and the Middle East, with a distribution including Israel, Palestine, and North Africa. The long, sharp thorns of this shrub make it a plausible candidate for the biblical crown.
+The thorns themselves have been identified by botanical analysis as belonging to species of the genus *Ziziphus*, particularly *Ziziphus spina-christi*, commonly called **Christ's Thorn**. This species is native to the Mediterranean region and the Middle East, with a distribution including Israel, Palestine, and North Africa. The long, sharp thorns of this shrub make it a plausible candidate for the biblical crown.
 
 ### Scientific Analysis
 
@@ -137,13 +137,13 @@ The Crown of Thorns has been one of the most frequently depicted objects in Chri
 
 ### The King's Crown
 
-The irony of the Crown of Thorns is central to its theological power. The soldiers intended mockery — "You call yourself a king? Here is your crown!" — but unknowingly spoke truth. The thorns proclaimed what Pilate's inscription above the cross would later declare in three languages: this crucified Man truly is the King.
+The irony of the Crown of Thorns is central to its theological power. The soldiers intended mockery, "You call yourself a king? Here is your crown!", but unknowingly spoke truth. The thorns proclaimed what Pilate's inscription above the cross would later declare in three languages: this crucified Man truly is the King.
 
 St. Augustine reflected on this: *"They meant it for insult, but it was truth. They gave a crown of thorns, for He was the king of sinners. They gave a reed for a scepter, for He was the king of the humble. They bent the knee in mockery, for all knees shall bow to Him."*
 
 ### The Wounds of the Head
 
-In mystical theology, the wounds inflicted by the crown hold special significance. Unlike the wounds of the hands, feet, and side — which represent Christ's active offering of Himself — the head wounds represent the **violation of human dignity and intellect**. The mind that conceived the universe, the wisdom that fashioned the laws of physics, the knowledge that comprehends all mysteries, was subjected to blows and piercing.
+In mystical theology, the wounds inflicted by the crown hold special significance. Unlike the wounds of the hands, feet, and side, which represent Christ's active offering of Himself, the head wounds represent the **violation of human dignity and intellect**. The mind that conceived the universe, the wisdom that fashioned the laws of physics, the knowledge that comprehends all mysteries, was subjected to blows and piercing.
 
 St. Teresa of Avila and other mystics have written of meditating specifically on these head wounds, offering their own intellectual pride and mental sufferings in union with Christ's humiliation.
 
@@ -157,7 +157,7 @@ The Crown of Thorns serves as a powerful symbol for Christians facing suffering:
 
 ## Conclusion: The Crown as Emblem of Redemptive Love
 
-The Crown of Thorns, whether the specific relic in Paris or the symbolic crown meditated upon in prayer, stands as one of Christianity's most powerful emblems. It proclaims that the God who created the galaxies, who established the laws of physics, who breathed life into humanity — this God chose to be crowned with thorns and hailed with blows.
+The Crown of Thorns, whether the specific relic in Paris or the symbolic crown meditated upon in prayer, stands as one of Christianity's most powerful emblems. It proclaims that the God who created the galaxies, who established the laws of physics, who breathed life into humanity, this God chose to be crowned with thorns and hailed with blows.
 
 St. Louis IX understood this mystery when he gave his kingdom's treasure for a circlet of suffering. The faithful who venerate the crown today participate in that same recognition: that in the economy of salvation, what appears as weakness is strength, what appears as shame is glory, and what appears as death is the gateway to life.
 

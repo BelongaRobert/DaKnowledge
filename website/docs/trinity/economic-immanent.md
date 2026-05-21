@@ -8,7 +8,7 @@ Catholic theology distinguishes between the **immanent Trinity** and the **econo
 
 ## The Immanent Trinity
 
-The **immanent Trinity** (also called the **ontological Trinity**) refers to God's inner life as He is in Himself — apart from creation, apart from redemption, apart from any relation to the world. It describes the eternal relations between the Father, Son, and Holy Spirit.
+The **immanent Trinity** (also called the **ontological Trinity**) refers to God's inner life as He is in Himself, apart from creation, apart from redemption, apart from any relation to the world. It describes the eternal relations between the Father, Son, and Holy Spirit.
 
 In the immanent Trinity:
 - The Father **begets** the Son eternally
@@ -17,14 +17,14 @@ In the immanent Trinity:
 
 These relations are not events in time but the eternal structure of God's being. They would exist even if God had never created the world.
 
-> *"The works of God outside himself — creation, redemption, sanctification — are common to the three divine persons; but the internal acts — generation and procession — are proper to each person."*  
+> *"The works of God outside himself, creation, redemption, sanctification, are common to the three divine persons; but the internal acts, generation and procession, are proper to each person."*  
 > — St. Thomas Aquinas, *Summa Theologica*
 
 ---
 
 ## The Economic Trinity
 
-The **economic Trinity** refers to God's action **toward us** — how the three persons work in creation, redemption, and sanctification.
+The **economic Trinity** refers to God's action **toward us**: how the three persons work in creation, redemption, and sanctification.
 
 In the economy of salvation:
 - The Father **creates** and **sends**
@@ -57,21 +57,21 @@ This means the God we encounter in Christ and the Spirit is not different from t
 The distinction refutes **modalism** (the heresy that God is one person who appears in three different modes). If the economic Trinity were merely "masks" God wears, there would be no real distinction of persons. But the Church teaches that the persons are truly distinct in both the immanent and economic Trinity.
 
 ### Against Subordinationism
-The distinction also guards against **subordinationism** — the error that the Son or Spirit are somehow less than the Father. In the immanent Trinity, all three persons are co-equal. In the economy, the Son and Spirit are "sent" by the Father, but this does not imply inferiority. It reflects the eternal order of relations, not a hierarchy of being.
+The distinction also guards against **subordinationism**: the error that the Son or Spirit are somehow less than the Father. In the immanent Trinity, all three persons are co-equal. In the economy, the Son and Spirit are "sent" by the Father, but this does not imply inferiority. It reflects the eternal order of relations, not a hierarchy of being.
 
-> *"The Father is greater than I"* (John 14:28) refers to the economy — the Son's human nature and His mission of obedience — not to the immanent Trinity, where Father and Son are one in being.
+> *"The Father is greater than I"* (John 14:28) refers to the economy, the Son's human nature and His mission of obedience, not to the immanent Trinity, where Father and Son are one in being.
 
 ---
 
 ## The Missions of the Son and Spirit
 
-The Church speaks of the **missions** of the Son and Spirit — their being sent into the world. These missions are eternal acts that have temporal effects:
+The Church speaks of the **missions** of the Son and Spirit: their being sent into the world. These missions are eternal acts that have temporal effects:
 
 ### The Mission of the Son (Incarnation)
-The Son is sent by the Father to assume human nature. This mission is grounded in the Son's eternal generation — just as the Son eternally receives His being from the Father, so in time He receives His human nature and mission from the Father.
+The Son is sent by the Father to assume human nature. This mission is grounded in the Son's eternal generation, just as the Son eternally receives His being from the Father, so in time He receives His human nature and mission from the Father.
 
 ### The Mission of the Spirit (Pentecost)
-The Spirit is sent by the Father and the Son to indwell the Church and the believer. This mission is grounded in the Spirit's eternal procession — just as the Spirit eternally proceeds from the Father and the Son, so in time He is poured out by them upon creation.
+The Spirit is sent by the Father and the Son to indwell the Church and the believer. This mission is grounded in the Spirit's eternal procession, just as the Spirit eternally proceeds from the Father and the Son, so in time He is poured out by them upon creation.
 
 ---
 

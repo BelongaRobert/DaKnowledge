@@ -34,26 +34,26 @@ The Creed is organized into three articles corresponding to the Trinity:
 
 ### Article 2: Jesus Christ (the longest article)
 His saving work in twelve stages:
-1. **Conceived by the Holy Spirit** — Divine origin
-2. **Born of the Virgin Mary** — True humanity
-3. **Suffered under Pontius Pilate** — Historical reality
-4. **Crucified** — Redemptive death
-5. **Died** — Complete humanity
-6. **Was buried** — Real death
-7. **Descended into hell** — Victory over death (see 1 Peter 3:19)
-8. **Rose again** — Victory over the grave
-9. **Ascended** — Entrance into glory
-10. **Seated at the right hand** — Reigns with the Father
-11. **Will come to judge** — Second coming
+1. **Conceived by the Holy Spirit**: Divine origin
+2. **Born of the Virgin Mary**: True humanity
+3. **Suffered under Pontius Pilate**: Historical reality
+4. **Crucified**: Redemptive death
+5. **Died**: Complete humanity
+6. **Was buried**: Real death
+7. **Descended into hell**: Victory over death (see 1 Peter 3:19)
+8. **Rose again**: Victory over the grave
+9. **Ascended**: Entrance into glory
+10. **Seated at the right hand**: Reigns with the Father
+11. **Will come to judge**: Second coming
 
 ### Article 3: The Holy Spirit
 The Spirit's work in the Church:
-- **The Holy Spirit** — Third Person of the Trinity
-- **The holy catholic Church** — Universal communion
-- **The communion of saints** — Unity of all believers
-- **The forgiveness of sins** — Sacramental grace
-- **The resurrection of the body** — Future glory
-- **Life everlasting** — Eternal beatitude
+- **The Holy Spirit**: Third Person of the Trinity
+- **The holy catholic Church**: Universal communion
+- **The communion of saints**: Unity of all believers
+- **The forgiveness of sins**: Sacramental grace
+- **The resurrection of the body**: Future glory
+- **Life everlasting**: Eternal beatitude
 
 ---
 
@@ -65,10 +65,10 @@ The Apostles' Creed developed from the baptismal questions asked of converts in 
 
 ## Use Today
 
-- **Baptism** — The creed is professed by candidates and godparents
-- **The Rosary** — Prayed at the beginning of the five decades
-- **Morning and Evening Prayer** — In the Liturgy of the Hours
-- **Catechesis** — The foundation of Christian teaching
+- **Baptism**: The creed is professed by candidates and godparents
+- **The Rosary**: Prayed at the beginning of the five decades
+- **Morning and Evening Prayer**: In the Liturgy of the Hours
+- **Catechesis**: The foundation of Christian teaching
 
 ---
 

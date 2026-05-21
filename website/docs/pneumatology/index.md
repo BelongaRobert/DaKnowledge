@@ -2,7 +2,7 @@
 
 ## The Study of the Holy Spirit
 
-Pneumatology (from Greek *pneuma*, "spirit" or "wind") is the study of the Holy Spirit — the third person of the Holy Trinity, the Lord and Giver of life. The Spirit is not an impersonal force or a vague divine presence but a **divine person** who knows, wills, loves, and acts.
+Pneumatology (from Greek *pneuma*, "spirit" or "wind") is the study of the Holy Spirit: the third person of the Holy Trinity, the Lord and Giver of life. The Spirit is not an impersonal force or a vague divine presence but a **divine person** who knows, wills, loves, and acts.
 
 > *"The wind blows where it wills, and you hear the sound of it, but you do not know whence it comes or whither it goes; so it is with every one who is born of the Spirit."*  
 > — John 3:8
@@ -29,7 +29,7 @@ To lie to the Spirit is to lie to God (Acts 5:4). To grieve the Spirit is to gri
 
 The Holy Spirit is **co-eternal and co-equal** with the Father and the Son. He is not created, not subordinate, not less divine.
 
-- The Father is the **source** — unoriginate origin
+- The Father is the **source**: unoriginate origin
 - The Son is **begotten** of the Father
 - The Spirit **proceeds** from the Father and the Son (Filioque)
 
@@ -46,7 +46,7 @@ This order of relations (*taxis*) does not imply hierarchy of being. All three p
 The Spirit hovers over the waters at creation (Genesis 1:2), brooding over chaos to bring forth order and life.
 
 ### In the Old Testament
-The Spirit empowers prophets, kings, and artisans. Yet His presence is selective and temporary — resting on specific individuals for specific purposes.
+The Spirit empowers prophets, kings, and artisans. Yet His presence is selective and temporary: resting on specific individuals for specific purposes.
 
 ### In the Incarnation
 The Spirit overshadows Mary at the Annunciation (Luke 1:35), making possible the virginal conception.
@@ -55,7 +55,7 @@ The Spirit overshadows Mary at the Annunciation (Luke 1:35), making possible the
 Jesus is conceived by the Spirit, led by the Spirit into the wilderness (Luke 4:1), anointed by the Spirit for His mission (Luke 4:18), and offers Himself through the eternal Spirit (Hebrews 9:14).
 
 ### In the Church
-At Pentecost (Acts 2), the Spirit is poured out on all believers. The age of the Church is the age of the Spirit — He dwells in every baptized Christian, sanctifying, teaching, and empowering.
+At Pentecost (Acts 2), the Spirit is poured out on all believers. The age of the Church is the age of the Spirit. He dwells in every baptized Christian, sanctifying, teaching, and empowering.
 
 ---
 
@@ -63,7 +63,7 @@ At Pentecost (Acts 2), the Spirit is poured out on all believers. The age of the
 
 | Topic | Description |
 |-------|-------------|
-| [Person of the Spirit](person-of-the-spirit.md) | The Spirit as divine person — intellect, will, and love |
+| [Person of the Spirit](person-of-the-spirit.md) | The Spirit as divine person, intellect, will, and love |
 | [Work of the Spirit](work-of-the-spirit.md) | Sanctification, inspiration, illumination, and empowerment |
 | [Spiritual Gifts](spiritual-gifts.md) | The gifts and fruits given for the building up of the Church |
 

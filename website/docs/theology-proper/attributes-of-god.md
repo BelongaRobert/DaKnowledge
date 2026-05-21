@@ -2,7 +2,7 @@
 
 ## The Divine Perfections
 
-The attributes of God are the perfections that belong to His divine nature. They are not separate qualities added to God, but rather describe who God is in His essential being. Because God is simple (without parts or composition), each attribute is identical with God's essence — to say God is good is to say God is Being itself.
+The attributes of God are the perfections that belong to His divine nature. They are not separate qualities added to God, but rather describe who God is in His essential being. Because God is simple (without parts or composition), each attribute is identical with God's essence, to say God is good is to say God is Being itself.
 
 > *"Be holy, for I, the Lord your God, am holy."*  
 > — Leviticus 19:2
@@ -33,13 +33,13 @@ These perfections belong to God alone and cannot be shared with creatures:
 
 | Attribute | Meaning | Scriptural Basis |
 |-----------|---------|------------------|
-| **Aseity** | Self-existence; God depends on nothing | Exodus 3:14 — *"I AM WHO I AM"* |
-| **Simplicity** | Without parts; not composed of form and matter | Deuteronomy 6:4 — One Lord |
-| **Immutability** | Unchanging in nature, will, and promises | Malachi 3:6 — *"I the Lord do not change"* |
-| **Eternity** | Without beginning or end; outside time | Psalm 90:2 — *"From everlasting to everlasting"* |
+| **Aseity** | Self-existence; God depends on nothing | Exodus 3:14. *"I AM WHO I AM"* |
+| **Simplicity** | Without parts; not composed of form and matter | Deuteronomy 6:4. One Lord |
+| **Immutability** | Unchanging in nature, will, and promises | Malachi 3:6. *"I the Lord do not change"* |
+| **Eternity** | Without beginning or end; outside time | Psalm 90:2. *"From everlasting to everlasting"* |
 | **Omnipresence** | Present everywhere in His entirety | Psalm 139:7-10 |
-| **Omnipotence** | All-powerful; can do all things consistent with His nature | Matthew 19:26 — *"With God all things are possible"* |
-| **Omniscience** | All-knowing; knows all things actual and possible | Psalm 147:5 — *"His understanding is beyond measure"* |
+| **Omnipotence** | All-powerful; can do all things consistent with His nature | Matthew 19:26. *"With God all things are possible"* |
+| **Omniscience** | All-knowing; knows all things actual and possible | Psalm 147:5. *"His understanding is beyond measure"* |
 
 ---
 
@@ -66,7 +66,7 @@ God is the perfect beauty from which all created beauty flows. ThePsalms repeate
 > — Psalm 27:4
 
 ### Justice
-God's righteousness is the perfect harmony of His will with the moral order He has established. He rewards good and punishes evil — not arbitrarily, but in accordance with His holy nature.
+God's righteousness is the perfect harmony of His will with the moral order He has established. He rewards good and punishes evil, not arbitrarily, but in accordance with His holy nature.
 
 > *"The Lord is righteous in all his ways."*  
 > — Psalm 145:17
@@ -78,7 +78,7 @@ Divine mercy is not contrary to justice but its fulfillment. In Christ, mercy an
 > — Psalm 103:8
 
 ### Love
-Love is the very name of God (1 John 4:8). Not merely an emotion or action, love is the eternal act of the Trinity — the Father loving the Son in the Spirit, and the Son returning that love to the Father.
+Love is the very name of God (1 John 4:8). Not merely an emotion or action, love is the eternal act of the Trinity: the Father loving the Son in the Spirit, and the Son returning that love to the Father.
 
 > *"God is love, and he who abides in love abides in God, and God abides in him."*  
 > — 1 John 4:16

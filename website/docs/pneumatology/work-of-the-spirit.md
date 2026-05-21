@@ -31,7 +31,7 @@ The Spirit is the **author of Sacred Scripture**. The human authors wrote under 
 > — 2 Peter 1:21
 
 ### The Spirit Illuminates
-Beyond inspiring the text, the Spirit **illumines** the reader — opening the eyes of faith to understand what the text means and how it applies to life. Without the Spirit, the Bible remains a closed book; with the Spirit, it becomes a living word.
+Beyond inspiring the text, the Spirit **illumines** the reader: opening the eyes of faith to understand what the text means and how it applies to life. Without the Spirit, the Bible remains a closed book; with the Spirit, it becomes a living word.
 
 > *"The unspiritual man does not receive the gifts of the Spirit of God, for they are folly to him, and he is not able to understand them because they are spiritually discerned."*  
 > — 1 Corinthians 2:14
@@ -60,17 +60,17 @@ The Spirit is the power by which Christ is raised from the dead (Romans 1:4, 8:1
 ## The Spirit in the Church
 
 ### Pentecost
-At Pentecost (Acts 2), the Spirit is poured out upon the disciples. This is the birthday of the Church — the moment when the community of believers becomes the **temple of the Holy Spirit**.
+At Pentecost (Acts 2), the Spirit is poured out upon the disciples. This is the birthday of the Church: the moment when the community of believers becomes the **temple of the Holy Spirit**.
 
 ### The Sacraments
 The Spirit is active in every sacrament:
-- **Baptism** — We are born of water and the Spirit (John 3:5)
-- **Confirmation** — We are sealed with the Spirit and empowered for witness
-- **Eucharist** — The Spirit transforms the bread and wine (epiclesis)
-- **Reconciliation** — The Spirit restores the sinner to grace
-- **Matrimony** — The Spirit unites spouses in sacramental love
-- **Holy Orders** — The Spirit consecrates bishops, priests, and deacons
-- **Anointing of the Sick** — The Spirit strengthens and heals
+- **Baptism**: We are born of water and the Spirit (John 3:5)
+- **Confirmation**: We are sealed with the Spirit and empowered for witness
+- **Eucharist**: The Spirit transforms the bread and wine (epiclesis)
+- **Reconciliation**: The Spirit restores the sinner to grace
+- **Matrimony**: The Spirit unites spouses in sacramental love
+- **Holy Orders**: The Spirit consecrates bishops, priests, and deacons
+- **Anointing of the Sick**: The Spirit strengthens and heals
 
 ### The Magisterium
 The Spirit guides the Church into all truth (John 16:13), preserving her from error in matters of faith and morals.
@@ -92,7 +92,7 @@ The Spirit makes the believer His temple.
 > — 1 Corinthians 6:19
 
 ### Sanctification
-The Spirit makes us holy — conforming us to the image of Christ, producing the fruits of virtue, and purging sin.
+The Spirit makes us holy: conforming us to the image of Christ, producing the fruits of virtue, and purging sin.
 
 > *"God chose you from the beginning to be saved, through sanctification by the Spirit and belief in the truth."*  
 > — 2 Thessalonians 2:13

@@ -39,7 +39,7 @@ A valid sacramental marriage cannot be dissolved by any human power. What God ha
 This indissolubility reflects Christ's eternal fidelity to His Bride, the Church. The cross is the pattern of Christian marriage: total self-gift, faithful unto death.
 
 ### 3. Openness to Children
-Marriage is ordered toward the **procreation and education of children**. Every marital act must remain open to the gift of life. Contraception — the deliberate frustration of the procreative meaning of the marital act — is contrary to God's design.
+Marriage is ordered toward the **procreation and education of children**. Every marital act must remain open to the gift of life. Contraception, the deliberate frustration of the procreative meaning of the marital act, is contrary to God's design.
 
 ---
 
@@ -52,7 +52,7 @@ The spouses are united not only by human love but by a **sacramental bond** that
 Marriage is a **path to holiness**. The daily sacrifices, mutual forgiveness, and shared burdens of family life are the raw material of sanctification.
 
 ### 3. Domestic Church
-The family is the **domestic Church** — the first place where faith is taught, prayer is learned, and love is practiced. Parents are the primary educators of their children in the faith.
+The family is the **domestic Church**: the first place where faith is taught, prayer is learned, and love is practiced. Parents are the primary educators of their children in the faith.
 
 ### 4. Remedy for Concupiscence
 St. Paul teaches that marriage is a remedy for the disorder of desire (1 Corinthians 7:9). The mutual gift of spouses helps them grow in purity and self-mastery.
@@ -75,7 +75,7 @@ These goods are not optional add-ons but essential to the nature of Christian ma
 
 ## Annulment vs. Divorce
 
-The Church does not recognize **divorce** (the dissolution of a valid marriage) but does recognize **annulment** — a declaration that a valid marriage never existed from the beginning.
+The Church does not recognize **divorce** (the dissolution of a valid marriage) but does recognize **annulment**: a declaration that a valid marriage never existed from the beginning.
 
 An annulment is not "Catholic divorce." It is a juridical determination that one or more of the essential elements of marriage was lacking at the time of consent:
 - Free consent (not coerced)
@@ -91,7 +91,7 @@ When a marriage is declared null, the parties are free to marry in the Church. W
 
 Marriage is not merely a human arrangement but a **divine calling**. The spouses are called to sanctify each other, to raise children in the faith, and to be a sign of Christ's love for the world.
 
-> *"Marriage is a school of love — a school where husband and wife learn, day by day, to lay down their lives for one another."*  
+> *"Marriage is a school of love, a school where husband and wife learn, day by day, to lay down their lives for one another."*  
 > — Pope St. John Paul II
 
 ---

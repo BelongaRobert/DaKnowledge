@@ -14,7 +14,7 @@ The Holy Spirit bestows **spiritual gifts** (charisms) upon believers for the bu
 These are the foundational gifts that perfect the virtues and dispose the soul to respond to God's grace. They are given in Baptism and increased in Confirmation.
 
 ### 1. Wisdom
-The gift by which we judge all things according to God's perspective. Wisdom sees the world sub specie aeternitatis — under the aspect of eternity.
+The gift by which we judge all things according to God's perspective. Wisdom sees the world sub specie aeternitatis, under the aspect of eternity.
 
 > *"The wisdom from above is first pure, then peaceable, gentle, open to reason, full of mercy and good fruits."*  
 > — James 3:17
@@ -91,7 +91,7 @@ Not every extraordinary manifestation is from the Holy Spirit. The Church teache
 
 - Does it build up the Church? (1 Corinthians 14:12)
 - Is it in harmony with Scripture and Tradition?
-- Does it produce the fruits of the Spirit — love, joy, peace?
+- Does it produce the fruits of the Spirit, love, joy, peace?
 - Is it subject to the Church's authority and pastoral guidance?
 
 > *"Do not quench the Spirit. Do not despise prophesying. But test everything; hold fast what is good."*  
@@ -101,7 +101,7 @@ Not every extraordinary manifestation is from the Holy Spirit. The Church teache
 
 ## All Gifts Serve Love
 
-The greatest gift is not any charism but **charity** — the theological virtue of love.
+The greatest gift is not any charism but **charity**: the theological virtue of love.
 
 > *"If I have prophetic powers, and understand all mysteries and all knowledge, and if I have all faith, so as to remove mountains, but have not love, I am nothing."*  
 > — 1 Corinthians 13:2

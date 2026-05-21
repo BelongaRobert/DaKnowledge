@@ -14,7 +14,7 @@ tags: ["christianity", "history", "crucifixion", "pilgrimage", "St. Helena"]
 
 !!! sacred "First-Class Relic"
 
-    The True Cross holds the highest rank among Christian relics as a **first-class relic** — an object directly associated with Christ's Passion. Fragments of the cross upon which Jesus died are venerated in churches across the world, representing the instrument of our salvation.
+ The True Cross holds the highest rank among Christian relics as a **first-class relic**: an object directly associated with Christ's Passion. Fragments of the cross upon which Jesus died are venerated in churches across the world, representing the instrument of our salvation.
 
 ## The Biblical Foundation
 
@@ -32,7 +32,7 @@ The cross, once a symbol of shame and criminal execution, was transformed by Chr
 
 ### The Historical Context
 
-In 326 AD, Helena (c. 246-330), mother of Emperor Constantine the Great, undertook a pilgrimage to the Holy Land. At approximately 80 years of age, this remarkable woman — who had converted to Christianity alongside her son — traveled to Palestine with two missions: to establish churches at holy sites and to locate the physical remains associated with Christ's Passion.
+In 326 AD, Helena (c. 246-330), mother of Emperor Constantine the Great, undertook a pilgrimage to the Holy Land. At approximately 80 years of age, this remarkable woman, who had converted to Christianity alongside her son, traveled to Palestine with two missions: to establish churches at holy sites and to locate the physical remains associated with Christ's Passion.
 
 The historical accounts of this discovery come primarily from:
 
@@ -44,16 +44,16 @@ The historical accounts of this discovery come primarily from:
 
 According to tradition, Helena directed excavations near the site of the current Church of the Holy Sepulchre in Jerusalem. The location, which had been covered over and built upon during Hadrian's construction of Aelia Capitolina (c. 130 AD), was uncovered to reveal:
 
-1. **Three crosses** — presumably those of Christ and the two thieves
-2. **The titulus** — the inscription plaque placed above Christ's head (the INRI board)
-3. **Nails** — the iron nails used in the crucifixion
-4. **The tomb** — the empty sepulcher
+1. **Three crosses**: presumably those of Christ and the two thieves
+2. **The titulus**: the inscription plaque placed above Christ's head (the INRI board)
+3. **Nails**: the iron nails used in the crucifixion
+4. **The tomb**: the empty sepulcher
 
 The most detailed tradition, recorded by St. Ambrose and others, describes how the True Cross was identified: a dying woman (some accounts say a noblewoman named Macarius, others a servant) was brought to the site. When touched by each cross, she remained ill until contact with the third cross, whereupon she was immediately healed. This miraculous confirmation identified which cross had held the Savior.
 
 ### The Titulus Crucis
 
-The inscription board above Christ's head — bearing "Jesus of Nazareth, King of the Jews" in Hebrew, Latin, and Greek (John 19:19-20) — was reportedly found alongside the crosses. This artifact, known as the **Titulus Crucis**, was preserved separately and eventually brought to Rome, where it remains in the Basilica of Santa Croce in Gerusalemme. Modern examination of this relic (a walnut wood fragment with faded Greek lettering) has yielded inconclusive dating results, with some analyses suggesting medieval origins while others note characteristics consistent with ancient wood.
+The inscription board above Christ's head, bearing "Jesus of Nazareth, King of the Jews" in Hebrew, Latin, and Greek (John 19:19-20), was reportedly found alongside the crosses. This artifact, known as the **Titulus Crucis**, was preserved separately and eventually brought to Rome, where it remains in the Basilica of Santa Croce in Gerusalemme. Modern examination of this relic (a walnut wood fragment with faded Greek lettering) has yielded inconclusive dating results, with some analyses suggesting medieval origins while others note characteristics consistent with ancient wood.
 
 ## The Dispersal of Fragments
 
@@ -106,7 +106,7 @@ The relic transforms the abstract theological concept of "taking up one's cross"
 
 ### The Scandal of Particularity
 
-Theologians have noted that the True Cross represents what scholars call "the scandal of particularity" — the Christian claim that universal salvation was accomplished through specific, unrepeatable historical events at particular times and places. The cross was made of particular wood, crafted by particular hands, stained by particular blood. The veneration of relics affirms this incarnational principle: God works through matter, through history, through physical reality.
+Theologians have noted that the True Cross represents what scholars call "the scandal of particularity", the Christian claim that universal salvation was accomplished through specific, unrepeatable historical events at particular times and places. The cross was made of particular wood, crafted by particular hands, stained by particular blood. The veneration of relics affirms this incarnational principle: God works through matter, through history, through physical reality.
 
 ### St. Thomas Aquinas on Relics
 
@@ -116,7 +116,7 @@ In the *Summa Theologiae* (III, q. 25, a. 6), St. Thomas Aquinas addresses the p
 - **Dulia**: The veneration given to saints and their relics
 - **Hyperdulia**: The special veneration given to the Virgin Mary
 
-Aquinas argues that relics are venerated not for themselves but for the persons they represent and the divine power that worked through them. The True Cross, as a relic of Christ Himself, occupies a unique theological space — though even it receives dulia, not latria, since it is a created thing and not the Creator.
+Aquinas argues that relics are venerated not for themselves but for the persons they represent and the divine power that worked through them. The True Cross, as a relic of Christ Himself, occupies a unique theological space, though even it receives dulia, not latria, since it is a created thing and not the Creator.
 
 ## Veneration Practices
 
@@ -148,7 +148,7 @@ Private devotion to the True Cross includes:
 
 ### The "Volume Problem"
 
-A common objection to True Cross relics is what 16th-century Protestant reformer John Calvin called the "volume problem" — if all claimed fragments were gathered together, they would constitute an implausibly large cross. Calvin famously calculated that the claimed fragments would fill a large ship.
+A common objection to True Cross relics is what 16th-century Protestant reformer John Calvin called the "volume problem", if all claimed fragments were gathered together, they would constitute an implausibly large cross. Calvin famously calculated that the claimed fragments would fill a large ship.
 
 Modern scholars have challenged this calculation, noting:
 
@@ -159,7 +159,7 @@ Modern scholars have challenged this calculation, noting:
 
 ### Archaeological Considerations
 
-Archaeological evidence for Roman crucifixion remains rare. The most significant find is the **heel bone of Yehohanan** (discovered in 1968 in Jerusalem), which contains an iron nail driven through the heel — confirming the biblical description of crucifixion mechanics. However, no archaeological evidence directly connects to Jesus' cross.
+Archaeological evidence for Roman crucifixion remains rare. The most significant find is the **heel bone of Yehohanan** (discovered in 1968 in Jerusalem), which contains an iron nail driven through the heel, confirming the biblical description of crucifixion mechanics. However, no archaeological evidence directly connects to Jesus' cross.
 
 Scientific analysis of claimed True Cross wood fragments has produced varied results. Some fragments analyzed have been identified as olive wood (consistent with Palestinian availability), while others have been dated to later periods. The difficulty of scientifically verifying wood relics is compounded by:
 

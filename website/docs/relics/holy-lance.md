@@ -14,7 +14,7 @@ tags: ["christianity", "Passion", "crucifixion", "Vienna", "medieval", "soldier 
 
 !!! sacred "First-Class Relic"
 
-    The Holy Lance is venerated as a **first-class relic** — the instrument that pierced the heart of Christ as He hung upon the cross. Together with the True Cross and the Crown of Thorns, it completes the triad of the principal instruments of the Passion.
+ The Holy Lance is venerated as a **first-class relic**: the instrument that pierced the heart of Christ as He hung upon the cross. Together with the True Cross and the Crown of Thorns, it completes the triad of the principal instruments of the Passion.
 
 ## The Biblical Account
 
@@ -22,7 +22,7 @@ The piercing of Christ's side is recorded in the Gospel of John, written by the 
 
 > *"But when they came to Jesus and saw that he was already dead, they did not break his legs. Instead, one of the soldiers pierced his side with a spear, and at once blood and water came out. He who saw this has testified so that you also may believe. His testimony is true, and he knows that he tells the truth."* — John 19:33-35
 
-This moment — occurring after the crucifixion but before the descent from the cross — holds profound theological significance. The soldier's spear, intended merely to confirm death according to Roman practice (crurifragium, breaking the legs, was the standard method to hasten death for crucifixion victims), instead became the instrument of revelation.
+This moment, occurring after the crucifixion but before the descent from the cross, holds profound theological significance. The soldier's spear, intended merely to confirm death according to Roman practice (crurifragium, breaking the legs, was the standard method to hasten death for crucifixion victims), instead became the instrument of revelation.
 
 ### The Soldier Who Pierced
 
@@ -39,7 +39,7 @@ The Eastern Orthodox Church venerates Longinus as **St. Longinus the Centurion**
 
 The Fathers of the Church universally interpreted the flow of blood and water from Christ's pierced side as a profound symbol:
 
-**The Church is born from the wound**: St. Augustine taught that as Eve was formed from Adam's side while he slept, so the Church — the New Eve — was born from Christ's side as He "slept" in death upon the cross. The blood represents the Eucharist, the water represents Baptism — the two sacraments that bring the faithful into the Church.
+**The Church is born from the wound**: St. Augustine taught that as Eve was formed from Adam's side while he slept, so the Church, the New Eve, was born from Christ's side as He "slept" in death upon the cross. The blood represents the Eucharist, the water represents Baptism: the two sacraments that bring the faithful into the Church.
 
 St. John Chrysostom preached: *"From His side came blood and water... that we might be born again through the font of Baptism, and nourished by the cup of the Eucharist."*
 
@@ -59,7 +59,7 @@ The Holy Lance reached Western Europe through multiple channels:
 
 **The Holy Roman Empire**: The most significant transfer occurred in the 10th century, when the German King **Henry the Fowler** (c. 876-936) received the lance from the Byzantine emperor. This spear became one of the **Imperial Regalia** (*Reichskleinodien*), the coronation treasures of the Holy Roman Empire.
 
-The lance's political significance was immense. Medieval emperors believed the spear conferred martial power — a tradition drawn from the legend that whoever possessed the lance would be invincible. This belief persisted into the modern era, most notoriously in the esoteric theories of Nazi occultists.
+The lance's political significance was immense. Medieval emperors believed the spear conferred martial power: a tradition drawn from the legend that whoever possessed the lance would be invincible. This belief persisted into the modern era, most notoriously in the esoteric theories of Nazi occultists.
 
 **The Vatican Lance**: Another claimed Holy Lance was preserved in St. Peter's Basilica in Rome. This lance tip was given to Pope Innocent VIII in 1492 and remained in the papal collections.
 
@@ -97,13 +97,13 @@ The wound in Christ's side holds profound theological meaning across Christian t
 
 **Access to the Heart of Christ**: Devotional writers, particularly in the Catholic tradition, have meditated on the opened side as the gateway to Christ's Sacred Heart. St. Bonaventure wrote: *"His side was opened, that we might enter into the secret of His heart."* The wound becomes an invitation to intimacy with the Savior.
 
-**The Fountain of Mercy**: St. Faustina Kowalska and the Divine Mercy devotion emphasize the blood and water as symbols of God's inexhaustible mercy flowing upon humanity. The Divine Mercy image, revealed in the 20th century, depicts rays of red and white light emanating from Christ's breast — the blood and water of Calvary transformed into streams of grace.
+**The Fountain of Mercy**: St. Faustina Kowalska and the Divine Mercy devotion emphasize the blood and water as symbols of God's inexhaustible mercy flowing upon humanity. The Divine Mercy image, revealed in the 20th century, depicts rays of red and white light emanating from Christ's breast: the blood and water of Calvary transformed into streams of grace.
 
 **The Fulfillment of Passover**: The Gospel's note that Christ's legs were not broken directly connects to the Passover lamb (Exodus 12:46). St. Paul calls Christ "our Passover lamb" (1 Corinthians 5:7). The unbroken bones and the flow of blood identify Christ as the definitive sacrificial victim, whose offering takes away the sins of the world.
 
 ### Longinus: The Converted Soldier
 
-The figure of Longinus represents one of the earliest conversions recorded in Christian tradition. The soldier who executed the command to pierce Christ becomes the first to recognize what his comrades mocked — the true identity of the crucified One.
+The figure of Longinus represents one of the earliest conversions recorded in Christian tradition. The soldier who executed the command to pierce Christ becomes the first to recognize what his comrades mocked: the true identity of the crucified One.
 
 The **Lance of Longinus** thus symbolizes:
 
@@ -129,7 +129,7 @@ In some Eastern Christian traditions, the liturgical spear (used to cut the pros
 The Holy Lance appears in numerous artistic contexts:
 
 - **Crucifixion scenes**: Held by Longinus or resting in Christ's side
-- **Arma Christi**: The "arms of Christ" — collections of Passion instruments frequently depicted in medieval and Renaissance art
+- **Arma Christi**: The "arms of Christ", collections of Passion instruments frequently depicted in medieval and Renaissance art
 - **Heraldry**: The spear became a symbol in various coats of arms, particularly of cities claiming relic connections
 - **Reliquaries**: Elaborate containers for lance fragments, often shaped like the spear itself
 
@@ -137,7 +137,7 @@ The Holy Lance appears in numerous artistic contexts:
 
 Private devotion to the Holy Lance includes:
 
-**The Chaplet of the Five Wounds**: A devotion focusing on Christ's five principal wounds — the hands, feet, and side. The side wound, being the largest and the source of the Church's sacraments, receives special attention.
+**The Chaplet of the Five Wounds**: A devotion focusing on Christ's five principal wounds: the hands, feet, and side. The side wound, being the largest and the source of the Church's sacraments, receives special attention.
 
 **The Litany of the Passion**: Invocations that include reference to the piercing, such as "By Thy most precious Blood and Water flowing from Thy side, deliver us, O Jesus."
 
@@ -179,13 +179,13 @@ Napoleon deliberately refused to use the Imperial Regalia at his coronation, sym
 
 The Holy Lance has attracted unfortunate attention from **Nazi occultists**, who appropriated medieval legends about the spear's power. Hitler, fascinated by the lance's history, had it removed from Vienna to Nuremberg in 1938 and displayed it as part of Nazi propaganda. American forces recovered the lance in 1945 and returned it to Austria in 1946.
 
-This dark chapter illustrates how relics — objects of Christian devotion — can be perverted for ideological purposes. The Church's teaching on relics as sacramentals (channels of grace for those who approach in faith) stands in sharp contrast to any ideology that would treat them as talismans of worldly power.
+This dark chapter illustrates how relics, objects of Christian devotion, can be perverted for ideological purposes. The Church's teaching on relics as sacramentals (channels of grace for those who approach in faith) stands in sharp contrast to any ideology that would treat them as talismans of worldly power.
 
 ## Conclusion: The Wound That Heals
 
 The Holy Lance, whether approached as a specific relic in Vienna, Rome, or Armenia, or as a symbol meditated upon in prayer, represents one of Christianity's most powerful paradoxes: the wound that heals, the spear that gives life, the violence that reveals love.
 
-In the piercing of Christ's side, the last act of the crucifixion becomes the first revelation of the resurrection life that will follow. The blood and water — Eucharist and Baptism — are given to the Church before the tomb is even sealed. Grace precedes nature; the sacraments flow before the stone is rolled away.
+In the piercing of Christ's side, the last act of the crucifixion becomes the first revelation of the resurrection life that will follow. The blood and water, Eucharist and Baptism, are given to the Church before the tomb is even sealed. Grace precedes nature; the sacraments flow before the stone is rolled away.
 
 St. Thomas Aquinas, in the hymn *Adoro Te Devote*, addresses the wound directly:
 
@@ -194,7 +194,7 @@ St. Thomas Aquinas, in the hymn *Adoro Te Devote*, addresses the wound directly:
 > O Jesus, make me wholly believe in You,
 > And in You may my hope be firmly placed."*
 
-The Holy Lance reminds the faithful that the Church was born not from power or wisdom, but from the wounded side of the crucified Savior. In that wound — physical, historical, terrible — is found the doorway to eternal life.
+The Holy Lance reminds the faithful that the Church was born not from power or wisdom, but from the wounded side of the crucified Savior. In that wound, physical, historical, terrible, is found the doorway to eternal life.
 
 ---
 

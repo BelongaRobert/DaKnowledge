@@ -38,37 +38,37 @@ A Christ-centered prayer that combines vocal prayer (Our Father, Hail Mary, Glor
 
 <h4>Structure of a Decade</h4>
 <div class="prayer-text">
-1. **Announce the Mystery** — Brief reflection on the event
-2. **Our Father** — On the large bead (Jesus' prayer)
-3. **Ten Hail Marys** — Each for a different aspect of the mystery
-4. **Glory Be** — Praise to the Trinity
-5. **Fatima Prayer** — Optional: *"O my Jesus, forgive us our sins..."*
+1. **Announce the Mystery**: Brief reflection on the event
+2. **Our Father**: On the large bead (Jesus' prayer)
+3. **Ten Hail Marys**: Each for a different aspect of the mystery
+4. **Glory Be**: Praise to the Trinity
+5. **Fatima Prayer**: Optional: *"O my Jesus, forgive us our sins..."*
 </div>
 
 <h4>The Four Sets of Mysteries</h4>
 <div class="prayer-text">
-**Joyful Mysteries** — Monday, Saturday
+**Joyful Mysteries**. Monday, Saturday
 - The Annunciation
 - The Visitation
 - The Nativity
 - The Presentation in the Temple
 - The Finding of Jesus in the Temple
 
-**Sorrowful Mysteries** — Tuesday, Friday
+**Sorrowful Mysteries**. Tuesday, Friday
 - The Agony in the Garden
 - The Scourging at the Pillar
 - The Crowning with Thorns
 - The Carrying of the Cross
 - The Crucifixion
 
-**Glorious Mysteries** — Wednesday, Sunday
+**Glorious Mysteries**. Wednesday, Sunday
 - The Resurrection
 - The Ascension
 - The Descent of the Holy Spirit
 - The Assumption of Mary
 - The Coronation of Mary as Queen
 
-**Luminous Mysteries** — Thursday (added by St. John Paul II, 2002)
+**Luminous Mysteries**. Thursday (added by St. John Paul II, 2002)
 - The Baptism in the Jordan
 - The Wedding at Cana
 - The Proclamation of the Kingdom
@@ -78,11 +78,11 @@ A Christ-centered prayer that combines vocal prayer (Our Father, Hail Mary, Glor
 
 <h4>Ways to Pray the Rosary</h4>
 <div class="prayer-text">
-- **Mental prayer mode** — Ponder each mystery deeply, few beads
-- **Communitarian** — With family, parish group, before Mass
-- **Scriptural Rosary** — Read a Bible verse before each Hail Mary
-- **Chaplet of the Rosary** — One decade at a time throughout the day
-- **Perpetual Rosary** — Joining the continuous prayer of the faithful worldwide
+- **Mental prayer mode**: Ponder each mystery deeply, few beads
+- **Communitarian**: With family, parish group, before Mass
+- **Scriptural Rosary**: Read a Bible verse before each Hail Mary
+- **Chaplet of the Rosary**: One decade at a time throughout the day
+- **Perpetual Rosary**: Joining the continuous prayer of the faithful worldwide
 </div>
 
 </div>
@@ -171,22 +171,22 @@ Developed from pilgrims' practice in Jerusalem of walking the Via Dolorosa. The 
 **Structure at each station:**
 1. **Leader:** "We adore You, O Christ, and we praise You."
 2. **All:** "Because by Your holy Cross You have redeemed the world."
-3. **Scripture reading** — From the Passion account
-4. **Meditation** — Reflection on the particular suffering
-5. **Prayer** — Response to what was meditated
+3. **Scripture reading**: From the Passion account
+4. **Meditation**: Reflection on the particular suffering
+5. **Prayer**: Response to what was meditated
 6. **Move to next station**
 
 **Variations:**
-- **Scriptural Stations** (1991, St. John Paul II) — Based solely on Gospel accounts
-- **Way of Light** (Easter Stations) — 14 stations of the Resurrection appearances
+- **Scriptural Stations** (1991, St. John Paul II). Based solely on Gospel accounts
+- **Way of Light** (Easter Stations). 14 stations of the Resurrection appearances
 </div>
 
 <h4>When to Pray</h4>
 <div class="prayer-text">
-- **Lenten Fridays** — Traditional practice
-- **Any Friday** — Particularly during the year
-- **Passion Sunday (Palm Sunday)** — Beginning of Holy Week
-- **Good Friday** — The peak of this devotion
+- **Lenten Fridays**: Traditional practice
+- **Any Friday**: Particularly during the year
+- **Passion Sunday (Palm Sunday)**: Beginning of Holy Week
+- **Good Friday**: The peak of this devotion
 </div>
 
 </div>
@@ -213,19 +213,19 @@ A nine-day period of prayer, imitating the nine days the apostles and Mary spent
 
 <h4>Types of Novenas</h4>
 <div class="prayer-text">
-**Novenas of Preparation** — Leading up to a feast:
+**Novenas of Preparation**. Leading up to a feast:
 - Christmas Novena (St. Andrew's, Nov 30-Dec 24)
 - Divine Mercy Novena (Good Friday to Divine Mercy Sunday)
 - Pentecost Novena (Ascension to Pentecost)
 - Immaculate Conception Novena
 
-**Novenas of Petition** — Asking for particular graces:
+**Novenas of Petition**. Asking for particular graces:
 - Novena to St. Jude (for impossible causes)
 - Novena to St. Joseph (for work, housing, happy death)
 - Novena to the Holy Spirit (for gifts and fruits)
 - Novena to Our Lady of Perpetual Help
 
-**Novenas of Thanksgiving** — Expressing gratitude for favors received
+**Novenas of Thanksgiving**. Expressing gratitude for favors received
 </div>
 
 <h4>Structure</h4>
@@ -240,8 +240,8 @@ Daily format:
 7. Glory Be
 
 **Some novenas are:**
-- **Public** — Prayed together in church (e.g., Our Lady of Perpetual Help)
-- **Private** — Individual devotion at home
+- **Public**: Prayed together in church (e.g., Our Lady of Perpetual Help)
+- **Private**: Individual devotion at home
 </div>
 
 </div>
@@ -274,12 +274,12 @@ A responsive prayer consisting of a series of invocations followed by the same r
 
 <h4>Structure of a Litany</h4>
 <div class="prayer-text">
-- **Kyrie** (Lord, have mercy — Christ, have mercy)
+- **Kyrie** (Lord, have mercy. Christ, have mercy)
 - **Invocations** to the Holy Trinity, Christ under various titles, or the saint
   - *"Lamb of God, who take away the sins of the world..."*
   - *"Heart of Jesus, burning with love..."*
   - *"Pray for us, O holy Mother of God..."*
-- **Closing prayers** — Collect proper to the litany
+- **Closing prayers**: Collect proper to the litany
 </div>
 
 <h4>The Litany of Loreto (Marian)</h4>
@@ -308,12 +308,12 @@ Mystical Rose, Tower of David, Tower of Ivory, House of Gold, Ark of the Covenan
 
 ## Principles of Authentic Devotion
 
-1. **Christological** — Centered on Christ, not just the saint or practice
-2. **Trinitarian** — Recognizing all Three Persons
-3. **Ecclesial** — In communion with the Church's faith
-4. **Grounded in Liturgy** — Flowing from and returning to sacramental celebration
-5. **Transformative** — Leading to conversion of life
-6. **Missionary** — Inspiring apostolic zeal
+1. **Christological**: Centered on Christ, not just the saint or practice
+2. **Trinitarian**: Recognizing all Three Persons
+3. **Ecclesial**: In communion with the Church's faith
+4. **Grounded in Liturgy**: Flowing from and returning to sacramental celebration
+5. **Transformative**: Leading to conversion of life
+6. **Missionary**: Inspiring apostolic zeal
 
 ---
 

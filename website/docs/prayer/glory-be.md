@@ -2,7 +2,7 @@
 
 > *"Glory to the Father, and to the Son, and to the Holy Spirit."*
 
-The Glory Be — also called the **Doxology** — is a hymn of praise to the Holy Trinity. It expresses the eternal glory of God and the Church's faith in the Trinity.
+The Glory Be, also called the **Doxology**, is a hymn of praise to the Holy Trinity. It expresses the eternal glory of God and the Church's faith in the Trinity.
 
 ---
 
@@ -24,24 +24,24 @@ The Glory Be — also called the **Doxology** — is a hymn of praise to the Hol
 
 The Glory Be contains three affirmations:
 
-1. **"Glory be to the Father"** — We ascribe glory to God the Father, source of all being
-2. **"And to the Son"** — We glorify Jesus Christ, the Word made flesh
-3. **"And to the Holy Spirit"** — We honor the Holy Spirit, Lord and Giver of Life
+1. **"Glory be to the Father"**: We ascribe glory to God the Father, source of all being
+2. **"And to the Son"**: We glorify Jesus Christ, the Word made flesh
+3. **"And to the Holy Spirit"**: We honor the Holy Spirit, Lord and Giver of Life
 
 The second part expresses God's **eternity**:
-- **"As it was in the beginning"** — Before time existed
-- **"Is now"** — In the present moment
-- **"Ever shall be, world without end"** — Forever and ever
+- **"As it was in the beginning"**: Before time existed
+- **"Is now"**: In the present moment
+- **"Ever shall be, world without end"**: Forever and ever
 
 ---
 
 ## In the Liturgy
 
 The Glory Be is prayed:
-- In the **Divine Office** (Liturgy of the Hours) — at the end of each psalm
-- In the **Rosary** — after each decade
-- In the **Mass** — in various collects and prayers
-- In **personal prayer** — as a brief doxology
+- In the **Divine Office** (Liturgy of the Hours): at the end of each psalm
+- In the **Rosary**: after each decade
+- In the **Mass**: in various collects and prayers
+- In **personal prayer**: as a brief doxology
 
 ---
 

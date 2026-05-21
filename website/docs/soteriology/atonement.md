@@ -2,7 +2,7 @@
 
 ## Christ's Sacrifice for Sin
 
-The Atonement is the work of Christ in offering Himself on the cross as the perfect sacrifice for the sins of the world. The word "atone" means "to make at one" — and that is precisely what Christ accomplished: He reconciled humanity to God, making peace through the blood of His cross.
+The Atonement is the work of Christ in offering Himself on the cross as the perfect sacrifice for the sins of the world. The word "atone" means "to make at one", and that is precisely what Christ accomplished: He reconciled humanity to God, making peace through the blood of His cross.
 
 > *"God was in Christ reconciling the world to himself, not counting their trespasses against them."*  
 > — 2 Corinthians 5:19
@@ -11,7 +11,7 @@ The Atonement is the work of Christ in offering Himself on the cross as the perf
 
 ## The Problem: Sin and Divine Justice
 
-Human sin is an offense against the infinite majesty of God. Every sin, however small it may seem, strikes at the very heart of reality — it rejects the Source of all being, truth, and goodness.
+Human sin is an offense against the infinite majesty of God. Every sin, however small it may seem, strikes at the very heart of reality, it rejects the Source of all being, truth, and goodness.
 
 Because God is infinite, the offense of sin is **infinite in gravity**. No merely human act can make adequate satisfaction for sin. We cannot undo what we have done; we cannot pay a debt we owe to infinity.
 
@@ -24,7 +24,7 @@ This is the dilemma: God is merciful and desires to forgive, but God is also jus
 
 ## The Answer: The Cross
 
-On the cross, mercy and justice are perfectly united. The Son of God, who is infinite in dignity, offers Himself as the perfect sacrifice. His suffering and death have **infinite merit** — sufficient to cover the sins of all humanity.
+On the cross, mercy and justice are perfectly united. The Son of God, who is infinite in dignity, offers Himself as the perfect sacrifice. His suffering and death have **infinite merit**: sufficient to cover the sins of all humanity.
 
 > *"He is the expiation for our sins, and not for ours only but also for the sins of the whole world."*  
 > — 1 John 2:2
@@ -41,7 +41,7 @@ The Church has proposed several complementary ways of understanding the cross:
 | **Recapitulation** | Christ, as the New Adam, undoes the damage of the first Adam | Romans 5:12-21; 1 Corinthians 15:22 |
 | **Moral Example** | Christ's love on the cross draws us to repentance and transformation | John 12:32; Romans 2:4 |
 
-These are not competing theories but **complementary aspects** of one great mystery. The cross is satisfaction, substitution, ransom, victory, recapitulation, and moral example — all at once.
+These are not competing theories but **complementary aspects** of one great mystery. The cross is satisfaction, substitution, ransom, victory, recapitulation, and moral example, all at once.
 
 ---
 
@@ -71,7 +71,7 @@ Christ's sacrifice is **sufficient for all** but **efficacious only for those wh
 > *"God so loved the world that he gave his only Son, that whoever believes in him should not perish but have eternal life."*  
 > — John 3:16
 
-This is not a limitation on God's love but a recognition of human freedom. God respects our freedom even to reject His grace — though He continually calls us to repentance.
+This is not a limitation on God's love but a recognition of human freedom. God respects our freedom even to reject His grace, though He continually calls us to repentance.
 
 ---
 

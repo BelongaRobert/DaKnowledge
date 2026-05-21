@@ -22,7 +22,7 @@ As **Prophet**, Jesus reveals the Father. He is the perfect teacher who speaks w
 Christ's prophetic office continues in the Church through the preaching of the Gospel, the teaching of the Magisterium, and the illumination of the Holy Spirit.
 
 ### Priest
-As **Priest**, Jesus offers the perfect sacrifice. He is both the priest who offers and the victim who is offered. On the cross, He offers Himself to the Father for the sins of the world. This sacrifice is **once for all** — it can never be repeated or supplemented.
+As **Priest**, Jesus offers the perfect sacrifice. He is both the priest who offers and the victim who is offered. On the cross, He offers Himself to the Father for the sins of the world. This sacrifice is **once for all**: it can never be repeated or supplemented.
 
 > *"When Christ had offered for all time a single sacrifice for sins, he sat down at the right hand of God."*  
 > — Hebrews 10:12
@@ -42,7 +42,7 @@ Christ's kingly office continues in the Church as she extends His reign through 
 ## The Redemption: Soteriological Themes
 
 ### Ransom
-Christ's death is a **ransom** — He pays the price to liberate humanity from slavery to sin, death, and the devil.
+Christ's death is a **ransom**. He pays the price to liberate humanity from slavery to sin, death, and the devil.
 
 > *"You were bought with a price."*  
 > — 1 Corinthians 6:20
@@ -53,21 +53,21 @@ The price is not paid to the devil (as some ancient theories suggested) but to G
 Building on the theology of St. Anselm, the Church teaches that Christ's sacrifice is a **satisfaction** for sin. Human sin offended the infinite majesty of God; only an infinite sacrifice could make adequate satisfaction. The God-man, Jesus Christ, offers precisely this infinite satisfaction.
 
 ### Substitution
-Christ died **in our place** — the just for the unjust (1 Peter 3:18). This is not a crude exchange but a loving identification: the Son takes upon Himself the consequences of human sin, bearing the wrath we deserved, so that we might receive the grace He merited.
+Christ died **in our place**: the just for the unjust (1 Peter 3:18). This is not a crude exchange but a loving identification: the Son takes upon Himself the consequences of human sin, bearing the wrath we deserved, so that we might receive the grace He merited.
 
 ### Victory
-On the cross, Christ defeats the powers of sin, death, and Satan. This is the **Christus Victor** theme — Christ as conqueror.
+On the cross, Christ defeats the powers of sin, death, and Satan. This is the **Christus Victor** theme. Christ as conqueror.
 
 > *"He disarmed the principalities and powers and made a public example of them, triumphing over them in him."*  
 > — Colossians 2:15
 
-The resurrection is the manifestation of this victory — death could not hold the Author of life.
+The resurrection is the manifestation of this victory: death could not hold the Author of life.
 
 ---
 
 ## The Paschal Mystery
 
-The Church gathers all these aspects into the **Paschal Mystery** — the passion, death, resurrection, and ascension of Christ. These are not separate events but one saving work:
+The Church gathers all these aspects into the **Paschal Mystery**: the passion, death, resurrection, and ascension of Christ. These are not separate events but one saving work:
 
 | Event | Meaning |
 |-------|---------|
@@ -82,10 +82,10 @@ The Church gathers all these aspects into the **Paschal Mystery** — the passio
 
 Christ's work has **infinite merit** because the person who accomplished it is divine. His merits are the source of all grace:
 
-- **Sanctifying grace** — the life of God in the soul
-- **Theological virtues** — faith, hope, and charity
-- **Gifts of the Holy Spirit** — wisdom, understanding, counsel, fortitude, knowledge, piety, fear of the Lord
-- **Actual graces** — the divine assistance for every good work
+- **Sanctifying grace**: the life of God in the soul
+- **Theological virtues**: faith, hope, and charity
+- **Gifts of the Holy Spirit**: wisdom, understanding, counsel, fortitude, knowledge, piety, fear of the Lord
+- **Actual graces**: the divine assistance for every good work
 
 The Church applies these merits through the sacraments, prayer, and the communion of saints.
 

@@ -27,7 +27,7 @@
 **Robert's Response:**
 > "No one could ever dedicate enough time, space, and money; but we strive for it, for in giving do we receive, only in how we act will there be salvation. I try and I cry."
 
-**Reflection:** Deep humility—recognizing human limitations in the face of infinite calling. Echoes the spiritual principle of sacrificial giving ("in giving do we receive"). The phrase "I try and I cry" captures the struggle and sincerity of the spiritual journey.
+**Reflection:** Deep humility, recognizing human limitations in the face of infinite calling. Echoes the spiritual principle of sacrificial giving ("in giving do we receive"). The phrase "I try and I cry" captures the struggle and sincerity of the spiritual journey.
 
 ---
 
@@ -39,7 +39,7 @@
 **Robert's Response:**
 > "Escuchanlos -> Listen to them and know you are equally as guilty, if not today or yesterday, but maybe tomorrow. Tell them you love them."
 
-**Reflection:** Radical humility in correction—approaching others with awareness of one's own fallen nature. Prioritizes relationship and love over judgment. "Tell them you love them" as the foundation for any correction.
+**Reflection:** Radical humility in correction, approaching others with awareness of one's own fallen nature. Prioritizes relationship and love over judgment. "Tell them you love them" as the foundation for any correction.
 
 ---
 
@@ -53,7 +53,7 @@
 **Robert's Response:**
 > "I never volunteered or signed up to help, but I shan't hesitate when asked. I always help when I can and it feels right."
 
-**Reflection:** Humble availability—open to serving without seeking recognition. Responsive obedience rather than self-appointed leadership. Trusts inner discernment ("when it feels right") guided by the Spirit.
+**Reflection:** Humble availability, open to serving without seeking recognition. Responsive obedience rather than self-appointed leadership. Trusts inner discernment ("when it feels right") guided by the Spirit.
 
 ---
 
@@ -65,7 +65,7 @@
 **Robert's Response:**
 > "By always showing up and being prepared when it is my time/turn to be an Usher."
 
-**Reflection:** Faithfulness in the "small" things—presence and punctuality as spiritual discipline. The ministry of showing up. Being an Usher as a sacred role of welcome and order.
+**Reflection:** Faithfulness in the "small" things, presence and punctuality as spiritual discipline. The ministry of showing up. Being an Usher as a sacred role of welcome and order.
 
 ---
 
@@ -80,20 +80,20 @@
 **Robert's Response:**
 > "It began with a woman, how now transitioned to a wife. But my faith now lies with our Lord. I have found a calming in where I can hear and listen to people. Lord grace me with your patience and love for all things."
 
-**Reflection:** Journey from worldly attachment to spiritual devotion. Marriage as part of the sanctification journey. The gift of listening—calming presence for others. Prayer for patience and universal love (agape).
+**Reflection:** Journey from worldly attachment to spiritual devotion. Marriage as part of the sanctification journey. The gift of listening, calming presence for others. Prayer for patience and universal love (agape).
 
 ---
 
 ## Themes Emerged
 
-1. **Trust in Providence** — Surrendering outcomes to God (house search)
-2. **Imperfect Striving** — "I try and I cry" — the authentic struggle of faith
-3. **Humility in Correction** — Knowing we share the same fallen nature
-4. **Love as Foundation** — Leading with love before doctrine
-5. **Sacrificial Giving** — Time, space, money as acts of worship
-6. **Responsive Availability** — Serving when asked, not self-appointed
-7. **Faithfulness in Small Things** — Showing up, being prepared as Usher
-8. **Journey to Holiness** — From attachment to devotion; listening as ministry
+1. **Trust in Providence**: Surrendering outcomes to God (house search)
+2. **Imperfect Striving**: "I try and I cry", the authentic struggle of faith
+3. **Humility in Correction**: Knowing we share the same fallen nature
+4. **Love as Foundation**: Leading with love before doctrine
+5. **Sacrificial Giving**: Time, space, money as acts of worship
+6. **Responsive Availability**: Serving when asked, not self-appointed
+7. **Faithfulness in Small Things**: Showing up, being prepared as Usher
+8. **Journey to Holiness**: From attachment to devotion; listening as ministry
 
 ---
 
