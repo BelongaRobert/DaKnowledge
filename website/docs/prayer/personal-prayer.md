@@ -1,5 +1,3 @@
-<div class="rosary-page">
-
 # Personal Prayer
 
 > *"Prayer is the raising of one's mind and heart to God."*  
@@ -19,16 +17,10 @@ Personal prayer flows from the conviction that God is present, listens, and resp
 
 ---
 
-<div class="expandable-section" onclick="this.classList.toggle('expanded')">
-<div class="expandable-header">
-<h3>🗣️ Types of Personal Prayer</h3>
-<span class="toggle-icon">▼</span>
-</div>
-<div class="expandable-content">
+## Types of Personal Prayer
 
-<div class="prayer-card">
-<h4>Vocal Prayer</h4>
-<div class="prayer-text">
+### Vocal Prayer
+
 Prayer expressed in words, whether spoken aloud or silently recited. Using our lips and mind to address God:
 
 - **Spontaneous prayer**: Speaking to God in our own words
@@ -36,10 +28,9 @@ Prayer expressed in words, whether spoken aloud or silently recited. Using our l
 - **Psalms**: The prayer book of the Church
 
 > *"Vocal prayer is an essential element of the Christian life. To his disciples, drawn by their longing for God, Jesus taught a simple prayer, the Our Father."* — CCC, §2700
-</div>
 
-<h4>Meditation (Mental Prayer)</h4>
-<div class="prayer-text">
+### Meditation (Mental Prayer)
+
 Engaging the mind, imagination, emotions, and will to ponder God's truth:
 
 1. **Lectio Divina**: Sacred reading (Scripture → meditation → prayer → contemplation)
@@ -47,32 +38,19 @@ Engaging the mind, imagination, emotions, and will to ponder God's truth:
 3. **Discursive meditation**: Reasoning about God's attributes, works, or presence
 
 > *"Meditation is above all a quest. The mind seeks to understand the why and how of the Christian life, in order to adhere and respond to what the Lord is asking."* — CCC, §2705
-</div>
 
-<h4>Contemplative Prayer</h4>
-<div class="prayer-text">
+### Contemplative Prayer
+
 Simple gaze of love upon God, beyond words and concepts. The prayer of "being with" rather than "doing for."
 
 > *"Contemplative prayer is the prayer of the child of God, of the forgiven sinner who agrees to welcome the love by which he is loved and who wants to respond to it by loving even more."* — CCC, §2712
-</div>
-
-</div>
-
-</div>
-</div>
 
 ---
 
-<div class="expandable-section" onclick="this.classList.toggle('expanded')">
-<div class="expandable-header">
-<h3>📖 Lectio Divina: Sacred Reading</h3>
-<span class="toggle-icon">▼</span>
-</div>
-<div class="expandable-content">
+## Lectio Divina: Sacred Reading
 
-<div class="prayer-card">
-<h4>The Four Steps</h4>
-<div class="prayer-text">
+### The Four Steps
+
 **1. Lectio (Reading)**
 Read a short passage of Scripture slowly, aloud if possible. Listen for the word or phrase that catches your attention.
 
@@ -84,44 +62,30 @@ Respond to God. Speak to him about what you've read and what it stirs in you. Th
 
 **4. Contemplatio (Contemplation)**
 Rest in God's presence. Simply be with him, beyond words. Receive his love and gaze upon him in return.
-</div>
 
-<h4>Recommended Scripture for Beginners</h4>
-<div class="prayer-text">
+### Recommended Scripture for Beginners
+
 - **Psalm 23**: The Lord is my shepherd
 - **Psalm 42**: As the deer longs for streams of water
 - **Matthew 6:25-34**: Do not worry about your life
 - **Luke 10:38-42**: Martha and Mary
 - **John 14:1-7**: The way, the truth, and the life
-</div>
-
-</div>
-
-</div>
-</div>
 
 ---
 
-<div class="expandable-section" onclick="this.classList.toggle('expanded')">
-<div class="expandable-header">
-<h3>⏰ Finding Time for Personal Prayer</h3>
-<span class="toggle-icon">▼</span>
-</div>
-<div class="expandable-content">
+## Finding Time for Personal Prayer
 
-<div class="prayer-card">
-<h4>The "Holy Half Hour"</h4>
-<div class="prayer-text">
+### The "Holy Half Hour"
+
 Set aside 30 minutes daily for personal prayer. Structure it:
 
 - **5 minutes**: Quiet and recollection
 - **10 minutes**: Scripture reading (Lectio Divina)
 - **10 minutes**: Mental prayer or meditation
 - **5 minutes**: Thanksgiving and resolutions
-</div>
 
-<h4>Moments Throughout the Day</h4>
-<div class="prayer-text">
+### Moments Throughout the Day
+
 **Morning Offering**. Surrender the day to God
 
 **Morning commute/walk**. The Rosary or memorized prayers
@@ -133,41 +97,27 @@ Set aside 30 minutes daily for personal prayer. Structure it:
 **Evening**. Examination of conscience and Act of Contrition
 
 **Night Prayer**. Thanksgiving and entrustment to God's care
-</div>
 
-<h4>The Practice of the Presence of God</h4>
-<div class="prayer-text">
+### The Practice of the Presence of God
+
 Brother Lawrence taught that we can pray continually by maintaining awareness of God's presence in every task:
 
 > *"The time of business does not with me differ from the time of prayer; and in the noise and clatter of my kitchen, while several persons are at the same time calling for different things, I possess God in as great tranquility as if I were upon my knees at the Blessed Sacrament."*
-</div>
-
-</div>
-
-</div>
-</div>
 
 ---
 
-<div class="expandable-section" onclick="this.classList.toggle('expanded')">
-<div class="expandable-header">
-<h3>📝 Aids to Personal Prayer</h3>
-<span class="toggle-icon">▼</span>
-</div>
-<div class="expandable-content">
+## Aids to Personal Prayer
 
-<div class="prayer-card">
-<h4>Spiritual Reading</h4>
-<div class="prayer-text">
+### Spiritual Reading
+
 - **Introduction to the Devout Life**: St. Francis de Sales
 - **The Imitation of Christ**: Thomas à Kempis
 - **Story of a Soul**: St. Thérèse of Lisieux
 - **Confessions**: St. Augustine
 - **The Practice of the Presence of God**: Brother Lawrence
-</div>
 
-<h4>Keeping a Prayer Journal</h4>
-<div class="prayer-text">
+### Keeping a Prayer Journal
+
 Writing can help focus thoughts and track God's work in your soul:
 
 - Record Scripture verses that struck you
@@ -175,22 +125,15 @@ Writing can help focus thoughts and track God's work in your soul:
 - Write down insights from spiritual reading
 - Track progress in virtue and struggles with sin
 - Record dreams or reflections on God's providence
-</div>
 
-<h4>Sacred Space</h4>
-<div class="prayer-text">
+### Sacred Space
+
 Create a prayer corner in your home:
 - Crucifix or religious image
 - Bible and prayer book
 - Candle (if safe)
 - Comfortable chair or kneeler
 - Quiet location, free from distractions
-</div>
-
-</div>
-
-</div>
-</div>
 
 ---
 
@@ -203,5 +146,3 @@ Personal prayer is the school where we learn to love God and hear his voice. It 
 ---
 
 **[← Back to Forms of Prayer](../index.md#forms-of-prayer)**
-
-</div>

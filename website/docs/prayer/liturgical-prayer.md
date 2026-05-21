@@ -1,5 +1,3 @@
-<div class="rosary-page">
-
 # Liturgical Prayer
 
 > *"The Church's public prayer, celebrated by the baptized assembled for worship, is the prayer of Christ himself, the high priest, together with his Body which is the Church."*  
@@ -15,16 +13,10 @@ The Holy Mass is the center of liturgical prayer. In it, Christ's sacrifice on C
 
 ---
 
-<div class="expandable-section" onclick="this.classList.toggle('expanded')">
-<div class="expandable-header">
-<h3>🕯️ The Mass Structure</h3>
-<span class="toggle-icon">▼</span>
-</div>
-<div class="expandable-content">
+## The Mass Structure
 
-<div class="prayer-card">
-<h4>The Liturgy of the Word</h4>
-<div class="prayer-text">
+### The Liturgy of the Word
+
 The Mass begins with prayers of preparation, followed by readings from Scripture:
 
 1. **First Reading**: Usually from the Old Testament
@@ -35,10 +27,9 @@ The Mass begins with prayers of preparation, followed by readings from Scripture
 6. **Homily**: Breaking open the Word
 7. **Profession of Faith**: The Nicene Creed
 8. **Universal Prayer (Prayer of the Faithful)**: Intercessions for the Church and world
-</div>
 
-<h4>The Liturgy of the Eucharist</h4>
-<div class="prayer-text">
+### The Liturgy of the Eucharist
+
 The offering and consecration of bread and wine:
 
 1. **Presentation of the Gifts**: Bread, wine, and alms
@@ -52,30 +43,17 @@ The offering and consecration of bread and wine:
 3. **Communion Rite**: The Lord's Prayer, sign of peace, breaking of bread
 4. **Distribution of Communion**
 5. **Prayer After Communion and Dismissal**
-</div>
-
-</div>
-
-</div>
-</div>
 
 ---
 
-<div class="expandable-section" onclick="this.classList.toggle('expanded')">
-<div class="expandable-header">
-<h3>📖 The Divine Office (Liturgy of the Hours)</h3>
-<span class="toggle-icon">▼</span>
-</div>
-<div class="expandable-content">
+## The Divine Office (Liturgy of the Hours)
 
-<div class="prayer-card">
-<h4>What is the Divine Office?</h4>
-<div class="prayer-text">
+### What is the Divine Office?
+
 The Divine Office is the Church's daily prayer, sanctifying the hours of the day. Clergy and religious are obligated to pray it; laity are encouraged to participate. It consists mainly of Psalms, readings, hymns, and prayers.
-</div>
 
-<h4>The Seven Hours</h4>
-<div class="prayer-text">
+### The Seven Hours
+
 Traditionally prayed at:
 
 - **Matins (Office of Readings)**: Night/Dawn
@@ -93,10 +71,9 @@ The current Liturgy of the Hours combines these into:
 - Daytime Prayer (Terce/Sext/None)
 - Evening Prayer (Vespers)
 - Night Prayer (Compline)
-</div>
 
-<h4>Structure of Each Hour</h4>
-<div class="prayer-text">
+### Structure of Each Hour
+
 1. **Opening verse**: "O God, come to my assistance..."
 2. **Hymn**: Proper to the liturgical season
 3. **Psalmody**: Psalms with antiphons
@@ -107,25 +84,13 @@ The current Liturgy of the Hours combines these into:
 8. **Our Father**
 9. **Concluding Prayer**
 10. **Dismissal**
-</div>
-
-</div>
-
-</div>
-</div>
 
 ---
 
-<div class="expandable-section" onclick="this.classList.toggle('expanded')">
-<div class="expandable-header">
-<h3>💒 The Sacraments</h3>
-<span class="toggle-icon">▼</span>
-</div>
-<div class="expandable-content">
+## The Sacraments
 
-<div class="prayer-card">
-<h4>Seven Sacraments</h4>
-<div class="prayer-text">
+### Seven Sacraments
+
 **Sacraments of Initiation:**
 1. **Baptism**: Birth into new life in Christ
 2. **Confirmation**: Sealed with the Holy Spirit
@@ -138,64 +103,44 @@ The current Liturgy of the Hours combines these into:
 **Sacraments at the Service of Communion:**
 6. **Holy Orders**: Consecrated ministry
 7. **Matrimony**: Union of spouses
-</div>
 
-<h4>Sacramentals</h4>
-<div class="prayer-text">
+### Sacramentals
+
 Sacred signs instituted by the Church that prepare us to receive grace:
 - Holy water
 - Blessings
 - Sign of the Cross
 - Medals and scapulars
 - Liturgical blessings of persons, places, and objects
-</div>
-
-</div>
-
-</div>
-</div>
 
 ---
 
-<div class="expandable-section" onclick="this.classList.toggle('expanded')">
-<div class="expandable-header">
-<h3>📅 Liturgical Year and Calendar</h3>
-<span class="toggle-icon">▼</span>
-</div>
-<div class="expandable-content">
+## Liturgical Year and Calendar
 
-<div class="prayer-card">
-<h4>The Seasons of the Church Year</h4>
-<div class="prayer-text">
-**Advent** (4 weeks before Christmas). Preparation for Christ's coming
+### The Seasons of the Church Year
 
-**Christmas** (Dec 25 - Jan 6/Baptism of the Lord). The Incarnation
+**Advent** (4 weeks before Christmas): Preparation for Christ's coming
 
-**Ordinary Time** (After Epiphany). Growth in discipleship
+**Christmas** (Dec 25 - Jan 6/Baptism of the Lord): The Incarnation
 
-**Lent** (40 days before Easter). Penance and preparation
+**Ordinary Time** (After Epiphany): Growth in discipleship
 
-**Holy Week**. Christ's Passion and Death
+**Lent** (40 days before Easter): Penance and preparation
 
-**Easter** (50 days). The Resurrection and Ascension
+**Holy Week**: Christ's Passion and Death
 
-**Pentecost**. The Holy Spirit and the Church's birth
+**Easter** (50 days): The Resurrection and Ascension
 
-**Ordinary Time** (After Pentecost). Living the Christian life
-</div>
+**Pentecost**: The Holy Spirit and the Church's birth
 
-<h4>Solemnities, Feasts, and Memorials</h4>
-<div class="prayer-text">
+**Ordinary Time** (After Pentecost): Living the Christian life
+
+### Solemnities, Feasts, and Memorials
+
 - **Solemnities**: Highest rank (Christmas, Easter, Pentecost, Trinity Sunday, Corpus Christi, etc.)
 - **Feasts**: Important celebrations (apostles, major saints)
 - **Memorials**: Optional or obligatory remembrance of saints
 - **Ferial days**: Weekdays without special observance
-</div>
-
-</div>
-
-</div>
-</div>
 
 ---
 
@@ -209,5 +154,3 @@ Liturgical prayer requires **active participation**: not just attendance, but fu
 ---
 
 **[← Back to Forms of Prayer](../index.md#forms-of-prayer)**
-
-</div>
