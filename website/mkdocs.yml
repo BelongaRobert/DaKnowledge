@@ -3,6 +3,7 @@ site_description: Biblical Theology Knowledge Base
 site_url: https://belongarobert.github.io/DaKnowledge/
 theme:
   name: material
+  custom_dir: overrides
   palette:
     - scheme: default
       primary: red
@@ -20,7 +21,7 @@ theme:
     text: Georgia
     code: Roboto Mono
   logo: assets/images/banner-emmaus.jpg
-  favicon: assets/images/banner-emmaus.jpg
+  favicon: assets/images/crucifix.svg
 extra_css:
   - stylesheets/extra.css
 nav:
