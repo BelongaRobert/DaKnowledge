@@ -118,22 +118,11 @@ Brother Lawrence taught that we can pray continually by maintaining awareness of
 
 ### Keeping a Prayer Journal
 
-Writing can help focus thoughts and track God's work in your soul:
-
-- Record Scripture verses that struck you
-- Note answered prayers
-- Write down insights from spiritual reading
-- Track progress in virtue and struggles with sin
-- Record dreams or reflections on God's providence
+Writing can help focus thoughts and track God's work in your soul. You might record Scripture verses that struck you, note answered prayers, write down insights from spiritual reading, track your progress in virtue and struggles with sin, and record dreams or reflections on God's providence.
 
 ### Sacred Space
 
-Create a prayer corner in your home:
-- Crucifix or religious image
-- Bible and prayer book
-- Candle (if safe)
-- Comfortable chair or kneeler
-- Quiet location, free from distractions
+Create a prayer corner in your home with a crucifix or religious image, a Bible and prayer book, a candle if it is safe to burn one, a comfortable chair or kneeler, and a quiet location free from distractions.
 
 ---
 

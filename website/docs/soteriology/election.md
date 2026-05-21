@@ -79,9 +79,7 @@ The Church does not teach that God predestines anyone to hell. Rather, hell is t
 
 The doctrine of election is not meant to produce anxiety ("Am I elect?") but **confidence and humility**.
 
-- **Confidence**: If we are in Christ, if we have faith, if we are baptized, we have reason to hope in God's electing love.
-- **Humility**: Our salvation is not our own achievement but God's gift from eternity.
-- **Gratitude**: We are overwhelmed by the knowledge that God loved us before we existed.
+This truth should fill the believer with quiet confidence, for if we are in Christ, if we have faith, if we are baptized, we have every reason to hope in God's electing love. At the same time, it breeds deep humility, since our salvation is not our own achievement but God's gift from eternity, and overwhelming gratitude that He loved us before we ever existed.
 
 > *"We love, because he first loved us."*  
 > — 1 John 4:19

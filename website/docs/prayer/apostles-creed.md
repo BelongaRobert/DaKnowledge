@@ -47,13 +47,7 @@ His saving work in twelve stages:
 11. **Will come to judge**: Second coming
 
 ### Article 3: The Holy Spirit
-The Spirit's work in the Church:
-- **The Holy Spirit**: Third Person of the Trinity
-- **The holy catholic Church**: Universal communion
-- **The communion of saints**: Unity of all believers
-- **The forgiveness of sins**: Sacramental grace
-- **The resurrection of the body**: Future glory
-- **Life everlasting**: Eternal beatitude
+The Spirit's work in the Church affirms the Holy Spirit as the Third Person of the Trinity, the holy catholic Church as the universal communion of believers, the communion of saints as the unity of all believers in Christ, the forgiveness of sins through sacramental grace, the resurrection of the body in future glory, and life everlasting as eternal beatitude.
 
 ---
 
@@ -65,10 +59,7 @@ The Apostles' Creed developed from the baptismal questions asked of converts in 
 
 ## Use Today
 
-- **Baptism**: The creed is professed by candidates and godparents
-- **The Rosary**: Prayed at the beginning of the five decades
-- **Morning and Evening Prayer**: In the Liturgy of the Hours
-- **Catechesis**: The foundation of Christian teaching
+Today the creed is professed by candidates and godparents at Baptism, prayed at the beginning of the five decades of the Rosary, recited during Morning and Evening Prayer in the Liturgy of the Hours, and used as the foundation of Christian teaching in catechesis.
 
 ---
 

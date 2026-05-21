@@ -30,11 +30,7 @@ This definition uses four crucial negatives:
 
 The Son, the second person of the Trinity, assumed human nature without ceasing to be God. Scripture affirms this in many ways:
 
-- He is called **"God"** (John 1:1, Romans 9:5, Titus 2:13, Hebrews 1:8)
-- He forgives sins, which only God can do (Mark 2:7, 10)
-- He claims unity with the Father: **"I and the Father are one"** (John 10:30)
-- Thomas confesses Him: **"My Lord and my God!"** (John 20:28)
-- The Father calls Him **"God"** (Hebrews 1:8-9, quoting Psalm 45)
+He is called **"God"** in the prologue of John's Gospel, in Romans, Titus, and Hebrews; He forgives sins, which only God can do; He claims unity with the Father, declaring **"I and the Father are one"**; Thomas kneels before Him in worship, confessing **"My Lord and my God!"**; and the Father Himself addresses Him as **"God"** in the words of Psalm 45, as the author of Hebrews records.
 
 The Church's faith is clear: the person of Jesus **is** the eternal Son of God.
 
@@ -61,9 +57,7 @@ The Church teaches that Christ's human will was always perfectly obedient to His
 
 Because the two natures are united in one person, the Church speaks of a **communication of idioms** (properties). This means that what can be said of either nature can be said of the one person:
 
-- The Son of God **died on the cross** (speaking of His human nature)
-- A man **sits at the right hand of the Father** (speaking of His divine nature)
-- **God was born of Mary** (speaking of the person)
+The Son of God **died on the cross**, speaking of His human nature; a man **sits at the right hand of the Father**, speaking of His divine nature; and **God was born of Mary**, speaking of the person.
 
 This is not a confusion of natures but a recognition that predicates apply to the **person** who possesses both natures.
 

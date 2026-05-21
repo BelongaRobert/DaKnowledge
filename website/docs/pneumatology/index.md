@@ -29,9 +29,7 @@ To lie to the Spirit is to lie to God (Acts 5:4). To grieve the Spirit is to gri
 
 The Holy Spirit is **co-eternal and co-equal** with the Father and the Son. He is not created, not subordinate, not less divine.
 
-- The Father is the **source**: unoriginate origin
-- The Son is **begotten** of the Father
-- The Spirit **proceeds** from the Father and the Son (Filioque)
+The Father is the unoriginate source; the Son is eternally begotten of the Father; and the Spirit proceeds from the Father and the Son, as the Church confesses in the Filioque.
 
 This order of relations (*taxis*) does not imply hierarchy of being. All three persons share one divine essence, one divine will, one divine power.
 

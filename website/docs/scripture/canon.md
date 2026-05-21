@@ -17,10 +17,7 @@ The Catholic Old Testament contains **46 books**, including those sometimes call
 The Protestant Old Testament follows the **Hebrew canon** (24 books, roughly equivalent to 39 in English Bibles), which was standardized by Jewish rabbis around 100 AD. The Catholic Old Testament follows the **Septuagint**: the Greek translation of the Hebrew Scriptures used by Jews in the Diaspora and by the early Church.
 
 ### Why the Catholic Canon Includes the Deuterocanonical Books
-1. **Jesus and the apostles used the Septuagint**: the New Testament quotes the Old Testament predominantly from the Greek text, which includes these books.
-2. **The early Church accepted them**: Church Fathers like St. Augustine, St. Cyprian, and St. Jerome (though with some hesitation) recognized these books as Scripture.
-3. **The Councils of Hippo (393) and Carthage (397)**: among the earliest Church councils, affirmed the 46-book canon.
-4. **The Council of Trent (1546)**: definitively defined the Catholic canon in response to Protestant challenges.
+The Catholic canon includes the deuterocanonical books because Jesus and the apostles used the Septuagint, and the New Testament quotes the Old Testament predominantly from the Greek text, which includes these books. The early Church accepted them as well; Church Fathers like St. Augustine, St. Cyprian, and St. Jerome (though with some hesitation) recognized these books as Scripture. Among the earliest Church councils, Hippo (393) and Carthage (397) affirmed the 46-book canon, and the Council of Trent (1546) definitively defined the Catholic canon in response to Protestant challenges.
 
 ### The Old Testament Books
 
@@ -35,12 +32,7 @@ The Protestant Old Testament follows the **Hebrew canon** (24 books, roughly equ
 
 ## The New Testament Canon
 
-The New Testament contains **27 books**, written between approximately 50-100 AD. These books were recognized as Scripture by the early Church because:
-
-1. **Apostolic origin**: They were written by apostles or their close associates
-2. **Orthodoxy**: They conformed to the apostolic faith handed down in the Church
-3. **Catholicity**: They were accepted by the universal Church, not just isolated communities
-4. **Inspiration**: They were recognized as bearing the marks of divine authorship
+The New Testament contains **27 books**, written between approximately 50-100 AD. These books were recognized as Scripture by the early Church because they were written by apostles or their close associates, conformed to the apostolic faith handed down in the Church, were accepted by the universal Church rather than just isolated communities, and bore the marks of divine authorship.
 
 ### The New Testament Books
 

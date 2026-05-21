@@ -23,10 +23,7 @@ Through Adam's transgression, humanity lost original holiness and justice. We ar
 Beyond the inherited wound of original sin, each person commits **actual sins**: thoughts, words, deeds, and omissions contrary to God's law. These sins further damage our relationship with God and neighbor.
 
 ### The Effects of Sin
-- **Separation from God**: sin breaks communion
-- **Loss of grace**: sanctifying grace is expelled from the soul
-- **Wounding of nature**: the intellect darkens, the will weakens, the passions rebel
-- **Eternal consequences**: unrepented mortal sin results in eternal separation from God (hell)
+Sin wounds the soul at every level. It breaks communion with God, severing the relationship that is our very life. Sanctifying grace is expelled from the soul, leaving it in a state of spiritual poverty. Our nature itself is wounded: the intellect darkens, the will weakens, and the passions rebel against right reason. When mortal sin persists unrepented, the consequences are eternal, resulting in a final separation from God that Scripture calls hell.
 
 ---
 

@@ -52,13 +52,7 @@ This work of the Spirit did not override human freedom or erase human personalit
 
 ## The Human Authors
 
-The sacred writers were real people in real historical situations:
-- **Moses**: educated in Pharaoh's court, wrote in the context of Israel's covenant
-- **David**: a king and poet, wrote from the experience of war, worship, and repentance
-- **Isaiah**: a prophet in Jerusalem, spoke to the political crises of Judah
-- **St. Matthew**: a Jewish tax collector, wrote for a Jewish-Christian audience
-- **St. Luke**: a Gentile physician, wrote with careful historical research
-- **St. Paul**: a Pharisee and missionary, wrote letters to specific communities with specific problems
+The sacred writers were real people in real historical situations. Moses was educated in Pharaoh's court and wrote in the context of Israel's covenant. David, a king and poet, wrote from the experience of war, worship, and repentance. Isaiah was a prophet in Jerusalem who spoke to the political crises of Judah. St. Matthew, a Jewish tax collector, wrote for a Jewish-Christian audience. St. Luke, a Gentile physician, wrote with careful historical research. St. Paul, a Pharisee and missionary, wrote letters to specific communities with specific problems.
 
 Their humanity is not a defect in Scripture but part of its beauty. God stoops to speak through human language, human culture, and human experience, making His Word accessible to us.
 
@@ -69,14 +63,10 @@ Their humanity is not a defect in Scripture but part of its beauty. God stoops t
 The Church teaches that Scripture is **inerrant**: free from error in all that it affirms.
 
 ### What Inerrancy Means
-- The Bible teaches the truth God intended to reveal for salvation
-- The Bible does not deceive or mislead
-- The Bible is reliable in matters of faith and morals
+Inerrancy means that the Bible teaches the truth God intended to reveal for salvation, does not deceive or mislead, and is reliable in matters of faith and morals.
 
 ### What Inerrancy Does Not Mean
-- The Bible is not a scientific textbook (it uses ancient cosmological language)
-- The Bible is not a modern historical chronicle (it uses various literary genres)
-- The Bible must be interpreted according to the genres and intentions of the sacred authors
+Inerrancy does not mean the Bible is a scientific textbook or a modern historical chronicle, since it uses ancient cosmological language and various literary genres. It must be interpreted according to the genres and intentions of the sacred authors.
 
 > *"The Bible is not a collection of ancient documents for archaeologists and historians to study; it is the living Word of God, addressed to the People of God."*  
 > — Pope Benedict XVI

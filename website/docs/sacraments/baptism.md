@@ -50,8 +50,7 @@ Baptism imprints an **indelible spiritual mark** (character) on the soul. This m
 ## The Matter and Form
 
 The sacrament consists of:
-- **Matter**: Water: the element of purification and life
-- **Form**: The Trinitarian formula. *"I baptize you in the name of the Father, and of the Son, and of the Holy Spirit"* (Matthew 28:19)
+The **matter** is water, that ancient element of purification and life, and the **form** is the Trinitarian formula: *"I baptize you in the name of the Father, and of the Son, and of the Holy Spirit"* (Matthew 28:19).
 
 The water can be poured, the person can be immersed, or water can be sprinkled: all are valid if the intention is to do what the Church does.
 
@@ -73,8 +72,7 @@ Infant Baptism is not mere ritual. It is the **supernatural birth** of a child i
 
 The Church teaches that Baptism is **necessary for salvation** for those to whom the Gospel has been proclaimed and who have the possibility of requesting it. However, God's mercy is not limited to visible sacraments:
 
-- **Baptism of blood**: martyrdom for Christ before receiving Baptism
-- **Baptism of desire**: explicit or implicit desire for Baptism, coupled with repentance and charity
+The Church also recognizes **Baptism of blood**, when a person dies as a martyr for Christ before being able to receive the sacrament, and **Baptism of desire**, when someone holds an explicit or implicit longing for Baptism together with repentance and charity.
 
 > *"God has bound salvation to the sacrament of Baptism, but he himself is not bound by his sacraments."*  
 > — Catechism of the Catholic Church, 1257

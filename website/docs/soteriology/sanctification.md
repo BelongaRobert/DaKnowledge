@@ -45,11 +45,7 @@ The Spirit's work in sanctification includes:
 
 ### The Sacraments
 The sacraments are the **ordinary channels** of sanctifying grace:
-- **Baptism**: initiates the life of grace
-- **Confirmation**: strengthens for spiritual battle
-- **Eucharist**: nourishes with the Body and Blood of Christ
-- **Reconciliation**: restores grace lost by sin
-- **Anointing of the Sick**: heals and prepares for eternity
+Baptism initiates the life of grace, Confirmation strengthens the believer for spiritual battle, the Eucharist nourishes with the very Body and Blood of Christ, Reconciliation restores grace lost through sin, and the Anointing of the Sick brings healing and preparation for eternity.
 
 ### Prayer
 Prayer is the **breath** of the spiritual life. Through prayer, we commune with God, receive His grace, and are gradually transformed.
@@ -91,24 +87,13 @@ These are not merely natural virtues intensified but **supernatural qualities** 
 The Church recognizes various stages or degrees in the spiritual life:
 
 ### The Purgative Way
-The early stage of the spiritual life, characterized by:
-- Recognition of sin and repentance
-- Struggle against vice and the cultivation of virtue
-- Detachment from sinful habits and disordered attachments
+The early stage of the spiritual life is marked by the recognition of sin and the call to repentance, a struggle against vice alongside the cultivation of virtue, and a growing detachment from sinful habits and disordered attachments.
 
 ### The Illuminative Way
-The middle stage, characterized by:
-- Greater conformity to Christ
-- Deeper prayer and intimacy with God
-- Active service of others
-- Growth in the theological virtues
+The middle stage brings greater conformity to Christ, deeper prayer and intimacy with God, active service of others, and growth in the theological virtues.
 
 ### The Unitive Way
-The advanced stage of spiritual maturity, characterized by:
-- Profound union with God in prayer
-- Transformation of the affections
-- Heroic virtue
-- Consistent conformity to God's will
+The advanced stage of spiritual maturity is one of profound union with God in prayer, the transformation of the affections, the practice of heroic virtue, and consistent conformity to God's will.
 
 These are not rigid categories but helpful descriptions of the journey. Progress is not linear; the soul moves back and forth between these stages under the Spirit's guidance.
 

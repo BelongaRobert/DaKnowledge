@@ -30,10 +30,7 @@ The Catholic Church teaches the doctrine of **transubstantiation**: at the conse
 Christ is present **truly, really, and substantially**: not symbolically, not metaphorically, not merely spiritually. The Eucharist is not a sign that points away from Christ to something else; it **is** Christ.
 
 ### Modes of Christ's Presence in the Eucharist
-- **In the consecrated species**: the Body and Blood under the appearances of bread and wine
-- **In the Word**: proclaimed in the Scripture readings
-- **In the assembly**: the gathered faithful, the Body of Christ
-- **In the minister**: the priest acting in persona Christi
+Christ is present **in the consecrated species**, His Body and Blood hidden under the appearances of bread and wine; **in the Word**, as the Scriptures are proclaimed; **in the assembly**, the gathered faithful who together form the Body of Christ; and **in the minister**, the priest who stands and acts *in persona Christi*.
 
 The first mode is **unique and supreme**. Christ is present in the Eucharistic species in a way He is present nowhere else on earth.
 

@@ -60,12 +60,7 @@ For those who reach the age of reason, justification involves:
 6. **Infusion of Grace**: Sanctifying grace, the theological virtues (faith, hope, charity), and the gifts of the Spirit are poured into the soul
 
 ### In Baptism
-Baptism is the **ordinary means** of justification. In Baptism:
-- Original sin is remitted
-- All actual sins are forgiven
-- Sanctifying grace is infused
-- The theological virtues are given
-- The person is incorporated into Christ and the Church
+Baptism is the **ordinary means** of justification. In Baptism, original sin is remitted and all actual sins are forgiven. Sanctifying grace is infused into the soul, the theological virtues are given, and the person is incorporated into Christ and the Church.
 
 > *"He saved us, not because of deeds done by us in righteousness, but in virtue of his own mercy, by the washing of regeneration and renewal in the Holy Spirit."*  
 > — Titus 3:5

@@ -42,20 +42,14 @@ However, the **fruitfulness** of the sacrament depends on the disposition of the
 
 Every sacrament has two essential elements:
 
-- **Matter**: The physical element or action (water, oil, bread, wine, the laying on of hands)
-- **Form**: The words spoken (the sacramental formula)
-
-Together, matter and form constitute the sign that conveys grace.
+The **matter** is the physical element or action used in the sacrament—water, oil, bread and wine, or the laying on of hands—while the **form** is the sacramental formula, the words spoken that give meaning to the sign. Together, these two elements constitute the complete sign that conveys grace.
 
 ---
 
 ## The Necessity of the Sacraments
 
 The Church teaches that the sacraments are the **ordinary means of grace** established by Christ. They are necessary for salvation in the sense that:
-- Baptism is necessary for entering the kingdom
-- The Eucharist is the food of eternal life
-- Reconciliation restores grace after mortal sin
-- The sacraments of initiation complete the Christian life
+Baptism is necessary for entering the kingdom, the Eucharist is the food of eternal life, Reconciliation restores grace after mortal sin, and the sacraments of initiation together complete the Christian life.
 
 Yet God is not bound by His sacraments. He can and does work outside them when necessity or circumstances require.
 

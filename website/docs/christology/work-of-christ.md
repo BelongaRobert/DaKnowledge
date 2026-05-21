@@ -82,10 +82,7 @@ The Church gathers all these aspects into the **Paschal Mystery**: the passion, 
 
 Christ's work has **infinite merit** because the person who accomplished it is divine. His merits are the source of all grace:
 
-- **Sanctifying grace**: the life of God in the soul
-- **Theological virtues**: faith, hope, and charity
-- **Gifts of the Holy Spirit**: wisdom, understanding, counsel, fortitude, knowledge, piety, fear of the Lord
-- **Actual graces**: the divine assistance for every good work
+From these infinite merits flow every spiritual blessing we receive: sanctifying grace, which is the very life of God in the soul; the theological virtues of faith, hope, and charity; the seven gifts of the Holy Spirit—wisdom, understanding, counsel, fortitude, knowledge, piety, and fear of the Lord; and actual graces, the divine assistance given for every good work.
 
 The Church applies these merits through the sacraments, prayer, and the communion of saints.
 

@@ -6,11 +6,7 @@ The mystery of the Holy Trinity is the central mystery of Christian faith and li
 
 ## Topics to Explore
 
-- The Father as source and origin
-- The Son as eternal Word and incarnate Savior
-- The Holy Spirit as Lord and Giver of life
-- Trinitarian theology in the Church Fathers
-- The communion of divine persons
+The pages that follow explore the Father as the source and origin of all divinity, the Son as the eternal Word who became incarnate to save us, and the Holy Spirit as Lord and Giver of life. They also examine the rich development of Trinitarian theology among the Church Fathers and the perfect communion that binds the three divine persons into one.
 
 !!! note "Coming Soon"
     This section will be expanded with detailed reflections on Trinitarian doctrine.

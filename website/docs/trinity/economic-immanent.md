@@ -10,10 +10,7 @@ Catholic theology distinguishes between the **immanent Trinity** and the **econo
 
 The **immanent Trinity** (also called the **ontological Trinity**) refers to God's inner life as He is in Himself, apart from creation, apart from redemption, apart from any relation to the world. It describes the eternal relations between the Father, Son, and Holy Spirit.
 
-In the immanent Trinity:
-- The Father **begets** the Son eternally
-- The Son is **begotten** of the Father eternally
-- The Spirit **proceeds** from the Father and the Son eternally
+In the immanent Trinity, the Father eternally begets the Son, who receives his divine being from the Father alone, and the Holy Spirit eternally proceeds from both the Father and the Son as the perfect communion of their mutual love.
 
 These relations are not events in time but the eternal structure of God's being. They would exist even if God had never created the world.
 

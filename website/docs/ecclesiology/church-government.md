@@ -24,10 +24,7 @@ The apostles formed a **college**: a unified body with collective authority. Yet
 
 Christ gave Peter a special role among the apostles:
 
-- **The Rock**: *"You are Peter, and on this rock I will build my church"* (Matthew 16:18)
-- **The Keys**: *"I will give you the keys of the kingdom of heaven"* (Matthew 16:19)
-- **The Shepherd**: *"Feed my sheep"* (John 21:15-17)
-- **The Confessor of Faith**: Peter alone confessed Christ as "the Son of the living God" and was confirmed in that role (Matthew 16:16-18)
+Christ named him **the Rock**, declaring, *"You are Peter, and on this rock I will build my church"* (Matthew 16:18). He entrusted him with **the Keys** of the kingdom, granting the power to bind and loose in heaven and on earth (Matthew 16:19). After the resurrection, He commissioned him as **the Shepherd** with the command, *"Feed my sheep"* (John 21:15-17). And because Peter alone confessed Christ as *"the Son of the living God"* (Matthew 16:16), he stands forever as **the Confessor of Faith**, confirmed in that role by the Lord Himself (Matthew 16:18).
 
 The **keys** symbolize royal authority: the power to open and close, to admit and exclude, to govern and judge. In Isaiah 22:22, the keys are given to the royal steward; Christ applies this imagery to Peter as the steward of His kingdom.
 
@@ -38,9 +35,7 @@ The **keys** symbolize royal authority: the power to open and close, to admit an
 The Pope is the **successor of St. Peter** and the **Bishop of Rome**. As successor of Peter, he holds the primacy over the universal Church.
 
 ### The Pope's Titles
-- **Vicar of Christ**: representing Christ on earth in His governance of the Church
-- **Servant of the Servants of God**: a reminder that authority is service
-- **Supreme Pontiff**: the high priest who presides over the Church's worship
+As **Vicar of Christ**, he represents the Lord on earth in the governance of the Church. As **Servant of the Servants of God**, he is reminded that every exercise of authority must take the form of humble service. And as **Supreme Pontiff**, he presides over the worship of the universal Church as its high priest.
 
 ### Papal Infallibility
 The Pope is **infallible** when he speaks **ex cathedra** (from the chair): that is, when he definitively proclaims a doctrine concerning faith or morals to be held by the whole Church. This charism is not a personal privilege but a guarantee given to the Church that she will never be led into error in matters essential to salvation.

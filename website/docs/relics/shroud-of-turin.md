@@ -42,11 +42,7 @@ The frontal and dorsal images visible on the shroud present a monochromatic, sep
 
 ### 1.3 Blood and Serum Evidence
 
-The shroud exhibits numerous reddish-brown stains identified as blood and serum exudates. These stains demonstrate distinct chemical and physical properties from the body image:
-
-- **Chemical Composition**: Testing has identified hemoglobin, bilirubin, albumin, and other blood proteins consistent with human blood subjected to trauma and post-mortem changes.
-- **Distribution Patterns**: Bloodstain patterns correlate with anatomical locations of crucifixion wounds, including the wrists (consistent with nail penetration), feet, forehead (potential crown of thorns), and scourge marks across the back and legs.
-- **Pre-Image Deposition**: The bloodstains appear to have been deposited on the cloth prior to image formation, suggesting the cloth contacted a wounded body before any image-generating event occurred.
+The shroud exhibits numerous reddish-brown stains identified as blood and serum exudates. These stains demonstrate distinct chemical and physical properties from the body image. Testing has identified hemoglobin, bilirubin, albumin, and other blood proteins consistent with human blood subjected to trauma and post-mortem changes. Bloodstain patterns correlate with anatomical locations of crucifixion wounds, including the wrists (consistent with nail penetration), feet, forehead (potential crown of thorns), and scourge marks across the back and legs. Moreover, the bloodstains appear to have been deposited on the cloth prior to image formation, suggesting the cloth contacted a wounded body before any image-generating event occurred.
 
 Forensic analysis indicates the blood is of human origin and shows characteristics consistent with exudates from a tortured and crucified individual, including evidence of clot retraction and serum separation indicative of active circulation at the time of deposition.
 
@@ -78,11 +74,7 @@ The 1988 radiocarbon dating study represents the most contentious episode in shr
 
 **Reported Results**: The laboratories converged on a date range of 1260-1390 CE (95% confidence interval), with a mean date of 1325 ± 65 years, consistent with the documented historical appearance in Lirey.
 
-**Methodological Criticisms**: Critics have raised several concerns regarding the sampling protocol:
-- **Sample Location**: The corner region selected for testing represents an area subjected to centuries of handling, repair, and potential contamination.
-- **Microbial Contamination**: The presence of bacterial and fungal biomass could artificially depress radiocarbon ages.
-- **The 1532 Fire**: The shroud sustained significant damage from a fire in 1532. Carbon contamination from combustion byproducts and subsequent restoration efforts could have skewed results.
-- **Statistical Anomalies**: Statistical analysis of the raw data has identified variations between laboratories that some researchers argue are inconsistent with the reported precision.
+**Methodological Criticisms**: Critics have raised several concerns regarding the sampling protocol. The corner region selected for testing represents an area subjected to centuries of handling, repair, and potential contamination. The presence of bacterial and fungal biomass could artificially depress radiocarbon ages. The shroud also sustained significant damage from a fire in 1532, and carbon contamination from combustion byproducts and subsequent restoration efforts could have skewed results. Finally, statistical analysis of the raw data has identified variations between laboratories that some researchers argue are inconsistent with the reported precision.
 
 **Ray Rogers' Findings**: Late in his career, Ray Rogers, a chemist who had participated in the original STURP investigations, conducted independent analysis of samples from the radiocarbon area. He identified cotton fibers and a gum arabic mordant consistent with medieval repair techniques, suggesting the tested sample may have been a rewoven section from the sixteenth century rather than original first-century material.
 

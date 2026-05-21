@@ -59,11 +59,7 @@ The inscription board above Christ's head, bearing "Jesus of Nazareth, King of t
 
 ### The Original Division
 
-St. Helena is said to have left a portion of the cross in Jerusalem for the newly constructed Church of the Holy Sepulchre, while bringing the remainder to Constantinople (modern Istanbul). The distribution pattern established a template for subsequent fragmentation:
-
-- **Jerusalem**: The original portion remained at the Church of the Holy Sepulchre
-- **Constantinople**: Became the primary repository of the cross in the Eastern Roman Empire
-- **Rome**: Fragments eventually reached the Western Church through various channels
+St. Helena is said to have left a portion of the cross in Jerusalem for the newly constructed Church of the Holy Sepulchre, while bringing the remainder to Constantinople (modern Istanbul). The distribution pattern established a template for subsequent fragmentation. The original portion remained at the Church of the Holy Sepulchre in Jerusalem, while Constantinople became the primary repository of the cross in the Eastern Roman Empire, and fragments eventually reached the Western Church in Rome through various channels.
 
 ### Historical Relocations and Losses
 
@@ -110,13 +106,7 @@ Theologians have noted that the True Cross represents what scholars call "the sc
 
 ### St. Thomas Aquinas on Relics
 
-In the *Summa Theologiae* (III, q. 25, a. 6), St. Thomas Aquinas addresses the proper veneration of relics, distinguishing between:
-
-- **Latria**: The worship due to God alone
-- **Dulia**: The veneration given to saints and their relics
-- **Hyperdulia**: The special veneration given to the Virgin Mary
-
-Aquinas argues that relics are venerated not for themselves but for the persons they represent and the divine power that worked through them. The True Cross, as a relic of Christ Himself, occupies a unique theological space, though even it receives dulia, not latria, since it is a created thing and not the Creator.
+In the *Summa Theologiae* (III, q. 25, a. 6), St. Thomas Aquinas addresses the proper veneration of relics, distinguishing between **latria**, the worship due to God alone; **dulia**, the veneration given to saints and their relics; and **hyperdulia**, the special veneration given to the Virgin Mary. Aquinas argues that relics are venerated not for themselves but for the persons they represent and the divine power that worked through them. The True Cross, as a relic of Christ Himself, occupies a unique theological space, though even it receives dulia, not latria, since it is a created thing and not the Creator.
 
 ## Veneration Practices
 

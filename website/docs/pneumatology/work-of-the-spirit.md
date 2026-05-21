@@ -64,13 +64,7 @@ At Pentecost (Acts 2), the Spirit is poured out upon the disciples. This is the 
 
 ### The Sacraments
 The Spirit is active in every sacrament:
-- **Baptism**: We are born of water and the Spirit (John 3:5)
-- **Confirmation**: We are sealed with the Spirit and empowered for witness
-- **Eucharist**: The Spirit transforms the bread and wine (epiclesis)
-- **Reconciliation**: The Spirit restores the sinner to grace
-- **Matrimony**: The Spirit unites spouses in sacramental love
-- **Holy Orders**: The Spirit consecrates bishops, priests, and deacons
-- **Anointing of the Sick**: The Spirit strengthens and heals
+In Baptism we are born of water and the Spirit (John 3:5), and in Confirmation we are sealed with the Spirit and empowered for witness. The Spirit transforms the bread and wine in the Eucharist through the epiclesis, restores the sinner to grace in Reconciliation, and unites spouses in sacramental love in Matrimony. He consecrates bishops, priests, and deacons in Holy Orders, and strengthens and heals in the Anointing of the Sick.
 
 ### The Magisterium
 The Spirit guides the Church into all truth (John 16:13), preserving her from error in matters of faith and morals.

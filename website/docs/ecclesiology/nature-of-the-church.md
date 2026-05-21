@@ -34,11 +34,7 @@ In the Old Testament, the Temple was the dwelling place of God among His people.
 > *"Do you not know that you are God's temple and that God's Spirit dwells in you?"*  
 > — 1 Corinthians 3:16
 
-This means:
-- The Church is **holy** because the Holy Spirit dwells in her
-- The Church is **alive** because the Spirit animates her
-- The Church is **sacred** because the Spirit consecrates her
-- Every member is a **living stone** in this spiritual temple (1 Peter 2:5)
+Because the Holy Spirit dwells within her, the Church is holy and alive. The Spirit does not merely visit; He makes His home in every baptized believer, consecrating each one and drawing the whole community into a living temple built of living stones, as St. Peter writes.
 
 ---
 
@@ -49,11 +45,7 @@ The Church is the **new Israel**: the fulfillment of God's covenant people. She 
 > *"You are... a chosen race, a royal priesthood, a holy nation, God's own people."*  
 > — 1 Peter 2:9
 
-As the People of God, the Church is:
-- **A priestly people**: offering spiritual sacrifices (1 Peter 2:5)
-- **A prophetic people**: bearing witness to Christ (Acts 1:8)
-- **A kingly people**: serving others in love (Mark 10:44-45)
-- **A suffering people**: sharing in Christ's redemptive passion (Colossians 1:24)
+As the People of God, the Church shares in the anointing of Christ Himself. She is priestly, offering spiritual sacrifices in union with Christ's eternal offering; prophetic, bearing witness to the Gospel in every age; kingly, serving the poor and the stranger with Christ's own love; and, like her Lord, a suffering people, sharing in the redemptive passion that brings life out of death.
 
 ---
 
@@ -64,11 +56,7 @@ The image of the Church as **Bride** speaks of the intimate, covenantal love bet
 > *"Husbands, love your wives, as Christ loved the church and gave himself up for her, that he might sanctify her, having cleansed her by the washing of water with the word, that he might present the church to himself in splendor, without spot or wrinkle or any such thing, that she might be holy and without blemish."*  
 > — Ephesians 5:25-27
 
-This image reveals:
-- The **fidelity** of Christ to His Church. He will never abandon her
-- The **purity** to which the Church is called, cleansed by grace
-- The **fruitfulness** of the Church, bringing forth children of God
-- The **eschatological hope**: the wedding feast of the Lamb (Revelation 19:7)
+This image reveals Christ's unwavering fidelity to His Church: He will never abandon her. It reveals the purity to which she is called, continually cleansed by grace, and the fruitfulness of her mission in bringing forth children of God. Above all, it speaks of the eschatological hope that awaits her — the wedding feast of the Lamb described in Revelation.
 
 ---
 
@@ -87,12 +75,7 @@ This means the Church is not merely an institution that administers sacraments; 
 
 The Church is holy because Christ is holy, yet her members are sinners. This paradox is not a contradiction but a testimony to grace:
 
-- The Church is **holy in her Head**: Christ is without sin
-- The Church is **holy in her means**: sacraments, Scripture, Tradition
-- The Church is **holy in her saints**: the great cloud of witnesses
-- The Church is **sinful in her members**: all of whom need grace
-
-The holiness of the Church is not destroyed by the sins of her members. Just as Christ sanctified the sinner Matthew by calling him, so the Church sanctifies her members by calling them to repentance and grace.
+The Church is holy in her Head, Christ, who is without sin. She is holy in the means she has been given — the sacraments, Sacred Scripture, and the living Tradition handed down through the ages. She is holy in her saints, that great cloud of witnesses who have gone before us. Yet she is also sinful in her members, every one of whom stands in need of grace. This paradox is not a contradiction but a testimony to grace. Just as Christ sanctified the sinner Matthew by the simple act of calling him, so the Church continually sanctifies her members by calling them to repentance and drawing them into grace.
 
 ---
 

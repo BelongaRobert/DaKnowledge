@@ -45,11 +45,7 @@ The sacrament strengthens the will against temptation and gives grace for persev
 ## The Parts of the Sacrament
 
 ### 1. Contrition
-Sorrow of the soul and detestation for sin, with the resolution not to sin again. Contrition must be:
-- **Interior**: not merely external or verbal
-- **Supernatural**: motivated by love of God (perfect contrition) or at least by fear of Hell (imperfect contrition)
-- **Universal**: covering all mortal sins
-- **Supreme**: more sorrow for offending God than for any other evil
+Sorrow of the soul and detestation for sin, with the resolution not to sin again. Contrition must be **interior**, arising from the heart rather than merely external or verbal; **supernatural**, motivated at least by fear of Hell (imperfect contrition) and ideally by love of God (perfect contrition); **universal**, extending over every mortal sin without exception; and **supreme**, so that the soul grieves more for having offended God than for any other evil.
 
 ### 2. Confession
 The verbal acknowledgment of sins to a priest. All mortal sins must be confessed in kind and number (as far as possible). Venial sins may also be confessed.
@@ -75,10 +71,7 @@ The priest is **absolutely bound** by the seal of confession. He may never, unde
 
 For those who have fallen into **mortal sin** after Baptism, the sacrament of Reconciliation is necessary for salvation (unless perfect contrition is accompanied by the intention to confess as soon as possible).
 
-Mortal sin requires:
-- **Grave matter**: a serious violation of God's law
-- **Full knowledge**: awareness that the act is sinful
-- **Complete consent**: deliberate choice to commit the sin
+Mortal sin requires **grave matter**, meaning a serious violation of God's law; **full knowledge**, so that the sinner is aware the act is sinful; and **complete consent**, a deliberate choice to commit the sin rather than mere impulse or coercion.
 
 Venial sins do not destroy grace but weaken the soul and dispose it to greater sins. Regular confession of venial sins is strongly recommended.
 

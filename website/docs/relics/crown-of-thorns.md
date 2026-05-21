@@ -50,11 +50,7 @@ Louis purchased the crown for an enormous sum. 135,000 livres, plus a separate p
 
 ### The Sainte-Chapelle: A Reliquary Palace
 
-To house the Crown of Thorns and the other Passion relics, St. Louis commissioned the construction of the **Sainte-Chapelle** within the royal palace on the Île de la Cité in Paris. Consecrated in 1248, this Gothic masterpiece was designed specifically as a reliquary chapel:
-
-- **Upper Chapel**: The repository of the relics, featuring extraordinary stained glass windows depicting salvation history from Genesis to Revelation
-- **Reliquary**: The crown was housed in a magnificent gold and silver reliquary commissioned by the king, known as the **Grande-Châsse** (Great Reliquary)
-- **Liturgical Use**: The chapel became the center of royal devotion, with the crown displayed annually on Good Friday
+To house the Crown of Thorns and the other Passion relics, St. Louis commissioned the construction of the **Sainte-Chapelle** within the royal palace on the Île de la Cité in Paris. Consecrated in 1248, this Gothic masterpiece was designed specifically as a reliquary chapel. The Upper Chapel served as the repository of the relics, featuring extraordinary stained glass windows depicting salvation history from Genesis to Revelation. The crown itself was housed in a magnificent gold and silver reliquary commissioned by the king, known as the **Grande-Châsse** (Great Reliquary), and the chapel became the center of royal devotion, with the crown displayed annually on Good Friday.
 
 The Sainte-Chapelle remains one of the supreme achievements of Gothic architecture, its walls of colored glass creating an effect described as "a reliquary turned inside out."
 
@@ -66,13 +62,7 @@ The Sainte-Chapelle remains one of the supreme achievements of Gothic architectu
 
 Following the French Revolution, the relics of the Sainte-Chapelle were transferred to the **Bibliothèque nationale** for safekeeping. In 1806, the Crown of Thorns was entrusted to **Notre-Dame Cathedral** in Paris, where it became the focal point of the cathedral's most solemn liturgical celebrations.
 
-At Notre-Dame, the crown was displayed:
-
-- **Annually on Good Friday**: For veneration by the faithful
-- **The First Friday of each month**: For private prayer and devotion
-- **Special feasts**: Including the Feast of the Holy Crown (August 11)
-
-The veneration at Notre-Dame drew pilgrims from across the world, making the cathedral one of the most important pilgrimage destinations for Passion devotion.
+At Notre-Dame, the crown was displayed annually on Good Friday for veneration by the faithful, on the First Friday of each month for private prayer and devotion, and during special feasts including the Feast of the Holy Crown on August 11. The veneration at Notre-Dame drew pilgrims from across the world, making the cathedral one of the most important pilgrimage destinations for Passion devotion.
 
 ## The Notre-Dame Fire and Current Location
 
@@ -94,13 +84,7 @@ The thorns themselves have been identified by botanical analysis as belonging to
 
 ### Scientific Analysis
 
-Modern examination of the Crown of Thorns has included:
-
-- **Botanical identification**: Confirming the thorn species as consistent with Palestinian flora
-- **Radiocarbon dating**: Attempted on the rush circlet, though results are complicated by the relic's composite nature and centuries of handling
-- **Pollen analysis**: Identifying Mediterranean plant species consistent with a Holy Land origin
-
-However, definitive scientific authentication remains impossible. The fragile nature of organic materials, combined with the reverence surrounding the relic, limits invasive testing. The Church's authentication relies primarily on documented provenance from Constantinople to the present day.
+Modern examination of the Crown of Thorns has included **botanical identification** confirming the thorn species as consistent with Palestinian flora, **radiocarbon dating** attempted on the rush circlet (though results are complicated by the relic's composite nature and centuries of handling), and **pollen analysis** identifying Mediterranean plant species consistent with a Holy Land origin. However, definitive scientific authentication remains impossible. The fragile nature of organic materials, combined with the reverence surrounding the relic, limits invasive testing. The Church's authentication relies primarily on documented provenance from Constantinople to the present day.
 
 ## Liturgical and Devotional Significance
 
@@ -125,13 +109,7 @@ In some devotional traditions, particularly in France, **August** is observed as
 
 ### Artistic Representation
 
-The Crown of Thorns has been one of the most frequently depicted objects in Christian art, appearing in:
-
-- **Crucifixion scenes**: Worn by Christ on the cross
-- **Man of Sorrows images**: Christ displaying His wounds after the resurrection
-- **Ecce Homo depictions**: Christ presented to the people wearing the crown and purple robe
-- **Stations of the Cross**: Typically at the station where Christ is crowned
-- **Devotional medals and scapulars**: As symbols of sacrifice and redemption
+The Crown of Thorns has been one of the most frequently depicted objects in Christian art, appearing in **Crucifixion scenes** where Christ wears it on the cross, **Man of Sorrows images** showing Christ displaying His wounds after the resurrection, **Ecce Homo depictions** presenting Christ to the people in the crown and purple robe, the **Stations of the Cross** (typically at the station where Christ is crowned), and **devotional medals and scapulars** as symbols of sacrifice and redemption.
 
 ## Theological Reflections
 
@@ -149,11 +127,7 @@ St. Teresa of Avila and other mystics have written of meditating specifically on
 
 ### The Crown in the Spiritual Life
 
-The Crown of Thorns serves as a powerful symbol for Christians facing suffering:
-
-- **Acceptance of trials**: "Let us run with perseverance the race marked out for us, fixing our eyes on Jesus, the pioneer and perfecter of faith. For the joy set before him he endured the cross, scorning its shame" (Hebrews 12:2)
-- **Transformation of suffering**: As the crown of mockery became the crown of glory, human suffering united with Christ's becomes redemptive
-- **Kingly dignity in adversity**: The Christian bears suffering not as defeat but as participation in Christ's victory
+The Crown of Thorns serves as a powerful symbol for Christians facing suffering. It calls believers to **acceptance of trials**, as Scripture exhorts: "Let us run with perseverance the race marked out for us, fixing our eyes on Jesus, the pioneer and perfecter of faith. For the joy set before him he endured the cross, scorning its shame" (Hebrews 12:2). It also represents the **transformation of suffering**, for as the crown of mockery became the crown of glory, human suffering united with Christ's becomes redemptive. Finally, it embodies **kingly dignity in adversity**, reminding Christians that they bear suffering not as defeat but as participation in Christ's victory.
 
 ## Conclusion: The Crown as Emblem of Redemptive Love
 

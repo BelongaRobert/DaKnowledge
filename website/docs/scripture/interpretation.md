@@ -43,10 +43,7 @@ What the text actually says: the historical, grammatical, and literary meaning i
 ### 2. The Allegorical (Typological) Sense
 How the text points to Christ and the Church. Events, persons, and institutions of the Old Testament **prefigure** (are types of) Christ and the New Covenant.
 
-Examples:
-- **Adam** is a type of Christ (Romans 5:14), the first Adam brought death; Christ, the New Adam, brings life
-- **The Passover lamb** is a type of Christ (1 Corinthians 5:7), its blood saves from death
-- **The manna** is a type of the Eucharist (John 6), bread from heaven
+Examples include Adam, who is a type of Christ (Romans 5:14): the first Adam brought death, while Christ, the New Adam, brings life. The Passover lamb is a type of Christ (1 Corinthians 5:7), its blood saving from death. Likewise, the manna is a type of the Eucharist (John 6), bread from heaven given to sustain God's people.
 
 ### 3. The Moral (Tropological) Sense
 What the text teaches us about how to live. Scripture is not merely informative but **transformative**: it calls us to conversion and holiness.
@@ -57,10 +54,7 @@ What the text teaches us about how to live. Scripture is not merely informative 
 ### 4. The Anagogical (Eschatological) Sense
 What the text reveals about eternal life and the final consummation of all things. The anagogical sense draws our hearts toward heaven.
 
-Examples:
-- **The Promised Land** prefigures heaven: our true homeland
-- **The Jerusalem temple** prefigures the heavenly Jerusalem (Revelation 21)
-- **The wedding feast** prefigures the marriage supper of the Lamb (Revelation 19)
+Examples include the Promised Land, which prefigures heaven as our true homeland; the Jerusalem temple, which prefigures the heavenly Jerusalem (Revelation 21); and the wedding feast, which prefigures the marriage supper of the Lamb (Revelation 19).
 
 ---
 

@@ -43,13 +43,7 @@ The cloth itself is kept in an ornate frame and is not directly visible: a prote
 
 ### The Image and Its Characteristics
 
-Descriptions of the Veil of Veronica image note:
-
-- A **frontal facial image** of a bearded man
-- **Oval or roughly circular** format (the veil being approximately 17 x 24 cm)
-- **Dark, sepia-toned** impression
-- **High forehead and shoulder-length hair** in the Eastern Mediterranean style
-- The image is reportedly **faded** from centuries of exposure and reproduction
+Descriptions of the Veil of Veronica image note a **frontal facial image** of a bearded man in an **oval or roughly circular** format (the veil being approximately 17 x 24 cm), rendered as a **dark, sepia-toned** impression. The figure shows a **high forehead and shoulder-length hair** in the Eastern Mediterranean style, though the image is reportedly **faded** from centuries of exposure and reproduction.
 
 Unlike the Shroud of Turin, the Veronica image has not been subjected to comprehensive modern scientific analysis. The Vatican has historically restricted access to the relic for research purposes, prioritizing its preservation and devotional use.
 
@@ -111,11 +105,7 @@ Unlike the Veil of Veronica, the Sudarium of Oviedo has been subjected to rigoro
 
 **Dimensions and Material**: The sudarium measures approximately 84 x 53 cm and is made of **linen** (not silk, as sometimes claimed). The weave is a simple **twill** pattern consistent with first-century Jewish textile production.
 
-**Bloodstains**: The cloth is heavily stained with **human blood** of type **AB**: the same blood type identified on the Shroud of Turin. The stains are arranged in patterns consistent with:
-
-- A **crown of thorns**: Multiple small blood spots around the top and sides
-- **Nasal discharge**: Blood and fluid from the nose and mouth
-- **Post-mortem blood flow**: Patterns consistent with a body moved after death
+**Bloodstains**: The cloth is heavily stained with **human blood** of type **AB**, the same blood type identified on the Shroud of Turin. The stains are arranged in patterns consistent with a **crown of thorns** (multiple small blood spots around the top and sides), **nasal discharge** (blood and fluid from the nose and mouth), and **post-mortem blood flow** (patterns consistent with a body moved after death).
 
 **Image Formation**: Unlike the Shroud, the Sudarium does not bear a photographic negative image. However, faint traces of facial features may be present, though these are far less distinct than the Shroud's image.
 
@@ -152,13 +142,7 @@ The most significant aspect of Sudarium research is its **correlation with the S
 
 ### The Oviedo C-14 Study
 
-A radiocarbon dating attempt on the Sudarium was conducted in the 1990s, but the results were inconclusive due to:
-
-- **Contamination**: Centuries of handling, incense exposure, and candle smoke
-- **Bacterial colonization**: The cloth's long history of veneration introduced carbon sources that skewed results
-- **Sample size**: Limited material available for destructive testing
-
-The CES has argued that, like the Shroud, surface contamination makes radiocarbon dating unreliable for this relic. They advocate for alternative dating methods such as textile analysis and comparative blood chemistry.
+A radiocarbon dating attempt on the Sudarium was conducted in the 1990s, but the results were inconclusive due to **contamination** from centuries of handling, incense exposure, and candle smoke; **bacterial colonization**, as the cloth's long history of veneration introduced carbon sources that skewed results; and limited **sample size**, since only a small amount of material was available for destructive testing. The CES has argued that, like the Shroud, surface contamination makes radiocarbon dating unreliable for this relic. They advocate for alternative dating methods such as textile analysis and comparative blood chemistry.
 
 ## Part IV: Theological and Devotional Significance
 
@@ -220,12 +204,7 @@ Dr. **Alan Whanger** of Duke University conducted computer overlay studies demon
 
 ### Critical Perspectives
 
-Skeptics raise several objections:
-
-- **Documentation gaps**: The Sudarium's documented history before the 7th century relies on tradition rather than written records
-- **Radiocarbon issues**: Like the Shroud, the Sudarium has not been definitively dated to the first century by independent methods
-- **Alternative explanations**: The bloodstain patterns could theoretically be produced by a body other than Christ's
-- **The Veronica legend**: The story of Veronica is not biblical, and some scholars consider it a medieval development rather than historical memory
+Skeptics raise several objections. They point to **documentation gaps**, noting that the Sudarium's documented history before the 7th century relies on tradition rather than written records. **Radiocarbon issues** persist, as the Sudarium has not been definitively dated to the first century by independent methods. **Alternative explanations** suggest the bloodstain patterns could theoretically be produced by a body other than Christ's. Finally, **the Veronica legend** is not biblical, and some scholars consider it a medieval development rather than historical memory.
 
 Defenders respond that:
 

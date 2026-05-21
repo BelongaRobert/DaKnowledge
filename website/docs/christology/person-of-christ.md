@@ -35,9 +35,7 @@ At the moment of the Incarnation, traditionally understood as the **Annunciation
 
 ### The Virgin Birth
 Jesus was conceived not by human generation but by the power of the Holy Spirit. This miraculous conception affirms:
-- Jesus is truly human, born of a woman (Galatians 4:4)
-- Jesus is truly divine, conceived by the Holy Spirit
-- Jesus is the **new Adam**: His origin is not from fallen human seed but from the creative power of God
+Jesus is truly human, born of a woman (Galatians 4:4); He is truly divine, conceived by the Holy Spirit; and He is the **new Adam**, for His origin is not from fallen human seed but from the creative power of God.
 
 > *"The Holy Spirit will come upon you, and the power of the Most High will overshadow you; therefore the child to be born will be called holy, the Son of God."*  
 > — Luke 1:35

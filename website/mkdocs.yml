@@ -3,7 +3,7 @@ site_description: Biblical Theology Knowledge Base
 site_url: https://belongarobert.github.io/DaKnowledge/
 theme:
   name: material
-  custom_dir: overrides
+  custom_dir: docs/overrides
   palette:
     - scheme: default
       primary: red

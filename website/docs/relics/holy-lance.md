@@ -126,12 +126,7 @@ In some Eastern Christian traditions, the liturgical spear (used to cut the pros
 
 ### The Lance in Christian Art
 
-The Holy Lance appears in numerous artistic contexts:
-
-- **Crucifixion scenes**: Held by Longinus or resting in Christ's side
-- **Arma Christi**: The "arms of Christ", collections of Passion instruments frequently depicted in medieval and Renaissance art
-- **Heraldry**: The spear became a symbol in various coats of arms, particularly of cities claiming relic connections
-- **Reliquaries**: Elaborate containers for lance fragments, often shaped like the spear itself
+The Holy Lance appears in numerous artistic contexts, including **Crucifixion scenes** where it is held by Longinus or rests in Christ's side, **Arma Christi** depictions (the "arms of Christ", collections of Passion instruments frequently shown in medieval and Renaissance art), **heraldry**, where the spear became a symbol in various coats of arms particularly of cities claiming relic connections, and **reliquaries** shaped like the spear itself to hold lance fragments.
 
 ### Devotional Meditations
 
@@ -167,11 +162,7 @@ The Congregation for the Causes of Saints oversees the authentication of relics 
 
 ### The Holy Roman Empire
 
-The Vienna lance played a central role in the **coronation ceremonies** of the Holy Roman Empire. Emperors from Otto I to Francis II touched or carried the lance during their coronations at Aachen or Frankfurt. The spear symbolized:
-
-- **Divine authority**: The emperor as God's representative on earth
-- **Military responsibility**: Defense of Christendom
-- **Continuity with Constantine**: The first Christian emperor
+The Vienna lance played a central role in the **coronation ceremonies** of the Holy Roman Empire. Emperors from Otto I to Francis II touched or carried the lance during their coronations at Aachen or Frankfurt. The spear symbolized **divine authority**, casting the emperor as God's representative on earth; **military responsibility**, entrusting him with the defense of Christendom; and **continuity with Constantine**, the first Christian emperor.
 
 Napoleon deliberately refused to use the Imperial Regalia at his coronation, symbolizing the break with the Holy Roman Empire's sacred traditions.
 

@@ -27,13 +27,7 @@ The Spirit of God is active from the very beginning:
 
 > *"The earth was without form and void, and darkness was upon the face of the deep; and the Spirit of God was moving over the face of the waters."*  > — Genesis 1:2
 
-In the Old Testament, the Spirit:
-- **Empowers prophets** to speak God's word (Numbers 11:25-29)
-- **Anoints kings** for their mission (1 Samuel 16:13)
-- **Equips artisans** for building the tabernacle (Exodus 31:3-5)
-- **Renews the face of the earth** (Psalm 104:30)
-
-Yet the Spirit's presence was selective and temporary in the Old Testament: resting on specific individuals for specific purposes. The prophets looked forward to a day when the Spirit would be poured out on all flesh.
+In the Old Testament, the Spirit's presence was selective and temporary, resting on particular individuals for particular purposes. He empowered the prophets to speak God's word with authority, as when the Spirit came upon the elders at Moses' tent. He anointed kings such as David for their mission, equipping them to rule with wisdom and justice. He even filled Bezalel with skill and understanding to craft the tabernacle's furnishings. And yet the prophets longed for a day when the Spirit would no longer be confined to a few, but would be poured out on all flesh.
 
 ---
 
@@ -42,17 +36,10 @@ Yet the Spirit's presence was selective and temporary in the Old Testament: rest
 The Spirit's outpouring at **Pentecost** (Acts 2) fulfills the promises of the prophets. No longer limited to kings and prophets, the Spirit is given to every baptized believer.
 
 ### The Spirit in the Church
-- **Baptism**: We receive the Spirit and are incorporated into Christ (1 Corinthians 12:13)
-- **Confirmation**: We are sealed with the Spirit and empowered for mission
-- **Eucharist**: The Spirit transforms the bread and wine into the Body and Blood of Christ
-- **Ordination**: The Spirit consecrates ministers for service
+The Spirit is at work in every sacrament of the Church. In Baptism He incorporates us into Christ, making us members of His body. In Confirmation He seals us with His power and strengthens us for mission. In the Eucharist He descends upon the bread and wine, transforming them into the Body and Blood of the Lord. In Holy Orders He consecrates ministers to serve the people of God with Christ's own authority.
 
 ### The Spirit in the Christian Life
-- **Regeneration**: The Spirit gives new life (John 3:5-8)
-- **Indwelling**: The Spirit makes His home in the believer (1 Corinthians 6:19)
-- **Sanctification**: The Spirit makes us holy (2 Thessalonians 2:13)
-- **Guidance**: The Spirit leads us into truth (John 16:13)
-- **Intercession**: The Spirit prays in us when we do not know how to pray (Romans 8:26)
+In the life of the believer, the Spirit performs a work that is both hidden and transformative. He gives new life in the waters of rebirth, making us children of God. He takes up residence within us, making our bodies temples of His presence. He sanctifies us gradually, conforming our hearts to Christ. He leads us into the truth, enlightening our minds when we are confused. And when we do not know how to pray — when words fail us in sorrow or weakness — He intercedes for us with groanings too deep for words.
 
 ---
 
