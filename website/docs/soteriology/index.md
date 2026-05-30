@@ -42,10 +42,10 @@ Yet salvation is not merely a legal declaration. It is a **transformation**: we 
 
 | Doctrine | Meaning |
 |----------|---------|
-| [Justification](justification.md) | Being made righteous before God: the beginning of salvation |
-| [Sanctification](sanctification.md) | Being made holy: the ongoing work of grace in the soul |
-| [Atonement](atonement.md) | Christ's sacrifice as the satisfaction for sin |
-| [Election](election.md) | God's predestining love, chosen in Christ before creation |
+| [Justification](justification/) | Being made righteous before God: the beginning of salvation |
+| [Sanctification](sanctification/) | Being made holy: the ongoing work of grace in the soul |
+| [Atonement](atonement/) | Christ's sacrifice as the satisfaction for sin |
+| [Election](election/) | God's predestining love, chosen in Christ before creation |
 
 ---
 

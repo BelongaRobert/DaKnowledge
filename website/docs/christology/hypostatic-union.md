@@ -100,4 +100,4 @@ The Hypostatic Union is the greatest of all mysteries: greater than creation, gr
 > *"The Son of God... worked with human hands, he thought with a human mind, he acted with a human will, and he loved with a human heart. Born of the Virgin Mary, he truly became one of us, like us in all things except sin."*  
 > — Catechism of the Catholic Church, 470
 
-*See also: [Two Natures](two-natures.md) | [Person of Christ](person-of-christ.md) | [Work of Christ](work-of-christ.md)*
+*See also: [Two Natures](two-natures/) | [Person of Christ](person-of-christ/) | [Work of Christ](work-of-christ/)*

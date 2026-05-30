@@ -126,4 +126,4 @@ This call to perfection is not a crushing demand but a promise: the God who comm
 
 ---
 
-*See also: [Justification](justification.md) | [Atonement](atonement.md) | [The Work of the Spirit](../pneumatology/work-of-the-spirit.md)*
+*See also: [Justification](justification/) | [Atonement](atonement/) | [The Work of the Spirit](../pneumatology/work-of-the-spirit/)*

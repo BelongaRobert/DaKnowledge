@@ -66,4 +66,4 @@ St. Basil the Great wrote: *"The doxology teaches us the faith of the Church in 
 
 ---
 
-**[← Back to Prayer](../index.md)**
+**[← Back to Prayer](../index/)**

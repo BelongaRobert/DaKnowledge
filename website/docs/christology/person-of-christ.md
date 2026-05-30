@@ -101,4 +101,4 @@ To contemplate the person of Christ is to stand before the greatest mystery in t
 > *"What was visible in our Savior has passed over into his mysteries."*  
 > — St. Leo the Great
 
-*See also: [Hypostatic Union](hypostatic-union.md) | [Two Natures](two-natures.md) | [Work of Christ](work-of-christ.md)*
+*See also: [Hypostatic Union](hypostatic-union/) | [Two Natures](two-natures/) | [Work of Christ](work-of-christ/)*

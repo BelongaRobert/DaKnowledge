@@ -14,17 +14,17 @@ The sacraments are **efficacious signs of grace**, instituted by Christ and entr
 The Catholic Church recognizes **seven sacraments**, each corresponding to a stage or dimension of the Christian life:
 
 ### Sacraments of Initiation
-- [**Baptism**](baptism.md): Birth into new life in Christ; forgiveness of original and actual sin
-- [**Confirmation**](confirmation.md): Sealed with the Holy Spirit; strengthened for mission and spiritual battle
-- [**Eucharist**](eucharist.md): The Body and Blood of Christ; nourishment for the soul and source of Christian life
+- [**Baptism**](baptism/): Birth into new life in Christ; forgiveness of original and actual sin
+- [**Confirmation**](confirmation/): Sealed with the Holy Spirit; strengthened for mission and spiritual battle
+- [**Eucharist**](eucharist/): The Body and Blood of Christ; nourishment for the soul and source of Christian life
 
 ### Sacraments of Healing
-- [**Reconciliation**](reconciliation.md): Forgiveness of sins after Baptism; restores grace lost by sin
-- [**Anointing of the Sick**](anointing.md): Strength, healing, and preparation for death; comfort in illness
+- [**Reconciliation**](reconciliation/): Forgiveness of sins after Baptism; restores grace lost by sin
+- [**Anointing of the Sick**](anointing/): Strength, healing, and preparation for death; comfort in illness
 
 ### Sacraments at the Service of Communion
-- [**Holy Orders**](holy-orders.md): Consecration of bishops, priests, and deacons for service to the Church
-- [**Matrimony**](matrimony.md): Covenant of love between husband and wife; sign of Christ's love for the Church
+- [**Holy Orders**](holy-orders/): Consecration of bishops, priests, and deacons for service to the Church
+- [**Matrimony**](matrimony/): Covenant of love between husband and wife; sign of Christ's love for the Church
 
 ---
 
@@ -78,4 +78,4 @@ Sacramentals do not confer grace in the same way as sacraments but prepare the s
 
 ---
 
-*See also: [Ecclesiology: Nature of the Church](../ecclesiology/nature-of-the-church.md) | [The Trinity](../trinity/) | [Christology](../christology/)*
+*See also: [Ecclesiology: Nature of the Church](../ecclesiology/nature-of-the-church/) | [The Trinity](../trinity/) | [Christology](../christology/)*

@@ -98,4 +98,4 @@ The Catholic Church also recognizes that the Eastern formulation, "proceeds from
 
 ---
 
-*See also: [Work of the Spirit](work-of-the-spirit.md) | [Spiritual Gifts](spiritual-gifts.md) | [The Trinity](../trinity/the-holy-spirit.md)*
+*See also: [Work of the Spirit](work-of-the-spirit/) | [Spiritual Gifts](spiritual-gifts/) | [The Trinity](../trinity/the-holy-spirit/)*

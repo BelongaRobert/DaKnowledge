@@ -61,9 +61,9 @@ At Pentecost (Acts 2), the Spirit is poured out on all believers. The age of the
 
 | Topic | Description |
 |-------|-------------|
-| [Person of the Spirit](person-of-the-spirit.md) | The Spirit as divine person, intellect, will, and love |
-| [Work of the Spirit](work-of-the-spirit.md) | Sanctification, inspiration, illumination, and empowerment |
-| [Spiritual Gifts](spiritual-gifts.md) | The gifts and fruits given for the building up of the Church |
+| [Person of the Spirit](person-of-the-spirit/) | The Spirit as divine person, intellect, will, and love |
+| [Work of the Spirit](work-of-the-spirit/) | Sanctification, inspiration, illumination, and empowerment |
+| [Spiritual Gifts](spiritual-gifts/) | The gifts and fruits given for the building up of the Church |
 
 ---
 
@@ -87,4 +87,4 @@ The Spirit is not merely a theological topic but the **divine presence** in the 
 
 ---
 
-*See also: [The Trinity](../trinity/the-holy-spirit.md) | [Christology](../christology/) | [Soteriology](../soteriology/)*
+*See also: [The Trinity](../trinity/the-holy-spirit/) | [Christology](../christology/) | [Soteriology](../soteriology/)*

@@ -134,4 +134,4 @@ Personal prayer is the school where we learn to love God and hear his voice. It 
 
 ---
 
-**[← Back to Forms of Prayer](../index.md#forms-of-prayer)**
+**[← Back to Forms of Prayer](../index#forms-of-prayer)**

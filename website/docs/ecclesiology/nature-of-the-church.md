@@ -85,4 +85,4 @@ The Church is holy in her Head, Christ, who is without sin. She is holy in the m
 
 ---
 
-*See also: [Church Government](church-government.md) | [Sacraments](../sacraments/) | [The Trinity](../trinity/)*
+*See also: [Church Government](church-government/) | [Sacraments](../sacraments/) | [The Trinity](../trinity/)*

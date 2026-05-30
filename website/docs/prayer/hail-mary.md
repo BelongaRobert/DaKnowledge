@@ -78,4 +78,4 @@ This traditional devotion combines the Hail Mary with reflection on the Incarnat
 
 ---
 
-**[← Back to Prayer](../index.md)**
+**[← Back to Prayer](../index/)**

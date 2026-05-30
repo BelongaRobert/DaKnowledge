@@ -175,4 +175,4 @@ Contemplative prayer does not make us escape the world, but transforms us so we 
 
 ---
 
-**[← Back to Forms of Prayer](../index.md#forms-of-prayer)**
+**[← Back to Forms of Prayer](../index#forms-of-prayer)**

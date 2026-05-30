@@ -244,4 +244,4 @@ Mystical Rose, Tower of David, Tower of Ivory, House of Gold, Ark of the Covenan
 
 ---
 
-**[← Back to Forms of Prayer](../index.md#forms-of-prayer)**
+**[← Back to Forms of Prayer](../index#forms-of-prayer)**

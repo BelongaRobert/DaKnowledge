@@ -55,7 +55,7 @@ Wisdom, understanding, counsel, fortitude, knowledge, piety, and fear of the Lor
 
 These gifts are not natural talents but supernatural endowments that perfect the virtues and enable us to respond to God's grace.
 
-For more on the gifts, see [Pneumatology: Spiritual Gifts](../pneumatology/spiritual-gifts.md).
+For more on the gifts, see [Pneumatology: Spiritual Gifts](../pneumatology/spiritual-gifts/).
 
 ---
 
@@ -74,4 +74,4 @@ The Spirit preserves the Church in truth, guides her magisterium, sanctifies her
 
 ---
 
-*See also: [God the Father](the-father.md) | [God the Son](the-son.md) | [Pneumatology](../pneumatology/)*
+*See also: [God the Father](the-father/) | [God the Son](the-son/) | [Pneumatology](../pneumatology/)*

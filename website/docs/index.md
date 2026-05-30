@@ -15,52 +15,52 @@ Explore the major branches of Catholic theology:
 
 ### [Theology Proper](../theology-proper/)
 The study of God the Father: His being, attributes, and names.
-- [Attributes of God](../theology-proper/attributes-of-god.md): Omnipotence, goodness, justice, mercy, love
-- [Names of God](../theology-proper/names-of-god.md): Yahweh, Elohim, Abba, and the revelation of the divine nature
+- [Attributes of God](../theology-proper/attributes-of-god/): Omnipotence, goodness, justice, mercy, love
+- [Names of God](../theology-proper/names-of-god/): Yahweh, Elohim, Abba, and the revelation of the divine nature
 
 ### [The Trinity](../trinity/)
 The central mystery of Christian faith: one God in three divine persons.
-- [God the Father](../trinity/the-father.md): The source and origin of all things
-- [God the Son](../trinity/the-son.md): The eternal Word incarnate
-- [The Holy Spirit](../trinity/the-holy-spirit.md): The Lord and Giver of life
-- [Economic & Immanent](../trinity/economic-immanent.md): How God acts in salvation and who He is in Himself
+- [God the Father](../trinity/the-father/): The source and origin of all things
+- [God the Son](../trinity/the-son/): The eternal Word incarnate
+- [The Holy Spirit](../trinity/the-holy-spirit/): The Lord and Giver of life
+- [Economic & Immanent](../trinity/economic-immanent/): How God acts in salvation and who He is in Himself
 
 ### [Christology](../christology/)
 The study of Jesus Christ: true God and true man.
-- [Hypostatic Union](../christology/hypostatic-union.md): One person, two natures
-- [Two Natures](../christology/two-natures.md): Fully divine, fully human
-- [Person of Christ](../christology/person-of-christ.md): The Son of God incarnate
-- [Work of Christ](../christology/work-of-christ.md): Prophet, Priest, and King
+- [Hypostatic Union](../christology/hypostatic-union/): One person, two natures
+- [Two Natures](../christology/two-natures/): Fully divine, fully human
+- [Person of Christ](../christology/person-of-christ/): The Son of God incarnate
+- [Work of Christ](../christology/work-of-christ/): Prophet, Priest, and King
 
 ### [Pneumatology](../pneumatology/)
 The study of the Holy Spirit: His person and work.
-- [Person of the Spirit](../pneumatology/person-of-the-spirit.md): Divine person, not impersonal force
-- [Work of the Spirit](../pneumatology/work-of-the-spirit.md): Sanctification, inspiration, empowerment
-- [Spiritual Gifts](../pneumatology/spiritual-gifts.md): Gifts and fruits for the building up of the Church
+- [Person of the Spirit](../pneumatology/person-of-the-spirit/): Divine person, not impersonal force
+- [Work of the Spirit](../pneumatology/work-of-the-spirit/): Sanctification, inspiration, empowerment
+- [Spiritual Gifts](../pneumatology/spiritual-gifts/): Gifts and fruits for the building up of the Church
 
 ### [Soteriology](../soteriology/)
 The study of salvation: how God saves us in Christ.
-- [Justification](../soteriology/justification.md): Being made right with God
-- [Sanctification](../soteriology/sanctification.md): Being made holy
-- [Atonement](../soteriology/atonement.md): Christ's sacrifice for sin
-- [Election](../soteriology/election.md): Chosen in Christ before the foundation of the world
+- [Justification](../soteriology/justification/): Being made right with God
+- [Sanctification](../soteriology/sanctification/): Being made holy
+- [Atonement](../soteriology/atonement/): Christ's sacrifice for sin
+- [Election](../soteriology/election/): Chosen in Christ before the foundation of the world
 
 ### [Ecclesiology](../ecclesiology/)
 The study of the Church: the Body of Christ.
-- [Nature of the Church](../ecclesiology/nature-of-the-church.md): Body, temple, Bride, and sacrament
-- [Church Government](../ecclesiology/church-government.md): Papacy, bishops, priests, and deacons
+- [Nature of the Church](../ecclesiology/nature-of-the-church/): Body, temple, Bride, and sacrament
+- [Church Government](../ecclesiology/church-government/): Papacy, bishops, priests, and deacons
 
 ### [Sacraments](../sacraments/)
 The seven sacraments: efficacious signs of grace.
-- [Baptism](../sacraments/baptism.md) | [Confirmation](../sacraments/confirmation.md) | [Eucharist](../sacraments/eucharist.md)
-- [Reconciliation](../sacraments/reconciliation.md) | [Anointing of the Sick](../sacraments/anointing.md)
-- [Holy Orders](../sacraments/holy-orders.md) | [Matrimony](../sacraments/matrimony.md)
+- [Baptism](../sacraments/baptism/) | [Confirmation](../sacraments/confirmation/) | [Eucharist](../sacraments/eucharist/)
+- [Reconciliation](../sacraments/reconciliation/) | [Anointing of the Sick](../sacraments/anointing/)
+- [Holy Orders](../sacraments/holy-orders/) | [Matrimony](../sacraments/matrimony/)
 
 ### [Scripture](../scripture/)
 The inspired Word of God.
-- [Biblical Inspiration](../scripture/inspiration.md): God-breathed and inerrant
-- [Biblical Canon](../scripture/canon.md): The 73 books of the Catholic Bible
-- [Biblical Interpretation](../scripture/interpretation.md): The four senses and principles of hermeneutics
+- [Biblical Inspiration](../scripture/inspiration/): God-breathed and inerrant
+- [Biblical Canon](../scripture/canon/): The 73 books of the Catholic Bible
+- [Biblical Interpretation](../scripture/interpretation/): The four senses and principles of hermeneutics
 
 ### [Prayer](../prayer/)
 The treasury of Christian prayer: liturgical, personal, contemplative, and devotional.

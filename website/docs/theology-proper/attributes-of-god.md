@@ -109,4 +109,4 @@ To contemplate the attributes of God is to be drawn into worship. We do not stud
 > *"The fear of the Lord is the beginning of wisdom, and the knowledge of the Holy One is insight."*  
 > — Proverbs 9:10
 
-*See also: [Names of God](names-of-god.md)*
+*See also: [Names of God](names-of-god/)*

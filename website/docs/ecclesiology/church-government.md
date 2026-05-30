@@ -107,4 +107,4 @@ The Church's hierarchy is not an imposition on the Gospel but part of it. Christ
 
 ---
 
-*See also: [Nature of the Church](nature-of-the-church.md) | [Sacraments](../sacraments/) | [The Trinity](../trinity/)*
+*See also: [Nature of the Church](nature-of-the-church/) | [Sacraments](../sacraments/) | [The Trinity](../trinity/)*

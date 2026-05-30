@@ -28,7 +28,7 @@ The Son, who is eternally God, became man in Jesus of Nazareth. This is the **In
 
 The Son assumed a true human nature, body, soul, intellect, will, without ceasing to be God. In Jesus Christ, there are **two natures** (divine and human) united in **one divine person**.
 
-For more on the union of natures, see [Christology: Hypostatic Union](../christology/hypostatic-union.md).
+For more on the union of natures, see [Christology: Hypostatic Union](../christology/hypostatic-union/).
 
 ---
 
@@ -74,4 +74,4 @@ Our sonship is real but not natural: it is supernatural, given by grace, and per
 
 ---
 
-*See also: [God the Father](the-father.md) | [The Holy Spirit](the-holy-spirit.md) | [Christology](../christology/)*
+*See also: [God the Father](the-father/) | [The Holy Spirit](the-holy-spirit/) | [Christology](../christology/)*

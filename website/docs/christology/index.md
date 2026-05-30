@@ -31,10 +31,10 @@ The Incarnation was not necessary, God could have redeemed us in countless other
 
 | Doctrine | Meaning | Heresy It Refutes |
 |----------|---------|-------------------|
-| [Hypostatic Union](hypostatic-union.md) | One divine person with two natures | Nestorianism (two persons) and Eutychianism (one nature) |
-| [Two Natures](two-natures.md) | Fully divine and fully human, unmixed and undivided | Monophysitism and Apollinarianism |
-| [Person of Christ](person-of-christ.md) | The Son of God, second person of the Trinity | Arianism (created Son) and Adoptionism (mere man) |
-| [Work of Christ](work-of-christ.md) | Revelation, redemption, reconciliation, glorification | Pelagianism (no need for grace) |
+| [Hypostatic Union](hypostatic-union/) | One divine person with two natures | Nestorianism (two persons) and Eutychianism (one nature) |
+| [Two Natures](two-natures/) | Fully divine and fully human, unmixed and undivided | Monophysitism and Apollinarianism |
+| [Person of Christ](person-of-christ/) | The Son of God, second person of the Trinity | Arianism (created Son) and Adoptionism (mere man) |
+| [Work of Christ](work-of-christ/) | Revelation, redemption, reconciliation, glorification | Pelagianism (no need for grace) |
 
 ---
 
@@ -92,4 +92,4 @@ Christology is not mere speculation about a historical figure. It is the contemp
 
 ---
 
-*See also: [The Trinity](../trinity/) | [Soteriology](../soteriology/) | [The Work of Christ](work-of-christ.md)*
+*See also: [The Trinity](../trinity/) | [Soteriology](../soteriology/) | [The Work of Christ](work-of-christ/)*

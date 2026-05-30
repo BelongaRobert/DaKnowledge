@@ -111,4 +111,4 @@ Christ will return in glory to judge the living and the dead (Matthew 25:31-46).
 
 ---
 
-*See also: [Soteriology](../soteriology/) | [Hypostatic Union](hypostatic-union.md) | [The Trinity](../trinity/)*
+*See also: [Soteriology](../soteriology/) | [Hypostatic Union](hypostatic-union/) | [The Trinity](../trinity/)*

@@ -65,4 +65,4 @@ This ancient praise-formula appears in the Didache (c. 100 AD) and is used in ma
 
 ---
 
-**[← Back to Prayer](../index.md)**
+**[← Back to Prayer](../index/)**

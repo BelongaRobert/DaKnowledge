@@ -69,4 +69,4 @@ The **Nicene Creed** (325 AD, revised 381 AD) is longer and more detailed, parti
 
 ---
 
-**[← Back to Prayer](../index.md)**
+**[← Back to Prayer](../index/)**

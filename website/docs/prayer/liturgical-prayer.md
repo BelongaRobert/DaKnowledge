@@ -153,4 +153,4 @@ Liturgical prayer requires **active participation**: not just attendance, but fu
 
 ---
 
-**[← Back to Forms of Prayer](../index.md#forms-of-prayer)**
+**[← Back to Forms of Prayer](../index#forms-of-prayer)**

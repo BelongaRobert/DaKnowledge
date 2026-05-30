@@ -74,4 +74,4 @@ God's fatherhood is not metaphorical. It is real, though analogical. God is Fath
 
 ---
 
-*See also: [The Son](the-son.md) | [The Holy Spirit](the-holy-spirit.md) | [Economic & Immanent Trinity](economic-immanent.md)*
+*See also: [The Son](the-son/) | [The Holy Spirit](the-holy-spirit/) | [Economic & Immanent Trinity](economic-immanent/)*

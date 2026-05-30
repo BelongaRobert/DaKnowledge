@@ -42,8 +42,8 @@ The Church is **apostolic**: built on the foundation of the apostles (Ephesians 
 
 | Topic | Description |
 |-------|-------------|
-| [Nature of the Church](nature-of-the-church.md) | The Church as Body of Christ, temple of the Spirit, and people of God |
-| [Church Government](church-government.md) | Hierarchy, papacy, bishops, priests, and deacons |
+| [Nature of the Church](nature-of-the-church/) | The Church as Body of Christ, temple of the Spirit, and people of God |
+| [Church Government](church-government/) | Hierarchy, papacy, bishops, priests, and deacons |
 | [Sacraments](../sacraments/) | The seven sacraments as channels of grace |
 
 ---

@@ -32,8 +32,8 @@ Within the inner life of the Trinity, the Father is the **principle without prin
 
 | Topic | Description |
 |-------|-------------|
-| [Attributes of God](attributes-of-god.md) | The perfections of the divine nature: omnipotence, omniscience, goodness, justice, mercy |
-| [Names of God](names-of-god.md) | How God reveals Himself through Scripture: Yahweh, Elohim, El Shaddai, Abba |
+| [Attributes of God](attributes-of-god/) | The perfections of the divine nature: omnipotence, omniscience, goodness, justice, mercy |
+| [Names of God](names-of-god/) | How God reveals Himself through Scripture: Yahweh, Elohim, El Shaddai, Abba |
 
 ---
 

@@ -92,4 +92,4 @@ The two are not separate Trinities but one God: **"The mystery of the Holy Trini
 
 ---
 
-*See also: [God the Father](the-father.md) | [God the Son](the-son.md) | [The Holy Spirit](the-holy-spirit.md)*
+*See also: [God the Father](the-father/) | [God the Son](the-son/) | [The Holy Spirit](the-holy-spirit/)*

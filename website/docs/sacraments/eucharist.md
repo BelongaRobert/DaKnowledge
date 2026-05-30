@@ -94,4 +94,4 @@ Because Christ is truly present in the consecrated Host, the Church practices **
 
 ---
 
-*See also: [Baptism](baptism.md) | [Confirmation](confirmation.md) | [Sacraments Overview](index.md)*
+*See also: [Baptism](baptism/) | [Confirmation](confirmation/) | [Sacraments Overview](index/)*
