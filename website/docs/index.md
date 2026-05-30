@@ -77,12 +77,7 @@ Resources for discipleship, growth, and the pursuit of holiness.
 
 This knowledge base is organized around Catholic theological tradition with a focus on the **Triune God**. Father, Son, and Holy Spirit. Every doctrine flows from this center: the God who creates, redeems, and sanctifies.
 
-All content is drawn from:
-- The **Catechism of the Catholic Church**
-- **Sacred Scripture** (the 73-book Catholic canon)
-- The **Church Fathers** and Doctors of the Church
-- The **Magisterium** and ecumenical councils
-- The **liturgical tradition** of the Church
+All content is drawn from Sacred Scripture, the Catechism of the Catholic Church, the Church Fathers, the Magisterium, and the liturgical tradition of the Church. **[View Complete Sources & Bibliography →](sources/)**
 
 ---
 

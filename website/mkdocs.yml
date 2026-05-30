@@ -26,6 +26,7 @@ extra_css:
   - stylesheets/extra.css
 nav:
   - Home: index.md
+  - Sources & Bibliography: sources.md
   - Theology Proper:
     - Overview: theology-proper/index.md
     - Attributes of God: theology-proper/attributes-of-god.md
