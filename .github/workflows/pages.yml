@@ -2,9 +2,7 @@ name: Build MkDocs and Deploy to GitHub Pages
 
 on:
   push:
-    branches:
-      - main
-      - cursor/knowledge-ingestion-optimization-c82e
+    branches: [main]
   workflow_dispatch:
 
 permissions:
