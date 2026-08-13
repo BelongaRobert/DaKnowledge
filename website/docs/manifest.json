@@ -2,20 +2,24 @@
   "name": "DaKnowledge",
   "short_name": "DaKnowledge",
   "description": "Biblical Theology Knowledge Base",
-  "start_url": "/",
+  "id": "/DaKnowledge/",
+  "start_url": "/DaKnowledge/",
+  "scope": "/DaKnowledge/",
   "display": "standalone",
   "background_color": "#2E0000",
   "theme_color": "#8B0000",
   "icons": [
     {
-      "src": "assets/images/apple-touch-icon.png",
+      "src": "/DaKnowledge/assets/images/apple-touch-icon.png",
       "sizes": "180x180",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
     },
     {
-      "src": "assets/images/icon-512.png",
+      "src": "/DaKnowledge/assets/images/icon-512.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
     }
   ]
 }
