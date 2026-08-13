@@ -22,6 +22,26 @@
     box-shadow: 0 2px 10px rgba(139, 0, 0, 0.3);
 }
 
+/* Language selector: show "Ln" next to the theme toggle */
+.md-header__option .md-select > .md-header__button.md-icon {
+    width: auto;
+    min-width: 2.4rem;
+    padding-inline: 0.35rem;
+    font-family: Georgia, "Times New Roman", serif;
+    font-weight: 700;
+    font-size: 0.95rem;
+    letter-spacing: 0.04em;
+    color: var(--md-primary-bg-color);
+}
+
+.md-header__option .md-select > .md-header__button.md-icon svg {
+    display: none;
+}
+
+.md-header__option .md-select > .md-header__button.md-icon::after {
+    content: "Ln";
+}
+
 .md-header__title {
     font-family: 'Georgia', 'Times New Roman', serif;
     font-weight: 600;

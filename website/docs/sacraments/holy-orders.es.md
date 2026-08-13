@@ -80,7 +80,7 @@ La liturgia de la ordenación incluye:
 En la Iglesia latina, los sacerdotes (y los obispos) generalmente deben ser **célibes**. Esta disciplina:
 - Libera al sacerdote para la dedicación total a Cristo y a la Iglesia
 - Es signo del Reino de Dios, donde no se toma mujer ni marido
-- Hace del sacerdote una imagen viva de Cristo, que fue Él mismo célibe.
+- Hace del sacerdote una imagen viva de Cristo, célibe Él mismo.
 
 En las Iglesias católicas orientales, los hombres casados pueden ser ordenados al sacerdocio (aunque los obispos se eligen entre sacerdotes célibes). Ambas tradiciones honran el celibato como don y sacrificio.
 

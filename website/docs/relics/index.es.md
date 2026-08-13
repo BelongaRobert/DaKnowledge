@@ -135,9 +135,9 @@ Explore nuestra investigación sobre reliquias individuales:
 
 ### Navegación rápida
 
-- [Panorama de las clases de reliquias](#classes-of-relics)
-- [¿Qué son las reliquias?](#what-are-relics)
-- [La veneración de las reliquias](#veneration)
-- [El valor espiritual de las reliquias](#the-spiritual-value-of-relics)
+- [Panorama de las clases de reliquias](#clases-de-reliquias)
+- [¿Qué son las reliquias?](#que-son-las-reliquias)
+- [La veneración de las reliquias](#veneracion)
+- [El valor espiritual de las reliquias](#el-valor-espiritual-de-las-reliquias)
 
 <div class="divider-sacred"></div>

@@ -9,6 +9,7 @@ theme:
   custom_dir: docs/overrides
   logo: assets/images/crucifix.svg
   favicon: assets/images/crucifix.svg
+  language: en
   palette:
     - scheme: default
       primary: red
@@ -36,7 +37,130 @@ theme:
     - toc.follow
 plugins:
   - search:
-      lang: en
+      lang:
+        - en
+        - es
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: es
+          name: Español
+          build: true
+          site_description: Base de conocimiento de teología bíblica
+          copyright: DaKnowledge — Escritura, Tradición y el Dios trino
+          theme:
+            language: es
+            palette:
+              - scheme: default
+                primary: red
+                accent: amber
+                toggle:
+                  icon: material/brightness-7
+                  name: Cambiar a modo oscuro
+              - scheme: slate
+                primary: red
+                accent: amber
+                toggle:
+                  icon: material/brightness-4
+                  name: Cambiar a modo claro
+          nav_translations:
+            Home: Inicio
+            Study: Estudio
+            Overview: Panorama
+            Three tracks: Tres itinerarios
+            Glossary: Glosario
+            Councils and errors: Concilios y errores
+            Find a page: Buscar una página
+            Sources & Bibliography: Fuentes y bibliografía
+            Theology Proper: Teología propiamente dicha
+            Attributes of God: Atributos de Dios
+            Names of God: Nombres de Dios
+            Existence of God: Existencia de Dios
+            The Trinity: La Santísima Trinidad
+            God the Father: Dios Padre
+            God the Son: Dios Hijo
+            The Holy Spirit: El Espíritu Santo
+            Economic & Immanent: Económica e inmanente
+            Christology: Cristología
+            Hypostatic Union: Unión hipostática
+            Two Natures: Dos naturalezas
+            Person of Christ: Persona de Cristo
+            Work of Christ: Obra de Cristo
+            Pneumatology: Pneumatología
+            Person of the Spirit: Persona del Espíritu
+            Work of the Spirit: Obra del Espíritu
+            Spiritual Gifts: Dones espirituales
+            Soteriology: Soteriología
+            Justification: Justificación
+            Sanctification: Santificación
+            Atonement: Expiación
+            Election: Elección
+            Ecclesiology: Eclesiología
+            Nature of the Church: Naturaleza de la Iglesia
+            Church Government: Gobierno de la Iglesia
+            Mariology: Mariología
+            Mother of God: Madre de Dios
+            Immaculate Conception: Inmaculada Concepción
+            Assumption: Asunción
+            Moral Theology: Teología moral
+            Law and Conscience: Ley y conciencia
+            Virtue and Sin: Virtud y pecado
+            Eschatology: Escatología
+            Death and Judgment: Muerte y juicio
+            Heaven, Hell, and Purgatory: Cielo, infierno y purgatorio
+            Sacraments: Sacramentos
+            Baptism: Bautismo
+            Confirmation: Confirmación
+            Eucharist: Eucaristía
+            Reconciliation: Reconciliación
+            Anointing of the Sick: Unción de los enfermos
+            Holy Orders: Orden sagrado
+            Matrimony: Matrimonio
+            Scripture: Sagrada Escritura
+            Biblical Inspiration: Inspiración bíblica
+            Biblical Canon: Canon bíblico
+            Biblical Interpretation: Interpretación bíblica
+            Scripture Index: Índice de Escritura
+            Prayer: Oración
+            The Lord's Prayer: Padre nuestro
+            Hail Mary: Ave María
+            Glory Be: Gloria
+            Apostles' Creed: Credo de los Apóstoles
+            Liturgical Prayer: Oración litúrgica
+            Personal Prayer: Oración personal
+            Contemplative Prayer: Oración contemplativa
+            Devotional Prayer: Oración devocional
+            Relics: Reliquias
+            Shroud of Turin: Sábana Santa de Turín
+            True Cross: Santa Cruz
+            Crown of Thorns: Corona de espinas
+            Holy Lance: Santa Lanza
+            Veil of Veronica & Sudarium: Velo de la Verónica y Sudario
+            Spiritual Formation: Formación espiritual
+            A light rule of life: Una regla de vida sencilla
+            Lectio divina: Lectio divina
+            Discussion sheet: Guía de conversación
+            Discipleship Reflection: Reflexión de discipulado
+          admonition_translations:
+            note: nota
+            abstract: resumen
+            info: información
+            tip: consejo
+            success: éxito
+            question: pregunta
+            warning: advertencia
+            failure: fallo
+            danger: peligro
+            bug: error
+            example: ejemplo
+            quote: cita
 extra_css:
   - stylesheets/extra.css
 extra:
