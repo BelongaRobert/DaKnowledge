@@ -41,4 +41,4 @@ npm run indexes
 
 GitHub Pages is the live host: https://belongarobert.github.io/DaKnowledge/
 
-A push to `main` builds `website/` with MkDocs and publishes it. Vercel is leftover and not required.
+A push to `main` builds `website/` with MkDocs and publishes it.
