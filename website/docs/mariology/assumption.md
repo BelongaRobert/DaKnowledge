@@ -54,3 +54,5 @@ Crowned in heaven, she remains a creature. Queenship in the Church's language is
 ---
 
 *See also: [Immaculate Conception](immaculate-conception/) | [Last Things](../eschatology/last-things/) | [Work of Christ](../christology/work-of-christ/)*
+
+--8<-- "includes/study-prompts.md"

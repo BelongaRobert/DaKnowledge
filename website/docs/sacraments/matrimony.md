@@ -116,3 +116,5 @@ Marriage is not merely a human arrangement but a **divine calling**. The spouses
 ---
 
 *See also: [Sacraments Overview](index/) | [Holy Orders](holy-orders/) | [Ecclesiology: Nature of the Church](../ecclesiology/nature-of-the-church/)*
+
+--8<-- "includes/study-prompts.md"

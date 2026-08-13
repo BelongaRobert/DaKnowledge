@@ -122,3 +122,5 @@ Together, Baptism and Confirmation form the **sacraments of Christian initiation
 ---
 
 *See also: [Baptism](baptism/) | [Eucharist](eucharist/) | [Sacraments Overview](index/)*
+
+--8<-- "includes/study-prompts.md"

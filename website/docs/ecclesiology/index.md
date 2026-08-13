@@ -73,3 +73,5 @@ The Church is the **ordinary means of salvation** established by Christ. This do
 ---
 
 *See also: [Sacraments](../sacraments/) | [The Trinity](../trinity/) | [Christology](../christology/)*
+
+--8<-- "includes/study-prompts.md"

@@ -112,3 +112,5 @@ Yet the justified person can also **lose grace** through mortal sin. This is why
 ---
 
 *See also: [Sanctification](sanctification/) | [Atonement](atonement/) | [Election](election/)*
+
+--8<-- "includes/study-prompts.md"

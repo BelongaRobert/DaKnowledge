@@ -97,6 +97,17 @@ topics:
     name: Spiritual Formation
     subtopics:
       - discipleship-reflection
+      - rule-of-life
+      - lectio
+      - discussion
+
+  - id: study
+    name: Study
+    subtopics:
+      - tracks
+      - glossary
+      - councils
+      - find
 
   - id: mariology
     name: Mariology

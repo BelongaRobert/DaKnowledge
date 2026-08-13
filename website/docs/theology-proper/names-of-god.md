@@ -153,3 +153,5 @@ Jesus manifests the Father's name not by speaking the syllables YHWH but by reve
 Every name of God is an invitation. Elohim calls us to trust the Creator. Yahweh calls us to covenant fidelity. Abba calls us into the intimate embrace of divine sonship. The names of God are not dry theological data, they are the living revelation of the One who seeks us, saves us, and sanctifies us.
 
 *See also: [Attributes of God](attributes-of-god/)*
+
+--8<-- "includes/study-prompts.md"

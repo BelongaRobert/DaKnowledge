@@ -100,3 +100,5 @@ Yet this dignity is also a **burden**. The priest is called to holiness, to self
 ---
 
 *See also: [Ecclesiology: Church Government](../ecclesiology/church-government/) | [Sacraments Overview](index/) | [Matrimony](matrimony/)*
+
+--8<-- "includes/study-prompts.md"

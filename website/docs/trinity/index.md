@@ -61,3 +61,5 @@ For the divine essence shared by the three persons, see [Theology Proper](../the
 ---
 
 *See also: [Theology Proper](../theology-proper/) | [Christology](../christology/) | [Pneumatology](../pneumatology/)*
+
+--8<-- "includes/study-prompts.md"

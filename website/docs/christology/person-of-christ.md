@@ -122,3 +122,5 @@ To contemplate the person of Christ is to stand before the greatest mystery in t
 > — St. Leo the Great
 
 *See also: [Hypostatic Union](hypostatic-union/) | [Two Natures](two-natures/) | [Work of Christ](work-of-christ/)*
+
+--8<-- "includes/study-prompts.md"

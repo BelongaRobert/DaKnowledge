@@ -100,3 +100,5 @@ The Bible is not merely a historical artifact. It is the **living Word of God**:
 ---
 
 *See also: [Biblical Canon](canon/) | [Biblical Interpretation](interpretation/) | [The Trinity](../trinity/)*
+
+--8<-- "includes/study-prompts.md"

@@ -70,3 +70,5 @@ Virtue grows by repeated acts under grace, and by the Eucharist, which is food f
 ---
 
 *See also: [Law and Conscience](law-and-conscience/) | [Sanctification](../soteriology/sanctification/) | [Reconciliation](../sacraments/reconciliation/)*
+
+--8<-- "includes/study-prompts.md"

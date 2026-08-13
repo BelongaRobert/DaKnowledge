@@ -60,3 +60,5 @@ Freedom is the power to act or not to act, and so to perform deliberate acts (CC
 ---
 
 *See also: [Virtue and Sin](virtue-and-sin/) | [Reconciliation](../sacraments/reconciliation/) | [Election](../soteriology/election/)*
+
+--8<-- "includes/study-prompts.md"

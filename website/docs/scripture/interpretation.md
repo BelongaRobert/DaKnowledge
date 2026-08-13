@@ -123,3 +123,5 @@ The magisterium is the servant of the Word, not its master. It guards the treasu
 ---
 
 *See also: [Biblical Inspiration](inspiration/) | [Biblical Canon](canon/) | [The Trinity](../trinity/)*
+
+--8<-- "includes/study-prompts.md"

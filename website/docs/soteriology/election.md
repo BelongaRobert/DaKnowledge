@@ -125,3 +125,5 @@ We do not know with absolute certainty who is elect and who is not: only God see
 ---
 
 *See also: [Justification](justification/) | [Sanctification](sanctification/) | [The Trinity](../trinity/)*
+
+--8<-- "includes/study-prompts.md"

@@ -58,3 +58,5 @@ This motherhood is intercession, not replacement. There is one mediator (1 Timot
 ---
 
 *See also: [Immaculate Conception](immaculate-conception/) | [Person of Christ](../christology/person-of-christ/) | [Hail Mary](../prayer/hail-mary/)*
+
+--8<-- "includes/study-prompts.md"

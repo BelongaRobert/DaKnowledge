@@ -32,7 +32,10 @@ Spiritual formation is the ordinary work of becoming a disciple: prayer, doctrin
 
 | Entry | Description |
 |-------|-------------|
-| [Discipleship Reflection](discipleship-reflection/) | A parish formation exercise (March 28, 2026): prayer, orthodoxy, and the path to holiness |
+| [A light rule of life](rule-of-life/) | Sunday Mass, a daily Our Father, one page a week |
+| [Lectio divina](lectio/) | Four movements, one verse, ten minutes |
+| [Discussion sheet](discussion/) | Four questions in English and Spanish for a parish group |
+| [Discipleship Reflection](discipleship-reflection/) | A parish formation exercise (March 28, 2026) |
 
 This section will grow as more personal and parish notes are published. The dated original of the first reflection is kept in the repository under `content/spiritual-formation/`.
 

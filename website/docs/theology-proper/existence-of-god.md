@@ -71,3 +71,5 @@ To ask whether God exists is already to stand before the question of being. Crea
 ---
 
 *See also: [Attributes of God](attributes-of-god/) | [Names of God](names-of-god/) | [The Trinity](../trinity/)*
+
+--8<-- "includes/study-prompts.md"

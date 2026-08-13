@@ -414,6 +414,19 @@
     border-left: 3px solid var(--catholic-gold);
 }
 
+/* Quiet study prompts: present, not loud */
+.md-typeset .admonition.question {
+    border-left: 3px solid rgba(139, 0, 0, 0.35);
+    background-color: rgba(139, 0, 0, 0.03);
+    font-size: 0.92em;
+}
+
+.md-typeset .admonition.question > .admonition-title {
+    background-color: transparent;
+    color: var(--catholic-red-dark);
+    font-weight: 600;
+}
+
 /* Dark mode adjustments */
 [data-md-color-scheme="slate"] .expandable-section {
     background: rgba(26, 26, 46, 0.8);

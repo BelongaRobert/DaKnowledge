@@ -100,3 +100,5 @@ The Church also recognizes **Baptism of blood**, when a person dies as a martyr 
 ---
 
 *See also: [Confirmation](confirmation/) | [Eucharist](eucharist/) | [Sacraments Overview](index/)*
+
+--8<-- "includes/study-prompts.md"

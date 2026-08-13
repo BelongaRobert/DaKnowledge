@@ -68,3 +68,5 @@ The last word is not the fate of isolated souls. It is a renewed creation (Revel
 ---
 
 *See also: [Death and Judgment](death-and-judgment/) | [Assumption](../mariology/assumption/) | [The Eucharist](../sacraments/eucharist/)*
+
+--8<-- "includes/study-prompts.md"

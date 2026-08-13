@@ -103,3 +103,5 @@ The works done in grace are themselves meritorious: not by our own power but by 
 ---
 
 *See also: [Christology](../christology/) | [The Trinity](../trinity/) | [Pneumatology](../pneumatology/)*
+
+--8<-- "includes/study-prompts.md"

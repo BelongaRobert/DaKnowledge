@@ -121,3 +121,5 @@ The Hypostatic Union is the greatest of all mysteries: greater than creation, gr
 > — Catechism of the Catholic Church, 470
 
 *See also: [Two Natures](two-natures/) | [Person of Christ](person-of-christ/) | [Work of Christ](work-of-christ/)*
+
+--8<-- "includes/study-prompts.md"

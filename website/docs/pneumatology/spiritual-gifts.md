@@ -134,3 +134,5 @@ All spiritual gifts are meant to serve the building up of the Body of Christ in 
 ---
 
 *See also: [Work of the Spirit](work-of-the-spirit/) | [Person of the Spirit](person-of-the-spirit/) | [The Trinity](../trinity/the-holy-spirit/)*
+
+--8<-- "includes/study-prompts.md"

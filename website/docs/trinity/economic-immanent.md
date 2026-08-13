@@ -104,3 +104,5 @@ The two are not separate Trinities but one God: **"The mystery of the Holy Trini
 ---
 
 *See also: [God the Father](the-father/) | [God the Son](the-son/) | [The Holy Spirit](the-holy-spirit/)*
+
+--8<-- "includes/study-prompts.md"

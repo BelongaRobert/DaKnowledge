@@ -59,3 +59,5 @@ The moral life does not earn the beginning of justification. It is the fruit of 
 ---
 
 *See also: [Soteriology](../soteriology/) | [The Sacraments](../sacraments/) | [Personal Prayer](../prayer/personal-prayer/)*
+
+--8<-- "includes/study-prompts.md"

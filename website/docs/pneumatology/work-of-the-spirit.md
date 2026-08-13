@@ -157,3 +157,5 @@ These fruits grow not by human effort alone but by cooperation with the Spirit's
 ---
 
 *See also: [Spiritual Gifts](spiritual-gifts/) | [Person of the Spirit](person-of-the-spirit/) | [The Trinity](../trinity/the-holy-spirit/)*
+
+--8<-- "includes/study-prompts.md"

@@ -55,4 +55,9 @@ if (!citations) {
   throw new Error('Scripture index was not generated');
 }
 
+const study = dk.getDocument('site/study/tracks.md');
+if (!study) {
+  throw new Error('Study tracks were not indexed');
+}
+
 console.log('Engine checks passed.');

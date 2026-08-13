@@ -41,8 +41,16 @@ extra_css:
   - stylesheets/extra.css
 extra:
   generator: false
+exclude_docs: |
+  includes/**
 nav:
   - Home: index.md
+  - Study:
+    - Overview: study/index.md
+    - Three tracks: study/tracks.md
+    - Glossary: study/glossary.md
+    - Councils and errors: study/councils.md
+    - Find a page: study/find.md
   - Sources & Bibliography: sources.md
   - Theology Proper:
     - Overview: theology-proper/index.md
@@ -123,10 +131,17 @@ nav:
     - Veil of Veronica & Sudarium: relics/veil-of-veronica.md
   - Spiritual Formation:
     - Overview: spiritual-formation/index.md
+    - A light rule of life: spiritual-formation/rule-of-life.md
+    - Lectio divina: spiritual-formation/lectio.md
+    - Discussion sheet: spiritual-formation/discussion.md
     - Discipleship Reflection: spiritual-formation/discipleship-reflection.md
 markdown_extensions:
   - admonition
   - pymdownx.details
+  - pymdownx.snippets:
+      base_path:
+        - docs
+      check_paths: true
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true

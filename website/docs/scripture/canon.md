@@ -91,3 +91,5 @@ Scripture and Tradition flow from the same divine wellspring: the Gospel of Chri
 ---
 
 *See also: [Biblical Inspiration](inspiration/) | [Biblical Interpretation](interpretation/) | [The Trinity](../trinity/)*
+
+--8<-- "includes/study-prompts.md"

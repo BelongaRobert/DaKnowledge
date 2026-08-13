@@ -51,3 +51,5 @@ The [Assumption](../mariology/assumption/) is a sign of that hope in one of us. 
 ---
 
 *See also: [Work of Christ](../christology/work-of-christ/) | [The Eucharist](../sacraments/eucharist/) | [Assumption](../mariology/assumption/)*
+
+--8<-- "includes/study-prompts.md"

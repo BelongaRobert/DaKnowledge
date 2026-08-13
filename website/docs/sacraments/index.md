@@ -86,3 +86,5 @@ Sacramentals do not confer grace in the same way as sacraments but prepare the s
 ---
 
 *See also: [Ecclesiology: Nature of the Church](../ecclesiology/nature-of-the-church/) | [The Trinity](../trinity/) | [Christology](../christology/)*
+
+--8<-- "includes/study-prompts.md"

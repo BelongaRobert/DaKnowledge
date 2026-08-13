@@ -53,3 +53,5 @@ The Church prays for the dead. That prayer only makes sense if the story is not 
 ---
 
 *See also: [Last Things](last-things/) | [Anointing of the Sick](../sacraments/anointing/) | [Atonement](../soteriology/atonement/)*
+
+--8<-- "includes/study-prompts.md"

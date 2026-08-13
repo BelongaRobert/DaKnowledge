@@ -55,3 +55,5 @@ This teaching is not a remote privilege. It shows what grace can do. Holiness is
 ---
 
 *See also: [Assumption](assumption/) | [Mother of God](theotokos/) | [Election](../soteriology/election/)*
+
+--8<-- "includes/study-prompts.md"

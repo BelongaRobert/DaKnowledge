@@ -125,3 +125,5 @@ Christ did not die for friends only but for enemies (Romans 5:8-10). This is the
 ---
 
 *See also: [Justification](justification/) | [Sanctification](sanctification/) | [The Work of Christ](../christology/work-of-christ/)*
+
+--8<-- "includes/study-prompts.md"

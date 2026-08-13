@@ -1,5 +1,5 @@
 import { readFile, readdir } from 'fs/promises';
-import { extname, join, relative } from 'path';
+import { extname, join, relative, sep } from 'path';
 import matter from 'gray-matter';
 import { load as loadYaml } from 'js-yaml';
 
@@ -35,6 +35,7 @@ async function validate(repoRoot = process.cwd()) {
 
   for (const filePath of siteFiles) {
     const rel = relative(join(repoRoot, 'website', 'docs'), filePath);
+    if (rel.startsWith(`includes${sep}`) || rel.startsWith('includes/')) continue;
     const raw = await readFile(filePath, 'utf-8');
     const parsed = matter(raw);
 
@@ -85,7 +86,8 @@ async function validate(repoRoot = process.cwd()) {
     'spiritual-formation',
     'mariology',
     'moral-theology',
-    'eschatology'
+    'eschatology',
+    'study'
   ];
 
   for (const id of requiredTopics) {

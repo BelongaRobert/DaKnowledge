@@ -108,3 +108,5 @@ Because Christ is truly present in the consecrated Host, the Church practices **
 ---
 
 *See also: [Baptism](baptism/) | [Confirmation](confirmation/) | [Sacraments Overview](index/)*
+
+--8<-- "includes/study-prompts.md"

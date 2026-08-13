@@ -108,3 +108,5 @@ The Spirit is not merely a theological topic but the **divine presence** in the 
 ---
 
 *See also: [The Trinity](../trinity/the-holy-spirit/) | [Christology](../christology/) | [Soteriology](../soteriology/)*
+
+--8<-- "includes/study-prompts.md"

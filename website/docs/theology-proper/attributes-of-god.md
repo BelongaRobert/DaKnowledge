@@ -131,3 +131,5 @@ To contemplate the attributes of God is to be drawn into worship. We do not stud
 > — Proverbs 9:10
 
 *See also: [Names of God](names-of-god/)*
+
+--8<-- "includes/study-prompts.md"

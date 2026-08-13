@@ -89,3 +89,5 @@ The Spirit preserves the Church in truth, guides her magisterium, sanctifies her
 ---
 
 *See also: [God the Father](the-father/) | [God the Son](the-son/) | [Pneumatology](../pneumatology/)*
+
+--8<-- "includes/study-prompts.md"

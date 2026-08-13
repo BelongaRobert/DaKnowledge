@@ -114,3 +114,5 @@ In this sense, Jesus is the **Head** of the Body (the Church), and all grace flo
 ---
 
 *See also: [Hypostatic Union](hypostatic-union/) | [Person of Christ](person-of-christ/) | [Work of Christ](work-of-christ/)*
+
+--8<-- "includes/study-prompts.md"

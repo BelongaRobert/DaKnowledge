@@ -81,3 +81,5 @@ Together, the Anointing of the Sick, Reconciliation, and Viaticum form the **"La
 ---
 
 *See also: [Reconciliation](reconciliation/) | [Eucharist](eucharist/) | [Sacraments Overview](index/)*
+
+--8<-- "includes/study-prompts.md"

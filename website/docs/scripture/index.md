@@ -54,3 +54,5 @@ Scripture is proclaimed at Mass, prayed in the Liturgy of the Hours, and receive
 ---
 
 *See also: [Inspiration](inspiration/) | [Canon](canon/) | [Interpretation](interpretation/) | [Scripture Index](citation-index/) | [Prayer](../prayer/)*
+
+--8<-- "includes/study-prompts.md"

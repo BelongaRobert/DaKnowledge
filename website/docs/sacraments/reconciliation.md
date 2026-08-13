@@ -94,3 +94,5 @@ Venial sins do not destroy grace but weaken the soul and dispose it to greater s
 ---
 
 *See also: [Baptism](baptism/) | [Eucharist](eucharist/) | [Anointing of the Sick](anointing/) | [Sacraments Overview](index/)*
+
+--8<-- "includes/study-prompts.md"

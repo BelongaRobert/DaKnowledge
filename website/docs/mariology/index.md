@@ -55,3 +55,5 @@ She is daughter of Zion, the new Eve, and the first disciple. Her *fiat* ("let i
 ---
 
 *See also: [Christology](../christology/) | [Hail Mary](../prayer/hail-mary/) | [The Holy Spirit](../trinity/the-holy-spirit/)*
+
+--8<-- "includes/study-prompts.md"

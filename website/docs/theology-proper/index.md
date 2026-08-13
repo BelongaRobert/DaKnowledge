@@ -55,3 +55,5 @@ Within the inner life of the Trinity, the Father is the **principle without prin
 ---
 
 *See also: [The Trinity](../trinity/), the full doctrine of the Triune God*
+
+--8<-- "includes/study-prompts.md"

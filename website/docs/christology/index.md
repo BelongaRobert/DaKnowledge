@@ -109,3 +109,5 @@ Christology is not mere speculation about a historical figure. It is the contemp
 ---
 
 *See also: [The Trinity](../trinity/) | [Soteriology](../soteriology/) | [The Work of Christ](work-of-christ/)*
+
+--8<-- "includes/study-prompts.md"

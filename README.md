@@ -41,4 +41,6 @@ npm run indexes
 
 GitHub Pages is the live host: https://belongarobert.github.io/DaKnowledge/
 
+For teaching, start at **Study**: three short tracks, a glossary, a council timeline, and a CCC / verse finder. Doctrine pages keep a collapsed "For study" prompt. The full topic map is on the homepage under "Browse all topics."
+
 A push to `main` builds `website/` with MkDocs and publishes it.

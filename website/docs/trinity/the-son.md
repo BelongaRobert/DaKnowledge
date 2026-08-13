@@ -94,3 +94,5 @@ Our sonship is real but not natural: it is supernatural, given by grace, and per
 ---
 
 *See also: [God the Father](the-father/) | [The Holy Spirit](the-holy-spirit/) | [Christology](../christology/)*
+
+--8<-- "includes/study-prompts.md"
