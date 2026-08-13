@@ -39,4 +39,6 @@ npm run indexes
 
 ## Deployment
 
-`website/` builds to Vercel at https://daknowledge.vercel.app/
+GitHub Pages is the live host: https://belongarobert.github.io/DaKnowledge/
+
+A push to `main` builds `website/` with MkDocs and publishes it. Vercel is leftover and not required.
