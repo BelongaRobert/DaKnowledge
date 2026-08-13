@@ -4,7 +4,8 @@
   "description": "Biblical Theology Knowledge Base",
   "type": "module",
   "scripts": {
-    "build": "pip install -r requirements.txt && node src/build-indexes.js && cd website && mkdocs build -d ../site",
+    "build": "pip install -r requirements.txt && cd website && mkdocs build -d ../site",
+    "build:indexes": "node src/build-indexes.js",
     "test": "node test-engine.mjs && node test-ingest.mjs",
     "ingest": "node src/ingest.js",
     "validate": "node src/validate.js",
