@@ -2,3 +2,10 @@ node_modules/
 *.log
 .DS_Store
 site/
+ingest/inbox/**/*.jpg
+ingest/inbox/**/*.jpeg
+ingest/inbox/**/*.png
+ingest/inbox/**/*.tif
+ingest/inbox/**/*.tiff
+ingest/inbox/**/*.webp
+ingest/inbox/**/*.pdf

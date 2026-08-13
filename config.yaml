@@ -6,15 +6,24 @@ version: 1.0.0
 description: Research-focused theological knowledge base
 
 # Topic Ontology
+# Keep ids aligned with website/docs/ folders.
 topics:
+  - id: theology-proper
+    name: Theology Proper
+    subtopics:
+      - attributes-of-god
+      - names-of-god
+      - existence-of-god
+
   - id: trinity
     name: Trinity
     subtopics:
-      - economic-trinity
-      - immanent-trinity
+      - the-father
+      - the-son
+      - the-holy-spirit
+      - economic-immanent
       - persons-of-the-trinity
-      - trinitarian-hermeneutics
-      
+
   - id: christology
     name: Christology
     subtopics:
@@ -22,21 +31,14 @@ topics:
       - two-natures
       - person-of-christ
       - work-of-christ
-      
+
   - id: pneumatology
     name: Pneumatology
     subtopics:
       - person-of-the-spirit
       - work-of-the-spirit
       - spiritual-gifts
-      
-  - id: ecclesiology
-    name: Ecclesiology
-    subtopics:
-      - nature-of-the-church
-      - church-government
-      - sacraments
-      
+
   - id: soteriology
     name: Soteriology
     subtopics:
@@ -44,53 +46,105 @@ topics:
       - sanctification
       - election
       - atonement
-      
-  - id: theology-proper
-    name: Theology Proper
+
+  - id: ecclesiology
+    name: Ecclesiology
     subtopics:
-      - attributes-of-god
-      - existence-of-god
-      - names-of-god
-      
+      - nature-of-the-church
+      - church-government
+
+  - id: sacraments
+    name: Sacraments
+    subtopics:
+      - baptism
+      - confirmation
+      - eucharist
+      - reconciliation
+      - anointing
+      - holy-orders
+      - matrimony
+
   - id: scripture
     name: Scripture
     subtopics:
-      - biblical-theology
-      - canon
       - inspiration
+      - canon
       - interpretation
+      - biblical-theology
+
+  - id: prayer
+    name: Prayer
+    subtopics:
+      - lords-prayer
+      - hail-mary
+      - glory-be
+      - apostles-creed
+      - liturgical-prayer
+      - personal-prayer
+      - contemplative-prayer
+      - devotional-prayer
+
+  - id: relics
+    name: Relics
+    subtopics:
+      - shroud-of-turin
+      - true-cross
+      - crown-of-thorns
+      - holy-lance
+      - veil-of-veronica
+
+  - id: spiritual-formation
+    name: Spiritual Formation
+    subtopics:
+      - discipleship-reflection
+
+# Planned loci (no public pages yet)
+planned_topics:
+  - id: mariology
+    name: Mariology
+  - id: moral-theology
+    name: Moral Theology
+  - id: eschatology
+    name: Eschatology
 
 # Source Categories
 sources:
+  - id: scripture
+    name: Sacred Scripture
+  - id: magisterium
+    name: Magisterium
+    period: living
   - id: church-fathers
     name: Church Fathers
-    period: 100-500 AD
-    
-  - id: reformers
-    name: Reformers
-    period: 1500-1600 AD
-    
+    period: 100-750 AD
+  - id: doctors
+    name: Doctors of the Church
   - id: modern-scholars
     name: Modern Scholars
     period: 1800-present
+  - id: books
+    name: Ingested Books
 
 # Scripture Index Settings
 scripture:
   enabled: true
-  canon: protestant
+  canon: catholic
+  books: 73
   auto_index: true
-  
+
 # Search Settings
+# full_text is implemented by src/engine.js.
+# semantic_search is planned, not implemented.
 search:
   full_text: true
-  semantic_search: true
+  semantic_search: false
   scripture_citations: true
-  
+
 # Integration
 integrations:
   dashboard: true
   danotify: true
-  
+
 # Privacy
 privacy:
   encryption: false

@@ -1,7 +1,7 @@
 import { readFile, writeFile, readdir, mkdir } from 'fs/promises';
 import { join, dirname, basename, extname } from 'path';
-import { existsSync } from 'fs';
 import matter from 'gray-matter';
+import { load as loadYaml } from 'js-yaml';
 
 /**
  * DaKnowledge Core Engine
@@ -29,7 +29,7 @@ class DaKnowledge {
       join(this.basePath, 'config.yaml'), 
       'utf-8'
     );
-    this.config = this.parseYaml(configData);
+    this.config = loadYaml(configData);
     
     console.log(`✅ Loaded ontology: ${this.config.topics.length} topics`);
     
@@ -40,59 +40,9 @@ class DaKnowledge {
     console.log('🚀 DaKnowledge ready');
   }
 
-  parseYaml(yaml) {
-    // Simple YAML parser for config
-    const lines = yaml.split('\n');
-    const result = {};
-    let current = result;
-    let stack = [result];
-    let indent = 0;
-    
-    for (const line of lines) {
-      if (!line.trim() || line.trim().startsWith('#')) continue;
-      
-      const match = line.match(/^(\s*)?(\w+):\s*(.*)$/);
-      if (match) {
-        const [, spaces, key, value] = match;
-        const level = spaces ? spaces.length : 0;
-        
-        if (level === indent) {
-          if (value) {
-            current[key] = value;
-          } else {
-            current[key] = {};
-            current = current[key];
-          }
-        } else if (level > indent) {
-          stack.push(current);
-          if (value) {
-            current[key] = value;
-          } else {
-            current[key] = {};
-            current = current[key];
-          }
-          indent = level;
-        } else {
-          while (indent > level && stack.length > 1) {
-            current = stack.pop();
-            indent -= 2;
-          }
-          if (value) {
-            current[key] = value;
-          } else {
-            current[key] = {};
-            current = current[key];
-          }
-        }
-      }
-    }
-    
-    return result;
-  }
-
   async buildIndex() {
-    const dataPath = join(this.basePath, 'data');
-    await this.scanDirectory(dataPath);
+    await this.scanDirectory(join(this.basePath, 'data'));
+    await this.scanDirectory(join(this.basePath, 'website', 'docs'), 'site');
   }
 
   async scanDirectory(dirPath, relativePath = '') {
@@ -126,7 +76,9 @@ class DaKnowledge {
         topic: parsed.data.topic || this.inferTopic(relativePath),
         tags: parsed.data.tags || [],
         sources: parsed.data.sources || [],
-        scripture: parsed.data.scripture || [],
+        scripture: parsed.data.scripture?.length
+          ? parsed.data.scripture
+          : this.extractScripture(parsed.content),
         date: parsed.data.date || new Date().toISOString(),
         content: parsed.content,
         excerpt: this.generateExcerpt(parsed.content)
@@ -157,6 +109,13 @@ class DaKnowledge {
         }
         this.index.byScripture.get(ref).push(relativePath);
       }
+
+      for (const source of doc.sources) {
+        if (!this.index.bySource.has(source)) {
+          this.index.bySource.set(source, []);
+        }
+        this.index.bySource.get(source).push(relativePath);
+      }
       
     } catch (err) {
       console.error(`Failed to index ${relativePath}:`, err.message);
@@ -165,10 +124,23 @@ class DaKnowledge {
 
   inferTopic(relativePath) {
     const parts = relativePath.split('/');
-    if (parts.length >= 2 && parts[0] === 'topics') {
+    if (parts[0] === 'topics' && parts[1]) {
+      return parts[1];
+    }
+    if (parts[0] === 'site' && parts[1] && !parts[1].endsWith('.md')) {
       return parts[1];
     }
     return 'uncategorized';
+  }
+
+  extractScripture(content) {
+    const refs = new Set();
+    const pattern = /\b(?:[1-3]\s+)?[A-Z][a-z]+(?:\s+[A-Z][a-z]+)?\s+\d+:\d+(?:-\d+)?/g;
+    const matches = content.match(pattern) || [];
+    for (const match of matches) {
+      refs.add(match.replace(/\s+/g, ' ').trim());
+    }
+    return [...refs];
   }
 
   generateExcerpt(content, maxLength = 200) {

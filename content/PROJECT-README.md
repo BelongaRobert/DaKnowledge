@@ -1,66 +1,50 @@
-# DaKnowledge Project. Biblical Theology
+# DaKnowledge Project
 
-**Initial Concept Date:** March 28, 2026  
-**Status:** Ideation / Exploration Phase  
-**Theme:** Biblical and Theological. Catholic Perspective on the Triune God
+**Initial concept:** March 28, 2026  
+**Status:** Published knowledge base + ingestion work  
+**Theme:** Biblical and theological. Catholic perspective on the Triune God
 
 ---
 
-## Project Vision
+## Vision
 
-A knowledge base/resource organized around:
+A knowledge base organized around:
+
 - **Biblical**: Scripture-based
-- **Theological**: Systematic and pastoral theology
-- **Catholic**: Rooted in Catholic tradition and magisterium
-- **Triune God**: Father, Son, Holy Spirit as central focus
+- **Theological**: systematic and pastoral
+- **Catholic**: Scripture, Fathers, Magisterium, liturgy
+- **Triune God**: Father, Son, and Holy Spirit as the center
+
+The published site chose a **systematic** map (theology proper through sacraments, plus prayer, relics, and formation). Catechetical, liturgical, and personal-formation structures remain useful as *views* on that map, not as a second website.
 
 ---
 
-## Organization Ideas (To Explore)
-
-### Option A: Catechetical Structure
-- Creed (Trinity, God the Father)
-- Sacraments
-- Morality
-- Prayer
-
-### Option B: Trinitarian Structure
-- **The Father**: Creator, Providence, Fatherhood
-- **The Son**: Incarnation, Redemption, Church
-- **The Holy Spirit**: Sanctifier, Gifts, Fruits
-
-### Option C: Liturgical Structure
-- Advent/Christmas (Incarnation)
-- Lent/Easter (Paschal Mystery)
-- Ordinary Time (Sanctification, Discipleship)
-- Feasts of the Trinity, Christ the King, etc.
-
-### Option D: Personal Formation Structure
-- Prayers and Reflections
-- Church Teaching References
-- Scripture Studies
-- Ministry Notes
-- Questions and Answers
-
----
-
-## Current Assets
+## Current assets
 
 | Asset | Location | Description |
 |-------|----------|-------------|
-| Discipleship Reflection | `spiritual-formation/discipleship-reflection-2026-03-28.md` | First entry. 6 questions answered from church training |
+| Published site | `website/docs/` | Systematic theology, prayer, relics, formation |
+| Research drafts | `data/` | Trinity distinction; Athanasius on the Incarnation |
+| Knowledge map | `content/knowledge-map.md` | What the site already teaches |
+| Optimization plan | `content/optimization-plan.md` | Architecture and book-ingestion sequence |
+| Discipleship reflection | `content/spiritual-formation/` and `website/docs/spiritual-formation/` | First personal entry (still duplicated) |
+| Book inbox | `ingest/` | Physical-book drop zone |
 
 ---
 
-## Next Steps (When Ready)
+## Next steps
 
-- [ ] Define primary purpose (personal study? reference? teaching?)
-- [ ] Choose organizational structure
-- [ ] Create template for entries
-- [ ] Add more content (scripture studies, prayers, quotes, etc.)
+- [x] Choose a primary public structure (systematic loci)
+- [x] Publish a first corpus
+- [x] Define templates and a book inbox
+- [ ] Ingest the physical book waiting to be photographed or scanned
+- [ ] Add frontmatter to published pages
+- [ ] Deduplicate the discipleship reflection
+- [ ] Repair bibliography links
+- [ ] Open Mariology, moral theology, and eschatology when a source warrants them
 
 ---
 
-**Tags:** #daknowledge #catholic #theology #trinity #bible #faith #formation #project-idea
+**Tags:** #daknowledge #catholic #theology #trinity #bible #faith #formation
 
-**Note:** This is a living document. Organize as the Spirit leads. 🕊️
+**Note:** This is a living document. Organize as the Spirit leads.
