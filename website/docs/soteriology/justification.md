@@ -1,3 +1,20 @@
+---
+title: Justification
+tags:
+  - soteriology
+  - justification
+topic: soteriology
+scripture:
+  - Romans 5:1
+  - 1 Corinthians 1:30
+  - Galatians 5:6
+  - James 2:24
+  - Romans 3:28
+  - Titus 3:5
+  - 2 Corinthians 5:21
+  - Philippians 2:12-13
+---
+
 # Justification
 
 ## Being Made Right with God

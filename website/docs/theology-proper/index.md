@@ -1,3 +1,14 @@
+---
+title: Theology Proper
+tags:
+  - theology-proper
+topic: theology-proper
+scripture:
+  - Deuteronomy 6:4
+  - John 14:28
+  - Mark 12:29
+---
+
 # Theology Proper
 
 ## The Study of God the Father
@@ -34,6 +45,7 @@ Within the inner life of the Trinity, the Father is the **principle without prin
 |-------|-------------|
 | [Attributes of God](attributes-of-god/) | The perfections of the divine nature: omnipotence, omniscience, goodness, justice, mercy |
 | [Names of God](names-of-god/) | How God reveals Himself through Scripture: Yahweh, Elohim, El Shaddai, Abba |
+| [Existence of God](existence-of-god/) | That God is: reason's ways and the threshold of revelation |
 
 ---
 

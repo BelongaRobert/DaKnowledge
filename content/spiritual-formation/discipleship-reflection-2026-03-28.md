@@ -1,4 +1,7 @@
 # Discipleship Formation Reflection
+
+The published copy of this entry is [Spiritual Formation: Discipleship Reflection](../../website/docs/spiritual-formation/discipleship-reflection.md). This file is the dated archive.
+
 **Date:** March 28, 2026  
 **Context:** Spanish-language church training / Mass formation  
 **Topic:** Discipleship, Prayer, and Orthodoxy

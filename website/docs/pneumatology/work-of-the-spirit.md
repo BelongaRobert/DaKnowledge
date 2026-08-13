@@ -1,3 +1,24 @@
+---
+title: The Work of the Holy Spirit
+tags:
+  - pneumatology
+  - work-of-the-spirit
+topic: pneumatology
+scripture:
+  - 1 Corinthians 12:6
+  - Job 33:4
+  - Genesis 1:2
+  - Psalm 104:30
+  - 2 Peter 1:21
+  - 1 Corinthians 2:14
+  - Luke 1:35
+  - Matthew 3:16
+  - Luke 4:1
+  - Luke 4:14
+  - Luke 4:18
+  - Hebrews 9:14
+---
+
 # The Work of the Holy Spirit
 
 ## The Spirit at Work in the World

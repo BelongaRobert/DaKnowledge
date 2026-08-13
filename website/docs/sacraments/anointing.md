@@ -1,3 +1,15 @@
+---
+title: Anointing of the Sick
+tags:
+  - sacraments
+  - anointing
+topic: sacraments
+scripture:
+  - James 5:14-15
+  - Mark 6:13
+  - Colossians 1:24
+---
+
 # Anointing of the Sick
 
 ## The Sacrament of Healing and Hope

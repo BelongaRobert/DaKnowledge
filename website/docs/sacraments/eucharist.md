@@ -1,3 +1,16 @@
+---
+title: The Eucharist
+tags:
+  - sacraments
+  - eucharist
+topic: sacraments
+scripture:
+  - John 6:51
+  - Luke 22:19-20
+  - Matthew 26:26
+  - 1 Corinthians 6:17
+---
+
 # The Eucharist
 
 ## The Source and Summit of the Christian Life

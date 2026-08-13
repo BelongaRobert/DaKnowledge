@@ -1,3 +1,23 @@
+---
+title: God the Father
+tags:
+  - trinity
+  - the-father
+topic: trinity
+scripture:
+  - Ephesians 1:3
+  - John 3:16
+  - Genesis 1:1
+  - Ephesians 1:4-5
+  - Galatians 4:4
+  - Romans 8:15-17
+  - John 17:24
+  - Matthew 11:27
+  - Matthew 6:26
+  - Hebrews 12:6
+  - Luke 15:20
+---
+
 # God the Father
 
 ## The Source and Origin

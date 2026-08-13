@@ -1,3 +1,14 @@
+---
+title: Ecclesiology
+tags:
+  - ecclesiology
+topic: ecclesiology
+scripture:
+  - Matthew 16:18
+  - Ephesians 4:5
+  - Ephesians 2:20
+---
+
 # Ecclesiology
 
 ## The Study of the Church

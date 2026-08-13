@@ -1,3 +1,16 @@
+---
+title: Biblical Interpretation
+tags:
+  - scripture
+  - interpretation
+topic: scripture
+scripture:
+  - Acts 8:30-31
+  - Romans 5:14
+  - 1 Corinthians 5:7
+  - Romans 15:4
+---
+
 # Biblical Interpretation
 
 ## Hermeneutics: The Science of Understanding Scripture

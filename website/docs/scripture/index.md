@@ -1,3 +1,12 @@
+---
+title: Scripture
+tags:
+  - scripture
+topic: scripture
+scripture:
+  - 2 Timothy 3:16
+---
+
 # Scripture
 
 ## The Inspired Word of God
@@ -18,6 +27,7 @@ Catholic faith does not set Scripture against Tradition. Both flow from the same
 | [Biblical Inspiration](inspiration/) | God-breathed authorship without mechanical dictation |
 | [Biblical Canon](canon/) | The 73 books of the Catholic Bible, including the deuterocanonicals |
 | [Biblical Interpretation](interpretation/) | Hermeneutics in the Church: four senses and lectio divina |
+| [Scripture Index](citation-index/) | Verses cited across the published site |
 
 ---
 
@@ -43,4 +53,4 @@ Scripture is proclaimed at Mass, prayed in the Liturgy of the Hours, and receive
 
 ---
 
-*See also: [Inspiration](inspiration/) | [Canon](canon/) | [Interpretation](interpretation/) | [Prayer](../prayer/)*
+*See also: [Inspiration](inspiration/) | [Canon](canon/) | [Interpretation](interpretation/) | [Scripture Index](citation-index/) | [Prayer](../prayer/)*

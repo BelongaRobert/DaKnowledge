@@ -43,25 +43,25 @@ Rule: a claim is not published until it has a source, a topic, and a short revie
 - Fill the Trinity and Scripture overview stubs.
 - Add a validator for stubs, missing frontmatter, and ontology drift.
 
-### Phase 1 — One corpus
+### Phase 1 — One corpus (done on the site)
 
 - Treat `website/docs/` as the published view and `data/` as the research store.
-- Add YAML frontmatter to published pages (title, topic, tags, scripture, sources).
-- Deduplicate the discipleship reflection (`content/` vs `website/docs/`).
+- Add YAML frontmatter to published pages (title, topic, tags, scripture).
+- Point the dated formation archive at the published reflection.
 - Stop claiming features the engine does not implement.
 
-### Phase 2 — Repair and deepen
+### Phase 2 — Repair and deepen (done for the public map)
 
-- Fix broken bibliography links.
-- Write Existence of God (already in the ontology).
-- Add Mariology, moral theology, and eschatology as first-class sections when a source (including the incoming book) warrants them.
-- Deepen thin doctrine pages with the same citation discipline used on the Shroud article, without turning every page into a journal article.
+- Fix broken bibliography links (Constantinople 381, Trent, Summa Contra Gentiles).
+- Write Existence of God.
+- Add Mariology, moral theology, and eschatology from Scripture, CCC, and the councils already in the bibliography.
+- Keep relic pages as the research register; new loci stay catechetical.
 
-### Phase 3 — Retrieval
+### Phase 3 — Retrieval (done)
 
-- Scripture citation index across the site.
-- Cross-links generated from shared tags and verses.
-- Honest full-text search first. Semantic search only after the corpus is one store with frontmatter.
+- Scripture citation index across the site (`scripture/citation-index.md`, generated).
+- MkDocs search enabled (suggest, highlight, share).
+- Homepage links no longer climb out of the site root.
 
 ### Phase 4 — Book by book
 

@@ -1,3 +1,22 @@
+---
+title: God the Son
+tags:
+  - trinity
+  - the-son
+topic: trinity
+scripture:
+  - John 1:1-3
+  - John 1:14
+  - John 1:18
+  - Mark 10:45
+  - Colossians 1:20
+  - 2 Corinthians 5:17
+  - John 10:30
+  - 2 Peter 1:4
+  - Romans 8:15
+  - 1 John 3:1
+---
+
 # God the Son
 
 ## The Eternal Word

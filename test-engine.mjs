@@ -45,4 +45,14 @@ if (!sitePage) {
   throw new Error('Published Christology page was not indexed');
 }
 
+const mary = dk.getDocument('site/mariology/theotokos.md');
+if (!mary) {
+  throw new Error('Mariology was not indexed');
+}
+
+const citations = dk.getDocument('site/scripture/citation-index.md');
+if (!citations) {
+  throw new Error('Scripture index was not generated');
+}
+
 console.log('Engine checks passed.');

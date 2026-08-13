@@ -1,3 +1,15 @@
+---
+title: Biblical Inspiration
+tags:
+  - scripture
+  - inspiration
+topic: scripture
+scripture:
+  - 2 Timothy 3:16
+  - Genesis 2:7
+  - Hebrews 4:12
+---
+
 # Biblical Inspiration
 
 ## The Word of God in the Words of Men

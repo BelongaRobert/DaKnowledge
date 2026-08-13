@@ -1,3 +1,18 @@
+---
+title: Baptism
+tags:
+  - sacraments
+  - baptism
+topic: sacraments
+scripture:
+  - John 3:5
+  - Matthew 28:19
+  - 1 Corinthians 12:13
+  - 1 Corinthians 6:19
+  - Romans 8:15-17
+  - Galatians 4:6
+---
+
 # Baptism
 
 ## The Door of the Church

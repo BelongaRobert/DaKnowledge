@@ -1,3 +1,11 @@
+---
+title: Liturgical Prayer
+tags:
+  - prayer
+  - liturgical-prayer
+topic: prayer
+---
+
 # Liturgical Prayer
 
 > *"The Church's public prayer, celebrated by the baptized assembled for worship, is the prayer of Christ himself, the high priest, together with his Body which is the Church."*  

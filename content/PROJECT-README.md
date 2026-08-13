@@ -37,11 +37,12 @@ The published site chose a **systematic** map (theology proper through sacrament
 - [x] Choose a primary public structure (systematic loci)
 - [x] Publish a first corpus
 - [x] Define templates and a book inbox
-- [ ] Ingest the physical book waiting to be photographed or scanned
-- [ ] Add frontmatter to published pages
-- [ ] Deduplicate the discipleship reflection
-- [ ] Repair bibliography links
-- [ ] Open Mariology, moral theology, and eschatology when a source warrants them
+- [x] Add frontmatter to published pages
+- [x] Point the dated formation archive at the published reflection
+- [x] Repair bibliography links
+- [x] Open Mariology, moral theology, and eschatology
+- [x] Scripture citation index and site search
+- [ ] Ingest the physical book when photographs or a scan arrive
 
 ---
 

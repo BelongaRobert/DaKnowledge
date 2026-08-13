@@ -1,3 +1,9 @@
+---
+title: Sources & Bibliography
+tags:
+  - sources
+---
+
 # Sources & Bibliography
 
 DaKnowledge is built upon the sacred Tradition of the Catholic Church: Scripture, the Church Fathers, the Magisterium, and the liturgical worship of the People of God. Below is a comprehensive index of the sources referenced throughout this knowledge base.
@@ -100,7 +106,7 @@ Dominican friar, theologian, and philosopher; the Church's greatest systematic t
 - **[Summa Theologica (Complete)](https://www.newadvent.org/summa/)**  
   The Summa Theologica in full English translation.
 
-- **[Summa Contra Gentiles](https://www.corpusthomisticum.org/scg Index.html)**  
+- **[Summa Contra Gentiles](https://www.corpusthomisticum.org/scg1.html)**  
   Aquinas's apologetic work for non-Christians.
 
 - **[CCEL — Thomas Aquinas](https://www.ccel.org/ccel/aquinas/)**  
@@ -236,13 +242,17 @@ Condemned Arianism; affirmed the divinity of Christ and the consubstantiality of
 #### First Council of Constantinople (381)
 Affirmed the divinity of the Holy Spirit; expanded the Nicene Creed.
 
-- **[Documents](https://www.vatican.va/archive/hist_councils/i_vatican_council/documents/vat-i_constitutio-pastor-aeternus_en.html)**  *(Note: Use Vatican general council archive for 381 docs)*
+- **[Canons of Constantinople I](https://www.newadvent.org/fathers/3808.htm)**
 
 #### Council of Ephesus (431)
 Condemned Nestorianism; affirmed Mary as Theotokos (Mother of God).
 
+- **[Letter of Cyril to Nestorius / Ephesus](https://www.newadvent.org/fathers/3810.htm)**
+
 #### Council of Chalcedon (451)
 Defined the two natures of Christ (human and divine) in one person.
+
+- **[Definition of Chalcedon](https://www.newadvent.org/fathers/3811.htm)**
 
 #### Second Council of Constantinople (553)
 Condemned the Three Chapters; further clarified Christological doctrine.
@@ -289,7 +299,7 @@ Last council before Protestant Reformation; addressed church reform.
 #### Council of Trent (1545–1563)
 The Catholic Reformation council; defined doctrine on Scripture and Tradition, sacraments, justification, and the Mass.
 
-- **[Council of Trent — Documents](https://www.vatican.va/archive/hist_councils/ii_vatican_council/)**  *(Use Vatican archive)*
+- **[Council of Trent — Documents](https://www.papalencyclicals.net/councils/trent.htm)**
 
 #### First Vatican Council (1869–1870)
 Defined papal infallibility and primacy of jurisdiction.

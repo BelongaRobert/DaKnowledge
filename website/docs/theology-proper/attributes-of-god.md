@@ -1,3 +1,24 @@
+---
+title: Attributes of God
+tags:
+  - theology-proper
+  - attributes-of-god
+topic: theology-proper
+scripture:
+  - Leviticus 19:2
+  - Isaiah 40:25-26
+  - Jeremiah 23:24
+  - Exodus 3:14
+  - Deuteronomy 6:4
+  - Malachi 3:6
+  - Psalm 90:2
+  - Psalm 139:7-10
+  - Matthew 19:26
+  - Psalm 147:5
+  - Mark 10:18
+  - John 14:6
+---
+
 # Attributes of God
 
 ## The Divine Perfections

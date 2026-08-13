@@ -1,13 +1,35 @@
 ---
-title: "The Crown of Thorns: The Kingly Suffering of Christ"
-description: "History, devotion, and spiritual significance of the Crown of Thorns relic, from the Passion narratives to its veneration at Notre-Dame Cathedral and beyond."
-keywords: ["Crown of Thorns", "relics", "Notre-Dame", "Passion", "Good Friday", "St. Louis IX", "Christ's suffering"]
-author: "DaKnowledge"
-date: "2026-05-08"
-category: "relic"
-difficulty: "intermediate"
-reading_time: "10 minutes"
-tags: ["christianity", "Passion", "Notre-Dame", "medieval", "Good Friday", "devotion"]
+title: 'The Crown of Thorns: The Kingly Suffering of Christ'
+description: >-
+  History, devotion, and spiritual significance of the Crown of Thorns relic, from the
+  Passion narratives to its veneration at Notre-Dame Cathedral and beyond.
+keywords:
+  - Crown of Thorns
+  - relics
+  - Notre-Dame
+  - Passion
+  - Good Friday
+  - St. Louis IX
+  - Christ's suffering
+author: DaKnowledge
+date: '2026-05-08'
+category: relic
+difficulty: intermediate
+reading_time: 10 minutes
+tags:
+  - christianity
+  - Passion
+  - Notre-Dame
+  - medieval
+  - Good Friday
+  - devotion
+topic: relics
+scripture:
+  - John 19:2-3
+  - John 19:5
+  - Galatians 3:13
+  - Hebrews 12:2
+  - Isaiah 25:8
 ---
 
 # The Crown of Thorns: The Kingly Suffering of Christ

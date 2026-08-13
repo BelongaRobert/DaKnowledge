@@ -1,13 +1,35 @@
 ---
-title: "The Veil of Veronica and the Sudarium of Oviedo: Holy Images 'Not Made by Human Hands'"
-description: "Comprehensive examination of the two major facial cloth relics of Christ, the Veil of Veronica and the Sudarium of Oviedo, covering tradition, scientific analysis, and devotional significance."
-keywords: ["Veil of Veronica", "Sudarium of Oviedo", "relics", "image not made by hands", "acheiropoietos", "facial image", "Shroud of Turin"]
-author: "DaKnowledge"
-date: "2026-05-08"
-category: "relic"
-difficulty: "advanced"
-reading_time: "14 minutes"
-tags: ["christianity", "archaeology", "forensics", "image analysis", "biblical archaeology", "Passion"]
+title: 'The Veil of Veronica and the Sudarium of Oviedo: Holy Images ''Not Made by Human Hands'''
+description: >-
+  Comprehensive examination of the two major facial cloth relics of Christ, the Veil of
+  Veronica and the Sudarium of Oviedo, covering tradition, scientific analysis, and
+  devotional significance.
+keywords:
+  - Veil of Veronica
+  - Sudarium of Oviedo
+  - relics
+  - image not made by hands
+  - acheiropoietos
+  - facial image
+  - Shroud of Turin
+author: DaKnowledge
+date: '2026-05-08'
+category: relic
+difficulty: advanced
+reading_time: 14 minutes
+tags:
+  - christianity
+  - archaeology
+  - forensics
+  - image analysis
+  - biblical archaeology
+  - Passion
+topic: relics
+scripture:
+  - John 20:7
+  - 2 Corinthians 4:6
+  - Revelation 22:4
+  - Matthew 5:8
 ---
 
 # The Veil of Veronica and the Sudarium of Oviedo: Holy Images "Not Made by Human Hands"

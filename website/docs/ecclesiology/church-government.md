@@ -1,3 +1,21 @@
+---
+title: Church Government
+tags:
+  - ecclesiology
+  - church-government
+topic: ecclesiology
+scripture:
+  - Luke 10:16
+  - Ephesians 2:20
+  - Matthew 10:1
+  - Matthew 16:18
+  - Matthew 16:19
+  - John 21:15-17
+  - Matthew 16:16
+  - Luke 22:32
+  - John 14:26
+---
+
 # Church Government
 
 ## The Hierarchical Structure of the Church

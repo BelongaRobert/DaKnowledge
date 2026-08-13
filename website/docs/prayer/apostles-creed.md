@@ -1,3 +1,14 @@
+---
+title: The Apostles' Creed
+tags:
+  - prayer
+  - apostles-creed
+topic: prayer
+scripture:
+  - Romans 10:9
+  - 1 Peter 3:19
+---
+
 # The Apostles' Creed
 
 > *"If you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved."*  <br>

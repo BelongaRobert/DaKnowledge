@@ -1,3 +1,23 @@
+---
+title: Pneumatology
+tags:
+  - pneumatology
+topic: pneumatology
+scripture:
+  - John 3:8
+  - Acts 8:29
+  - John 14:26
+  - John 15:26
+  - Romans 8:26-27
+  - John 16:13
+  - Ephesians 4:30
+  - Acts 5:3
+  - Acts 5:4
+  - 1 Corinthians 12:4-6
+  - Genesis 1:2
+  - Luke 1:35
+---
+
 # Pneumatology
 
 ## The Study of the Holy Spirit

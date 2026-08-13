@@ -1,3 +1,23 @@
+---
+title: Soteriology
+tags:
+  - soteriology
+topic: soteriology
+scripture:
+  - John 3:16
+  - Romans 5:12
+  - Ephesians 2:8-9
+  - Ephesians 1:4
+  - John 6:44
+  - Acts 3:19
+  - Romans 3:24
+  - 1 John 3:1
+  - 1 Thessalonians 4:3
+  - Matthew 24:13
+  - Romans 8:30
+  - James 2:26
+---
+
 # Soteriology
 
 ## The Study of Salvation

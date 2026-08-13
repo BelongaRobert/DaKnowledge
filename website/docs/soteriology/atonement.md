@@ -1,3 +1,24 @@
+---
+title: The Atonement
+tags:
+  - soteriology
+  - atonement
+topic: soteriology
+scripture:
+  - 2 Corinthians 5:19
+  - Psalm 51:4
+  - 1 John 2:2
+  - Hebrews 10:12-14
+  - Isaiah 53:5-6
+  - 1 Peter 3:18
+  - Mark 10:45
+  - 1 Timothy 2:6
+  - Colossians 2:15
+  - 1 Corinthians 15:55-57
+  - Romans 5:12-21
+  - 1 Corinthians 15:22
+---
+
 # The Atonement
 
 ## Christ's Sacrifice for Sin

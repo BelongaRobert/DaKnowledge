@@ -1,3 +1,24 @@
+---
+title: Names of God
+tags:
+  - theology-proper
+  - names-of-god
+topic: theology-proper
+scripture:
+  - Proverbs 18:10
+  - Genesis 1:1
+  - Exodus 3:14-15
+  - Genesis 17:1
+  - Deuteronomy 3:24
+  - Genesis 14:18
+  - Psalm 110:4
+  - Hebrews 5:6
+  - Genesis 16:13
+  - Genesis 22:14
+  - Matthew 6:9
+  - Romans 8:15
+---
+
 # Names of God
 
 ## How God Reveals Himself

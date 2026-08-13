@@ -1,3 +1,18 @@
+---
+title: The Nature of the Church
+tags:
+  - ecclesiology
+  - nature-of-the-church
+topic: ecclesiology
+scripture:
+  - 1 Corinthians 12:27
+  - Colossians 1:18
+  - 1 Corinthians 12:12-31
+  - 1 Corinthians 3:16
+  - 1 Peter 2:9
+  - Ephesians 5:25-27
+---
+
 # The Nature of the Church
 
 ## The Church as Mystery and Reality

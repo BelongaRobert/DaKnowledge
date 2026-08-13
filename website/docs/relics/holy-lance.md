@@ -1,13 +1,36 @@
 ---
-title: "The Holy Lance: The Spear of Longinus and the Piercing of Christ's Side"
-description: "History, tradition, and spiritual significance of the Holy Lance that pierced Christ's side, from the Gospel accounts to its veneration in Vienna and beyond."
-keywords: ["Holy Lance", "Spear of Longinus", "relics", "crucifixion", "blood and water", "Vienna", "Hofburg"]
-author: "DaKnowledge"
-date: "2026-05-08"
-category: "relic"
-difficulty: "intermediate"
-reading_time: "11 minutes"
-tags: ["christianity", "Passion", "crucifixion", "Vienna", "medieval", "soldier saints"]
+title: 'The Holy Lance: The Spear of Longinus and the Piercing of Christ''s Side'
+description: >-
+  History, tradition, and spiritual significance of the Holy Lance that pierced Christ's
+  side, from the Gospel accounts to its veneration in Vienna and beyond.
+keywords:
+  - Holy Lance
+  - Spear of Longinus
+  - relics
+  - crucifixion
+  - blood and water
+  - Vienna
+  - Hofburg
+author: DaKnowledge
+date: '2026-05-08'
+category: relic
+difficulty: intermediate
+reading_time: 11 minutes
+tags:
+  - christianity
+  - Passion
+  - crucifixion
+  - Vienna
+  - medieval
+  - soldier saints
+topic: relics
+scripture:
+  - John 19:33-35
+  - Exodus 12:46
+  - Numbers 9:12
+  - Psalm 34:20
+  - Zechariah 12:10
+  - 1 Corinthians 5:7
 ---
 
 # The Holy Lance: The Spear of Longinus and the Piercing of Christ's Side

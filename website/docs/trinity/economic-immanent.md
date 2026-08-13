@@ -1,3 +1,14 @@
+---
+title: Economic and Immanent Trinity
+tags:
+  - trinity
+  - economic-immanent
+topic: trinity
+scripture:
+  - John 20:21
+  - John 14:28
+---
+
 # Economic and Immanent Trinity
 
 ## Two Ways of Speaking About the Trinity

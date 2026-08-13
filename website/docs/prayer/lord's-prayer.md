@@ -1,3 +1,14 @@
+---
+title: The Lord's Prayer
+tags:
+  - prayer
+  - lord's-prayer
+topic: prayer
+scripture:
+  - Matthew 6:9
+  - Matthew 6:7-13
+---
+
 # The Lord's Prayer
 
 > *"This is how you are to pray: Our Father in heaven..."*  

@@ -1,3 +1,15 @@
+---
+title: Holy Relics
+tags:
+  - relics
+topic: relics
+scripture:
+  - 1 Corinthians 6:19
+  - 2 Kings 13:21
+  - Acts 19:11-12
+  - Acts 5:15
+---
+
 # ✝ Holy Relics
 
 <div class="divider-sacred"></div>

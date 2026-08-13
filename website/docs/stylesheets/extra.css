@@ -28,6 +28,12 @@
     letter-spacing: 0.5px;
 }
 
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+    height: 1.6rem;
+    width: 1.6rem;
+}
+
 /* Navigation styling */
 .md-tabs {
     background: linear-gradient(135deg, var(--catholic-red-dark) 0%, #3d0000 100%);
@@ -238,6 +244,18 @@
 
 [data-md-color-scheme="slate"] .md-typeset blockquote {
     color: #ccc;
+}
+
+[data-md-color-scheme="slate"] .md-sidebar {
+    background-color: transparent;
+}
+
+[data-md-color-scheme="slate"] .divider-sacred::after {
+    background: #1a1a2e;
+}
+
+[data-md-color-scheme="slate"] .md-typeset table th {
+    background-color: var(--catholic-red-dark);
 }
 
 /* Smaller text for Sources Used section */

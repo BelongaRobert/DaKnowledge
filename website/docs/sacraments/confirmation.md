@@ -1,3 +1,16 @@
+---
+title: Confirmation
+tags:
+  - sacraments
+  - confirmation
+topic: sacraments
+scripture:
+  - Acts 2:1-4
+  - John 14:16-17
+  - Acts 8:14-17
+  - Acts 1:8
+---
+
 # Confirmation
 
 ## Sealed with the Gift of the Holy Spirit

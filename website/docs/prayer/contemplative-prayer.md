@@ -1,3 +1,13 @@
+---
+title: Contemplative Prayer
+tags:
+  - prayer
+  - contemplative-prayer
+topic: prayer
+scripture:
+  - Psalm 46:10
+---
+
 # Contemplative Prayer
 
 > *"Be still, and know that I am God."*  

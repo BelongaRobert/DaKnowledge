@@ -1,13 +1,39 @@
 ---
-title: "The True Cross: Discovery, Dispersal, and Devotion"
-description: "The history of the True Cross from St. Helena's discovery in Jerusalem to the present day, including major relic locations and spiritual significance."
-keywords: ["True Cross", "relics", "St. Helena", "crucifixion", "Jerusalem", "Constantine"]
-author: "DaKnowledge"
-date: "2026-05-08"
-category: "relic"
-difficulty: "intermediate"
-reading_time: "12 minutes"
-tags: ["christianity", "history", "crucifixion", "pilgrimage", "St. Helena"]
+title: 'The True Cross: Discovery, Dispersal, and Devotion'
+description: >-
+  The history of the True Cross from St. Helena's discovery in Jerusalem to the present
+  day, including major relic locations and spiritual significance.
+keywords:
+  - True Cross
+  - relics
+  - St. Helena
+  - crucifixion
+  - Jerusalem
+  - Constantine
+author: DaKnowledge
+date: '2026-05-08'
+category: relic
+difficulty: intermediate
+reading_time: 12 minutes
+tags:
+  - christianity
+  - history
+  - crucifixion
+  - pilgrimage
+  - St. Helena
+topic: relics
+scripture:
+  - Matthew 27:33
+  - Mark 15:22
+  - Luke 23:33
+  - John 19:17
+  - Matthew 27:57-60
+  - 1 Peter 2:24
+  - 1 Corinthians 1:18
+  - Hebrews 4:16
+  - John 19:19-20
+  - Matthew 16:24
+  - Galatians 6:14
 ---
 
 # The True Cross: Discovery, Dispersal, and Devotion

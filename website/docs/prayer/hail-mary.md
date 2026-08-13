@@ -1,3 +1,13 @@
+---
+title: Hail Mary
+tags:
+  - prayer
+  - hail-mary
+topic: prayer
+scripture:
+  - Luke 1:28
+---
+
 # Hail Mary
 
 > *"Hail, favored one! The Lord is with you."*  <br>
@@ -78,4 +88,4 @@ This traditional devotion combines the Hail Mary with reflection on the Incarnat
 
 ---
 
-**[← Back to Prayer](../index/)**
+*See also: [Mariology](../mariology/) | [Mother of God](../mariology/theotokos/) | [Prayer](index/)*

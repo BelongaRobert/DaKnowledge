@@ -34,6 +34,7 @@ See `ingest/README.md` and `content/optimization-plan.md`.
 ```bash
 npm test
 npm run validate
+npm run indexes
 ```
 
 ## Deployment

@@ -1,3 +1,19 @@
+---
+title: Christology
+tags:
+  - christology
+topic: christology
+scripture:
+  - Matthew 16:15-16
+  - Mark 14:61-62
+  - Daniel 7:13
+  - Mark 10:45
+  - Romans 10:9
+  - Philippians 2:6-7
+  - Philippians 2:9
+  - 1 John 4:10
+---
+
 # Christology
 
 ## The Study of Jesus Christ

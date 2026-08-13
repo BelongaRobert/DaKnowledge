@@ -1,3 +1,17 @@
+---
+title: God the Holy Spirit
+tags:
+  - trinity
+  - the-holy-spirit
+topic: trinity
+scripture:
+  - John 15:26
+  - John 14:26
+  - Genesis 1:2
+  - Galatians 5:22-23
+  - Isaiah 11:2-3
+---
+
 # God the Holy Spirit
 
 ## The Lord and Giver of Life

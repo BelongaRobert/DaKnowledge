@@ -1,3 +1,14 @@
+---
+title: Holy Orders
+tags:
+  - sacraments
+  - holy-orders
+topic: sacraments
+scripture:
+  - 1 Peter 2:9
+  - Hebrews 7:17
+---
+
 # Holy Orders
 
 ## The Sacrament of Apostolic Ministry

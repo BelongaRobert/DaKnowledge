@@ -1,3 +1,20 @@
+---
+title: Spiritual Gifts
+tags:
+  - pneumatology
+  - spiritual-gifts
+topic: pneumatology
+scripture:
+  - 1 Corinthians 12:7
+  - James 3:17
+  - Philippians 4:13
+  - Proverbs 9:10
+  - 1 Corinthians 12:11
+  - 1 Corinthians 14:12
+  - 1 Thessalonians 5:19-21
+  - 1 Corinthians 13:2
+---
+
 # Spiritual Gifts
 
 ## Gifts Given for the Common Good

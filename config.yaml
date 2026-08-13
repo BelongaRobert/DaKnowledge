@@ -98,14 +98,24 @@ topics:
     subtopics:
       - discipleship-reflection
 
-# Planned loci (no public pages yet)
-planned_topics:
   - id: mariology
     name: Mariology
+    subtopics:
+      - theotokos
+      - immaculate-conception
+      - assumption
+
   - id: moral-theology
     name: Moral Theology
+    subtopics:
+      - law-and-conscience
+      - virtue-and-sin
+
   - id: eschatology
     name: Eschatology
+    subtopics:
+      - death-and-judgment
+      - last-things
 
 # Source Categories
 sources:

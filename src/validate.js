@@ -42,8 +42,16 @@ async function validate(repoRoot = process.cwd()) {
       issues.push({ level: 'error', file: rel, message: 'Stub page still says Coming Soon' });
     }
 
-    if (rel !== 'index.md' && rel !== 'sources.md' && Object.keys(parsed.data).length === 0) {
+    if (Object.keys(parsed.data).length === 0) {
       issues.push({ level: 'warn', file: rel, message: 'No YAML frontmatter' });
+    }
+
+    if (rel === 'index.md' && /\]\(\.\.\//.test(parsed.content)) {
+      issues.push({
+        level: 'error',
+        file: rel,
+        message: 'Homepage uses ../ links that resolve outside the site'
+      });
     }
 
     if (parsed.data.topic && !topicIds.has(parsed.data.topic)) {
@@ -74,7 +82,10 @@ async function validate(repoRoot = process.cwd()) {
     'scripture',
     'prayer',
     'relics',
-    'spiritual-formation'
+    'spiritual-formation',
+    'mariology',
+    'moral-theology',
+    'eschatology'
   ];
 
   for (const id of requiredTopics) {

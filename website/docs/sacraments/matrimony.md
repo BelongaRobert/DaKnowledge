@@ -1,3 +1,17 @@
+---
+title: Matrimony
+tags:
+  - sacraments
+  - matrimony
+topic: sacraments
+scripture:
+  - Ephesians 5:25
+  - Genesis 2:24
+  - Matthew 19:6
+  - Mark 10:11-12
+  - 1 Corinthians 7:9
+---
+
 # Matrimony
 
 ## The Sacrament of Covenantal Love

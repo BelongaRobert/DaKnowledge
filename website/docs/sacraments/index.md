@@ -1,3 +1,10 @@
+---
+title: The Sacraments
+tags:
+  - sacraments
+topic: sacraments
+---
+
 # The Sacraments
 
 ## Signs of Grace

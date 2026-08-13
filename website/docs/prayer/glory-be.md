@@ -1,3 +1,11 @@
+---
+title: Glory Be (Doxology)
+tags:
+  - prayer
+  - glory-be
+topic: prayer
+---
+
 # Glory Be (Doxology)
 
 > *"Glory to the Father, and to the Son, and to the Holy Spirit."*

@@ -1,3 +1,23 @@
+---
+title: The Person of Christ
+tags:
+  - christology
+  - person-of-christ
+topic: christology
+scripture:
+  - Matthew 16:16
+  - Matthew 16:17
+  - John 1:18
+  - Colossians 1:15
+  - Galatians 4:4
+  - Luke 1:35
+  - Luke 2:52
+  - Hebrews 4:15
+  - John 8:46
+  - Philippians 2:8
+  - 1 Corinthians 15:22
+---
+
 # The Person of Christ
 
 ## Who Do You Say That I Am?

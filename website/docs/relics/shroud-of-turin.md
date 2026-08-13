@@ -1,13 +1,31 @@
 ---
-title: "The Shroud of Turin: A Multidisciplinary Examination of the Evidence"
-description: "Comprehensive academic analysis of the Shroud of Turin covering physical characteristics, historical provenance, dating studies, image formation mechanisms, and forensic evidence."
-keywords: ["Shroud of Turin", "relics", "archaeology", "forensic science", "image formation", "radiocarbon dating", "WAXS"]
-author: "DaKnowledge"
-date: "2026-04-08"
-category: "relic"
-difficulty: "advanced"
-reading_time: "15 minutes"
-tags: ["christianity", "archaeology", "forensics", "textile analysis", "radiation physics"]
+title: 'The Shroud of Turin: A Multidisciplinary Examination of the Evidence'
+description: >-
+  Comprehensive academic analysis of the Shroud of Turin covering physical
+  characteristics, historical provenance, dating studies, image formation mechanisms,
+  and forensic evidence.
+keywords:
+  - Shroud of Turin
+  - relics
+  - archaeology
+  - forensic science
+  - image formation
+  - radiocarbon dating
+  - WAXS
+author: DaKnowledge
+date: '2026-04-08'
+category: relic
+difficulty: advanced
+reading_time: 15 minutes
+tags:
+  - christianity
+  - archaeology
+  - forensics
+  - textile analysis
+  - radiation physics
+topic: relics
+scripture:
+  - John 19:34
 ---
 
 # The Shroud of Turin: A Multidisciplinary Examination of the Evidence

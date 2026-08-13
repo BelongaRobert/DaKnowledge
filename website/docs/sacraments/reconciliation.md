@@ -1,3 +1,14 @@
+---
+title: Penance and Reconciliation
+tags:
+  - sacraments
+  - reconciliation
+topic: sacraments
+scripture:
+  - John 20:22-23
+  - John 20:21-23
+---
+
 # Penance and Reconciliation
 
 ## The Sacrament of Forgiveness

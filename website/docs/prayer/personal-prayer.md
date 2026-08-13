@@ -1,3 +1,15 @@
+---
+title: Personal Prayer
+tags:
+  - prayer
+  - personal-prayer
+topic: prayer
+scripture:
+  - Matthew 6:25-34
+  - Luke 10:38-42
+  - John 14:1-7
+---
+
 # Personal Prayer
 
 > *"Prayer is the raising of one's mind and heart to God."*  

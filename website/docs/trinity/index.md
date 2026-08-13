@@ -1,3 +1,13 @@
+---
+title: The Trinity
+tags:
+  - trinity
+topic: trinity
+scripture:
+  - Matthew 28:19
+  - Deuteronomy 6:4
+---
+
 # The Trinity
 
 ## Father, Son, and Holy Spirit

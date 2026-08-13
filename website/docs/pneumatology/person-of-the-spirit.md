@@ -1,3 +1,24 @@
+---
+title: The Person of the Holy Spirit
+tags:
+  - pneumatology
+  - person-of-the-spirit
+topic: pneumatology
+scripture:
+  - 1 Corinthians 2:10
+  - Acts 10:19-20
+  - John 14:26
+  - John 15:26
+  - Romans 8:26
+  - Ephesians 4:30
+  - Acts 5:3-4
+  - Psalm 139:7
+  - 1 Corinthians 2:10-11
+  - Hebrews 9:14
+  - Genesis 1:2
+  - Psalm 104:30
+---
+
 # The Person of the Holy Spirit
 
 ## A Divine Person, Not an Impersonal Force

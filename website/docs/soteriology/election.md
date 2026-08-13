@@ -1,3 +1,24 @@
+---
+title: Divine Election
+tags:
+  - soteriology
+  - election
+topic: soteriology
+scripture:
+  - Ephesians 1:3-4
+  - Deuteronomy 7:7-8
+  - Deuteronomy 7:6-8
+  - 1 Peter 2:9
+  - Romans 9:16
+  - Philippians 2:12-13
+  - Romans 8:30
+  - 1 Timothy 2:4
+  - 2 Peter 3:9
+  - 1 Timothy 2:3-4
+  - 1 John 4:19
+  - 1 John 3:1
+---
+
 # Divine Election
 
 ## Chosen in Christ

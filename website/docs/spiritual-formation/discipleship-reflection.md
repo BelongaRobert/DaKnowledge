@@ -1,3 +1,13 @@
+---
+title: Discipleship Formation Reflection
+tags:
+  - spiritual-formation
+  - discipleship-reflection
+topic: spiritual-formation
+scripture:
+  - Hebrews 12:14
+---
+
 # Discipleship Formation Reflection
 **Date:** March 28, 2026  
 **Context:** Spanish-language church training / Mass formation  

@@ -1,3 +1,10 @@
+---
+title: Prayer
+tags:
+  - prayer
+topic: prayer
+---
+
 # Prayer
 
 > *"Prayer is the raising of one's mind and heart to God or the requesting of good things from God."*  

@@ -1,3 +1,13 @@
+---
+title: The Biblical Canon
+tags:
+  - scripture
+  - canon
+topic: scripture
+scripture:
+  - John 20:31
+---
+
 # The Biblical Canon
 
 ## The Collection of Sacred Books

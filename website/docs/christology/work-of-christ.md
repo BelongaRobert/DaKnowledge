@@ -1,3 +1,24 @@
+---
+title: The Work of Christ
+tags:
+  - christology
+  - work-of-christ
+topic: christology
+scripture:
+  - Mark 10:45
+  - Matthew 7:29
+  - John 14:6
+  - Matthew 11:27
+  - Hebrews 10:12
+  - John 18:36
+  - Matthew 28:18
+  - 1 Corinthians 6:20
+  - 1 Peter 3:18
+  - Colossians 2:15
+  - Romans 8:34
+  - Hebrews 7:25
+---
+
 # The Work of Christ
 
 ## What Christ Accomplished

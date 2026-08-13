@@ -1,3 +1,19 @@
+---
+title: Sanctification
+tags:
+  - soteriology
+  - sanctification
+topic: soteriology
+scripture:
+  - 1 Thessalonians 4:3
+  - 2 Thessalonians 2:13
+  - 1 Thessalonians 5:17
+  - Colossians 1:24
+  - Galatians 5:22-23
+  - Matthew 24:13
+  - Matthew 5:48
+---
+
 # Sanctification
 
 ## Being Made Holy

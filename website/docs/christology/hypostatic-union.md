@@ -1,3 +1,23 @@
+---
+title: The Hypostatic Union
+tags:
+  - christology
+  - hypostatic-union
+topic: christology
+scripture:
+  - John 1:14
+  - Luke 2:7
+  - Luke 2:52
+  - Matthew 11:19
+  - John 4:6
+  - Mark 15:37
+  - John 11:35
+  - John 12:27
+  - Luke 22:44
+  - Luke 22:42
+  - 1 Timothy 2:5-6
+---
+
 # The Hypostatic Union
 
 ## One Person, Two Natures

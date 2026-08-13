@@ -1,3 +1,11 @@
+---
+title: Devotional Prayer
+tags:
+  - prayer
+  - devotional-prayer
+topic: prayer
+---
+
 # Devotional Prayer
 
 > *"Popular piety is a treasure of the people of God, an authentic expression of the Church's faith."*  

@@ -1,3 +1,24 @@
+---
+title: The Two Natures of Christ
+tags:
+  - christology
+  - two-natures
+topic: christology
+scripture:
+  - Colossians 2:9
+  - Mark 4:39
+  - John 11:43-44
+  - Mark 2:5
+  - Mark 2:8
+  - John 2:25
+  - Mark 13:32
+  - Matthew 18:20
+  - John 8:58
+  - John 20:27
+  - Mark 1:35
+  - Matthew 26:38
+---
+
 # The Two Natures of Christ
 
 ## Fully Divine, Fully Human
