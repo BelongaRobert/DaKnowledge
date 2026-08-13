@@ -45,52 +45,52 @@ nav:
   - Home: index.md
   - Sources & Bibliography: sources.md
   - Theology Proper:
-    - theology-proper/index.md
+    - Overview: theology-proper/index.md
     - Attributes of God: theology-proper/attributes-of-god.md
     - Names of God: theology-proper/names-of-god.md
     - Existence of God: theology-proper/existence-of-god.md
   - The Trinity:
-    - trinity/index.md
+    - Overview: trinity/index.md
     - God the Father: trinity/the-father.md
     - God the Son: trinity/the-son.md
     - The Holy Spirit: trinity/the-holy-spirit.md
     - Economic & Immanent: trinity/economic-immanent.md
   - Christology:
-    - christology/index.md
+    - Overview: christology/index.md
     - Hypostatic Union: christology/hypostatic-union.md
     - Two Natures: christology/two-natures.md
     - Person of Christ: christology/person-of-christ.md
     - Work of Christ: christology/work-of-christ.md
   - Pneumatology:
-    - pneumatology/index.md
+    - Overview: pneumatology/index.md
     - Person of the Spirit: pneumatology/person-of-the-spirit.md
     - Work of the Spirit: pneumatology/work-of-the-spirit.md
     - Spiritual Gifts: pneumatology/spiritual-gifts.md
   - Soteriology:
-    - soteriology/index.md
+    - Overview: soteriology/index.md
     - Justification: soteriology/justification.md
     - Sanctification: soteriology/sanctification.md
     - Atonement: soteriology/atonement.md
     - Election: soteriology/election.md
   - Ecclesiology:
-    - ecclesiology/index.md
+    - Overview: ecclesiology/index.md
     - Nature of the Church: ecclesiology/nature-of-the-church.md
     - Church Government: ecclesiology/church-government.md
   - Mariology:
-    - mariology/index.md
+    - Overview: mariology/index.md
     - Mother of God: mariology/theotokos.md
     - Immaculate Conception: mariology/immaculate-conception.md
     - Assumption: mariology/assumption.md
   - Moral Theology:
-    - moral-theology/index.md
+    - Overview: moral-theology/index.md
     - Law and Conscience: moral-theology/law-and-conscience.md
     - Virtue and Sin: moral-theology/virtue-and-sin.md
   - Eschatology:
-    - eschatology/index.md
+    - Overview: eschatology/index.md
     - Death and Judgment: eschatology/death-and-judgment.md
     - Heaven, Hell, and Purgatory: eschatology/last-things.md
   - Sacraments:
-    - sacraments/index.md
+    - Overview: sacraments/index.md
     - Baptism: sacraments/baptism.md
     - Confirmation: sacraments/confirmation.md
     - Eucharist: sacraments/eucharist.md
@@ -99,13 +99,13 @@ nav:
     - Holy Orders: sacraments/holy-orders.md
     - Matrimony: sacraments/matrimony.md
   - Scripture:
-    - scripture/index.md
+    - Overview: scripture/index.md
     - Biblical Inspiration: scripture/inspiration.md
     - Biblical Canon: scripture/canon.md
     - Biblical Interpretation: scripture/interpretation.md
     - Scripture Index: scripture/citation-index.md
   - Prayer:
-    - prayer/index.md
+    - Overview: prayer/index.md
     - The Lord's Prayer: prayer/lord's-prayer.md
     - Hail Mary: prayer/hail-mary.md
     - Glory Be: prayer/glory-be.md
@@ -115,14 +115,14 @@ nav:
     - Contemplative Prayer: prayer/contemplative-prayer.md
     - Devotional Prayer: prayer/devotional-prayer.md
   - Relics:
-    - relics/index.md
+    - Overview: relics/index.md
     - Shroud of Turin: relics/shroud-of-turin.md
     - True Cross: relics/true-cross.md
     - Crown of Thorns: relics/crown-of-thorns.md
     - Holy Lance: relics/holy-lance.md
     - Veil of Veronica & Sudarium: relics/veil-of-veronica.md
   - Spiritual Formation:
-    - spiritual-formation/index.md
+    - Overview: spiritual-formation/index.md
     - Discipleship Reflection: spiritual-formation/discipleship-reflection.md
 markdown_extensions:
   - admonition
