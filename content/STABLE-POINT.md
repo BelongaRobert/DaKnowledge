@@ -3,10 +3,12 @@
 **Name:** Stable Point  
 **Date:** 2026-08-15  
 **Git tag:** `stable-point`  
-**Commit:** `6a59f60` on `main` (git tag `stable-point`)  
+**Branch:** `main`  
 **Live site:** https://belongarobert.github.io/DaKnowledge/
 
 This is the saved baseline to return to. Do not treat later experiments as canonical until a new Stable Point is declared.
+
+The annotated git tag `stable-point` is the authority. Prefer the tag over any commit hash written in prose.
 
 ## What is included
 
