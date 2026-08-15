@@ -47,7 +47,7 @@ Las imágenes de fuego y tinieblas en la Escritura no deben vaciarse. Nombran un
 
 ## Purgatorio
 
-Los que mueren en la gracia y amistad de Dios, pero aún imperfectamente purificados, están en efecto asegurados de la salvación. Después de la muerte sufren una purificación, a fin de alcanzar la santidad necesaria para entrar en la alegría del cielo (CCC 1030).
+Los que mueren en la gracia y amistad de Dios, pero aún imperfectamente purificados, tienen asegurada la salvación. Después de la muerte sufren una purificación, a fin de alcanzar la santidad necesaria para entrar en la alegría del cielo (Catecismo n.º 1030).
 
 Esto no es una segunda oportunidad para el impenitente. Es la misericordia que termina lo que la gracia comenzó. La oración de la Iglesia por los muertos, las misas ofrecidas por ellos y la limosna se apoyan en esta comunión.
 
@@ -63,7 +63,7 @@ La última palabra no es el destino de almas aisladas. Es una creación renovada
 ---
 
 !!! quote "Catecismo de la Iglesia Católica"
-    **CCC 1024:** *"Esta vida perfecta con la Santísima Trinidad, esta comunión de vida y de amor con ella, con la Virgen María, los ángeles y todos los bienaventurados se llama 'cielo'. El cielo es el fin último y la realización de las aspiraciones más profundas del hombre, el estado de felicidad suprema y definitiva."*
+    **Catecismo n.º 1024:** *"Esta vida perfecta con la Santísima Trinidad, esta comunión de vida y de amor con ella, con la Virgen María, los ángeles y todos los bienaventurados se llama 'cielo'. El cielo es el fin último y la realización de las aspiraciones más profundas del hombre, el estado de felicidad suprema y definitiva."*
 
 ---
 

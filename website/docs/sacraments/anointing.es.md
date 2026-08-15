@@ -16,7 +16,7 @@ scripture:
 
 La Unción de los enfermos es el sacramento de la compasión de Cristo hacia los enfermos, los que sufren y los moribundos. Confierte gracia, fortaleza y paz, y, cuando Dios lo quiere, curación corporal. No es meramente un sacramento de «últimos ritos», sino un don para todos los que enfrentan una enfermedad grave.
 
-> *"¿Está enfermo alguno entre vosotros? Llame a los presbíteros de la Iglesia, que oren sobre él y lo unjan con óleo en el nombre del Señor. Y la oración de la fe salvará al enfermo, y el Señor lo levantará, y si hubiera cometido pecados, le serán perdonados."*  
+> *"¿Está enfermo alguno entre ustedes? Llame a los presbíteros de la Iglesia, que oren sobre él y lo unjan con óleo en el nombre del Señor. Y la oración de la fe salvará al enfermo, y el Señor lo levantará, y si hubiera cometido pecados, le serán perdonados."*  
 > — Santiago 5:14-15
 
 ---
@@ -76,7 +76,7 @@ Juntos, la Unción de los enfermos, la Reconciliación y el Viático forman los 
 ---
 
 !!! quote "Catecismo de la Iglesia Católica"
-    **CCC 1520:** *"Un don particular del Espíritu Santo. La gracia primera de este sacramento es una gracia de consuelo, de paz y de ánimo para vencer las dificultades propias del estado de enfermedad grave o de la fragilidad de la vejez."*
+    **Catecismo n.º 1520:** *"Un don particular del Espíritu Santo. La gracia primera de este sacramento es una gracia de consuelo, de paz y de ánimo para vencer las dificultades propias del estado de enfermedad grave o de la fragilidad de la vejez."*
 
 ---
 

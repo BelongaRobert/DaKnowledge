@@ -83,7 +83,7 @@ Esta afirmación de unidad no borra la distinción de personas —Jesús y el Pa
 
 La filiación única y eterna del Hijo es el modelo de nuestra filiación adoptiva. Por gracia somos hechos «partícipes de la naturaleza divina» (2 Pedro 1:4) y recibimos el Espíritu de adopción (Romanos 8:15).
 
-> *«Mirad qué amor nos ha dado el Padre, para que seamos llamados hijos de Dios; y lo somos.»*  
+> *«Miren qué amor nos ha dado el Padre, para que seamos llamados hijos de Dios; y lo somos.»*  
 > — 1 Juan 3:1
 
 Nuestra filiación es real, pero no natural: es sobrenatural, dada por gracia y perfeccionada en la gloria.

@@ -51,7 +51,7 @@ El pecado hiere el alma en todos los niveles. Rompe la comunión con Dios, corta
 
 La salvación es enteramente don de Dios. No la ganamos, no la alcanzamos ni la merecemos. Fluye de la misericordia libre de Dios y de la obra meritoria de Cristo.
 
-> *«Por gracia sois salvos por medio de la fe; y esto no de vosotros, pues es don de Dios; no por obras, para que nadie se gloríe.»*  
+> *«Por gracia son salvados por medio de la fe; y esto no de ustedes, pues es don de Dios; no por obras, para que nadie se gloríe.»*  
 > — Efesios 2:8-9
 
 Sin embargo, la salvación no es meramente una declaración jurídica. Es una **transformación**: somos hechos nuevos, restaurados a la gracia, adoptados como hijos de Dios y destinados a la gloria.

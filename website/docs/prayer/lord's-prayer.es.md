@@ -11,7 +11,7 @@ scripture:
 
 # El Padre nuestro
 
-> *«Vosotros, pues, orad así: Padre nuestro que estás en el cielo...»*  
+> *«Ustedes, pues, oren así: Padre nuestro que estás en el cielo...»*  
 > — Mateo 6,9
 
 El Padre nuestro, también llamado la **Oración del Señor**, es la oración que Jesús enseñó a sus discípulos cuando le pidieron cómo orar. Es el modelo de toda oración cristiana: contiene todo lo que necesitamos pedir a Dios y todo lo que Dios promete dar.
@@ -37,7 +37,7 @@ El Padre nuestro, también llamado la **Oración del Señor**, es la oración qu
 
 ## Fuente bíblica
 
-> *«Cuando oréis, no habléis mucho, como los gentiles, que se figuran que por su palabrería serán escuchados. No seáis como ellos, porque vuestro Padre sabe lo que necesitáis antes de pedírselo. Vosotros, pues, orad así: Padre nuestro que estás en el cielo, santificado sea tu Nombre, venga tu Reino, hágase tu voluntad en la tierra como en el cielo. Danos hoy nuestro pan de cada día; perdona nuestras ofensas, como también nosotros hemos perdonado a los que nos ofenden; no nos dejes caer en la tentación, y líbranos del Maligno.»*  
+> *«Cuando oren, no hablen mucho, como los gentiles, que se imaginan que por su palabrería serán escuchados. No sean como ellos, porque su Padre sabe lo que necesitan antes de pedírselo. Ustedes, pues, oren así: Padre nuestro que estás en el cielo, santificado sea tu Nombre, venga tu Reino, hágase tu voluntad en la tierra como en el cielo. Danos hoy nuestro pan de cada día; perdona nuestras ofensas, como también nosotros hemos perdonado a los que nos ofenden; no nos dejes caer en la tentación, y líbranos del maligno.»*  
 > — Mateo 6,7-13
 
 ---

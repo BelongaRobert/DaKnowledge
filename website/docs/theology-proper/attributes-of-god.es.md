@@ -25,7 +25,7 @@ scripture:
 
 Los atributos de Dios son las perfecciones que pertenecen a su naturaleza divina. No son cualidades separadas añadidas a Dios, sino que describen quién es Dios en su ser esencial. Porque Dios es simple (sin partes ni composición), cada atributo es idéntico a la esencia de Dios: decir que Dios es bueno es decir que Dios es el Ser mismo.
 
-> *«Sed santos, porque yo, el Señor, vuestro Dios, soy santo.»*  
+> *«Sean santos, porque yo, el Señor, su Dios, soy santo.»*  
 > — Levítico 19:2
 
 ---
@@ -37,7 +37,7 @@ Dios es a la vez **totalmente más allá** de su creación e **íntimamente pres
 ### Trascendencia
 Dios es enteramente distinto de la creación. No es un ente dentro del universo, sino el fundamento de todo ser. Es no causado, autoexistente e independiente de todo lo que está fuera de Él.
 
-> *«¿A quién, pues, me asemejáis, para que yo sea como él? —dice el Santo—. Alzad a lo alto vuestros ojos y ved: ¿quién creó estas cosas?»*  
+> *«¿A quién, pues, me asemejan, para que yo sea como él? —dice el Santo—. Alcen a lo alto sus ojos y ved: ¿quién creó estas cosas?»*  
 > — Isaías 40:25-26
 
 ### Inmanencia

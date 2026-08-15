@@ -46,7 +46,7 @@ La [Asunción](../mariology/assumption/) es un signo de esa esperanza en una de 
 ---
 
 !!! quote "Catecismo de la Iglesia Católica"
-    **CCC 1020:** *"El cristiano que une su propia muerte a la de Jesús la ve como un ir hacia Él y una entrada en la vida eterna."*
+    **Catecismo n.º 1020:** *"El cristiano que une su propia muerte a la de Jesús la ve como un ir hacia Él y una entrada en la vida eterna."*
 
 ---
 

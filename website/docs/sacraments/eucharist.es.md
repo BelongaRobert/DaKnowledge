@@ -26,10 +26,10 @@ La Eucaristía es el **sacramento de los sacramentos**: el mayor don que Cristo 
 
 En la Última Cena, la noche antes de morir, Cristo instituyó la Eucaristía:
 
-> *"Tomó pan, dio gracias, lo partió y se lo dio diciendo: «Esto es mi cuerpo que es entregado por vosotros; haced esto en memoria mía». Igualmente, después de cenar, tomó el cáliz diciendo: «Este cáliz es la nueva alianza en mi sangre, que es derramada por vosotros»."*  
+> *"Tomó pan, dio gracias, lo partió y se lo dio diciendo: «Esto es mi cuerpo que es entregado por ustedes; hagan esto en memoria mía». Igualmente, después de cenar, tomó el cáliz diciendo: «Este cáliz es la nueva alianza en mi sangre, que es derramada por ustedes»."*  
 > — Lucas 22:19-20
 
-El mandato **«Haced esto en memoria mía»** (griego *anamnesis*) no significa un mero recuerdo mental. Significa el **hacer presente sacramentalmente** el sacrificio de Cristo: el mismo sacrificio del Calvario, re-presentado en el altar.
+El mandato **«Hagan esto en memoria mía»** (griego *anamnesis*) no significa un mero recuerdo mental. Significa el **hacer presente sacramentalmente** el sacrificio de Cristo: el mismo sacrificio del Calvario, re-presentado en el altar.
 
 ---
 
@@ -103,7 +103,7 @@ Porque Cristo está verdaderamente presente en la Hostia consagrada, la Iglesia 
 ---
 
 !!! quote "Catecismo de la Iglesia Católica"
-    **CCC 1324:** *"La Eucaristía es 'fuente y cumbre de toda la vida cristiana'. 'Los demás sacramentos, como también todos los ministerios eclesiásticos y obras de apostolado, están unidos a la Eucaristía y a ella se ordenan. La sagrada Eucaristía, en efecto, contiene todo el bien espiritual de la Iglesia, es decir, Cristo mismo, nuestra Pascua'."*
+    **Catecismo n.º 1324:** *"La Eucaristía es 'fuente y cumbre de toda la vida cristiana'. 'Los demás sacramentos, como también todos los ministerios eclesiásticos y obras de apostolado, están unidos a la Eucaristía y a ella se ordenan. La sagrada Eucaristía, en efecto, contiene todo el bien espiritual de la Iglesia, es decir, Cristo mismo, nuestra Pascua'."*
 
 ---
 

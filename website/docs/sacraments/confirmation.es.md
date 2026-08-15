@@ -26,7 +26,7 @@ La Confirmación es el sacramento que **completa el Bautismo**, fortaleciendo a 
 
 Cristo prometió el don del Espíritu Santo:
 
-> *"Yo pediré al Padre y os dará otro Paráclito, para que esté con vosotros para siempre, el Espíritu de la verdad."*  
+> *"Yo pediré al Padre y les dará otro Paráclito, para que esté con ustedes para siempre, el Espíritu de la verdad."*  
 > — Juan 14:16-17
 
 Esta promesa se cumplió en Pentecostés, cuando los apóstoles fueron confirmados en el Espíritu para su misión. Los apóstoles, a su vez, imponían las manos sobre los bautizados para conferir el don del Espíritu (Hechos 8:14-17, 19:6).
@@ -118,7 +118,7 @@ Juntos, el Bautismo y la Confirmación forman los **sacramentos de la iniciació
 ---
 
 !!! quote "Catecismo de la Iglesia Católica"
-    **CCC 1285:** *"El Bautismo, la Eucaristía y el sacramento de la Confirmación constituyen juntos los 'sacramentos de la iniciación cristiana', cuya unidad debe ser salvaguardada. Es preciso explicar a los fieles que la recepción de este sacramento es necesaria para la plenitud de la gracia bautismal."*
+    **Catecismo n.º 1285:** *"El Bautismo, la Eucaristía y el sacramento de la Confirmación constituyen juntos los 'sacramentos de la iniciación cristiana', cuya unidad debe ser salvaguardada. Es preciso explicar a los fieles que la recepción de este sacramento es necesaria para la plenitud de la gracia bautismal."*
 
 ---
 

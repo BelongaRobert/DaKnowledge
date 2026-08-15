@@ -20,7 +20,7 @@ scripture:
 
 La santificación es la obra de la gracia de Dios por la cual el creyente es **hecho santo**: conformado a la imagen de Cristo, purificado del pecado y perfeccionado en el amor. Mientras que la justificación quita la culpa del pecado y restaura la gracia, la santificación es la **transformación continua** de toda la persona a semejanza de Dios.
 
-> *«Esta es la voluntad de Dios: vuestra santificación.»*  
+> *«Esta es la voluntad de Dios: su santificación.»*  
 > — 1 Tesalonicenses 4:3
 
 ---
@@ -46,7 +46,7 @@ La justificación es el **comienzo** de la santificación. Cuando Dios justifica
 
 El Espíritu Santo es el **agente principal** de la santificación. Habita en el creyente bautizado, produce los frutos de la santidad, capacita la lucha contra el pecado y conforma el alma a Cristo.
 
-> *«Dios os escogió como primicias para salvación, mediante la santificación por el Espíritu y la fe en la verdad.»*  
+> *«Dios los escogió como primicias para salvación, mediante la santificación por el Espíritu y la fe en la verdad.»*  
 > — 2 Tesalonicenses 2:13
 
 La obra del Espíritu en la santificación incluye:
@@ -66,7 +66,7 @@ El Bautismo inicia la vida de gracia, la Confirmación fortalece al creyente par
 ### La oración
 La oración es el **aliento** de la vida espiritual. Por la oración entramos en comunión con Dios, recibimos su gracia y somos transformados gradualmente.
 
-> *«Orad sin cesar.»*  
+> *«Oren sin cesar.»*  
 > — 1 Tesalonicenses 5:17
 
 ### La Palabra de Dios
@@ -75,7 +75,7 @@ La Escritura ilumina la mente, convence a la conciencia y guía la voluntad. La 
 ### El sufrimiento
 El sufrimiento, cuando se une a la cruz de Cristo, se convierte en medio de purificación y crecimiento. La Iglesia ha enseñado siempre el **valor redentor** del sufrimiento.
 
-> *«Ahora me gozo en lo que padezco por vosotros, y cumplo en mi carne lo que falta de las aflicciones de Cristo por su cuerpo, que es la Iglesia.»*  
+> *«Ahora me gozo en lo que padezco por ustedes, y cumplo en mi carne lo que falta de las aflicciones de Cristo por su cuerpo, que es la Iglesia.»*  
 > — Colosenses 1:24
 
 ### La mortificación
@@ -135,7 +135,7 @@ Esta perseverancia es ella misma un don de Dios, no meramente un logro humano. O
 
 La santificación no consiste en llegar a ser perfectos con nuestras propias fuerzas. Consiste en entregarnos cada vez más a Aquel que es perfecto. Los santos no son personas que nunca pecaron, sino personas que nunca dejaron de volver a Dios.
 
-> *«Sed, pues, vosotros perfectos, como vuestro Padre que está en los cielos es perfecto.»*  
+> *«Sean, pues, ustedes perfectos, como su Padre que está en los cielos es perfecto.»*  
 > — Mateo 5:48
 
 Esta llamada a la perfección no es una exigencia aplastante, sino una promesa: el Dios que manda la perfección también da la gracia para alcanzarla.

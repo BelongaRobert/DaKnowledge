@@ -10,7 +10,7 @@ scripture:
 
 # Oración contemplativa
 
-> *«Estad quietos, y reconoced que yo soy Dios.»*  
+> *«Estén quietos, y reconozcan que yo soy Dios.»*  
 > — Salmo 46,10
 
 La oración contemplativa es **unión silenciosa con Dios**: una mirada de fe, fijada en Jesús. Va más allá de las palabras, los conceptos y las imágenes para descansar en la simple conciencia de la presencia amorosa de Dios.
@@ -77,7 +77,7 @@ No contemplamos un abstracto «fondo del ser» ni vaciamos la mente en la nada. 
 ### Una relación de amor
 
 La contemplación cristiana no es:
-- Escapismo de la realidad
+- Evasión de la realidad
 - Absorción narcisista en uno mismo
 - Mera técnica psicológica
 - Unión con una fuerza cósmica impersonal

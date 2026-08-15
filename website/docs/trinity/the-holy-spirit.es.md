@@ -18,7 +18,7 @@ scripture:
 
 El Espíritu Santo es la **tercera persona de la Santísima Trinidad**, que procede eternamente del Padre y del Hijo (Filioque). Es plenamente Dios, coigual y coeterno con el Padre y el Hijo. La Iglesia lo confiesa como **«Señor y dador de vida»**.
 
-> *«Cuando venga el Paráclito, que yo os enviaré de junto al Padre, el Espíritu de la verdad, que procede del Padre, él dará testimonio de mí.»*  
+> *«Cuando venga el Paráclito, que yo les enviaré de junto al Padre, el Espíritu de la verdad, que procede del Padre, él dará testimonio de mí.»*  
 > — Juan 15:26
 
 ---
@@ -30,7 +30,7 @@ El Espíritu procede del Padre **y del Hijo** (Filioque, «y del Hijo»). Esta e
 1. El Espíritu no es una criatura. Tiene su origen eterno del Padre y del Hijo
 2. El Hijo no está subordinado al Padre: así como el Padre es la fuente de la generación del Hijo, así Padre e Hijo son la fuente de la procesión del Espíritu
 
-> *«El Espíritu Santo, que el Padre enviará en mi nombre, os lo enseñará todo.»*  
+> *«El Espíritu Santo, que el Padre enviará en mi nombre, les enseñará todo.»*  
 > — Juan 14:26
 
 La tradición ortodoxa oriental sostiene que el Espíritu procede del Padre **por** el Hijo, mientras que la Iglesia católica sostiene la procesión del Padre **y** del Hijo. Ambas afirman la plena divinidad del Espíritu y la unidad trinitaria.

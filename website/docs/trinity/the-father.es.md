@@ -77,7 +77,7 @@ Jesús es el **Hijo unigénito**: único en su generación eterna del Padre. Sin
 La paternidad de Dios no es metafórica. Es real, aunque analógica. Dios es Padre de un modo que trasciende infinitamente la paternidad humana y, a la vez, cumple su sentido más profundo.
 
 ### El Padre provee
-> *«Mirad las aves del cielo: no siembran, ni siegan, ni almacenan en graneros, y vuestro Padre celestial las alimenta.»*  
+> *«Miren las aves del cielo: no siembran, ni siegan, ni almacenan en graneros, y su Padre celestial las alimenta.»*  
 > — Mateo 6:26
 
 ### El Padre disciplina

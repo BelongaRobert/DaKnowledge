@@ -35,13 +35,13 @@ La elección divina es el decreto eterno de Dios por el cual nos **eligió en Cr
 ### La elección en el Antiguo Testamento
 La elección comienza con Israel. Dios eligió a Abraham no por su grandeza, sino por su propio amor y propósito (Deuteronomio 7:7-8). Israel fue elegido para ser una nación santa, un pueblo sacerdotal, luz de las naciones.
 
-> *«Porque tú eres pueblo santo para el Señor tu Dios; el Señor tu Dios te ha escogido para serle un pueblo especial, más que todos los pueblos que están sobre la tierra. No por ser vosotros más que todos los pueblos os ha querido el Señor y os ha escogido, pues vosotros erais el más insignificante de todos los pueblos; sino por cuanto el Señor os amó.»*  
+> *«Porque tú eres pueblo santo para el Señor tu Dios; el Señor tu Dios te ha escogido para serle un pueblo especial, más que todos los pueblos que están sobre la tierra. No por ser ustedes más que todos los pueblos los ha querido el Señor y los ha escogido, pues ustedes eran el más insignificante de todos los pueblos; sino porque el Señor los amó.»*  
 > — Deuteronomio 7:6-8
 
 ### La elección en el Nuevo Testamento
 En Cristo, la elección se extiende a todos los que creen, judíos y gentiles por igual. La Iglesia es el nuevo pueblo elegido, escogido en Cristo y llamado a la santidad.
 
-> *«Mas vosotros sois linaje escogido, real sacerdocio, nación santa, pueblo adquirido por Dios, para que anunciéis las virtudes de aquel que os llamó de las tinieblas a su luz admirable.»*  
+> *«Pero ustedes son linaje escogido, real sacerdocio, nación santa, pueblo adquirido por Dios, para que anuncien las virtudes de aquel que los llamó de las tinieblas a su luz admirable.»*  
 > — 1 Pedro 2:9
 
 ---
@@ -59,7 +59,7 @@ Dios es absolutamente libre en su elección. Elige a quien quiere, y su elecció
 ### La libertad humana
 La elección de Dios no anula la libertad humana. No somos marionetas ni robots. Dios mueve la voluntad desde dentro, iluminando el intelecto, atrayendo el corazón y haciendo posible la libre elección del bien.
 
-> *«Ocupaos en vuestra salvación con temor y temblor, porque Dios es el que en vosotros produce así el querer como el hacer, por su buena voluntad.»*  
+> *«Ocúpense de su salvación con temor y temblor, porque Dios es el que en ustedes produce así el querer como el hacer, por su buena voluntad.»*  
 > — Filipenses 2:12-13
 
 La Iglesia rechaza tanto:
@@ -117,7 +117,7 @@ Esta verdad debe llenar al creyente de una confianza serena, porque si estamos e
 
 La doctrina de la elección es, en última instancia, una doctrina del **amor**. Antes de que nacieras, antes de que hubieras hecho nada bueno o malo, Dios te miró en Cristo y te eligió. Este es el fundamento de toda esperanza cristiana.
 
-> *«Mirad cuál amor nos ha dado el Padre, para que seamos llamados hijos de Dios; y lo somos.»*  
+> *«Miren cuál amor nos ha dado el Padre, para que seamos llamados hijos de Dios; y lo somos.»*  
 > — 1 Juan 3:1
 
 No sabemos con certeza absoluta quién es elegido y quién no: solo Dios ve el corazón. Pero podemos tener certeza moral por la fe, la esperanza, la caridad y los sacramentos. Los elegidos no son un club secreto con una lista de miembros oculta; son todos los que permanecen en Cristo hasta el fin.

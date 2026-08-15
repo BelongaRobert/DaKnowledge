@@ -101,7 +101,7 @@ La justificación no es un acontecimiento único tras el cual permanecemos sin c
 
 Sin embargo, la persona justificada también puede **perder la gracia** por el pecado mortal. Por eso la Iglesia enseña la necesidad de la perseverancia, de la conversión continua y del sacramento de la Reconciliación para quienes caen.
 
-> *«Ocupaos en vuestra salvación con temor y temblor, porque Dios es el que en vosotros produce así el querer como el hacer, por su buena voluntad.»*  
+> *«Ocúpense de su salvación con temor y temblor, porque Dios es el que en ustedes produce así el querer como el hacer, por su buena voluntad.»*  
 > — Filipenses 2:12-13
 
 ---

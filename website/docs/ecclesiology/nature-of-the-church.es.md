@@ -19,7 +19,7 @@ scripture:
 
 La Iglesia es a la vez una sociedad visible y una realidad mística. Tiene miembros humanos, estructuras humanas y fallos humanos, y sin embargo es también el **Cuerpo de Cristo**, el **templo del Espíritu Santo** y la **Esposa de Cristo**. Comprender la Iglesia exige sostener estas verdades juntas, sin reducir una a la otra.
 
-> *«Vosotros, pues, sois el cuerpo de Cristo, y miembros cada uno en particular.»*  
+> *«Ustedes, pues, son el cuerpo de Cristo, y miembros cada uno en particular.»*  
 > — 1 Corintios 12:27
 
 ---
@@ -46,7 +46,7 @@ El Cuerpo es uno porque la Cabeza es una. La división es contraria a la natural
 
 En el Antiguo Testamento, el Templo era la morada de Dios entre su pueblo. En el Nuevo Testamento, la Iglesia —y cada creyente bautizado— se convierte en el **templo del Espíritu Santo**.
 
-> *«¿No sabéis que sois templo de Dios, y que el Espíritu de Dios mora en vosotros?»*  
+> *«¿No saben que son templo de Dios, y que el Espíritu de Dios mora en ustedes?»*  
 > — 1 Corintios 3:16
 
 Porque el Espíritu Santo habita en ella, la Iglesia es santa y viva. El Espíritu no se limita a visitar; hace su hogar en cada creyente bautizado, consagrando a cada uno y atrayendo a toda la comunidad a un templo vivo edificado de piedras vivas, como escribe san Pedro.
@@ -57,7 +57,7 @@ Porque el Espíritu Santo habita en ella, la Iglesia es santa y viva. El Espíri
 
 La Iglesia es el **nuevo Israel**: el cumplimiento del pueblo de la alianza de Dios. No es un grupo de élite, sino un pueblo peregrino, llamado de toda nación, raza y lengua.
 
-> *«Vosotros sois… linaje escogido, real sacerdocio, nación santa, pueblo adquirido por Dios.»*  
+> *«Ustedes son… linaje escogido, real sacerdocio, nación santa, pueblo adquirido por Dios.»*  
 > — 1 Pedro 2:9
 
 Como pueblo de Dios, la Iglesia participa de la unción del mismo Cristo. Es sacerdotal, ofreciendo sacrificios espirituales en unión con la ofrenda eterna de Cristo; profética, dando testimonio del Evangelio en cada época; regia, sirviendo a los pobres y al extranjero con el mismo amor de Cristo; y, como su Señor, un pueblo que sufre, participando de la pasión redentora que hace surgir la vida de la muerte.
@@ -68,7 +68,7 @@ Como pueblo de Dios, la Iglesia participa de la unción del mismo Cristo. Es sac
 
 La imagen de la Iglesia como **Esposa** habla del amor íntimo y de alianza entre Cristo y su Iglesia.
 
-> *«Maridos, amad a vuestras mujeres, así como Cristo amó a la iglesia, y se entregó a sí mismo por ella, para santificarla, habiéndola purificado en el lavamiento del agua por la palabra, a fin de presentársela a sí mismo, una iglesia gloriosa, que no tuviese mancha ni arruga ni cosa semejante, sino que fuese santa y sin mancha.»*  
+> *«Maridos, amen a sus mujeres, así como Cristo amó a la iglesia, y se entregó a sí mismo por ella, para santificarla, habiéndola purificado en el lavamiento del agua por la palabra, a fin de presentársela a sí mismo, una iglesia gloriosa, que no tuviese mancha ni arruga ni cosa semejante, sino que fuese santa y sin mancha.»*  
 > — Efesios 5:25-27
 
 Esta imagen revela la fidelidad inquebrantable de Cristo a su Iglesia: nunca la abandonará. Revela la pureza a la que ella es llamada, continuamente limpiada por la gracia, y la fecundidad de su misión al dar a luz hijos de Dios. Sobre todo, habla de la esperanza escatológica que la espera: el banquete de bodas del Cordero descrito en el Apocalipsis.

@@ -37,11 +37,11 @@ El Espíritu Santo suele malentenderse como un poder abstracto, una energía có
 > — Hechos 10:19-20
 
 ### El Espíritu enseña
-> *«Pero el Paráclito, el Espíritu Santo, que el Padre enviará en mi nombre, él os enseñará todas las cosas y os recordará todo lo que yo os he dicho.»*  
+> *«Pero el Paráclito, el Espíritu Santo, que el Padre enviará en mi nombre, él les enseñará todas las cosas y les recordará todo lo que yo les he dicho.»*  
 > — Juan 14:26
 
 ### El Espíritu da testimonio
-> *«Cuando venga el Paráclito, que yo os enviaré de parte del Padre, el Espíritu de la verdad, que procede del Padre, él dará testimonio de mí.»*  
+> *«Cuando venga el Paráclito, que yo les enviaré de parte del Padre, el Espíritu de la verdad, que procede del Padre, él dará testimonio de mí.»*  
 > — Juan 15:26
 
 ### El Espíritu intercede

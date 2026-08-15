@@ -49,7 +49,7 @@ Los Evangelios registran que Jesús fue crucificado en una cruz en un lugar llam
 
 La Escritura ofrece el significado teológico de la cruz mucho antes de que sus fragmentos físicos se convirtieran en objetos de veneración:
 
-> *«Él mismo llevó nuestros pecados en su cuerpo sobre el madero, para que, muertos al pecado, vivamos para la justicia. Por sus llagas habéis sido curados.»* — 1 Pedro 2,24
+> *«Él mismo llevó nuestros pecados en su cuerpo sobre el madero, para que, muertos al pecado, vivamos para la justicia. Por sus llagas han sido curados.»* — 1 Pedro 2,24
 
 > *«Pues la predicación de la cruz es una necedad para los que se pierden; mas para los que se salvan —para nosotros— es poder de Dios.»* — 1 Corintios 1,18
 

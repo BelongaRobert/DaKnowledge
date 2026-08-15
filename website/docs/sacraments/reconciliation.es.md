@@ -15,7 +15,7 @@ scripture:
 
 También llamado **Confesión** o **Penitencia**, este sacramento es el don de la misericordia de Dios al pecador. Por él, los arrepentidos son reconciliados con Dios y con la Iglesia, recibiendo el perdón de los pecados y la gracia para enmendar sus vidas.
 
-> *"Recibid el Espíritu Santo. A quienes perdonéis los pecados, les quedan perdonados; a quienes se los retengáis, les quedan retenidos."*  
+> *"Reciban el Espíritu Santo. A quienes ustedes perdonen los pecados, les quedan perdonados; a quienes se los retengáis, les quedan retenidos."*  
 > — Juan 20:22-23
 
 ---
@@ -24,7 +24,7 @@ También llamado **Confesión** o **Penitencia**, este sacramento es el don de l
 
 Cristo instituyó este sacramento la tarde de Su resurrección, cuando se apareció a los apóstoles y sopló sobre ellos el Espíritu Santo, dándoles autoridad para perdonar los pecados.
 
-> *"Como el Padre me envió, también yo os envío... Recibid el Espíritu Santo. A quienes perdonéis los pecados, les quedan perdonados."*  
+> *"Como el Padre me envió, también yo los envío... Reciban el Espíritu Santo. A quienes ustedes perdonen los pecados, les quedan perdonados."*  
 > — Juan 20:21-23
 
 Esta autoridad se ha transmitido a través de los apóstoles a los obispos y sacerdotes de la Iglesia. El sacerdote no perdona por su propio poder, sino **in persona Christi**: como instrumento del propio perdón de Cristo.
@@ -89,7 +89,7 @@ Los pecados veniales no destruyen la gracia, pero debilitan el alma y la dispone
 ---
 
 !!! quote "Catecismo de la Iglesia Católica"
-    **CCC 1468:** *"Toda la eficacia de la Penitencia consiste en que nos restituye a la gracia de Dios y nos une a Él con íntima amistad. El propósito y el efecto de este sacramento es, pues, la reconciliación con Dios."*
+    **Catecismo n.º 1468:** *"Toda la eficacia de la Penitencia consiste en que nos restituye a la gracia de Dios y nos une a Él con íntima amistad. El propósito y el efecto de este sacramento es, pues, la reconciliación con Dios."*
 
 ---
 

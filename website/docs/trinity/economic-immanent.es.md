@@ -52,7 +52,7 @@ Los Padres de la Iglesia establecieron un principio fundamental: **la Trinidad e
 - Porque el Hijo es eternamente el Verbo en la Trinidad inmanente, Él es quien **revela y salva** en la economía.
 - Porque el Espíritu procede eternamente como amor en la Trinidad inmanente, Él es quien **une y santifica** en la economía.
 
-> *«Como el Padre me envió, también yo os envío.»*  
+> *«Como el Padre me envió, también yo los envío.»*  
 > — Juan 20:21
 
 Esto significa que el Dios que encontramos en Cristo y en el Espíritu no es distinto del Dios que es eternamente Padre, Hijo y Espíritu Santo. La economía no añade al ser de Dios, sino que lo revela.

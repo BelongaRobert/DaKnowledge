@@ -1,6 +1,13 @@
 # Spanish translation glossary (Catholic theological Spanish)
 
-Use consistent terminology. Prefer Church Spanish (Spain/Latin America common Magiserial forms). Keep Latin titles where customary. Do not invent doctrine.
+Use consistent terminology. Prefer **South American / Latin American Spanish** (not Spain Spanish, not Spanglish). Keep Latin titles where customary. Do not invent doctrine.
+
+## Register (required)
+- Use **ustedes** (not vosotros / os / vuestro).
+- Prefer LatAm lexicon: **computadora** (not ordenador), **celular** (not móvil), **en línea** (not online), **correo electrónico** (not email).
+- Cite the Catechism as **Catecismo n.º …** (not CCC) on Spanish pages.
+- Liturgical prayers: standard Latin American Catholic forms (Padre nuestro ends **líbranos del mal**).
+- Avoid English words in Spanish prose; keep English only for proper titles of English-only works or verbatim quotations.
 
 ## Section titles
 - Theology Proper → Teología propiamente dicha

@@ -1,16 +1,27 @@
 ---
-title: Hoja de diálogo
+title: Guía de conversación
 topic: spiritual-formation
 tags:
   - formación-espiritual
   - diálogo
 ---
 
-# Hoja de diálogo
+# Guía de conversación
 
-Para un grupo parroquial. Una página del [itinerario parroquial](../study/tracks/#parish). Veinte minutos. El inglés y el español son las mismas cuatro preguntas.
+Para un grupo parroquial. Una página del [itinerario parroquial](../study/tracks/#parish). Veinte minutos. Las mismas cuatro preguntas en español y en inglés.
 
-El líder ha leído la página. No se ha pedido al grupo que lea todo el sitio.
+El líder ya leyó la página. No se pide al grupo que lea todo el sitio.
+
+---
+
+## Español
+
+1. ¿Qué confiesa la Iglesia en esta página, en una frase?
+2. ¿Qué versículo se les quedó?
+3. ¿En qué solemos equivocarnos cuando hablamos de esto?
+4. ¿Qué acto de oración o de caridad, esta semana, correspondería a la página?
+
+Cierren con el [Padre nuestro](../prayer/lord's-prayer/) o el [Ave María](../prayer/hail-mary/).
 
 ---
 
@@ -22,17 +33,6 @@ El líder ha leído la página. No se ha pedido al grupo que lea todo el sitio.
 4. What is one act of prayer or charity this week that would match the page?
 
 Close with the [Our Father](../prayer/lord's-prayer/) or the [Hail Mary](../prayer/hail-mary/).
-
----
-
-## Español
-
-1. ¿Qué confiesa la Iglesia en esta página, en una frase?
-2. ¿Qué versículo se quedó con usted?
-3. ¿Dónde solemos equivocarnos al hablar de esto?
-4. ¿Qué acto de oración o de caridad, esta semana, correspondería a la página?
-
-Cierren con el [Padre nuestro](../prayer/lord's-prayer/) o el [Ave María](../prayer/hail-mary/).
 
 ---
 

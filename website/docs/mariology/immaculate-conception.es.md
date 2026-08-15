@@ -50,7 +50,7 @@ Esta enseñanza no es un privilegio remoto. Muestra lo que la gracia puede hacer
 ---
 
 !!! quote "Catecismo de la Iglesia Católica"
-    **CCC 491:** *"A lo largo de los siglos, la Iglesia ha tomado conciencia de que María, 'llena de gracia' por Dios, había sido redimida desde el momento de su concepción."*
+    **Catecismo n.º 491:** *"A lo largo de los siglos, la Iglesia ha tomado conciencia de que María, 'llena de gracia' por Dios, había sido redimida desde el momento de su concepción."*
 
 ---
 

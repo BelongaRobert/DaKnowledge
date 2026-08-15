@@ -22,7 +22,7 @@ scripture:
 
 La Iglesia católica no es una democracia, una república ni una corporación. Ella es una **comunión jerárquica**: estructurada por institución divina, gobernada por la sucesión apostólica y unida bajo la autoridad del sucesor de san Pedro.
 
-> *«El que a vosotros oye, a mí me oye; y el que a vosotros desecha, a mí me desecha; y el que me desecha a mí, desecha al que me envió.»*  
+> *«El que a ustedes oye, a mí me oye; y el que a ustedes rechaza, a mí me rechaza; y el que me rechaza a mí, rechaza al que me envió.»*  
 > — Lucas 10:16
 
 ---
@@ -79,7 +79,7 @@ Los obispos no son gobernantes independientes, sino miembros de un colegio en co
 ### El Magisterio
 El **Magisterio** (autoridad docente) de la Iglesia reside en el Papa y en los obispos en comunión con él. El Magisterio está preservado del error en materia de fe y moral por el Espíritu Santo.
 
-> *«El Espíritu Santo, a quien el Padre enviará en mi nombre, él os enseñará todas las cosas, y os recordará todo lo que yo os he dicho.»*  
+> *«El Espíritu Santo, a quien el Padre enviará en mi nombre, él les enseñará todas las cosas, y les recordará todo lo que yo les he dicho.»*  
 > — Juan 14:26
 
 ---

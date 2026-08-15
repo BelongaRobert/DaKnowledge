@@ -15,7 +15,7 @@ scripture:
 
 El Orden sagrado es el sacramento por el cual los hombres son ordenados como **obispos, presbíteros y diáconos**: configurados a Cristo Cabeza y Pastor, y investidos de autoridad sagrada para servir a la Iglesia.
 
-> *"Vosotros sois linaje elegido, sacerdocio real, nación santa, pueblo adquirido, para anunciar las alabanzas de aquel que os ha llamado de las tinieblas a su admirable luz."*  
+> *"Ustedes son linaje elegido, sacerdocio real, nación santa, pueblo adquirido, para anunciar las alabanzas de aquel que los ha llamado de las tinieblas a su admirable luz."*  
 > — 1 Pedro 2:9
 
 ---
@@ -87,7 +87,7 @@ En las Iglesias católicas orientales, los hombres casados pueden ser ordenados 
 ---
 
 !!! quote "San Juan María Vianney"
-    *"El sacerdocio es el amor del corazón de Jesús. Cuando veáis a un sacerdote, pensad en nuestro Señor Jesucristo."*
+    *"El sacerdocio es el amor del corazón de Jesús. Cuando vean a un sacerdote, piensen en nuestro Señor Jesucristo."*
 
 ---
 

@@ -14,7 +14,7 @@ scripture:
 
 El canon de la Escritura es la **lista oficial de libros** reconocidos por la Iglesia como inspirados y autoritativos. La palabra «canon» proviene del griego *kanon* (vara de medir): estos son los libros que «miden» la fe, la norma con la que se examina toda enseñanza.
 
-> *«Estas cosas se han escrito para que creáis que Jesús es el Cristo, el Hijo de Dios, y para que, creyendo, tengáis vida en su nombre.»*  
+> *«Estas cosas se han escrito para que crean que Jesús es el Cristo, el Hijo de Dios, y para que, creyendo, tengáis vida en su nombre.»*  
 > — Juan 20,31
 
 ---

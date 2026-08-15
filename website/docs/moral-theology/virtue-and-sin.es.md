@@ -14,9 +14,9 @@ scripture:
 
 ## Lo que llegamos a ser
 
-Una virtud es una disposición habitual y firme a hacer el bien (CCC 1803). El pecado es una palabra, obra o deseo contrario a la ley eterna. La teología moral trata de ambos, porque la vida cristiana no es una serie de elecciones aisladas. Es una naturaleza que es sanada y elevada.
+Una virtud es una disposición habitual y firme a hacer el bien (Catecismo n.º 1803). El pecado es una palabra, obra o deseo contrario a la ley eterna. La teología moral trata de ambos, porque la vida cristiana no es una serie de elecciones aisladas. Es una naturaleza que es sanada y elevada.
 
-> *"Poned todo empeño en añadir a vuestra fe la virtud."*  
+> *"Pongan todo empeño en añadir a su fe la virtud."*  
 > — 2 Pedro 1:5
 
 ---
@@ -65,7 +65,7 @@ La virtud crece por actos repetidos bajo la gracia, y por la Eucaristía, que es
 ---
 
 !!! quote "Catecismo de la Iglesia Católica"
-    **CCC 1849:** *"El pecado es una falta contra la razón, la verdad, la conciencia recta; es faltar al amor verdadero para con Dios y para con el prójimo, a causa de un apego perverso a ciertos bienes. Hiere la naturaleza del hombre y atenta contra la solidaridad humana."*
+    **Catecismo n.º 1849:** *"El pecado es una falta contra la razón, la verdad, la conciencia recta; es faltar al amor verdadero para con Dios y para con el prójimo, a causa de un apego perverso a ciertos bienes. Hiere la naturaleza del hombre y atenta contra la solidaridad humana."*
 
 ---
 

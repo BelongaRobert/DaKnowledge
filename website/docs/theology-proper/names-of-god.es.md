@@ -45,7 +45,7 @@ Elohim habla de Dios como **Creador**: el todopoderoso que saca orden del caos, 
 
 El nombre personal y de alianza de Dios, revelado a Moisés en la zarza ardiente. Tradicionalmente se traduce como **«el Señor»** en las Biblias (a menudo en versalitas), y en traducciones antiguas como **Jehová**.
 
-> *«Dijo Dios a Moisés: “YO SOY EL QUE SOY.” Y añadió: “Así dirás a los hijos de Israel: YO SOY me ha enviado a vosotros.” … Este es mi nombre para siempre, y así he de ser recordado de generación en generación.»*  
+> *«Dijo Dios a Moisés: “YO SOY EL QUE SOY.” Y añadió: “Así dirás a los hijos de Israel: YO SOY me ha enviado a ustedes.” … Este es mi nombre para siempre, y así he de ser recordado de generación en generación.»*  
 > — Éxodo 3:14-15
 
 El nombre **Yahvé** deriva del verbo hebreo *hayah* (ser) y habla de la autoexistencia de Dios, de su presencia eterna y de su fidelidad a sus promesas. Él es el Dios que **es**: no un Dios solo del pasado o del futuro, sino el siempre presente «YO SOY».

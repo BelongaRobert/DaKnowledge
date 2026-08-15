@@ -103,25 +103,25 @@ El Espíritu da nueva vida. Nacemos de nuevo no por esfuerzo humano, sino por el
 ### Inhabitación
 El Espíritu hace del creyente su templo.
 
-> *«¿No sabéis que vuestro cuerpo es templo del Espíritu Santo, que está en vosotros, el cual tenéis de Dios?»*  
+> *«¿No saben que su cuerpo es templo del Espíritu Santo, que está en ustedes, el cual tienen de Dios?»*  
 > — 1 Corintios 6:19
 
 ### Santificación
 El Espíritu nos hace santos: nos conforma a la imagen de Cristo, produce los frutos de la virtud y purga el pecado.
 
-> *«Dios os ha escogido desde el principio para salvación, mediante la santificación por el Espíritu y la fe en la verdad.»*  
+> *«Dios los ha escogido desde el principio para salvación, mediante la santificación por el Espíritu y la fe en la verdad.»*  
 > — 2 Tesalonicenses 2:13
 
 ### Guía
 El Espíritu conduce a los creyentes a la verdad, ayudándoles a discernir la voluntad de Dios.
 
-> *«Cuando venga el Espíritu de verdad, él os guiará a toda la verdad.»*  
+> *«Cuando venga el Espíritu de verdad, él los guiará a toda la verdad.»*  
 > — Juan 16:13
 
 ### Capacitamiento para la misión
 El Espíritu equipa a los creyentes para el servicio, el testimonio y la evangelización.
 
-> *«Recibiréis poder, cuando haya venido sobre vosotros el Espíritu Santo, y me seréis testigos.»*  
+> *«Recibirán poder, cuando haya venido sobre ustedes el Espíritu Santo, y serán mis testigos.»*  
 > — Hechos 1:8
 
 ---

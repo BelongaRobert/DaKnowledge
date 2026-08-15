@@ -29,7 +29,7 @@ Cristo es las primicias (1 Corintios 15:20). María es la primera de la Iglesia 
 
 Por eso el dogma pertenece junto a la [Escatología](../eschatology/). Lo que ella es, la Iglesia espera ser: cuerpo y alma, con Dios.
 
-> *"Cuando aparezca Cristo, vida nuestra, entonces también vosotros apareceréis con él en gloria."*  
+> *"Cuando aparezca Cristo, vida nuestra, entonces también ustedes aparecerán con él en gloria."*  
 > — Colosenses 3:4
 
 ---
@@ -49,7 +49,7 @@ Coronada en el cielo, permanece criatura. La realeza, en el lenguaje de la Igles
 ---
 
 !!! quote "Catecismo de la Iglesia Católica"
-    **CCC 966:** *"La Asunción de la Santísima Virgen constituye una participación singular en la Resurrección de su Hijo y una anticipación de la resurrección de los demás cristianos."*
+    **Catecismo n.º 966:** *"La Asunción de la Santísima Virgen constituye una participación singular en la Resurrección de su Hijo y una anticipación de la resurrección de los demás cristianos."*
 
 ---
 

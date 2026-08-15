@@ -28,7 +28,7 @@ El Bautismo es el **sacramento de la regeneración**: la puerta de la vida crist
 
 Cristo instituyó el Bautismo antes de Su ascensión:
 
-> *"Id, pues, y haced discípulos a todas las gentes, bautizándolas en el nombre del Padre y del Hijo y del Espíritu Santo."*  
+> *"Id, pues, y hagan discípulos a todas las gentes, bautizándolas en el nombre del Padre y del Hijo y del Espíritu Santo."*  
 > — Mateo 28:19
 
 Este mandato, la **Gran Comisión**, envía a los apóstoles (y a sus sucesores) a bautizar al mundo entero. El Bautismo no es opcional; es el medio ordinario por el cual entramos en la Nueva Alianza.

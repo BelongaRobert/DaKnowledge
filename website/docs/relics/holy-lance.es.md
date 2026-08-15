@@ -43,7 +43,7 @@ scripture:
 
 La lanzada en el costado de Cristo está registrada en el Evangelio de Juan, escrito por el testigo ocular que estaba al pie de la cruz:
 
-> *«Pero al llegar a Jesús, como lo vieron ya muerto, no le quebraron las piernas, sino que uno de los soldados le atravesó el costado con una lanza, y al punto salió sangre y agua. El que lo vio da testimonio, y su testimonio es verdadero; y él sabe que dice verdad, para que también vosotros creáis.»* — Juan 19,33-35
+> *«Pero al llegar a Jesús, como lo vieron ya muerto, no le quebraron las piernas, sino que uno de los soldados le atravesó el costado con una lanza, y al punto salió sangre y agua. El que lo vio da testimonio, y su testimonio es verdadero; y él sabe que dice verdad, para que también ustedes crean.»* — Juan 19,33-35
 
 Este momento, ocurrido después de la crucifixión pero antes del descendimiento de la cruz, tiene profundo significado teológico. La lanza del soldado, destinada meramente a confirmar la muerte según la práctica romana (el *crurifragium*, quebrar las piernas, era el método habitual para acelerar la muerte de los crucificados), se convirtió en instrumento de revelación.
 

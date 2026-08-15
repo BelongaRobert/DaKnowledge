@@ -219,7 +219,7 @@ La relación Sudario-Sábana tiene un apoyo científico más sólido:
 - **Perfiles de polen coincidentes** apoyan una procedencia geográfica común
 - **Análisis textil compatible** sitúa ambos en el mundo mediterráneo del siglo I
 
-El Dr. **Alan Whanger** de la Universidad Duke realizó estudios de superposición por ordenador que demuestran que los principales patrones de manchas de sangre de ambos lienzos se alinean con notable precisión. Los dos lienzos parecen preservar aspectos distintos del mismo acontecimiento:
+El Dr. **Alan Whanger** de la Universidad Duke realizó estudios de superposición por computadora que demuestran que los principales patrones de manchas de sangre de ambos lienzos se alinean con notable precisión. Los dos lienzos parecen preservar aspectos distintos del mismo acontecimiento:
 
 - La **Sábana**: La imagen corporal con impresiones frontal y dorsal
 - El **Sudario**: El paño del rostro con manchas específicas de sangre y fluidos

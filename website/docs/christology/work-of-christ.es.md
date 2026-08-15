@@ -65,7 +65,7 @@ El oficio real de Cristo continúa en la Iglesia mientras ella extiende su reina
 ### Rescate
 La muerte de Cristo es un **rescate**. Él paga el precio para liberar a la humanidad de la esclavitud del pecado, de la muerte y del diablo.
 
-> *«Habéis sido comprados a precio.»*  
+> *«Han sido comprados a precio.»*  
 > — 1 Corintios 6:20
 
 El precio no se paga al diablo (como sugirieron algunas teorías antiguas), sino a la justicia de Dios. El Padre acepta el sacrificio del Hijo como la satisfacción perfecta por el pecado.

@@ -48,7 +48,7 @@ La Iglesia ora por los muertos. Esa oración solo tiene sentido si la historia n
 ---
 
 !!! quote "Catecismo de la Iglesia Católica"
-    **CCC 1022:** *"Cada hombre recibe en su alma inmortal su retribución eterna desde el momento de su muerte, en un juicio particular que refiere su vida a Cristo."*
+    **Catecismo n.º 1022:** *"Cada hombre recibe en su alma inmortal su retribución eterna desde el momento de su muerte, en un juicio particular que refiere su vida a Cristo."*
 
 ---
 

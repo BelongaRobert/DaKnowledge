@@ -75,7 +75,7 @@ Este desarrollo fue real, no meramente aparente. Como niño, Jesús aprendió la
 ### Sin pecado
 Jesús es **«semejante a nosotros en todo, excepto en el pecado»** (Hebreos 4:15). Su impecabilidad no es una falta de tentación —fue tentado en todo como nosotros—, sino una victoria perfecta sobre la tentación. Porque es Dios, no puede pecar; porque es hombre, elige libremente el bien en cada momento.
 
-> *«¿Quién de vosotros me convence de pecado?»*  
+> *«¿Quién de ustedes me convence de pecado?»*  
 > — Juan 8:46
 
 ---

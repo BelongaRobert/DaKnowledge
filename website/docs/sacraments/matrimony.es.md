@@ -18,7 +18,7 @@ scripture:
 
 El santo Matrimonio es el sacramento por el cual un hombre y una mujer se unen en una **alianza de vida y de amor**, ordenada al bien de los esposos y a la procreación y educación de los hijos. El matrimonio no es meramente un contrato, sino un vínculo sagrado que refleja la alianza entre Cristo y Su Iglesia.
 
-> *"Maridos, amad a vuestras mujeres como Cristo amó a la Iglesia y se entregó a sí mismo por ella."*  
+> *"Maridos, amen a sus mujeres como Cristo amó a la Iglesia y se entregó a sí mismo por ella."*  
 > — Efesios 5:25
 
 ---
@@ -111,7 +111,7 @@ El matrimonio no es meramente un arreglo humano, sino una **llamada divina**. Lo
 ---
 
 !!! quote "Catecismo de la Iglesia Católica"
-    **CCC 1601:** *"La alianza matrimonial, por la que el hombre y la mujer constituyen entre sí un consorcio de toda la vida, ordenado por su misma índole natural al bien de los cónyuges y a la generación y educación de la prole, fue elevada por Cristo Nuestro Señor a la dignidad de sacramento entre bautizados."*
+    **Catecismo n.º 1601:** *"La alianza matrimonial, por la que el hombre y la mujer constituyen entre sí un consorcio de toda la vida, ordenado por su misma índole natural al bien de los cónyuges y a la generación y educación de la prole, fue elevada por Cristo Nuestro Señor a la dignidad de sacramento entre bautizados."*
 
 ---
 

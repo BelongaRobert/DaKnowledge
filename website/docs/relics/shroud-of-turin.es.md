@@ -309,7 +309,7 @@ La Sábana Santa de Turín se alza como un artefacto notable independientemente 
 
 9. **Johnston, J.J. (2021/2024).** *Body of Proof: The 7 Best Reasons to Believe in the Resurrection of Jesus*. Minneapolis: Bethany House Publishers. Las ediciones revisadas incorporan la evidencia de la sábana tras la conversión de Johnston del escepticismo a la defensa.
 
-10. **Johnston, J.J. (2024).** Entrevista en el podcast CrossExamined. "New Evidence Revealed: What No One Ever Told You About the Shroud of Turin." Disponible en: https://crossexamined.org/new-evidence-revealed-what-no-one-ever-told-you-about-the-shroud-of-turin-with-dr-jeremiah-j-johnston/
+10. **Johnston, J.J. (2024).** Entrevista en el programa de audio CrossExamined. "New Evidence Revealed: What No One Ever Told You About the Shroud of Turin." Disponible en: https://crossexamined.org/new-evidence-revealed-what-no-one-ever-told-you-about-the-shroud-of-turin-with-dr-jeremiah-j-johnston/
 
 11. **Johnston, J.J. (2024).** Entrevista con Impact 360 Institute. "Is the Shroud of Turin the Burial Cloth of Jesus?" Disponible en: https://www.impact360institute.org/podcasts/is-the-shroud-of-turin-the-burial-cloth-of-jesus-interview-with-dr-jeremiah-johnston/
 

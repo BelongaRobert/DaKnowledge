@@ -39,7 +39,7 @@ La ley civil y la eclesiástica. Obligan cuando son justas. No crean el bien; lo
 
 ## Conciencia
 
-La conciencia no es un papa privado. Es el juicio de la razón por el cual reconocemos la calidad moral de un acto concreto (CCC 1778). Debe ser formada. Una conciencia errónea obliga en el momento, pero somos responsables de la negligencia que la dejó en tinieblas.
+La conciencia no es un papa privado. Es el juicio de la razón por el cual reconocemos la calidad moral de un acto concreto (Catecismo n.º 1778). Debe ser formada. Una conciencia errónea obliga en el momento, pero somos responsables de la negligencia que la dejó en tinieblas.
 
 > *"Cuando los gentiles, que no tienen ley, hacen por naturaleza lo que es de la ley, estos, no teniendo ley, son ley para sí mismos."*  
 > — Romanos 2:14
@@ -50,12 +50,12 @@ La Iglesia forma la conciencia; no la sustituye. Un católico no deja el Magiste
 
 ## Libertad
 
-La libertad es el poder de actuar o de no actuar, y así de realizar actos deliberados (CCC 1731). Se perfecciona en el don de sí, no en el rechazo de toda exigencia. «Para la libertad nos ha liberado Cristo» (Gálatas 5:1) es libertad *para* la caridad, no libertad *del* bien.
+La libertad es el poder de actuar o de no actuar, y así de realizar actos deliberados (Catecismo n.º 1731). Se perfecciona en el don de sí, no en el rechazo de toda exigencia. «Para la libertad nos ha liberado Cristo» (Gálatas 5:1) es libertad *para* la caridad, no libertad *del* bien.
 
 ---
 
 !!! quote "Catecismo de la Iglesia Católica"
-    **CCC 1954:** *"La ley natural, presente en el corazón de todo hombre y establecida por la razón, es universal en sus preceptos y su autoridad se extiende a todos los hombres. Expresa la dignidad de la persona y determina la base de sus derechos y deberes fundamentales."*
+    **Catecismo n.º 1954:** *"La ley natural, presente en el corazón de todo hombre y establecida por la razón, es universal en sus preceptos y su autoridad se extiende a todos los hombres. Expresa la dignidad de la persona y determina la base de sus derechos y deberes fundamentales."*
 
 ---
 

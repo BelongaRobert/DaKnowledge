@@ -54,7 +54,7 @@ La vida moral no gana el comienzo de la justificación. Es el fruto de la gracia
 ---
 
 !!! quote "Catecismo de la Iglesia Católica"
-    **CCC 1691:** *"Cristiano, reconoce tu dignidad y, puesto que ahora participas de la naturaleza divina, no vuelvas a la degradación de tu vida pasada con el pecado. Acuérdate de quién es tu Cabeza y de de quién eres miembro."*
+    **Catecismo n.º 1691:** *"Cristiano, reconoce tu dignidad y, puesto que ahora participas de la naturaleza divina, no vuelvas a la degradación de tu vida pasada con el pecado. Acuérdate de quién es tu Cabeza y de quién eres miembro."*
 
 ---
 

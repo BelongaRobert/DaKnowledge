@@ -42,7 +42,7 @@ La Iglesia la venera (*hyperdulia*). No la adora. La adoración (*latria*) perte
 
 ## María en la historia de la salvación
 
-Es hija de Sión, la nueva Eva y la primera discípula. Su *fiat* («hágase en mí según tu palabra», Lucas 1:38) es el sí humano que el Hijo asume. En Caná señala lejos de sí misma: «Haced lo que él os diga» (Juan 2:5). En la cruz permanece en pie (Juan 19:25-27). En Pentecostés ora con la Iglesia (Hechos 1:14).
+Es hija de Sión, la nueva Eva y la primera discípula. Su *fiat* («hágase en mí según tu palabra», Lucas 1:38) es el sí humano que el Hijo asume. En Caná señala lejos de sí misma: «Hagan lo que él les diga» (Juan 2:5). En la cruz permanece en pie (Juan 19:25-27). En Pentecostés ora con la Iglesia (Hechos 1:14).
 
 > *"He aquí la esclava del Señor; hágase en mí según tu palabra."*  
 > — Lucas 1:38
@@ -50,7 +50,7 @@ Es hija de Sión, la nueva Eva y la primera discípula. Su *fiat* («hágase en 
 ---
 
 !!! quote "Catecismo de la Iglesia Católica"
-    **CCC 487:** *"Lo que la fe católica cree acerca de María se funda en lo que cree acerca de Cristo, pero lo que enseña sobre María ilumina, a su vez, su fe en Cristo."*
+    **Catecismo n.º 487:** *"Lo que la fe católica cree acerca de María se funda en lo que cree acerca de Cristo, pero lo que enseña sobre María ilumina, a su vez, su fe en Cristo."*
 
 ---
 

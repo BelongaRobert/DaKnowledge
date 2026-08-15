@@ -14,7 +14,7 @@ scripture:
 
 El misterio de la Santísima Trinidad es el misterio central de la fe y de la vida cristiana. Es el misterio de Dios en sí mismo: un solo Dios en tres personas divinas, iguales en gloria, indivisas en majestad.
 
-> *«Id, pues, y haced discípulos a todas las naciones, bautizándolas en el nombre del Padre y del Hijo y del Espíritu Santo.»*  
+> *«Id, pues, y hagan discípulos a todas las naciones, bautizándolas en el nombre del Padre y del Hijo y del Espíritu Santo.»*  
 > — Mateo 28:19
 
 La Iglesia no explica la Trinidad como un enigma. La confiesa como el nombre en el que somos bautizados, la comunión en la que entramos y el Dios a quien adoramos.
