@@ -3,7 +3,7 @@
 **Name:** Stable Point  
 **Date:** 2026-08-15  
 **Git tag:** `stable-point`  
-**Commit:** `6ba80bc` on `main`  
+**Commit:** `6a59f60` on `main` (git tag `stable-point`)  
 **Live site:** https://belongarobert.github.io/DaKnowledge/
 
 This is the saved baseline to return to. Do not treat later experiments as canonical until a new Stable Point is declared.
