@@ -4,7 +4,7 @@ tags:
   - inicio
 ---
 
-<img src="assets/images/banner-emmaus.jpg" alt="El camino de Emaús" style="width:100%; max-height:380px; object-fit:contain; border-radius:8px;">
+<img src="../assets/images/banner-emmaus.jpg" alt="El camino de Emaús" style="width:100%; max-height:380px; object-fit:contain; border-radius:8px;">
 
 ## Base de conocimiento de teología bíblica
 
