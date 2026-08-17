@@ -1,0 +1,11 @@
+.git
+.github
+node_modules
+site
+ingest
+content
+templates
+*.log
+api/.env
+website/site
+**/.DS_Store

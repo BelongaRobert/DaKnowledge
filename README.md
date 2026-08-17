@@ -29,17 +29,17 @@ npm run ingest -- <book-slug>
 
 See `ingest/README.md` and `content/optimization-plan.md`.
 
-## Optional x402 API
+## Optional x402 API (live USDC)
 
-The GitHub Pages site stays free. For agents and scripts only:
+The GitHub Pages site stays free. Bots and agents pay on **Base mainnet**:
 
 ```bash
 cp api/.env.example api/.env
-# set PAY_TO_EVM_ADDRESS
+# PAY_TO_EVM_ADDRESS, CDP_API_KEY_ID, CDP_API_KEY_SECRET
 npm run api
 ```
 
-Paid routes: `/v1/search`, `/v1/document`, `/v1/topic`. See `api/README.md`.
+Paid routes: `/v1/search`, `/v1/document`, `/v1/topic`. Deploy with `render.yaml`. See `api/README.md`.
 
 ## Checks
 

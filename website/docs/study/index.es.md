@@ -34,7 +34,7 @@ Cada itinerario es una lista breve de páginas que ya tienes. Nada extra que com
 - [Glosario](glossary/): definiciones breves
 - [Concilios y errores](councils/): la historia en orden
 - [Fuentes](../sources/): bibliografía completa
-- [Para desarrolladores](developers/): API x402 opcional para agentes; el sitio mismo sigue siendo gratuito
+- [Para desarrolladores](developers/): API x402 en vivo para agentes (USDC en Base); el sitio mismo sigue siendo gratuito
 
 ---
 

@@ -5,15 +5,26 @@ import express from 'express';
 import { HTTPFacilitatorClient } from '@x402/core/server';
 import { ExactEvmScheme } from '@x402/evm/exact/server';
 import { paymentMiddleware, x402ResourceServer } from '@x402/express';
+import { declareDiscoveryExtension } from '@x402/extensions/bazaar';
 import { DaKnowledge } from '../src/engine.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const repoRoot = join(__dirname, '..');
 
-const DEFAULT_NETWORK = 'eip155:84532'; // Base Sepolia
-const DEFAULT_FACILITATOR = 'https://x402.org/facilitator';
-const DEFAULT_PORT = 4021;
 const MAINNET_NETWORK = 'eip155:8453';
+const TESTNET_NETWORK = 'eip155:84532';
+const TESTNET_FACILITATOR = 'https://x402.org/facilitator';
+const DEFAULT_NETWORK = MAINNET_NETWORK;
+const DEFAULT_PORT = 4021;
+const SITE_URL = 'https://belongarobert.github.io/DaKnowledge/';
+const ZERO_ADDRESS = '0x0000000000000000000000000000000000000000';
+const BURN_ADDRESS = '0x000000000000000000000000000000000000dead';
+
+const PRICES = {
+  search: '$0.001',
+  document: '$0.002',
+  topic: '$0.001',
+};
 
 async function loadEnvFile(filePath) {
   try {
@@ -38,7 +49,46 @@ async function loadEnvFile(filePath) {
   }
 }
 
-function paidRoute(price, description, { network, payTo }) {
+function isMainnet(network) {
+  return network === MAINNET_NETWORK;
+}
+
+function assertPayTo(payTo, network) {
+  if (!/^0x[a-fA-F0-9]{40}$/.test(payTo)) {
+    throw new Error(
+      'PAY_TO_EVM_ADDRESS must be a 0x-prefixed 40-hex EVM address that you control on Base.',
+    );
+  }
+  const normalized = payTo.toLowerCase();
+  if (
+    isMainnet(network) &&
+    (normalized === ZERO_ADDRESS || normalized === BURN_ADDRESS)
+  ) {
+    throw new Error(
+      'PAY_TO_EVM_ADDRESS must be your live Base wallet, not a placeholder or burn address.',
+    );
+  }
+}
+
+async function createFacilitatorClient({ network, facilitatorUrl, facilitatorClient }) {
+  if (facilitatorClient) return facilitatorClient;
+
+  if (isMainnet(network)) {
+    if (facilitatorUrl && /x402\.org/i.test(facilitatorUrl)) {
+      throw new Error(
+        'Live Base mainnet cannot use https://x402.org/facilitator. Set CDP_API_KEY_ID and CDP_API_KEY_SECRET for the Coinbase production facilitator.',
+      );
+    }
+    const { createCdpFacilitatorClient } = await import('@coinbase/cdp-sdk/x402');
+    return createCdpFacilitatorClient();
+  }
+
+  return new HTTPFacilitatorClient({
+    url: facilitatorUrl || TESTNET_FACILITATOR,
+  });
+}
+
+function paidRoute(price, description, { network, payTo, input, inputSchema, output }) {
   return {
     accepts: {
       scheme: 'exact',
@@ -48,6 +98,16 @@ function paidRoute(price, description, { network, payTo }) {
     },
     description,
     mimeType: 'application/json',
+    serviceName: 'DaKnowledge',
+    tags: ['theology', 'catholic', 'bible', 'scripture', 'knowledge'],
+    iconUrl: `${SITE_URL}assets/images/crucifix.svg`,
+    extensions: {
+      ...declareDiscoveryExtension({
+        input,
+        inputSchema,
+        output,
+      }),
+    },
   };
 }
 
@@ -73,21 +133,23 @@ export async function createApp(options = {}) {
   const payTo = options.payTo || process.env.PAY_TO_EVM_ADDRESS;
   if (!payTo) {
     throw new Error(
-      'PAY_TO_EVM_ADDRESS is required. Copy api/.env.example to api/.env and set a receiving wallet.',
+      'PAY_TO_EVM_ADDRESS is required. Set it to the Base mainnet wallet that should receive USDC.',
     );
   }
 
   const network = options.network || process.env.X402_NETWORK || DEFAULT_NETWORK;
+  assertPayTo(payTo, network);
+
   const facilitatorUrl =
-    options.facilitatorUrl || process.env.FACILITATOR_URL || DEFAULT_FACILITATOR;
+    options.facilitatorUrl || process.env.FACILITATOR_URL || undefined;
   const syncFacilitatorOnStart =
     options.syncFacilitatorOnStart ?? process.env.X402_SYNC_FACILITATOR !== 'false';
 
-  if (network === MAINNET_NETWORK && /x402\.org/i.test(facilitatorUrl)) {
-    console.warn(
-      'Base mainnet (eip155:8453) needs a production facilitator, not https://x402.org/facilitator.',
-    );
-  }
+  const facilitator = await createFacilitatorClient({
+    network,
+    facilitatorUrl,
+    facilitatorClient: options.facilitatorClient,
+  });
 
   let engine = options.engine || null;
   async function getEngine() {
@@ -100,6 +162,7 @@ export async function createApp(options = {}) {
 
   const app = express();
   app.disable('x-powered-by');
+  app.set('trust proxy', 1);
 
   app.use((req, res, next) => {
     res.setHeader('Access-Control-Allow-Origin', '*');
@@ -116,28 +179,111 @@ export async function createApp(options = {}) {
     next();
   });
 
-  const resourceServer = new x402ResourceServer(
-    new HTTPFacilitatorClient({ url: facilitatorUrl }),
-  ).register(network, new ExactEvmScheme());
+  const resourceServer = new x402ResourceServer(facilitator).register(
+    network,
+    new ExactEvmScheme(),
+  );
+
+  resourceServer.onAfterSettle(async ({ result }) => {
+    console.info('x402 payment settled', {
+      network: result?.network,
+      transaction: result?.transaction,
+    });
+  });
 
   const routeOptions = { network, payTo };
   app.use(
     paymentMiddleware(
       {
         'GET /v1/search': paidRoute(
-          '$0.001',
-          'Full-text search over the DaKnowledge index',
-          routeOptions,
+          PRICES.search,
+          'Full-text search over the DaKnowledge Catholic theology index. Humans should use the free site search instead.',
+          {
+            ...routeOptions,
+            input: { q: 'hypostatic union' },
+            inputSchema: {
+              properties: {
+                q: { type: 'string', description: 'Full-text query' },
+                limit: {
+                  type: 'integer',
+                  description: 'Max results (1-50)',
+                  default: 10,
+                },
+              },
+              required: ['q'],
+            },
+            output: {
+              example: {
+                query: 'hypostatic union',
+                count: 1,
+                results: [
+                  {
+                    path: 'site/christology/hypostatic-union.md',
+                    title: 'Hypostatic Union',
+                    excerpt: 'True God and true man...',
+                    score: 10,
+                  },
+                ],
+              },
+            },
+          },
         ),
         'GET /v1/document': paidRoute(
-          '$0.002',
-          'Fetch one indexed document by path',
-          routeOptions,
+          PRICES.document,
+          'Fetch one indexed DaKnowledge document by engine path.',
+          {
+            ...routeOptions,
+            input: { path: 'site/christology/hypostatic-union.md' },
+            inputSchema: {
+              properties: {
+                path: {
+                  type: 'string',
+                  description:
+                    'Engine path such as site/christology/hypostatic-union.md',
+                },
+              },
+              required: ['path'],
+            },
+            output: {
+              example: {
+                path: 'site/christology/hypostatic-union.md',
+                title: 'Hypostatic Union',
+                topic: 'christology',
+                excerpt: 'True God and true man...',
+              },
+            },
+          },
         ),
         'GET /v1/topic': paidRoute(
-          '$0.001',
-          'List indexed documents for a topic id',
-          routeOptions,
+          PRICES.topic,
+          'List indexed DaKnowledge documents for a topic id.',
+          {
+            ...routeOptions,
+            input: { id: 'trinity' },
+            inputSchema: {
+              properties: {
+                id: {
+                  type: 'string',
+                  description: 'Topic id such as trinity, christology, or prayer',
+                },
+              },
+              required: ['id'],
+            },
+            output: {
+              example: {
+                topic: 'trinity',
+                count: 1,
+                documents: [
+                  {
+                    path: 'site/trinity/index.md',
+                    title: 'The Trinity',
+                    excerpt: 'One God in three persons...',
+                    topic: 'trinity',
+                  },
+                ],
+              },
+            },
+          },
         ),
       },
       resourceServer,
@@ -147,27 +293,33 @@ export async function createApp(options = {}) {
     ),
   );
 
+  const publicBaseUrl = options.publicBaseUrl || process.env.PUBLIC_BASE_URL || null;
+
   app.get('/health', (_req, res) => {
     res.json({
       ok: true,
       site: 'free',
       api: 'x402',
+      live: isMainnet(network),
       network,
+      payTo,
     });
   });
 
   app.get('/', (_req, res) => {
     res.json({
       name: 'DaKnowledge x402 API',
-      site: 'https://belongarobert.github.io/DaKnowledge/',
-      note: 'The MkDocs site stays free. Only these programmatic routes require x402 payment.',
+      site: SITE_URL,
+      note: 'The MkDocs site stays free. Only these programmatic routes charge live USDC on Base.',
+      live: isMainnet(network),
       network,
-      facilitator: facilitatorUrl,
+      payTo,
+      publicBaseUrl,
       routes: {
         'GET /health': 'free',
-        'GET /v1/search?q=': '$0.001',
-        'GET /v1/document?path=': '$0.002',
-        'GET /v1/topic?id=': '$0.001',
+        [`GET /v1/search?q=`]: PRICES.search,
+        [`GET /v1/document?path=`]: PRICES.document,
+        [`GET /v1/topic?id=`]: PRICES.topic,
       },
     });
   });
@@ -216,10 +368,16 @@ export async function createApp(options = {}) {
 export async function start(options = {}) {
   const app = await createApp(options);
   const port = Number(options.port || process.env.PORT || DEFAULT_PORT);
+  const host = options.host || process.env.HOST || '0.0.0.0';
   return await new Promise((resolve) => {
-    const server = app.listen(port, () => {
-      console.log(`DaKnowledge x402 API listening on http://localhost:${port}`);
-      console.log('Public MkDocs site remains free on GitHub Pages.');
+    const server = app.listen(port, host, () => {
+      const network = options.network || process.env.X402_NETWORK || DEFAULT_NETWORK;
+      console.log(`DaKnowledge x402 API listening on http://${host}:${port}`);
+      console.log(
+        isMainnet(network)
+          ? 'Live USDC on Base mainnet (eip155:8453). Public MkDocs site remains free.'
+          : `Test network ${network}. Public MkDocs site remains free.`,
+      );
       resolve(server);
     });
   });

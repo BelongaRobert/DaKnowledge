@@ -75,4 +75,4 @@ The full map is below. It is all still here. Open it when you need it.
 
 ## About
 
-Every doctrine on this site is meant to serve the **Triune God**: the Father who creates, the Son who redeems, the Spirit who sanctifies. [Sources and bibliography](sources/). This site stays free to read and search. An optional [x402 API](study/developers/) is for agents and scripts only; it does not paywall these pages.
+Every doctrine on this site is meant to serve the **Triune God**: the Father who creates, the Son who redeems, the Spirit who sanctifies. [Sources and bibliography](sources/). This site stays free to read and search. A live [x402 API](study/developers/) charges agents and scripts only; it does not paywall these pages.

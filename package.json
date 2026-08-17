@@ -14,9 +14,11 @@
     "indexes": "node src/build-indexes.js"
   },
   "dependencies": {
+    "@coinbase/cdp-sdk": "^1.55.0",
     "@x402/core": "^2.22.0",
     "@x402/evm": "^2.22.0",
     "@x402/express": "^2.22.0",
+    "@x402/extensions": "^2.22.0",
     "express": "^5.2.1",
     "gray-matter": "^4.0.3",
     "js-yaml": "^4.1.0"

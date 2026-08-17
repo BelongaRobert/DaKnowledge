@@ -75,4 +75,4 @@ El mapa completo está abajo. Todo sigue aquí. Ábrelo cuando lo necesites.
 
 ## Acerca de
 
-Toda doctrina en este sitio está destinada a servir al **Dios trino**: el Padre que crea, el Hijo que redime, el Espíritu que santifica. [Fuentes y bibliografía](sources/). Este sitio se lee y se busca de forma gratuita. Una [API x402](study/developers/) opcional es solo para agentes y scripts; no pone de pago estas páginas.
+Toda doctrina en este sitio está destinada a servir al **Dios trino**: el Padre que crea, el Hijo que redime, el Espíritu que santifica. [Fuentes y bibliografía](sources/). Este sitio se lee y se busca de forma gratuita. Una [API x402](study/developers/) en vivo cobra solo a agentes y scripts; no pone de pago estas páginas.

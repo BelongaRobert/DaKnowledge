@@ -1,0 +1,22 @@
+services:
+  - type: web
+    name: daknowledge-x402
+    runtime: node
+    buildCommand: npm ci
+    startCommand: node api/server.js
+    healthCheckPath: /health
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: HOST
+        value: 0.0.0.0
+      - key: X402_NETWORK
+        value: eip155:8453
+      - key: PAY_TO_EVM_ADDRESS
+        sync: false
+      - key: CDP_API_KEY_ID
+        sync: false
+      - key: CDP_API_KEY_SECRET
+        sync: false
+      - key: PUBLIC_BASE_URL
+        sync: false

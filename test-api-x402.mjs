@@ -17,6 +17,21 @@ function decodePaymentRequired(res) {
   return JSON.parse(json);
 }
 
+try {
+  await createApp({
+    skipEnvFile: true,
+    payTo: '0x1111111111111111111111111111111111111111',
+    network: 'eip155:8453',
+    facilitatorUrl: 'https://x402.org/facilitator',
+    syncFacilitatorOnStart: false,
+  });
+  throw new Error('Live mainnet must refuse the x402.org testnet facilitator');
+} catch (err) {
+  if (!String(err.message).includes('x402.org')) {
+    throw err;
+  }
+}
+
 const app = await createApp({
   skipEnvFile: true,
   payTo: process.env.PAY_TO_EVM_ADDRESS,
@@ -35,6 +50,10 @@ try {
   const health = await fetch(`${base}/health`);
   if (health.status !== 200) {
     throw new Error(`GET /health expected 200, got ${health.status}`);
+  }
+  const healthBody = await health.json();
+  if (healthBody.live) {
+    throw new Error('Unit tests must run against testnet, not live Base mainnet');
   }
 
   const unpaid = await fetch(`${base}/v1/search?q=trinity`);
