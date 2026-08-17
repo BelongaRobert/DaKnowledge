@@ -6,13 +6,18 @@
   "scripts": {
     "build": "python3 -m pip install -r requirements.txt && cd website && mkdocs build -d ../site",
     "build:indexes": "node src/build-indexes.js",
-    "test": "node test-engine.mjs && node test-ingest.mjs",
+    "test": "node test-engine.mjs && node test-ingest.mjs && node test-api-x402.mjs",
+    "api": "node api/server.js",
     "ingest": "node src/ingest.js",
     "validate": "node src/validate.js",
     "frontmatter": "node src/frontmatter.js",
     "indexes": "node src/build-indexes.js"
   },
   "dependencies": {
+    "@x402/core": "^2.22.0",
+    "@x402/evm": "^2.22.0",
+    "@x402/express": "^2.22.0",
+    "express": "^5.2.1",
     "gray-matter": "^4.0.3",
     "js-yaml": "^4.1.0"
   }

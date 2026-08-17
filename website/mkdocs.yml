@@ -78,6 +78,7 @@ plugins:
             Glossary: Glosario
             Councils and errors: Concilios y errores
             Find a page: Buscar una página
+            For developers: Para desarrolladores
             Sources & Bibliography: Fuentes y bibliografía
             Theology Proper: Teología propiamente dicha
             Attributes of God: Atributos de Dios
@@ -175,6 +176,7 @@ nav:
     - Glossary: study/glossary.md
     - Councils and errors: study/councils.md
     - Find a page: study/find.md
+    - For developers: study/developers.md
   - Sources & Bibliography: sources.md
   - Theology Proper:
     - Overview: theology-proper/index.md

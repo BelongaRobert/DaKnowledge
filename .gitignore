@@ -2,6 +2,7 @@ node_modules/
 *.log
 .DS_Store
 site/
+api/.env
 ingest/inbox/**/*.jpg
 ingest/inbox/**/*.jpeg
 ingest/inbox/**/*.png
