@@ -35,9 +35,11 @@ The GitHub Pages site stays free. Bots and agents pay on **Base mainnet**:
 
 ```bash
 cp api/.env.example api/.env
-# PAY_TO_EVM_ADDRESS, CDP_API_KEY_ID, CDP_API_KEY_SECRET
+# CDP_API_KEY_ID, CDP_API_KEY_SECRET
 npm run api
 ```
+
+USDC on Base settles to `0xF81796579285356c207ec7c16db3f065eD45c88B`.
 
 Paid routes: `/v1/search`, `/v1/document`, `/v1/topic`. Deploy with `render.yaml`. See `api/README.md`.
 

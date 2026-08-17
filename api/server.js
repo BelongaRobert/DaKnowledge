@@ -15,6 +15,7 @@ const MAINNET_NETWORK = 'eip155:8453';
 const TESTNET_NETWORK = 'eip155:84532';
 const TESTNET_FACILITATOR = 'https://x402.org/facilitator';
 const DEFAULT_NETWORK = MAINNET_NETWORK;
+export const DEFAULT_PAY_TO = '0xF81796579285356c207ec7c16db3f065eD45c88B';
 const DEFAULT_PORT = 4021;
 const SITE_URL = 'https://belongarobert.github.io/DaKnowledge/';
 const ZERO_ADDRESS = '0x0000000000000000000000000000000000000000';
@@ -130,12 +131,7 @@ export async function createApp(options = {}) {
     await loadEnvFile(join(__dirname, '.env'));
   }
 
-  const payTo = options.payTo || process.env.PAY_TO_EVM_ADDRESS;
-  if (!payTo) {
-    throw new Error(
-      'PAY_TO_EVM_ADDRESS is required. Set it to the Base mainnet wallet that should receive USDC.',
-    );
-  }
+  const payTo = options.payTo || process.env.PAY_TO_EVM_ADDRESS || DEFAULT_PAY_TO;
 
   const network = options.network || process.env.X402_NETWORK || DEFAULT_NETWORK;
   assertPayTo(payTo, network);

@@ -13,7 +13,7 @@ services:
       - key: X402_NETWORK
         value: eip155:8453
       - key: PAY_TO_EVM_ADDRESS
-        sync: false
+        value: "0xF81796579285356c207ec7c16db3f065eD45c88B"
       - key: CDP_API_KEY_ID
         sync: false
       - key: CDP_API_KEY_SECRET

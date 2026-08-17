@@ -33,9 +33,10 @@ GitHub Pages does not run this server. From the repository:
 
 ```bash
 cp api/.env.example api/.env
-# PAY_TO_EVM_ADDRESS = your Base mainnet wallet
 # CDP_API_KEY_ID / CDP_API_KEY_SECRET from portal.cdp.coinbase.com
 npm run api
 ```
+
+USDC on Base settles to `0xF81796579285356c207ec7c16db3f065eD45c88B`.
 
 Deploy `api/server.js` (see `render.yaml` and `api/README.md`). Set `PUBLIC_BASE_URL` to the HTTPS hostname. After the first settled payment, agents can discover the routes in the x402 Bazaar.

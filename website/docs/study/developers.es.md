@@ -33,9 +33,10 @@ GitHub Pages no ejecuta este servidor. Desde el repositorio:
 
 ```bash
 cp api/.env.example api/.env
-# PAY_TO_EVM_ADDRESS = tu billetera de Base mainnet
 # CDP_API_KEY_ID / CDP_API_KEY_SECRET de portal.cdp.coinbase.com
 npm run api
 ```
+
+El USDC en Base se liquida en `0xF81796579285356c207ec7c16db3f065eD45c88B`.
 
 Despliega `api/server.js` (ver `render.yaml` y `api/README.md`). Define `PUBLIC_BASE_URL` con el nombre HTTPS. Tras el primer pago liquidado, los agentes pueden descubrir las rutas en el Bazaar de x402.

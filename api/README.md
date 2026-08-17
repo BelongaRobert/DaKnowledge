@@ -4,17 +4,20 @@ The public MkDocs site on GitHub Pages stays **free**. This Express server is th
 
 x402 is HTTP 402 payments (`PAYMENT-REQUIRED` / `PAYMENT-SIGNATURE`). It is not related to GitHub pull requests.
 
-## What you need
+## Receiver
 
-1. A **Base mainnet** wallet you control. Only the public address is used here (`PAY_TO_EVM_ADDRESS`). Keep the private key in the wallet, never in this repo.
-2. A **Coinbase CDP** secret API key (`CDP_API_KEY_ID` + `CDP_API_KEY_SECRET`) from [portal.cdp.coinbase.com](https://portal.cdp.coinbase.com/). The production facilitator is CDP, not `x402.org`.
-3. A public HTTPS host for this process (Render blueprint included). GitHub Pages cannot run it.
+Live USDC on Base settles to `0xF81796579285356c207ec7c16db3f065eD45c88B`. That is a public address. Keep the private key in the wallet, never in this repo.
+
+Still required to take payment:
+
+1. A **Coinbase CDP** secret API key (`CDP_API_KEY_ID` + `CDP_API_KEY_SECRET`) from [portal.cdp.coinbase.com](https://portal.cdp.coinbase.com/). The production facilitator is CDP, not `x402.org`.
+2. A public HTTPS host for this process (Render blueprint included). GitHub Pages cannot run it.
 
 ## Run locally against mainnet
 
 ```bash
 cp api/.env.example api/.env
-# set PAY_TO_EVM_ADDRESS, CDP_API_KEY_ID, CDP_API_KEY_SECRET
+# set CDP_API_KEY_ID and CDP_API_KEY_SECRET
 npm install
 npm run api
 ```
@@ -43,9 +46,8 @@ GET /v1/topic?id=trinity
 
 ## Deploy (Render)
 
-`render.yaml` at the repo root defines a Node web service. Connect this GitHub repo in Render, then set:
+`render.yaml` at the repo root defines a Node web service and already sets the receiver address. Connect this GitHub repo in Render, then set:
 
-- `PAY_TO_EVM_ADDRESS`
 - `CDP_API_KEY_ID`
 - `CDP_API_KEY_SECRET`
 - `PUBLIC_BASE_URL` (the `https://…` hostname Render assigns, or your custom domain)

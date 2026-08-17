@@ -1,4 +1,8 @@
-import { createApp } from './api/server.js';
+import { createApp, DEFAULT_PAY_TO } from './api/server.js';
+
+if (DEFAULT_PAY_TO !== '0xF81796579285356c207ec7c16db3f065eD45c88B') {
+  throw new Error(`Live pay-to wallet is wrong: ${DEFAULT_PAY_TO}`);
+}
 
 process.env.PAY_TO_EVM_ADDRESS ||= '0x000000000000000000000000000000000000dEaD';
 process.env.X402_NETWORK ||= 'eip155:84532';
