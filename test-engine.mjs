@@ -60,4 +60,19 @@ if (!study) {
   throw new Error('Study tracks were not indexed');
 }
 
+const ccc = dk.lookupCcc('234');
+if (!ccc.length) {
+  throw new Error('CCC 234 was not indexed');
+}
+
+const john = dk.lookupScripture('John 1:14');
+if (!john.length) {
+  throw new Error('Scripture lookup missed John 1:14');
+}
+
+const asked = dk.synthesize('hypostatic union');
+if (!asked.answer || !asked.citations.paths.length) {
+  throw new Error('synthesize did not return a cited answer');
+}
+
 console.log('Engine checks passed.');

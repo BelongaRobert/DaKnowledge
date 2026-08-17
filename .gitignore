@@ -3,6 +3,7 @@ node_modules/
 .DS_Store
 site/
 api/.env
+api/*.ndjson
 ingest/inbox/**/*.jpg
 ingest/inbox/**/*.jpeg
 ingest/inbox/**/*.png

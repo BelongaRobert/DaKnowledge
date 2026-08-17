@@ -1,8 +1,4 @@
-import { createApp, DEFAULT_PAY_TO } from './api/server.js';
-
-if (DEFAULT_PAY_TO !== '0xF81796579285356c207ec7c16db3f065eD45c88B') {
-  throw new Error(`Live pay-to wallet is wrong: ${DEFAULT_PAY_TO}`);
-}
+import { createApp } from './api/server.js';
 
 process.env.PAY_TO_EVM_ADDRESS ||= '0x000000000000000000000000000000000000dEaD';
 process.env.X402_NETWORK ||= 'eip155:84532';
@@ -21,6 +17,14 @@ function decodePaymentRequired(res) {
   return JSON.parse(json);
 }
 
+function assertBazaar(payload, label) {
+  const ext = payload.extensions?.bazaar || payload.accepts?.[0]?.extra;
+  if (!payload.extensions?.bazaar && !JSON.stringify(payload).includes('bazaar')) {
+    throw new Error(`${label} PAYMENT-REQUIRED payload missing bazaar discovery metadata`);
+  }
+  return ext;
+}
+
 try {
   await createApp({
     skipEnvFile: true,
@@ -29,9 +33,23 @@ try {
     facilitatorUrl: 'https://x402.org/facilitator',
     syncFacilitatorOnStart: false,
   });
-  throw new Error('Live mainnet must refuse the x402.org testnet facilitator');
+  throw new Error('Mainnet must refuse the x402.org testnet facilitator');
 } catch (err) {
-  if (!String(err.message).includes('x402.org')) {
+  if (!String(err.message).includes('x402.org') && !String(err.message).includes('production facilitator')) {
+    throw err;
+  }
+}
+
+try {
+  await createApp({
+    skipEnvFile: true,
+    network: 'eip155:84532',
+    facilitatorUrl: 'https://x402.org/facilitator',
+    syncFacilitatorOnStart: false,
+  });
+  throw new Error('Missing PAY_TO_EVM_ADDRESS must fail');
+} catch (err) {
+  if (!String(err.message).includes('PAY_TO_EVM_ADDRESS')) {
     throw err;
   }
 }
@@ -57,33 +75,47 @@ try {
   }
   const healthBody = await health.json();
   if (healthBody.live) {
-    throw new Error('Unit tests must run against testnet, not live Base mainnet');
+    throw new Error('Default tests must run against testnet, not mainnet');
+  }
+
+  const root = await fetch(`${base}/`);
+  if (root.status !== 200) {
+    throw new Error(`GET / expected 200, got ${root.status}`);
+  }
+  const rootBody = await root.json();
+  if (!rootBody.discovery?.bazaar) {
+    throw new Error('GET / should document Bazaar discovery');
+  }
+
+  const stats = await fetch(`${base}/v1/stats`);
+  if (stats.status !== 200) {
+    throw new Error(`GET /v1/stats expected 200, got ${stats.status}`);
   }
 
   const unpaid = await fetch(`${base}/v1/search?q=trinity`);
   if (unpaid.status !== 402) {
     throw new Error(`Unpaid GET /v1/search expected HTTP 402, got ${unpaid.status}`);
   }
-
-  const required = decodePaymentRequired(unpaid);
-  const accepts = required.accepts || required.accept;
+  const searchRequired = decodePaymentRequired(unpaid);
+  const accepts = searchRequired.accepts || searchRequired.accept;
   if (!accepts || (Array.isArray(accepts) && accepts.length === 0)) {
     throw new Error('PAYMENT-REQUIRED payload missing accepts');
   }
+  assertBazaar(searchRequired, 'search');
 
-  const document = await fetch(
-    `${base}/v1/document?path=site/christology/hypostatic-union.md`,
-  );
-  if (document.status !== 402) {
-    throw new Error(`Unpaid GET /v1/document expected HTTP 402, got ${document.status}`);
+  for (const url of [
+    '/v1/document?path=site/christology/hypostatic-union.md',
+    '/v1/topic/trinity',
+    '/v1/scripture?ref=John%201:14',
+    '/v1/ccc?n=234',
+    '/v1/ask?q=hypostatic%20union',
+  ]) {
+    const res = await fetch(`${base}${url}`);
+    if (res.status !== 402) {
+      throw new Error(`Unpaid GET ${url} expected HTTP 402, got ${res.status}`);
+    }
+    decodePaymentRequired(res);
   }
-  decodePaymentRequired(document);
-
-  const topic = await fetch(`${base}/v1/topic?id=trinity`);
-  if (topic.status !== 402) {
-    throw new Error(`Unpaid GET /v1/topic expected HTTP 402, got ${topic.status}`);
-  }
-  decodePaymentRequired(topic);
 
   console.log('x402 API checks passed (unpaid /v1 routes return 402 + PAYMENT-REQUIRED).');
 } finally {

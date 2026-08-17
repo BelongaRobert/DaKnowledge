@@ -17,7 +17,8 @@ class DaKnowledge {
       byTopic: new Map(),
       byTag: new Map(),
       byScripture: new Map(),
-      bySource: new Map()
+      bySource: new Map(),
+      byCcc: new Map()
     };
   }
 
@@ -79,6 +80,9 @@ class DaKnowledge {
         scripture: parsed.data.scripture?.length
           ? parsed.data.scripture
           : this.extractScripture(parsed.content),
+        ccc: parsed.data.ccc?.length
+          ? parsed.data.ccc.map(String)
+          : this.extractCcc(parsed.content),
         date: parsed.data.date || new Date().toISOString(),
         content: parsed.content,
         excerpt: this.generateExcerpt(parsed.content)
@@ -116,6 +120,13 @@ class DaKnowledge {
         }
         this.index.bySource.get(source).push(relativePath);
       }
+
+      for (const n of doc.ccc) {
+        if (!this.index.byCcc.has(n)) {
+          this.index.byCcc.set(n, []);
+        }
+        this.index.byCcc.get(n).push(relativePath);
+      }
       
     } catch (err) {
       console.error(`Failed to index ${relativePath}:`, err.message);
@@ -143,6 +154,16 @@ class DaKnowledge {
     return [...refs];
   }
 
+  extractCcc(content) {
+    const nums = new Set();
+    const pattern = /\b(?:CCC|Catechism)\s+(\d{1,4})(?:-\d{1,4})?/gi;
+    let match;
+    while ((match = pattern.exec(content))) {
+      nums.add(match[1]);
+    }
+    return [...nums];
+  }
+
   generateExcerpt(content, maxLength = 200) {
     const plainText = content
       .replace(/#+ /g, '')
@@ -166,6 +187,102 @@ class DaKnowledge {
 
   searchByScripture(reference) {
     return this.index.byScripture.get(reference) || [];
+  }
+
+  summarizePaths(paths) {
+    return paths.map((path) => {
+      const doc = this.getDocument(path);
+      return doc
+        ? {
+            path: doc.path,
+            title: doc.title,
+            excerpt: doc.excerpt,
+            topic: doc.topic,
+          }
+        : { path };
+    });
+  }
+
+  normalizeScripture(reference) {
+    return String(reference || '')
+      .toLowerCase()
+      .replace(/\s+/g, ' ')
+      .trim();
+  }
+
+  lookupScripture(reference) {
+    const needle = this.normalizeScripture(reference);
+    if (!needle) return [];
+    const pathSet = new Set();
+    for (const [key, paths] of this.index.byScripture) {
+      const norm = this.normalizeScripture(key);
+      if (norm === needle || norm.includes(needle) || needle.includes(norm)) {
+        for (const path of paths) pathSet.add(path);
+      }
+    }
+    if (pathSet.size === 0) {
+      for (const hit of this.searchFullText(reference).slice(0, 8)) {
+        pathSet.add(hit.path);
+      }
+    }
+    return this.summarizePaths([...pathSet]);
+  }
+
+  lookupCcc(number) {
+    const key = String(number || '')
+      .replace(/^[^\d]+/, '')
+      .trim();
+    if (!key) return [];
+    const paths = this.index.byCcc.get(key) || [];
+    return this.summarizePaths(paths);
+  }
+
+  firstSentences(text, count = 2) {
+    const plain = String(text || '')
+      .replace(/\s+/g, ' ')
+      .trim();
+    if (!plain) return '';
+    const parts = plain.split(/(?<=[.!?])\s+/).filter(Boolean);
+    return parts.slice(0, count).join(' ');
+  }
+
+  synthesize(query, { limit = 4 } = {}) {
+    const hits = this.searchFullText(query).slice(0, limit);
+    const citations = {
+      paths: [],
+      scripture: [],
+      ccc: [],
+      sources: [],
+    };
+    const answerParts = [];
+
+    for (const hit of hits) {
+      const doc = this.getDocument(hit.path);
+      if (!doc) continue;
+      citations.paths.push({
+        path: doc.path,
+        title: doc.title,
+        topic: doc.topic,
+      });
+      for (const ref of doc.scripture.slice(0, 4)) {
+        if (!citations.scripture.includes(ref)) citations.scripture.push(ref);
+      }
+      for (const n of doc.ccc || []) {
+        if (!citations.ccc.includes(n)) citations.ccc.push(n);
+      }
+      for (const source of doc.sources.slice(0, 3)) {
+        if (!citations.sources.includes(source)) citations.sources.push(source);
+      }
+      const snippet = this.firstSentences(doc.excerpt || doc.content, 2);
+      if (snippet) answerParts.push(snippet);
+    }
+
+    const answer = answerParts.join(' ').slice(0, 700);
+    return {
+      query,
+      answer: answer || 'No indexed teaching matched that query.',
+      citations,
+    };
   }
 
   searchFullText(query) {
@@ -228,7 +345,8 @@ class DaKnowledge {
       totalDocuments: this.documents.size,
       topics: this.index.byTopic.size,
       tags: this.index.byTag.size,
-      scriptureReferences: this.index.byScripture.size
+      scriptureReferences: this.index.byScripture.size,
+      cccReferences: this.index.byCcc.size
     };
   }
 }

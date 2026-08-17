@@ -1,4 +1,4 @@
-import { readFile } from 'fs/promises';
+import { appendFile, readFile } from 'fs/promises';
 import { dirname, join } from 'path';
 import { fileURLToPath, pathToFileURL } from 'url';
 import express from 'express';
@@ -14,18 +14,27 @@ const repoRoot = join(__dirname, '..');
 const MAINNET_NETWORK = 'eip155:8453';
 const TESTNET_NETWORK = 'eip155:84532';
 const TESTNET_FACILITATOR = 'https://x402.org/facilitator';
-const DEFAULT_NETWORK = MAINNET_NETWORK;
-export const DEFAULT_PAY_TO = '0xF81796579285356c207ec7c16db3f065eD45c88B';
+const DEFAULT_NETWORK = TESTNET_NETWORK;
 const DEFAULT_PORT = 4021;
 const SITE_URL = 'https://belongarobert.github.io/DaKnowledge/';
-const ZERO_ADDRESS = '0x0000000000000000000000000000000000000000';
-const BURN_ADDRESS = '0x000000000000000000000000000000000000dead';
 
 const PRICES = {
   search: '$0.001',
-  document: '$0.002',
   topic: '$0.001',
+  scripture: '$0.001',
+  ccc: '$0.001',
+  document: '$0.002',
+  ask: '$0.005',
 };
+
+const PRICE_BY_PATH = [
+  [/^\/v1\/ask$/, PRICES.ask],
+  [/^\/v1\/document$/, PRICES.document],
+  [/^\/v1\/search$/, PRICES.search],
+  [/^\/v1\/scripture$/, PRICES.scripture],
+  [/^\/v1\/ccc$/, PRICES.ccc],
+  [/^\/v1\/topic(?:\/|$)/, PRICES.topic],
+];
 
 async function loadEnvFile(filePath) {
   try {
@@ -54,30 +63,56 @@ function isMainnet(network) {
   return network === MAINNET_NETWORK;
 }
 
-function assertPayTo(payTo, network) {
+function assertPayTo(payTo) {
+  if (!payTo) {
+    throw new Error(
+      'PAY_TO_EVM_ADDRESS is required. Copy api/.env.example to api/.env and set a receiving wallet. Do not commit the address.',
+    );
+  }
   if (!/^0x[a-fA-F0-9]{40}$/.test(payTo)) {
     throw new Error(
-      'PAY_TO_EVM_ADDRESS must be a 0x-prefixed 40-hex EVM address that you control on Base.',
+      'PAY_TO_EVM_ADDRESS must be a 0x-prefixed 40-hex EVM address.',
     );
   }
-  const normalized = payTo.toLowerCase();
-  if (
-    isMainnet(network) &&
-    (normalized === ZERO_ADDRESS || normalized === BURN_ADDRESS)
-  ) {
-    throw new Error(
-      'PAY_TO_EVM_ADDRESS must be your live Base wallet, not a placeholder or burn address.',
-    );
+}
+
+function amountForPath(path) {
+  for (const [pattern, price] of PRICE_BY_PATH) {
+    if (pattern.test(path)) return price;
   }
+  return null;
+}
+
+function truncateQuery(query) {
+  const raw = JSON.stringify(query || {});
+  return raw.length > 180 ? `${raw.slice(0, 177)}...` : raw;
+}
+
+function createAccessLogger(logFile) {
+  return async function logAccess(event) {
+    const line = JSON.stringify({
+      type: 'x402_access',
+      ts: new Date().toISOString(),
+      ...event,
+    });
+    console.log(line);
+    if (logFile) {
+      try {
+        await appendFile(logFile, `${line}\n`);
+      } catch (err) {
+        console.error('x402 access log write failed', err.message);
+      }
+    }
+  };
 }
 
 async function createFacilitatorClient({ network, facilitatorUrl, facilitatorClient }) {
   if (facilitatorClient) return facilitatorClient;
 
   if (isMainnet(network)) {
-    if (facilitatorUrl && /x402\.org/i.test(facilitatorUrl)) {
+    if (!facilitatorUrl || /x402\.org/i.test(facilitatorUrl)) {
       throw new Error(
-        'Live Base mainnet cannot use https://x402.org/facilitator. Set CDP_API_KEY_ID and CDP_API_KEY_SECRET for the Coinbase production facilitator.',
+        'Mainnet (eip155:8453) needs a production facilitator, not https://x402.org/facilitator. Set FACILITATOR_URL and CDP_API_KEY_ID / CDP_API_KEY_SECRET.',
       );
     }
     const { createCdpFacilitatorClient } = await import('@coinbase/cdp-sdk/x402');
@@ -100,7 +135,7 @@ function paidRoute(price, description, { network, payTo, input, inputSchema, out
     description,
     mimeType: 'application/json',
     serviceName: 'DaKnowledge',
-    tags: ['theology', 'catholic', 'bible', 'scripture', 'knowledge'],
+    tags: ['theology', 'catholic', 'bible', 'scripture', 'catechism', 'knowledge'],
     iconUrl: `${SITE_URL}assets/images/crucifix.svg`,
     extensions: {
       ...declareDiscoveryExtension({
@@ -120,6 +155,7 @@ function serializeDocument(doc, { includeContent = false } = {}) {
     tags: doc.tags,
     sources: doc.sources,
     scripture: doc.scripture,
+    ccc: doc.ccc,
     excerpt: doc.excerpt,
   };
   if (includeContent) payload.content = doc.content;
@@ -131,15 +167,17 @@ export async function createApp(options = {}) {
     await loadEnvFile(join(__dirname, '.env'));
   }
 
-  const payTo = options.payTo || process.env.PAY_TO_EVM_ADDRESS || DEFAULT_PAY_TO;
+  const payTo = options.payTo || process.env.PAY_TO_EVM_ADDRESS;
+  assertPayTo(payTo);
 
   const network = options.network || process.env.X402_NETWORK || DEFAULT_NETWORK;
-  assertPayTo(payTo, network);
-
   const facilitatorUrl =
     options.facilitatorUrl || process.env.FACILITATOR_URL || undefined;
   const syncFacilitatorOnStart =
     options.syncFacilitatorOnStart ?? process.env.X402_SYNC_FACILITATOR !== 'false';
+  const logAccess = createAccessLogger(
+    options.accessLogFile || process.env.X402_ACCESS_LOG || null,
+  );
 
   const facilitator = await createFacilitatorClient({
     network,
@@ -175,15 +213,51 @@ export async function createApp(options = {}) {
     next();
   });
 
+  app.use((req, res, next) => {
+    if (!req.path.startsWith('/v1/') || req.path === '/v1/stats') return next();
+    const started = Date.now();
+    res.on('finish', () => {
+      const status = res.statusCode;
+      let outcome = String(status);
+      if (status === 402) outcome = '402';
+      else if (status === 200) outcome = '200';
+      void logAccess({
+        route: `${req.method} ${req.path}`,
+        query: truncateQuery(req.query),
+        amount: amountForPath(req.path),
+        status,
+        outcome,
+        ms: Date.now() - started,
+      });
+    });
+    next();
+  });
+
   const resourceServer = new x402ResourceServer(facilitator).register(
     network,
     new ExactEvmScheme(),
   );
 
   resourceServer.onAfterSettle(async ({ result }) => {
-    console.info('x402 payment settled', {
+    await logAccess({
+      route: 'settle',
+      query: '{}',
+      amount: null,
+      status: 200,
+      outcome: 'settled',
       network: result?.network,
       transaction: result?.transaction,
+    });
+  });
+
+  resourceServer.onSettleFailure(async (context) => {
+    await logAccess({
+      route: 'settle',
+      query: '{}',
+      amount: null,
+      status: 402,
+      outcome: 'settle_failure',
+      error: context?.error?.message || context?.result?.error || 'settle failed',
     });
   });
 
@@ -193,18 +267,14 @@ export async function createApp(options = {}) {
       {
         'GET /v1/search': paidRoute(
           PRICES.search,
-          'Full-text search over the DaKnowledge Catholic theology index. Humans should use the free site search instead.',
+          'Full-text search over the curated DaKnowledge Catholic index. Humans should use the free site search.',
           {
             ...routeOptions,
             input: { q: 'hypostatic union' },
             inputSchema: {
               properties: {
                 q: { type: 'string', description: 'Full-text query' },
-                limit: {
-                  type: 'integer',
-                  description: 'Max results (1-50)',
-                  default: 10,
-                },
+                limit: { type: 'integer', description: 'Max results (1-50)', default: 10 },
               },
               required: ['q'],
             },
@@ -226,7 +296,7 @@ export async function createApp(options = {}) {
         ),
         'GET /v1/document': paidRoute(
           PRICES.document,
-          'Fetch one indexed DaKnowledge document by engine path.',
+          'Fetch one indexed document by engine path (excerpt plus optional full markdown).',
           {
             ...routeOptions,
             input: { path: 'site/christology/hypostatic-union.md' },
@@ -234,8 +304,7 @@ export async function createApp(options = {}) {
               properties: {
                 path: {
                   type: 'string',
-                  description:
-                    'Engine path such as site/christology/hypostatic-union.md',
+                  description: 'Engine path such as site/christology/hypostatic-union.md',
                 },
               },
               required: ['path'],
@@ -250,20 +319,17 @@ export async function createApp(options = {}) {
             },
           },
         ),
-        'GET /v1/topic': paidRoute(
+        'GET /v1/topic/:topic': paidRoute(
           PRICES.topic,
-          'List indexed DaKnowledge documents for a topic id.',
+          'List indexed documents for a topic id such as trinity or christology.',
           {
             ...routeOptions,
-            input: { id: 'trinity' },
+            input: { topic: 'trinity' },
             inputSchema: {
               properties: {
-                id: {
-                  type: 'string',
-                  description: 'Topic id such as trinity, christology, or prayer',
-                },
+                topic: { type: 'string', description: 'Topic id' },
               },
-              required: ['id'],
+              required: ['topic'],
             },
             output: {
               example: {
@@ -281,6 +347,94 @@ export async function createApp(options = {}) {
             },
           },
         ),
+        'GET /v1/scripture': paidRoute(
+          PRICES.scripture,
+          'Look up indexed pages that cite a Scripture reference.',
+          {
+            ...routeOptions,
+            input: { ref: 'John 1:14' },
+            inputSchema: {
+              properties: {
+                ref: { type: 'string', description: 'Verse reference such as John 1:14' },
+              },
+              required: ['ref'],
+            },
+            output: {
+              example: {
+                ref: 'John 1:14',
+                count: 1,
+                documents: [
+                  {
+                    path: 'site/christology/hypostatic-union.md',
+                    title: 'Hypostatic Union',
+                    excerpt: 'The Word became flesh...',
+                    topic: 'christology',
+                  },
+                ],
+              },
+            },
+          },
+        ),
+        'GET /v1/ccc': paidRoute(
+          PRICES.ccc,
+          'Look up indexed pages that cite a Catechism paragraph number.',
+          {
+            ...routeOptions,
+            input: { n: '234' },
+            inputSchema: {
+              properties: {
+                n: { type: 'string', description: 'CCC paragraph number such as 234' },
+              },
+              required: ['n'],
+            },
+            output: {
+              example: {
+                ccc: '234',
+                count: 1,
+                documents: [
+                  {
+                    path: 'site/trinity/index.md',
+                    title: 'The Trinity',
+                    excerpt: 'The central mystery of Christian faith and life...',
+                    topic: 'trinity',
+                  },
+                ],
+              },
+            },
+          },
+        ),
+        'GET /v1/ask': paidRoute(
+          PRICES.ask,
+          'Cited synthesis from the curated index: a short answer plus CCC, Scripture, and source paths. Not a generic LLM.',
+          {
+            ...routeOptions,
+            input: { q: 'What is the hypostatic union?' },
+            inputSchema: {
+              properties: {
+                q: { type: 'string', description: 'Question or topic to answer from the index' },
+              },
+              required: ['q'],
+            },
+            output: {
+              example: {
+                query: 'What is the hypostatic union?',
+                answer: 'The Son assumed a human nature in the unity of his person...',
+                citations: {
+                  paths: [
+                    {
+                      path: 'site/christology/hypostatic-union.md',
+                      title: 'Hypostatic Union',
+                      topic: 'christology',
+                    },
+                  ],
+                  scripture: ['John 1:14'],
+                  ccc: ['464', '467'],
+                  sources: [],
+                },
+              },
+            },
+          },
+        ),
       },
       resourceServer,
       undefined,
@@ -290,6 +444,30 @@ export async function createApp(options = {}) {
   );
 
   const publicBaseUrl = options.publicBaseUrl || process.env.PUBLIC_BASE_URL || null;
+  const discovery = {
+    name: 'DaKnowledge x402 API',
+    site: SITE_URL,
+    note: 'The MkDocs site stays free. Only programmatic /v1 agent routes require x402 payment.',
+    network,
+    facilitator: facilitatorUrl || (isMainnet(network) ? 'cdp' : TESTNET_FACILITATOR),
+    publicBaseUrl,
+    discovery: {
+      local: 'GET / (this document)',
+      bazaar:
+        'Paid routes declare the x402 bazaar extension. After a settled payment through a facilitator that catalogs Bazaar metadata, agents can find DaKnowledge via that facilitator’s discovery APIs (CDP Bazaar / GET /discovery/resources). Until then, crawl GET / or this README.',
+    },
+    routes: {
+      'GET /': 'free',
+      'GET /health': 'free',
+      'GET /v1/stats': 'free',
+      'GET /v1/search?q=': PRICES.search,
+      'GET /v1/document?path=': PRICES.document,
+      'GET /v1/topic/:topic': PRICES.topic,
+      'GET /v1/scripture?ref=': PRICES.scripture,
+      'GET /v1/ccc?n=': PRICES.ccc,
+      'GET /v1/ask?q=': PRICES.ask,
+    },
+  };
 
   app.get('/health', (_req, res) => {
     res.json({
@@ -298,26 +476,16 @@ export async function createApp(options = {}) {
       api: 'x402',
       live: isMainnet(network),
       network,
-      payTo,
     });
   });
 
   app.get('/', (_req, res) => {
-    res.json({
-      name: 'DaKnowledge x402 API',
-      site: SITE_URL,
-      note: 'The MkDocs site stays free. Only these programmatic routes charge live USDC on Base.',
-      live: isMainnet(network),
-      network,
-      payTo,
-      publicBaseUrl,
-      routes: {
-        'GET /health': 'free',
-        [`GET /v1/search?q=`]: PRICES.search,
-        [`GET /v1/document?path=`]: PRICES.document,
-        [`GET /v1/topic?id=`]: PRICES.topic,
-      },
-    });
+    res.json(discovery);
+  });
+
+  app.get('/v1/stats', async (_req, res) => {
+    const dk = await getEngine();
+    res.json({ site: 'free', ...dk.getStats() });
   });
 
   app.get('/v1/search', async (req, res) => {
@@ -341,13 +509,13 @@ export async function createApp(options = {}) {
     if (!doc) {
       return res.status(404).json({ error: 'Document not found', path });
     }
-    res.json(serializeDocument(doc, { includeContent: true }));
+    res.json(serializeDocument(doc, { includeContent: req.query.full === '1' }));
   });
 
-  app.get('/v1/topic', async (req, res) => {
-    const id = String(req.query.id || '').trim();
+  app.get('/v1/topic/:topic', async (req, res) => {
+    const id = String(req.params.topic || '').trim();
     if (!id) {
-      return res.status(400).json({ error: 'Missing query parameter id' });
+      return res.status(400).json({ error: 'Missing topic' });
     }
     const dk = await getEngine();
     const paths = dk.searchByTopic(id);
@@ -356,6 +524,35 @@ export async function createApp(options = {}) {
       return doc ? serializeDocument(doc) : { path: docPath };
     });
     res.json({ topic: id, count: documents.length, documents });
+  });
+
+  app.get('/v1/scripture', async (req, res) => {
+    const ref = String(req.query.ref || '').trim();
+    if (!ref) {
+      return res.status(400).json({ error: 'Missing query parameter ref' });
+    }
+    const dk = await getEngine();
+    const documents = dk.lookupScripture(ref);
+    res.json({ ref, count: documents.length, documents });
+  });
+
+  app.get('/v1/ccc', async (req, res) => {
+    const n = String(req.query.n || '').trim();
+    if (!n) {
+      return res.status(400).json({ error: 'Missing query parameter n' });
+    }
+    const dk = await getEngine();
+    const documents = dk.lookupCcc(n);
+    res.json({ ccc: n, count: documents.length, documents });
+  });
+
+  app.get('/v1/ask', async (req, res) => {
+    const q = String(req.query.q || '').trim();
+    if (!q) {
+      return res.status(400).json({ error: 'Missing query parameter q' });
+    }
+    const dk = await getEngine();
+    res.json(dk.synthesize(q));
   });
 
   return app;
@@ -371,8 +568,8 @@ export async function start(options = {}) {
       console.log(`DaKnowledge x402 API listening on http://${host}:${port}`);
       console.log(
         isMainnet(network)
-          ? 'Live USDC on Base mainnet (eip155:8453). Public MkDocs site remains free.'
-          : `Test network ${network}. Public MkDocs site remains free.`,
+          ? 'Mainnet USDC. Public MkDocs site remains free.'
+          : `Testnet ${network}. Public MkDocs site remains free.`,
       );
       resolve(server);
     });

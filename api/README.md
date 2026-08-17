@@ -1,63 +1,62 @@
-# DaKnowledge x402 API (live)
+# DaKnowledge x402 API
 
-The public MkDocs site on GitHub Pages stays **free**. This Express server is the paid HTTP API for bots and agents. It charges **live USDC on Base mainnet**. It does not paywall browsing, SEO, or the site search box.
+The public MkDocs site on GitHub Pages stays **free**. This Express server is a machine API for agents. Humans browsing, SEO, and the site search box are not gated.
 
-x402 is HTTP 402 payments (`PAYMENT-REQUIRED` / `PAYMENT-SIGNATURE`). It is not related to GitHub pull requests.
+x402 is HTTP 402 payments (`PAYMENT-REQUIRED` / `PAYMENT-SIGNATURE`). It is not a GitHub pull request.
 
-## Receiver
+## Free vs agent split
 
-Live USDC on Base settles to `0xF81796579285356c207ec7c16db3f065eD45c88B`. That is a public address. Keep the private key in the wallet, never in this repo.
+| Surface | Cost |
+|---------|------|
+| GitHub Pages HTML, human search, citation index | free |
+| `GET /`, `GET /health`, `GET /v1/stats` | free |
+| Programmatic `/v1/search`, `/v1/document`, `/v1/topic/:topic`, `/v1/scripture`, `/v1/ccc`, `/v1/ask` | x402 |
 
-Still required to take payment:
-
-1. A **Coinbase CDP** secret API key (`CDP_API_KEY_ID` + `CDP_API_KEY_SECRET`) from [portal.cdp.coinbase.com](https://portal.cdp.coinbase.com/). The production facilitator is CDP, not `x402.org`.
-2. A public HTTPS host for this process (Render blueprint included). GitHub Pages cannot run it.
-
-## Run locally against mainnet
+## Run (testnet)
 
 ```bash
 cp api/.env.example api/.env
-# set CDP_API_KEY_ID and CDP_API_KEY_SECRET
+# set PAY_TO_EVM_ADDRESS (do not commit it)
 npm install
 npm run api
 ```
 
-Default listen address: `http://0.0.0.0:4021`.
+Defaults: Base Sepolia (`eip155:84532`), facilitator `https://x402.org/facilitator`, listen `http://0.0.0.0:4021`.
 
-## Routes
+## Paid routes
 
-| Route | Price (USDC on Base) | Auth |
-|-------|----------------------|------|
-| `GET /` | free | discovery |
-| `GET /health` | free | liveness |
-| `GET /v1/search?q=` | `$0.001` | x402 |
-| `GET /v1/document?path=` | `$0.002` | x402 |
-| `GET /v1/topic?id=` | `$0.001` | x402 |
+| Route | Price |
+|-------|-------|
+| `GET /v1/search?q=` | `$0.001` |
+| `GET /v1/topic/:topic` | `$0.001` |
+| `GET /v1/scripture?ref=` | `$0.001` |
+| `GET /v1/ccc?n=` | `$0.001` |
+| `GET /v1/document?path=` | `$0.002` |
+| `GET /v1/ask?q=` | `$0.005` |
 
-Unpaid calls to `/v1/*` return **HTTP 402** with a `PAYMENT-REQUIRED` header. After a paid call settles through CDP, the route can appear in the x402 Bazaar for other agents.
+Unpaid `/v1` agent calls return **HTTP 402** with `PAYMENT-REQUIRED`. `/v1/ask` returns a short answer **plus citations** (CCC, verses, source paths) from the curated index — not a generic LLM dump.
 
-Examples after payment:
+`GET /v1/document?full=1` includes markdown. Prefer `/v1/ask`, `/v1/scripture`, and `/v1/ccc` for retrieval.
 
-```text
-GET /v1/search?q=hypostatic
-GET /v1/document?path=site/christology/hypostatic-union.md
-GET /v1/topic?id=trinity
-```
+## How an agent discovers this API
 
-## Deploy (Render)
+1. **Local catalog:** `GET /` lists routes, prices, and this discovery note. No payment.
+2. **x402 Bazaar extension:** each paid route declares input query params and output JSON examples via `@x402/extensions/bazaar`. Facilitators that catalog Bazaar metadata can list DaKnowledge after a **settled** payment (verify alone is not enough).
+3. **Facilitator discovery APIs:** for example CDP `GET /discovery/resources` / search, or a facilitator’s `/discovery/resources`. Point crawlers at `PUBLIC_BASE_URL`.
+4. **This README** and the Study page *Machine access (x402)*.
 
-`render.yaml` at the repo root defines a Node web service and already sets the receiver address. Connect this GitHub repo in Render, then set:
+Without (2), a 402 response is payable but hard for agents to find. The bazaar block is the listing.
 
-- `CDP_API_KEY_ID`
-- `CDP_API_KEY_SECRET`
-- `PUBLIC_BASE_URL` (the `https://…` hostname Render assigns, or your custom domain)
+## Analytics
 
-Railway and Fly can run the same `Dockerfile` / `Procfile` (`node api/server.js`) with those env vars. Do **not** change the GitHub Pages workflow; the static site must stay independent.
+Each paid `/v1` response logs one JSON line to stdout: route, truncated query, amount, `402` / `200` / other status, and settle success or `settle_failure`. Set `X402_ACCESS_LOG` to also append those lines to a file.
 
-## Defaults
+## Mainnet later
 
-- Network: Base mainnet (`eip155:8453`)
-- Facilitator: Coinbase CDP (`https://api.cdp.coinbase.com/platform/v2/x402`)
-- Prices: `$0.001`–`$0.002` USDC
+Only after testnet 402 works:
 
-Testnet (`eip155:84532` + `https://x402.org/facilitator`) is only for `npm test`. It will not generate revenue.
+1. `X402_NETWORK=eip155:8453`
+2. A **production** facilitator (Coinbase CDP), **not** `https://x402.org/facilitator`
+3. `CDP_API_KEY_ID` and `CDP_API_KEY_SECRET`
+
+GitHub Pages stays independent of this process. Optional host: `render.yaml` / `Dockerfile` with `PAY_TO_EVM_ADDRESS` set in the host’s env, never in git.

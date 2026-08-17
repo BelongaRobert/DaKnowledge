@@ -1,5 +1,5 @@
 ---
-title: For developers
+title: Machine access (x402)
 topic: study
 tags:
   - study
@@ -7,36 +7,55 @@ tags:
   - x402
 ---
 
-# For developers
+# Machine access (x402)
 
-This website is free. Search in the header, follow a [study path](tracks/), and read every doctrine page without paying.
+This website is free. Search in the header, follow a [study path](tracks/), and read every doctrine page without paying. Humans, SEO, and the site search box are not gated.
 
-What follows is only for **agents and scripts**. Humans browsing GitHub Pages are not gated.
+What follows is only for **agents and scripts** that want a machine API. x402 here is **HTTP 402**, not a GitHub pull request.
 
-## Live paid API
+## Free vs paid
 
-Bots that pull the index programmatically pay **USDC on Base mainnet** (`eip155:8453`) via [x402](https://www.x402.org/) (HTTP 402). That is not a GitHub pull request, and it is not a login wall on these pages.
+| Who | What |
+|-----|------|
+| Humans on GitHub Pages | Free HTML, free search |
+| Agents hitting `/v1/search`, `/v1/ask`, lookups | x402 payment |
 
-| Route | Price |
-|-------|-------|
-| `GET /v1/search?q=` | $0.001 |
-| `GET /v1/document?path=` | $0.002 |
-| `GET /v1/topic?id=` | $0.001 |
+The scarce asset is the curated Catholic index (CCC, Scripture, councils, citation graph, study tracks) — not a generic theology chatbot.
 
-An unpaid call returns `PAYMENT-REQUIRED`. A client that can pay retries with `PAYMENT-SIGNATURE`. Settlement uses the Coinbase CDP production facilitator, not the x402.org testnet facilitator.
+## Paid routes (testnet default)
 
-The published site search, SEO, and page HTML stay free.
+Base Sepolia (`eip155:84532`), facilitator `https://x402.org/facilitator`.
 
-## Host it
+| Route | Price | Returns |
+|-------|-------|---------|
+| `GET /v1/search?q=` | $0.001 | Ranked hits |
+| `GET /v1/topic/:topic` | $0.001 | Docs in a topic |
+| `GET /v1/scripture?ref=` | $0.001 | Pages citing a verse |
+| `GET /v1/ccc?n=` | $0.001 | Pages citing a CCC number |
+| `GET /v1/document?path=` | $0.002 | One document |
+| `GET /v1/ask?q=` | $0.005 | Short answer **plus citations** |
 
-GitHub Pages does not run this server. From the repository:
+`GET /`, `GET /health`, and `GET /v1/stats` stay free. Unpaid agent calls return `PAYMENT-REQUIRED`.
+
+Prefer `/v1/ask`, `/v1/scripture`, and `/v1/ccc` over dumping whole markdown.
+
+## How an agent finds the API
+
+1. `GET /` — free catalog of routes and prices.
+2. Each paid 402 includes **Bazaar** metadata (query params + output examples) so a facilitator can list DaKnowledge after a settled payment.
+3. Then search that facilitator’s discovery API (for example CDP Bazaar `/discovery/resources`).
+4. Details: `api/README.md`.
+
+Without Bazaar metadata the API is payable but undiscoverable.
+
+## Run it
+
+GitHub Pages does not run this server.
 
 ```bash
 cp api/.env.example api/.env
-# CDP_API_KEY_ID / CDP_API_KEY_SECRET from portal.cdp.coinbase.com
+# set PAY_TO_EVM_ADDRESS — do not commit it
 npm run api
 ```
 
-USDC on Base settles to `0xF81796579285356c207ec7c16db3f065eD45c88B`.
-
-Deploy `api/server.js` (see `render.yaml` and `api/README.md`). Set `PUBLIC_BASE_URL` to the HTTPS hostname. After the first settled payment, agents can discover the routes in the x402 Bazaar.
+Mainnet later: `X402_NETWORK=eip155:8453` and a **production** facilitator, not x402.org.

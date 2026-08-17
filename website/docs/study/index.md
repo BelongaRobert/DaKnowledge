@@ -34,7 +34,7 @@ Each track is a short list of pages you already have. Nothing extra to buy or in
 - [Glossary](glossary/): short definitions
 - [Councils and errors](councils/): the story in order
 - [Sources](../sources/): full bibliography
-- [For developers](developers/): live x402 API for agents (USDC on Base); the site itself stays free
+- [Machine access (x402)](developers/): agent API; the site itself stays free
 
 ---
 
