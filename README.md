@@ -31,7 +31,7 @@ See `ingest/README.md` and `content/optimization-plan.md`.
 
 ## Optional x402 API
 
-The GitHub Pages site stays **free**. Agents pay for machine retrieval (HTTP 402), not humans.
+GitHub Pages stays free. Agents pay via a separate **Render Web Service** (`api/server.js`).
 
 ```bash
 cp api/.env.example api/.env
@@ -39,7 +39,7 @@ cp api/.env.example api/.env
 npm run api
 ```
 
-Paid: `/v1/search`, `/v1/topic/:topic`, `/v1/scripture`, `/v1/ccc`, `/v1/document`, `/v1/ask`. See `api/README.md` and Study → Machine access (x402).
+See `api/README.md` and Study → Machine access (x402).
 
 ## Checks
 
