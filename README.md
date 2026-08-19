@@ -31,7 +31,9 @@ See `ingest/README.md` and `content/optimization-plan.md`.
 
 ## Optional x402 API
 
-GitHub Pages stays free. Agents pay via a separate **Render Web Service** (`api/server.js`).
+GitHub Pages stays free. Agents pay via a separate **Render Web Service** at https://daknowledge-x402.onrender.com (`api/server.js`).
+
+Agent discovery: `GET /.well-known/x402.json`, `GET /openapi.json`, and [llms.txt](https://belongarobert.github.io/DaKnowledge/llms.txt) on the human site.
 
 ```bash
 cp api/.env.example api/.env
