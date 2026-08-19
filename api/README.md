@@ -35,12 +35,12 @@ npm run api
 | Route | Cost |
 |-------|------|
 | `GET /`, `/health`, `/v1/stats` | free |
-| `GET /v1/search?q=` | `$0.001` |
-| `GET /v1/topic/:topic` | `$0.001` |
-| `GET /v1/scripture?ref=` | `$0.001` |
-| `GET /v1/ccc?n=` | `$0.001` |
-| `GET /v1/document?path=` | `$0.002` |
-| `GET /v1/ask?q=` | `$0.005` (answer + citations) |
+| `GET /v1/search?q=` | `$0.05` |
+| `GET /v1/topic/:topic` | `$0.05` |
+| `GET /v1/scripture?ref=` | `$0.05` |
+| `GET /v1/ccc?n=` | `$0.05` |
+| `GET /v1/document?path=` | `$0.05` |
+| `GET /v1/ask?q=` | `$0.05` (answer + citations) |
 
 Unpaid agent calls → HTTP **402** + `PAYMENT-REQUIRED`. Paid routes include Bazaar discovery metadata. `GET /` is the free catalog.
 

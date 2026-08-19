@@ -19,12 +19,12 @@ const DEFAULT_PORT = 4021;
 const SITE_URL = 'https://belongarobert.github.io/DaKnowledge/';
 
 const PRICES = {
-  search: '$0.001',
-  topic: '$0.001',
-  scripture: '$0.001',
-  ccc: '$0.001',
-  document: '$0.002',
-  ask: '$0.005',
+  search: '$0.05',
+  topic: '$0.05',
+  scripture: '$0.05',
+  ccc: '$0.05',
+  document: '$0.05',
+  ask: '$0.05',
 };
 
 const PRICE_BY_PATH = [
