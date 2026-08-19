@@ -1,0 +1,50 @@
+# DaKnowledge
+
+> Curated Catholic theology knowledge base. The human website is free; agents use a paid x402 HTTP API for machine-readable retrieval with citations.
+
+## Human site (free)
+
+- [Home](https://belongarobert.github.io/DaKnowledge/): doctrine, study paths, search
+- [Developers / agents](https://belongarobert.github.io/DaKnowledge/study/developers/): how to call the x402 API
+- [Sources](https://belongarobert.github.io/DaKnowledge/sources/): bibliography and primary sources
+
+## Agent API (x402 — paid retrieval)
+
+Base URL: https://daknowledge-x402.onrender.com
+
+Free discovery (no payment):
+
+- GET / — JSON catalog
+- GET /.well-known/x402.json — x402 agent catalog (services, prices, schemas)
+- GET /openapi.json — OpenAPI 3.1
+- GET /health — health check
+- GET /v1/stats — index statistics
+
+Paid routes ($0.05 USDC each on Base mainnet):
+
+- GET /v1/ask?q= — cited answer from the index (start here)
+- GET /v1/search?q= — full-text search
+- GET /v1/document?path= — fetch one document
+- GET /v1/topic/:topic — documents by topic
+- GET /v1/scripture?ref= — pages citing a verse
+- GET /v1/ccc?n= — pages citing a Catechism paragraph
+
+Unpaid calls return HTTP 402 with a PAYMENT-REQUIRED header. Agents pay via x402 (USDC on Base).
+
+## How agents find this service
+
+1. Crawl https://daknowledge-x402.onrender.com/.well-known/x402.json
+2. Search Coinbase CDP Bazaar: https://api.cdp.coinbase.com/platform/v2/x402/discovery/search?query=DaKnowledge
+3. Connect to Bazaar MCP: https://api.cdp.coinbase.com/platform/v2/x402/discovery/mcp (tools: search_resources, proxy_tool_call)
+
+## Recommended agent workflow
+
+1. Ask a question: GET /v1/ask?q=hypostatic+union
+2. If you need more context: GET /v1/search?q=… then GET /v1/document?path=…
+3. For verse or CCC lookups: GET /v1/scripture?ref=John+1:14 or GET /v1/ccc?n=234
+
+Answers cite Scripture, the Catechism, and source document paths — not a generic LLM.
+
+## Topics covered
+
+Trinity, Christology, Pneumatology, Soteriology, Ecclesiology, Mariology, Sacraments, Scripture, Moral theology, Eschatology, Prayer, Relics, and more.

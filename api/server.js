@@ -7,6 +7,15 @@ import { ExactEvmScheme } from '@x402/evm/exact/server';
 import { paymentMiddleware, x402ResourceServer } from '@x402/express';
 import { declareDiscoveryExtension } from '@x402/extensions/bazaar';
 import { DaKnowledge } from '../src/engine.js';
+import {
+  PRICES,
+  ROUTE_CATALOG,
+  SITE_URL as DISCOVERY_SITE_URL,
+  buildDiscoveryIndex,
+  buildOpenApiSpec,
+  buildRobotsTxt,
+  buildWellKnownCatalog,
+} from './discovery-catalog.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const repoRoot = join(__dirname, '..');
@@ -16,16 +25,7 @@ const TESTNET_NETWORK = 'eip155:84532';
 const TESTNET_FACILITATOR = 'https://x402.org/facilitator';
 const DEFAULT_NETWORK = TESTNET_NETWORK;
 const DEFAULT_PORT = 4021;
-const SITE_URL = 'https://belongarobert.github.io/DaKnowledge/';
-
-const PRICES = {
-  search: '$0.05',
-  topic: '$0.05',
-  scripture: '$0.05',
-  ccc: '$0.05',
-  document: '$0.05',
-  ask: '$0.05',
-};
+const SITE_URL = DISCOVERY_SITE_URL;
 
 const PRICE_BY_PATH = [
   [/^\/v1\/ask$/, PRICES.ask],
@@ -262,180 +262,21 @@ export async function createApp(options = {}) {
   });
 
   const routeOptions = { network, payTo };
+  const paidRoutes = Object.fromEntries(
+    ROUTE_CATALOG.map((route) => [
+      `${route.method} ${route.path}`,
+      paidRoute(route.price, route.description, {
+        ...routeOptions,
+        input: route.input,
+        inputSchema: route.inputSchema,
+        output: route.output,
+      }),
+    ]),
+  );
+
   app.use(
     paymentMiddleware(
-      {
-        'GET /v1/search': paidRoute(
-          PRICES.search,
-          'Full-text search over the curated DaKnowledge Catholic index. Humans should use the free site search.',
-          {
-            ...routeOptions,
-            input: { q: 'hypostatic union' },
-            inputSchema: {
-              properties: {
-                q: { type: 'string', description: 'Full-text query' },
-                limit: { type: 'integer', description: 'Max results (1-50)', default: 10 },
-              },
-              required: ['q'],
-            },
-            output: {
-              example: {
-                query: 'hypostatic union',
-                count: 1,
-                results: [
-                  {
-                    path: 'site/christology/hypostatic-union.md',
-                    title: 'Hypostatic Union',
-                    excerpt: 'True God and true man...',
-                    score: 10,
-                  },
-                ],
-              },
-            },
-          },
-        ),
-        'GET /v1/document': paidRoute(
-          PRICES.document,
-          'Fetch one indexed document by engine path (excerpt plus optional full markdown).',
-          {
-            ...routeOptions,
-            input: { path: 'site/christology/hypostatic-union.md' },
-            inputSchema: {
-              properties: {
-                path: {
-                  type: 'string',
-                  description: 'Engine path such as site/christology/hypostatic-union.md',
-                },
-              },
-              required: ['path'],
-            },
-            output: {
-              example: {
-                path: 'site/christology/hypostatic-union.md',
-                title: 'Hypostatic Union',
-                topic: 'christology',
-                excerpt: 'True God and true man...',
-              },
-            },
-          },
-        ),
-        'GET /v1/topic/:topic': paidRoute(
-          PRICES.topic,
-          'List indexed documents for a topic id such as trinity or christology.',
-          {
-            ...routeOptions,
-            input: { topic: 'trinity' },
-            inputSchema: {
-              properties: {
-                topic: { type: 'string', description: 'Topic id' },
-              },
-              required: ['topic'],
-            },
-            output: {
-              example: {
-                topic: 'trinity',
-                count: 1,
-                documents: [
-                  {
-                    path: 'site/trinity/index.md',
-                    title: 'The Trinity',
-                    excerpt: 'One God in three persons...',
-                    topic: 'trinity',
-                  },
-                ],
-              },
-            },
-          },
-        ),
-        'GET /v1/scripture': paidRoute(
-          PRICES.scripture,
-          'Look up indexed pages that cite a Scripture reference.',
-          {
-            ...routeOptions,
-            input: { ref: 'John 1:14' },
-            inputSchema: {
-              properties: {
-                ref: { type: 'string', description: 'Verse reference such as John 1:14' },
-              },
-              required: ['ref'],
-            },
-            output: {
-              example: {
-                ref: 'John 1:14',
-                count: 1,
-                documents: [
-                  {
-                    path: 'site/christology/hypostatic-union.md',
-                    title: 'Hypostatic Union',
-                    excerpt: 'The Word became flesh...',
-                    topic: 'christology',
-                  },
-                ],
-              },
-            },
-          },
-        ),
-        'GET /v1/ccc': paidRoute(
-          PRICES.ccc,
-          'Look up indexed pages that cite a Catechism paragraph number.',
-          {
-            ...routeOptions,
-            input: { n: '234' },
-            inputSchema: {
-              properties: {
-                n: { type: 'string', description: 'CCC paragraph number such as 234' },
-              },
-              required: ['n'],
-            },
-            output: {
-              example: {
-                ccc: '234',
-                count: 1,
-                documents: [
-                  {
-                    path: 'site/trinity/index.md',
-                    title: 'The Trinity',
-                    excerpt: 'The central mystery of Christian faith and life...',
-                    topic: 'trinity',
-                  },
-                ],
-              },
-            },
-          },
-        ),
-        'GET /v1/ask': paidRoute(
-          PRICES.ask,
-          'Cited synthesis from the curated index: a short answer plus CCC, Scripture, and source paths. Not a generic LLM.',
-          {
-            ...routeOptions,
-            input: { q: 'What is the hypostatic union?' },
-            inputSchema: {
-              properties: {
-                q: { type: 'string', description: 'Question or topic to answer from the index' },
-              },
-              required: ['q'],
-            },
-            output: {
-              example: {
-                query: 'What is the hypostatic union?',
-                answer: 'The Son assumed a human nature in the unity of his person...',
-                citations: {
-                  paths: [
-                    {
-                      path: 'site/christology/hypostatic-union.md',
-                      title: 'Hypostatic Union',
-                      topic: 'christology',
-                    },
-                  ],
-                  scripture: ['John 1:14'],
-                  ccc: ['464', '467'],
-                  sources: [],
-                },
-              },
-            },
-          },
-        ),
-      },
+      paidRoutes,
       resourceServer,
       undefined,
       undefined,
@@ -444,30 +285,8 @@ export async function createApp(options = {}) {
   );
 
   const publicBaseUrl = options.publicBaseUrl || process.env.PUBLIC_BASE_URL || null;
-  const discovery = {
-    name: 'DaKnowledge x402 API',
-    site: SITE_URL,
-    note: 'The MkDocs site stays free. Only programmatic /v1 agent routes require x402 payment.',
-    network,
-    facilitator: facilitatorUrl || (isMainnet(network) ? 'cdp' : TESTNET_FACILITATOR),
-    publicBaseUrl,
-    discovery: {
-      local: 'GET / (this document)',
-      bazaar:
-        'Paid routes declare the x402 bazaar extension. After a settled payment through a facilitator that catalogs Bazaar metadata, agents can find DaKnowledge via that facilitator’s discovery APIs (CDP Bazaar / GET /discovery/resources). Until then, crawl GET / or this README.',
-    },
-    routes: {
-      'GET /': 'free',
-      'GET /health': 'free',
-      'GET /v1/stats': 'free',
-      'GET /v1/search?q=': PRICES.search,
-      'GET /v1/document?path=': PRICES.document,
-      'GET /v1/topic/:topic': PRICES.topic,
-      'GET /v1/scripture?ref=': PRICES.scripture,
-      'GET /v1/ccc?n=': PRICES.ccc,
-      'GET /v1/ask?q=': PRICES.ask,
-    },
-  };
+  const catalogOpts = { network, payTo, publicBaseUrl, facilitatorUrl };
+  const discovery = buildDiscoveryIndex(catalogOpts);
 
   app.get('/health', (_req, res) => {
     res.json({
@@ -481,6 +300,18 @@ export async function createApp(options = {}) {
 
   app.get('/', (_req, res) => {
     res.json(discovery);
+  });
+
+  app.get('/.well-known/x402.json', (_req, res) => {
+    res.json(buildWellKnownCatalog(catalogOpts));
+  });
+
+  app.get('/openapi.json', (_req, res) => {
+    res.json(buildOpenApiSpec(catalogOpts));
+  });
+
+  app.get('/robots.txt', (_req, res) => {
+    res.type('text/plain').send(buildRobotsTxt(publicBaseUrl));
   });
 
   app.get('/v1/stats', async (_req, res) => {

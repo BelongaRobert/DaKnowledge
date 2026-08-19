@@ -83,8 +83,37 @@ try {
     throw new Error(`GET / expected 200, got ${root.status}`);
   }
   const rootBody = await root.json();
-  if (!rootBody.discovery?.bazaar) {
-    throw new Error('GET / should document Bazaar discovery');
+  if (!rootBody.discovery?.bazaar && !rootBody.links?.wellKnown) {
+    throw new Error('GET / should document agent discovery');
+  }
+  if (!rootBody.links?.wellKnown) {
+    throw new Error('GET / should link to /.well-known/x402.json');
+  }
+
+  const wellKnown = await fetch(`${base}/.well-known/x402.json`);
+  if (wellKnown.status !== 200) {
+    throw new Error(`GET /.well-known/x402.json expected 200, got ${wellKnown.status}`);
+  }
+  const catalog = await wellKnown.json();
+  if (!catalog.services?.length) {
+    throw new Error('/.well-known/x402.json missing services[]');
+  }
+  if (catalog.services[0].amount !== '50000') {
+    throw new Error(`Expected $0.05 (50000 micro-USDC), got ${catalog.services[0].amount}`);
+  }
+
+  const openapi = await fetch(`${base}/openapi.json`);
+  if (openapi.status !== 200) {
+    throw new Error(`GET /openapi.json expected 200, got ${openapi.status}`);
+  }
+  const spec = await openapi.json();
+  if (!spec.paths?.['/v1/ask']) {
+    throw new Error('openapi.json missing /v1/ask');
+  }
+
+  const robots = await fetch(`${base}/robots.txt`);
+  if (robots.status !== 200) {
+    throw new Error(`GET /robots.txt expected 200, got ${robots.status}`);
   }
 
   const stats = await fetch(`${base}/v1/stats`);
