@@ -42,39 +42,39 @@ Unpaid agent calls return **HTTP 402** with a `PAYMENT-REQUIRED` header (x402 v2
 
 Agents can find this API without guessing URLs:
 
-### 1. Well-known catalog (works today)
-
-Fetch the free catalog — no payment required:
+### 1. Well-known catalog + agent card (works today)
 
 ```bash
 curl -s https://daknowledge-x402.onrender.com/.well-known/x402.json
+curl -s https://daknowledge-x402.onrender.com/.well-known/agent.json
+curl -s "https://daknowledge-x402.onrender.com/v1/ask?q=trinity&demo=1"
 ```
 
-This lists every paid route, price, input/output schema, and Bazaar metadata. Same data is at `GET /` and `GET /openapi.json`.
+`/.well-known/x402.json` lists every paid route, price, schema, and demo link. `?demo=1` returns a free truncated preview with the same JSON shape as the paid response.
 
 ### 2. llms.txt (this site)
 
-Agents crawling the human site should read [llms.txt](https://belongarobert.github.io/DaKnowledge/llms.txt) for the API base URL and recommended workflow.
+Agents crawling the human site should read [llms.txt](https://belongarobert.github.io/DaKnowledge/llms.txt).
 
-### 3. Coinbase CDP Bazaar (after first payment)
+### 3. Public directories
 
-Paid routes declare the **x402 Bazaar** extension. After CDP settles a payment, the service can appear in the global catalog:
+| Directory | How agents find DaKnowledge |
+|-----------|-----------------------------|
+| Coinbase CDP Bazaar | After first settled payment: [search](https://api.cdp.coinbase.com/platform/v2/x402/discovery/search?query=DaKnowledge) or [MCP](https://api.cdp.coinbase.com/platform/v2/x402/discovery/mcp) |
+| x402 List | [x402-list.com](https://x402-list.com/services?q=DaKnowledge) (submit via `scripts/submit-directories.mjs`) |
+| AgentGrade | Scans `/.well-known/x402.json` + live 402 |
 
-- **Search:** `GET https://api.cdp.coinbase.com/platform/v2/x402/discovery/search?query=DaKnowledge`
-- **MCP server:** `https://api.cdp.coinbase.com/platform/v2/x402/discovery/mcp`
-
-MCP tools: `search_resources` (find services), `proxy_tool_call` (call a paid endpoint). Use `@x402/mcp` on the client for automatic payment handling.
-
-Until Bazaar lists DaKnowledge, use `/.well-known/x402.json` or `llms.txt`.
+Operator checklist: `api/MARKETING.md`.
 
 ## Recommended agent workflow
 
 Think of each call as a **pull request for information** — you ask, pay a small fee, receive cited JSON:
 
-1. **`GET /v1/ask?q=…`** — short answer + Scripture, CCC, and source paths
-2. **`GET /v1/search?q=…`** — explore related documents
-3. **`GET /v1/document?path=…`** — full text for a specific page
-4. **`GET /v1/scripture?ref=…`** or **`GET /v1/ccc?n=…`** — verse or paragraph lookups
+1. **Preview:** `GET /v1/ask?q=…&demo=1` (free)
+2. **`GET /v1/ask?q=…`** — short answer + Scripture, CCC, and source paths ($0.05)
+3. **`GET /v1/search?q=…`** — explore related documents
+4. **`GET /v1/document?path=…`** — full text for a specific page
+5. **`GET /v1/scripture?ref=…`** or **`GET /v1/ccc?n=…`** — verse or paragraph lookups
 
 Prefer `/v1/ask` and targeted lookups over bulk-fetching whole topics.
 

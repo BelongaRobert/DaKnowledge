@@ -283,6 +283,11 @@ export function buildWellKnownCatalog(opts) {
       input: bazaarInput(route),
       output: route.output,
       inputSchema: route.inputSchema,
+      demo: {
+        available: true,
+        queryParam: 'demo=1',
+        example: `${absUrl(publicBaseUrl, route.path)}${route.path.includes('?') ? '&' : '?'}demo=1`,
+      },
     })),
   };
 }
@@ -393,13 +398,78 @@ export function buildRobotsTxt(publicBaseUrl) {
 User-agent: *
 Allow: /
 Allow: /.well-known/x402.json
+Allow: /.well-known/agent.json
+Allow: /agent.json
 Allow: /openapi.json
+Allow: /v1/stats
 
-# Machine discovery
+# Free discovery
 # Catalog: ${base}/.well-known/x402.json
+# Agent card: ${base}/.well-known/agent.json
 # OpenAPI: ${base}/openapi.json
+# Demo previews: add ?demo=1 to any /v1 paid route
 # Human site (free): ${SITE_URL}
+# llms.txt: ${SITE_URL}llms.txt
 `;
+}
+
+/**
+ * Agent card for A2A / directory crawlers.
+ * @param {{
+ *   network: string;
+ *   payTo: string;
+ *   publicBaseUrl?: string | null;
+ *   facilitatorUrl?: string | null;
+ * }} opts
+ */
+export function buildAgentCard(opts) {
+  const publicBaseUrl = opts.publicBaseUrl || DEFAULT_PUBLIC_BASE_URL;
+  const base = publicBaseUrl.replace(/\/$/, '');
+  return {
+    name: API_NAME,
+    description: API_DESCRIPTION,
+    url: base,
+    provider: {
+      organization: API_NAME,
+      url: SITE_URL,
+    },
+    version: '1.0.0',
+    documentationUrl: `${SITE_URL}study/developers/`,
+    iconUrl: `${SITE_URL}assets/images/crucifix.svg`,
+    capabilities: {
+      streaming: false,
+      pushNotifications: false,
+      x402: true,
+    },
+    x402Support: true,
+    defaultInputModes: ['text', 'application/json'],
+    defaultOutputModes: ['application/json'],
+    skills: ROUTE_CATALOG.map((route) => ({
+      id: route.key,
+      name: route.path,
+      description: route.description,
+      tags: SERVICE_TAGS,
+      examples: [JSON.stringify(route.input)],
+      inputModes: ['text'],
+      outputModes: ['application/json'],
+      price: route.price,
+      endpoint: absUrl(publicBaseUrl, route.path),
+      demo: `${absUrl(publicBaseUrl, route.path)}${route.path.includes('?') ? '&' : '?'}demo=1`,
+    })),
+    discovery: {
+      wellKnown: absUrl(publicBaseUrl, '/.well-known/x402.json'),
+      openapi: absUrl(publicBaseUrl, '/openapi.json'),
+      llmsTxt: `${SITE_URL}llms.txt`,
+      bazaarMcp: 'https://api.cdp.coinbase.com/platform/v2/x402/discovery/mcp',
+      directories: [
+        'https://x402-list.com/services?q=DaKnowledge',
+        'https://api.cdp.coinbase.com/platform/v2/x402/discovery/search?query=DaKnowledge',
+      ],
+    },
+    network: opts.network,
+    payTo: opts.payTo,
+    facilitator: opts.facilitatorUrl || null,
+  };
 }
 
 export function buildDiscoveryIndex(opts) {
@@ -413,17 +483,22 @@ export function buildDiscoveryIndex(opts) {
     publicBaseUrl,
     links: {
       wellKnown: absUrl(publicBaseUrl, '/.well-known/x402.json'),
+      agentCard: absUrl(publicBaseUrl, '/.well-known/agent.json'),
       openapi: absUrl(publicBaseUrl, '/openapi.json'),
       llmsTxt: `${SITE_URL}llms.txt`,
       humanDocs: `${SITE_URL}study/developers/`,
       bazaarMcp: 'https://api.cdp.coinbase.com/platform/v2/x402/discovery/mcp',
       bazaarSearch:
         'https://api.cdp.coinbase.com/platform/v2/x402/discovery/search?query=DaKnowledge',
+      x402List: 'https://x402-list.com/services?q=DaKnowledge',
     },
     discovery: {
       local: 'GET / (this document)',
       wellKnown: 'GET /.well-known/x402.json (agent catalog — crawl without paying)',
+      agentCard: 'GET /.well-known/agent.json (A2A-style agent card)',
       openapi: 'GET /openapi.json (OpenAPI 3.1 for tools and agents)',
+      demo:
+        'Add ?demo=1 to any paid /v1 route for a free truncated preview (same JSON shape as paid).',
       bazaar:
         'Paid routes declare the x402 Bazaar extension. After a settled payment through CDP, agents can find DaKnowledge via GET /discovery/resources or the Bazaar MCP server. Until listed, use /.well-known/x402.json or GET /.',
       recommendedFlow:
@@ -434,7 +509,9 @@ export function buildDiscoveryIndex(opts) {
       'GET /health': 'free',
       'GET /v1/stats': 'free',
       'GET /.well-known/x402.json': 'free',
+      'GET /.well-known/agent.json': 'free',
       'GET /openapi.json': 'free',
+      'GET /v1/*?demo=1': 'free preview',
       'GET /v1/search?q=': PRICES.search,
       'GET /v1/document?path=': PRICES.document,
       'GET /v1/topic/:topic': PRICES.topic,

@@ -16,9 +16,11 @@ Free discovery (no payment):
 
 - GET / — JSON catalog
 - GET /.well-known/x402.json — x402 agent catalog (services, prices, schemas)
+- GET /.well-known/agent.json — agent card with skills and demo links
 - GET /openapi.json — OpenAPI 3.1
 - GET /health — health check
 - GET /v1/stats — index statistics
+- Any /v1 route with ?demo=1 — free truncated preview (same JSON shape as paid)
 
 Paid routes ($0.05 USDC each on Base mainnet):
 
@@ -34,14 +36,18 @@ Unpaid calls return HTTP 402 with a PAYMENT-REQUIRED header. Agents pay via x402
 ## How agents find this service
 
 1. Crawl https://daknowledge-x402.onrender.com/.well-known/x402.json
-2. Search Coinbase CDP Bazaar: https://api.cdp.coinbase.com/platform/v2/x402/discovery/search?query=DaKnowledge
-3. Connect to Bazaar MCP: https://api.cdp.coinbase.com/platform/v2/x402/discovery/mcp (tools: search_resources, proxy_tool_call)
+2. Agent card: https://daknowledge-x402.onrender.com/.well-known/agent.json
+3. Free demo: append ?demo=1 to any /v1 route
+4. Search Coinbase CDP Bazaar: https://api.cdp.coinbase.com/platform/v2/x402/discovery/search?query=DaKnowledge
+5. Connect to Bazaar MCP: https://api.cdp.coinbase.com/platform/v2/x402/discovery/mcp
+6. x402 List: https://x402-list.com/services?q=DaKnowledge
 
 ## Recommended agent workflow
 
-1. Ask a question: GET /v1/ask?q=hypostatic+union
-2. If you need more context: GET /v1/search?q=… then GET /v1/document?path=…
-3. For verse or CCC lookups: GET /v1/scripture?ref=John+1:14 or GET /v1/ccc?n=234
+1. Preview free: GET /v1/ask?q=hypostatic+union&demo=1
+2. Paid pull: GET /v1/ask?q=hypostatic+union ($0.05 USDC)
+3. If you need more context: GET /v1/search?q=... then GET /v1/document?path=...
+4. For verse or CCC lookups: GET /v1/scripture?ref=John+1:14 or GET /v1/ccc?n=234
 
 Answers cite Scripture, the Catechism, and source document paths — not a generic LLM.
 

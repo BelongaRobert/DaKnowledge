@@ -11,14 +11,17 @@ Agents should find this service without manual configuration:
 | URL | Purpose |
 |-----|---------|
 | `GET /.well-known/x402.json` | x402 catalog (services, prices, schemas) |
+| `GET /.well-known/agent.json` | Agent card |
 | `GET /openapi.json` | OpenAPI 3.1 |
 | `GET /` | JSON index with links |
 | `GET /robots.txt` | Points crawlers at discovery URLs |
+| `?demo=1` on `/v1/*` | Free truncated preview |
 | [llms.txt](https://belongarobert.github.io/DaKnowledge/llms.txt) | On the human site (GitHub Pages) |
 
-**Bazaar (CDP):** after a settled payment, DaKnowledge can appear in [CDP discovery search](https://api.cdp.coinbase.com/platform/v2/x402/discovery/search?query=DaKnowledge) and the [Bazaar MCP server](https://api.cdp.coinbase.com/platform/v2/x402/discovery/mcp).
+**Directories:** see `api/MARKETING.md` (x402 List, CDP Bazaar, AgentGrade).
 
-Check listing: `node scripts/check-bazaar-listing.mjs`
+Check listing: `node scripts/check-bazaar-listing.mjs`  
+Submit payload: `node scripts/submit-directories.mjs`
 
 ## Render (Web Service)
 

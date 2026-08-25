@@ -11,6 +11,7 @@ import {
   PRICES,
   ROUTE_CATALOG,
   SITE_URL as DISCOVERY_SITE_URL,
+  buildAgentCard,
   buildDiscoveryIndex,
   buildOpenApiSpec,
   buildRobotsTxt,
@@ -147,6 +148,40 @@ function paidRoute(price, description, { network, payTo, input, inputSchema, out
   };
 }
 
+function isDemoRequest(req) {
+  const raw = String(req.query.demo ?? '').toLowerCase();
+  return raw === '1' || raw === 'true' || raw === 'yes';
+}
+
+function paidUrlForRequest(req, publicBaseUrl) {
+  const base = (publicBaseUrl || `${req.protocol}://${req.get('host')}`).replace(/\/$/, '');
+  const params = new URLSearchParams();
+  for (const [key, value] of Object.entries(req.query || {})) {
+    if (key === 'demo') continue;
+    if (Array.isArray(value)) {
+      for (const item of value) params.append(key, String(item));
+    } else if (value !== undefined) {
+      params.append(key, String(value));
+    }
+  }
+  const qs = params.toString();
+  return `${base}${req.path}${qs ? `?${qs}` : ''}`;
+}
+
+function wrapDemoPayload(payload, req, publicBaseUrl) {
+  return {
+    demo: true,
+    upgrade: 'Remove demo=1 and pay $0.05 USDC via x402 for the full result.',
+    paidUrl: paidUrlForRequest(req, publicBaseUrl),
+    ...payload,
+  };
+}
+
+function truncateExcerpt(text, max = 160) {
+  const raw = String(text || '');
+  return raw.length > max ? `${raw.slice(0, max - 3)}...` : raw;
+}
+
 function serializeDocument(doc, { includeContent = false } = {}) {
   const payload = {
     path: doc.path,
@@ -160,6 +195,15 @@ function serializeDocument(doc, { includeContent = false } = {}) {
   };
   if (includeContent) payload.content = doc.content;
   return payload;
+}
+
+function serializeDemoDocument(doc) {
+  return {
+    path: doc.path,
+    title: doc.title,
+    topic: doc.topic,
+    excerpt: truncateExcerpt(doc.excerpt),
+  };
 }
 
 export async function createApp(options = {}) {
@@ -262,6 +306,93 @@ export async function createApp(options = {}) {
   });
 
   const routeOptions = { network, payTo };
+
+  // Free demo previews must run BEFORE payment middleware so scanners can
+  // inspect response shape without a wallet (directories expect ?demo=1).
+  const publicBaseUrlEarly =
+    options.publicBaseUrl || process.env.PUBLIC_BASE_URL || null;
+
+  app.use(async (req, res, next) => {
+    if (!isDemoRequest(req) || !req.path.startsWith('/v1/') || req.path === '/v1/stats') {
+      return next();
+    }
+    try {
+      const dk = await getEngine();
+      if (req.path === '/v1/search') {
+        const q = String(req.query.q || '').trim();
+        if (!q) return res.status(400).json({ error: 'Missing query parameter q' });
+        const results = dk.searchFullText(q).slice(0, 2).map((item) => ({
+          ...item,
+          excerpt: truncateExcerpt(item.excerpt),
+        }));
+        return res.json(
+          wrapDemoPayload({ query: q, count: results.length, results }, req, publicBaseUrlEarly),
+        );
+      }
+      if (req.path === '/v1/document') {
+        const path = String(req.query.path || '').trim();
+        if (!path) return res.status(400).json({ error: 'Missing query parameter path' });
+        const doc = dk.getDocument(path);
+        if (!doc) return res.status(404).json({ error: 'Document not found', path });
+        return res.json(
+          wrapDemoPayload(serializeDemoDocument(doc), req, publicBaseUrlEarly),
+        );
+      }
+      if (req.path.startsWith('/v1/topic/')) {
+        const id = decodeURIComponent(req.path.slice('/v1/topic/'.length)).trim();
+        if (!id) return res.status(400).json({ error: 'Missing topic' });
+        const paths = dk.searchByTopic(id).slice(0, 2);
+        const documents = paths.map((docPath) => {
+          const doc = dk.getDocument(docPath);
+          return doc ? serializeDemoDocument(doc) : { path: docPath };
+        });
+        return res.json(
+          wrapDemoPayload({ topic: id, count: documents.length, documents }, req, publicBaseUrlEarly),
+        );
+      }
+      if (req.path === '/v1/scripture') {
+        const ref = String(req.query.ref || '').trim();
+        if (!ref) return res.status(400).json({ error: 'Missing query parameter ref' });
+        const documents = dk.lookupScripture(ref).slice(0, 2).map(serializeDemoDocument);
+        return res.json(
+          wrapDemoPayload({ ref, count: documents.length, documents }, req, publicBaseUrlEarly),
+        );
+      }
+      if (req.path === '/v1/ccc') {
+        const n = String(req.query.n || '').trim();
+        if (!n) return res.status(400).json({ error: 'Missing query parameter n' });
+        const documents = dk.lookupCcc(n).slice(0, 2).map(serializeDemoDocument);
+        return res.json(
+          wrapDemoPayload({ ccc: n, count: documents.length, documents }, req, publicBaseUrlEarly),
+        );
+      }
+      if (req.path === '/v1/ask') {
+        const q = String(req.query.q || '').trim();
+        if (!q) return res.status(400).json({ error: 'Missing query parameter q' });
+        const full = dk.synthesize(q);
+        return res.json(
+          wrapDemoPayload(
+            {
+              query: full.query,
+              answer: truncateExcerpt(full.answer, 240),
+              citations: {
+                paths: (full.citations?.paths || []).slice(0, 2),
+                scripture: (full.citations?.scripture || []).slice(0, 2),
+                ccc: (full.citations?.ccc || []).slice(0, 2),
+                sources: [],
+              },
+            },
+            req,
+            publicBaseUrlEarly,
+          ),
+        );
+      }
+      return next();
+    } catch (err) {
+      return next(err);
+    }
+  });
+
   const paidRoutes = Object.fromEntries(
     ROUTE_CATALOG.map((route) => [
       `${route.method} ${route.path}`,
@@ -304,6 +435,14 @@ export async function createApp(options = {}) {
 
   app.get('/.well-known/x402.json', (_req, res) => {
     res.json(buildWellKnownCatalog(catalogOpts));
+  });
+
+  app.get('/.well-known/agent.json', (_req, res) => {
+    res.json(buildAgentCard(catalogOpts));
+  });
+
+  app.get('/agent.json', (_req, res) => {
+    res.json(buildAgentCard(catalogOpts));
   });
 
   app.get('/openapi.json', (_req, res) => {

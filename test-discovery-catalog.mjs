@@ -1,4 +1,5 @@
 import {
+  buildAgentCard,
   buildDiscoveryIndex,
   buildOpenApiSpec,
   buildRobotsTxt,
@@ -24,6 +25,14 @@ if (catalog.services.length !== 6) {
 if (!catalog.discovery.bazaarMcp) {
   throw new Error('Missing bazaarMcp link');
 }
+if (!catalog.services[0].demo?.available) {
+  throw new Error('Well-known services should advertise demo');
+}
+
+const card = buildAgentCard(opts);
+if (!card.skills?.length || !card.x402Support) {
+  throw new Error('Agent card incomplete');
+}
 
 const spec = buildOpenApiSpec(opts);
 if (!spec.paths['/v1/search']) {
@@ -31,13 +40,13 @@ if (!spec.paths['/v1/search']) {
 }
 
 const index = buildDiscoveryIndex(opts);
-if (!index.links.openapi) {
-  throw new Error('Discovery index missing openapi link');
+if (!index.links.openapi || !index.links.agentCard) {
+  throw new Error('Discovery index missing openapi/agentCard links');
 }
 
 const robots = buildRobotsTxt(opts.publicBaseUrl);
-if (!robots.includes('x402.json')) {
-  throw new Error('robots.txt missing x402.json reference');
+if (!robots.includes('x402.json') || !robots.includes('agent.json')) {
+  throw new Error('robots.txt missing discovery references');
 }
 
 console.log('Discovery catalog checks passed.');

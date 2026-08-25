@@ -132,6 +132,24 @@ try {
   }
   assertBazaar(searchRequired, 'search');
 
+  const demo = await fetch(`${base}/v1/search?q=trinity&demo=1`);
+  if (demo.status !== 200) {
+    throw new Error(`Demo GET /v1/search expected 200, got ${demo.status}`);
+  }
+  const demoBody = await demo.json();
+  if (!demoBody.demo || !demoBody.paidUrl) {
+    throw new Error('Demo response should include demo:true and paidUrl');
+  }
+
+  const agentCard = await fetch(`${base}/.well-known/agent.json`);
+  if (agentCard.status !== 200) {
+    throw new Error(`GET /.well-known/agent.json expected 200, got ${agentCard.status}`);
+  }
+  const card = await agentCard.json();
+  if (!card.skills?.length || !card.x402Support) {
+    throw new Error('Agent card missing skills or x402Support');
+  }
+
   for (const url of [
     '/v1/document?path=site/christology/hypostatic-union.md',
     '/v1/topic/trinity',
