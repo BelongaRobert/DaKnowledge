@@ -25,7 +25,9 @@ const payload = {
   description: API_DESCRIPTION,
   website_url: SITE_URL,
   category: 'Content',
-  endpoints: ROUTE_CATALOG.map((r) => r.path),
+  endpoints: ROUTE_CATALOG.map((r) =>
+    r.path.includes(':topic') ? '/v1/topic/trinity' : r.path,
+  ),
   notes:
     'Catholic theology knowledge base for AI agents. Free site for humans; x402 USDC on Base for /v1 retrieval. Discovery: /.well-known/x402.json, /.well-known/agent.json, /openapi.json. Free demos via ?demo=1. Prefer /v1/ask for cited answers.',
 };
