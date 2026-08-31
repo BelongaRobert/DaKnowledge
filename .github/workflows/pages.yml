@@ -35,6 +35,7 @@ jobs:
       - name: Copy agent discovery files
         run: |
           cp website/docs/llms.txt site/llms.txt
+          cp website/docs/llms-full.txt site/llms-full.txt
           cp website/docs/robots.txt site/robots.txt
 
       - name: Upload artifact

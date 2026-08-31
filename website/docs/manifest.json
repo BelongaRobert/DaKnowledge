@@ -1,7 +1,7 @@
 {
   "name": "DaKnowledge",
   "short_name": "DaKnowledge",
-  "description": "Biblical Theology Knowledge Base",
+  "description": "Catholic biblical theology knowledge base. Free for humans; x402 agent API for cited doctrine, Scripture, and Catechism.",
   "id": "/DaKnowledge/",
   "start_url": "/DaKnowledge/",
   "scope": "/DaKnowledge/",

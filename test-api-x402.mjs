@@ -116,6 +116,15 @@ try {
     throw new Error(`GET /robots.txt expected 200, got ${robots.status}`);
   }
 
+  const llms = await fetch(`${base}/llms.txt`);
+  if (llms.status !== 200) {
+    throw new Error(`GET /llms.txt expected 200, got ${llms.status}`);
+  }
+  const llmsText = await llms.text();
+  if (!llmsText.includes('catholic theology')) {
+    throw new Error('llms.txt missing keywords');
+  }
+
   const stats = await fetch(`${base}/v1/stats`);
   if (stats.status !== 200) {
     throw new Error(`GET /v1/stats expected 200, got ${stats.status}`);

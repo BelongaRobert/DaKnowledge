@@ -1,16 +1,11 @@
 User-agent: *
 Allow: /
 
-# Agent discovery (free human site + paid API)
-# Site index for LLMs:
-#   https://belongarobert.github.io/DaKnowledge/llms.txt
-# Machine API catalog:
-#   https://daknowledge-x402.onrender.com/.well-known/x402.json
-# Agent card:
-#   https://daknowledge-x402.onrender.com/.well-known/agent.json
-# OpenAPI:
-#   https://daknowledge-x402.onrender.com/openapi.json
-# Free demos: add ?demo=1 to any /v1 route on the API host
-# Docs: https://belongarobert.github.io/DaKnowledge/study/developers/
+# Agent discovery
+# LLM index: https://belongarobert.github.io/DaKnowledge/llms.txt
+# Full reference: https://belongarobert.github.io/DaKnowledge/llms-full.txt
+# x402 API catalog: https://daknowledge-x402.onrender.com/.well-known/x402.json
+# Agent card: https://daknowledge-x402.onrender.com/.well-known/agent.json
+# Agent routing guide: https://belongarobert.github.io/DaKnowledge/study/agents-reference/
 
 Sitemap: https://belongarobert.github.io/DaKnowledge/sitemap.xml

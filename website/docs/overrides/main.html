@@ -2,6 +2,14 @@
 
 {% block extrahead %}
   {{ super() }}
+  <meta name="description" content="DaKnowledge: Catholic biblical theology knowledge base. Free for humans. AI agents pull cited doctrine, Scripture, and Catechism answers via x402 at daknowledge-x402.onrender.com.">
+  <meta name="keywords" content="catholic theology, christian doctrine, biblical theology, catechism, CCC, scripture, bible, trinity, christology, eucharist, sacraments, mariology, soteriology, theology API, agent API, x402, DaKnowledge, cited answers, knowledge retrieval">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://belongarobert.github.io/DaKnowledge/">
+  <link rel="alternate" type="text/plain" title="LLM agent index" href="{{ 'llms.txt' | url }}">
+  <link rel="alternate" type="text/plain" title="LLM full reference" href="{{ 'llms-full.txt' | url }}">
+  <link rel="alternate" type="application/json" title="x402 catalog" href="https://daknowledge-x402.onrender.com/.well-known/x402.json">
+  <link rel="alternate" type="application/json" title="Agent card" href="https://daknowledge-x402.onrender.com/.well-known/agent.json">
   <meta name="theme-color" content="#8B0000">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="mobile-web-app-capable" content="yes">
@@ -10,4 +18,19 @@
   <link rel="apple-touch-icon" sizes="180x180" href="{{ 'assets/images/apple-touch-icon.png' | url }}">
   <link rel="icon" type="image/svg+xml" href="{{ 'assets/images/crucifix.svg' | url }}">
   <link rel="manifest" href="{{ 'manifest.json' | url }}">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "DaKnowledge",
+    "description": "Catholic biblical theology knowledge base with free human reading and x402 agent API for cited retrieval.",
+    "url": "https://belongarobert.github.io/DaKnowledge/",
+    "keywords": "catholic theology, scripture, catechism, trinity, christology, agent API, x402",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://daknowledge-x402.onrender.com/v1/ask?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
 {% endblock %}

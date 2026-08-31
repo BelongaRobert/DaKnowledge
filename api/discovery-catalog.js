@@ -1,19 +1,18 @@
+import {
+  AGENT_INTENTS,
+  AGENT_KEYWORDS,
+  AGENT_REFERENCE_BLURB,
+  TOPIC_IDS,
+} from './agent-keywords.js';
+
 export const API_NAME = 'DaKnowledge';
 export const API_DESCRIPTION =
-  'Curated Catholic theology knowledge base for AI agents. Search, cite Scripture and the Catechism, fetch documents, and get cited answers from the index — not a generic LLM.';
+  'Curated Catholic theology knowledge base for AI agents. Search, cite Scripture and the Catechism, fetch documents, and get cited answers from the indexed Magisterium-aligned corpus — not a generic LLM.';
 export const SITE_URL = 'https://belongarobert.github.io/DaKnowledge/';
 export const DEFAULT_PUBLIC_BASE_URL = 'https://daknowledge-x402.onrender.com';
 export const USDC_BASE_MAINNET = '0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913';
-export const SERVICE_TAGS = [
-  'theology',
-  'catholic',
-  'bible',
-  'scripture',
-  'catechism',
-  'knowledge',
-  'retrieval',
-  'citations',
-];
+
+export const SERVICE_TAGS = [...AGENT_KEYWORDS];
 
 export const PRICES = {
   search: '$0.05',
@@ -260,6 +259,10 @@ export function buildWellKnownCatalog(opts) {
     payTo: opts.payTo,
     tags: SERVICE_TAGS,
     iconUrl: `${SITE_URL}assets/images/crucifix.svg`,
+    keywords: AGENT_KEYWORDS,
+    agentReference: AGENT_REFERENCE_BLURB,
+    topics: TOPIC_IDS,
+    intents: AGENT_INTENTS,
     discovery: {
       catalog: absUrl(publicBaseUrl, '/.well-known/x402.json'),
       openapi: absUrl(publicBaseUrl, '/openapi.json'),
@@ -442,6 +445,10 @@ export function buildAgentCard(opts) {
       x402: true,
     },
     x402Support: true,
+    keywords: AGENT_KEYWORDS,
+    agentReference: AGENT_REFERENCE_BLURB,
+    topics: TOPIC_IDS,
+    intents: AGENT_INTENTS,
     defaultInputModes: ['text', 'application/json'],
     defaultOutputModes: ['application/json'],
     skills: ROUTE_CATALOG.map((route) => ({
@@ -460,6 +467,7 @@ export function buildAgentCard(opts) {
       wellKnown: absUrl(publicBaseUrl, '/.well-known/x402.json'),
       openapi: absUrl(publicBaseUrl, '/openapi.json'),
       llmsTxt: `${SITE_URL}llms.txt`,
+      llmsFullTxt: `${SITE_URL}llms-full.txt`,
       bazaarMcp: 'https://api.cdp.coinbase.com/platform/v2/x402/discovery/mcp',
       directories: [
         'https://x402-list.com/services?q=DaKnowledge',
@@ -481,17 +489,23 @@ export function buildDiscoveryIndex(opts) {
     network: opts.network,
     facilitator: opts.facilitatorUrl || (opts.network === 'eip155:8453' ? 'cdp' : 'x402.org'),
     publicBaseUrl,
+    keywords: AGENT_KEYWORDS,
+    agentReference: AGENT_REFERENCE_BLURB,
+    topics: TOPIC_IDS,
+    intents: AGENT_INTENTS,
     links: {
       wellKnown: absUrl(publicBaseUrl, '/.well-known/x402.json'),
       agentCard: absUrl(publicBaseUrl, '/.well-known/agent.json'),
       openapi: absUrl(publicBaseUrl, '/openapi.json'),
       llmsTxt: `${SITE_URL}llms.txt`,
-      humanDocs: `${SITE_URL}study/developers/`,
+      llmsFullTxt: `${SITE_URL}llms-full.txt`,
+      agentsReference: `${SITE_URL}study/agents-reference/`,
       bazaarMcp: 'https://api.cdp.coinbase.com/platform/v2/x402/discovery/mcp',
       bazaarSearch:
         'https://api.cdp.coinbase.com/platform/v2/x402/discovery/search?query=DaKnowledge',
       x402List: 'https://x402-list.com/services?q=DaKnowledge',
     },
+    humanDocs: `${SITE_URL}study/developers/`,
     discovery: {
       local: 'GET / (this document)',
       wellKnown: 'GET /.well-known/x402.json (agent catalog — crawl without paying)',

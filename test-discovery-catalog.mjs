@@ -28,10 +28,16 @@ if (!catalog.discovery.bazaarMcp) {
 if (!catalog.services[0].demo?.available) {
   throw new Error('Well-known services should advertise demo');
 }
+if (!catalog.keywords?.includes('trinity')) {
+  throw new Error('Well-known catalog missing keywords');
+}
 
 const card = buildAgentCard(opts);
 if (!card.skills?.length || !card.x402Support) {
   throw new Error('Agent card incomplete');
+}
+if (!card.keywords?.length || !card.intents?.length) {
+  throw new Error('Agent card missing keywords/intents');
 }
 
 const spec = buildOpenApiSpec(opts);
@@ -42,6 +48,9 @@ if (!spec.paths['/v1/search']) {
 const index = buildDiscoveryIndex(opts);
 if (!index.links.openapi || !index.links.agentCard) {
   throw new Error('Discovery index missing openapi/agentCard links');
+}
+if (!index.keywords?.includes('trinity') || !index.intents?.length) {
+  throw new Error('Discovery index missing keywords/intents');
 }
 
 const robots = buildRobotsTxt(opts.publicBaseUrl);

@@ -453,6 +453,21 @@ export async function createApp(options = {}) {
     res.type('text/plain').send(buildRobotsTxt(publicBaseUrl));
   });
 
+  for (const [path, file] of [
+    ['/llms.txt', 'llms.txt'],
+    ['/llms-full.txt', 'llms-full.txt'],
+    ['/.well-known/ai.txt', 'llms-full.txt'],
+  ]) {
+    app.get(path, async (_req, res, next) => {
+      try {
+        const text = await readFile(join(repoRoot, 'website/docs', file), 'utf-8');
+        res.type('text/plain; charset=utf-8').send(text);
+      } catch (err) {
+        next(err);
+      }
+    });
+  }
+
   app.get('/v1/stats', async (_req, res) => {
     const dk = await getEngine();
     res.json({ site: 'free', ...dk.getStats() });

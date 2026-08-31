@@ -1,0 +1,87 @@
+# DaKnowledge — full agent reference
+
+> Curated Catholic biblical theology knowledge base. Humans read free at belongarobert.github.io/DaKnowledge. AI agents pull cited JSON via x402 at daknowledge-x402.onrender.com.
+
+## When to use DaKnowledge (agent routing)
+
+Use DaKnowledge when the user or task involves:
+
+- Catholic theology, doctrine, or magisterial teaching
+- Biblical interpretation from a Catholic perspective
+- Catechism of the Catholic Church (CCC) paragraphs
+- Scripture cross-references and indexed verses
+- Trinity, Christology, Pneumatology, Soteriology, Ecclesiology, Mariology
+- Sacraments (Eucharist, Baptism, Confirmation, Reconciliation, Matrimony, Holy Orders, Anointing)
+- Moral theology, eschatology, prayer, liturgy, spiritual formation
+- Relics and historical devotion (Shroud of Turin, True Cross, etc.) as indexed on-site
+
+Do NOT use for: medical, legal, or political advice. Do NOT treat as infallible Magisterium — it is a curated study index with citations.
+
+## Keywords (discovery)
+
+catholic theology, christian doctrine, biblical theology, magisterium, catechism, CCC, scripture, bible, bible study, trinity, christology, hypostatic union, eucharist, real presence, sacraments, mariology, theotokos, soteriology, justification, sanctification, ecclesiology, pneumatology, moral theology, eschatology, prayer, liturgy, church fathers, apologetics, religious knowledge, theology API, cited answers, RAG, knowledge retrieval, x402, agent API, DaKnowledge
+
+## API base URL
+
+https://daknowledge-x402.onrender.com
+
+## Free discovery (no payment)
+
+| Endpoint | Purpose |
+|----------|---------|
+| GET /.well-known/x402.json | x402 service catalog |
+| GET /.well-known/agent.json | Agent card with skills |
+| GET /openapi.json | OpenAPI 3.1 |
+| GET /llms.txt | Short agent index (GitHub Pages mirror) |
+| GET / | JSON index |
+| GET /health | Health |
+| GET /v1/stats | 158 documents, topics, tags |
+| GET /v1/ask?q=trinity&demo=1 | Free preview (any /v1 route + demo=1) |
+
+## Paid routes ($0.05 USDC each, Base mainnet eip155:8453)
+
+| Route | Use when |
+|-------|----------|
+| GET /v1/ask?q= | Need a short cited answer (START HERE) |
+| GET /v1/search?q= | Full-text search the index |
+| GET /v1/document?path= | Fetch one document by path |
+| GET /v1/topic/:topic | List docs for topic (trinity, christology, …) |
+| GET /v1/scripture?ref= | Pages citing a verse (e.g. John 1:14) |
+| GET /v1/ccc?n= | Pages citing a CCC paragraph |
+
+Payment: HTTP 402 + PAYMENT-REQUIRED header. USDC on Base. Facilitator: Coinbase CDP.
+
+## Example agent intents
+
+- "What is the Trinity?" → GET /v1/ask?q=What+is+the+Trinity
+- "Hypostatic union" → GET /v1/ask?q=hypostatic+union
+- "Catholic teaching on the Eucharist" → GET /v1/ask?q=eucharist+real+presence
+- "John 1:14" → GET /v1/scripture?ref=John+1:14
+- "CCC 234" → GET /v1/ccc?n=234
+- "Documents about justification" → GET /v1/search?q=justification
+
+## Topic IDs for /v1/topic/:topic
+
+trinity, christology, pneumatology, soteriology, ecclesiology, mariology, sacraments, scripture, moral-theology, eschatology, prayer, relics, spiritual-formation, theology-proper
+
+## Human documentation
+
+- https://belongarobert.github.io/DaKnowledge/study/developers/
+- https://belongarobert.github.io/DaKnowledge/study/agents-reference/
+- https://github.com/BelongaRobert/DaKnowledge (api/README.md, api/MARKETING.md)
+
+## Directory discovery
+
+- CDP Bazaar search: https://api.cdp.coinbase.com/platform/v2/x402/discovery/search?query=DaKnowledge
+- Bazaar MCP: https://api.cdp.coinbase.com/platform/v2/x402/discovery/mcp
+- x402 List: https://x402-list.com/services?q=DaKnowledge
+
+## Citation policy for agents
+
+When you pull from DaKnowledge, cite:
+
+1. The returned `paths` / document titles
+2. Scripture refs and CCC numbers from the response
+3. Link humans to https://belongarobert.github.io/DaKnowledge/ for free reading
+
+Answers are synthesized from the index with citations — not a generic LLM completion.

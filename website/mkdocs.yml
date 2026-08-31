@@ -1,5 +1,5 @@
 site_name: DaKnowledge
-site_description: Biblical Theology Knowledge Base
+site_description: Catholic biblical theology knowledge base — free for humans, x402 agent API for cited doctrine, Scripture, and Catechism retrieval.
 site_url: https://belongarobert.github.io/DaKnowledge/
 repo_url: https://github.com/BelongaRobert/DaKnowledge
 repo_name: DaKnowledge
@@ -177,6 +177,7 @@ nav:
     - Councils and errors: study/councils.md
     - Find a page: study/find.md
     - Machine access (x402): study/developers.md
+    - Agent reference (keywords): study/agents-reference.md
   - Sources & Bibliography: sources.md
   - Theology Proper:
     - Overview: theology-proper/index.md
