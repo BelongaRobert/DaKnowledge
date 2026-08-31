@@ -38,8 +38,8 @@ Paid pull: same URL without `demo` → HTTP 402 → pay $0.05 USDC on Base → r
 ## Operator commands
 
 ```bash
-# Check CDP Bazaar
-node scripts/check-bazaar-listing.mjs
+# Verify all discovery surfaces after deploy
+node scripts/broadcast-discovery.mjs
 
 # Dry-run directory payload
 node scripts/submit-directories.mjs
