@@ -48,6 +48,24 @@ node scripts/submit-directories.mjs
 SUBMIT_EMAIL=belongarobert@gmail.com node scripts/submit-directories.mjs --submit
 ```
 
-## Seed CDP Bazaar
+## Seed CDP Bazaar + x402 List ($1.05 total)
 
-Bazaar catalogs a route after CDP settles a real payment. Make one paid call to each route (or at least `/v1/ask` and `/v1/search`) with an x402 buyer wallet on Base mainnet.
+Use a **buyer wallet** (not your `PAY_TO` receiving wallet) with **~$1.10 USDC on Base**:
+
+```bash
+# One command: $1 x402-list submit + $0.05 Bazaar seed
+BUYER_PRIVATE_KEY=0xYourBuyerKey node scripts/pay-and-submit.mjs
+
+# Or separately:
+BUYER_PRIVATE_KEY=0x... node scripts/pay-and-submit.mjs --list-only   # $1
+BUYER_PRIVATE_KEY=0x... node scripts/pay-and-submit.mjs --bazaar-only # $0.05
+```
+
+Never commit `BUYER_PRIVATE_KEY`. Browser alternative for x402-list only: [x402-list.com/submit](https://x402-list.com/submit) ($1 USDC).
+
+After paying, verify:
+
+```bash
+node scripts/check-bazaar-listing.mjs
+node scripts/broadcast-discovery.mjs
+```
