@@ -51,6 +51,17 @@ npm run validate
 npm run indexes
 ```
 
+## Analytics
+
+First-party pageviews + API metrics live at `/metrics` on the x402 API. A Monday cron opens a GitHub Issue and snapshots `data/analytics/`.
+
+```bash
+npm run analytics:report
+curl -s https://daknowledge-x402.onrender.com/metrics
+```
+
+See [`api/ANALYTICS.md`](api/ANALYTICS.md).
+
 ## Deployment
 
 GitHub Pages is the live host: https://belongarobert.github.io/DaKnowledge/

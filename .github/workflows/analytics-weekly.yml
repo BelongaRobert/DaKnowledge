@@ -1,0 +1,73 @@
+name: Weekly analytics report
+
+on:
+  schedule:
+    # Mondays 13:00 UTC ≈ 9:00 AM America/New_York (EDT)
+    - cron: '0 13 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: analytics-weekly
+  cancel-in-progress: false
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+
+      - name: Collect report
+        id: report
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          PUBLIC_BASE_URL: https://daknowledge-x402.onrender.com
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          REPORT_MODE: github
+        run: |
+          node scripts/weekly-analytics-report.mjs --write --github | tee /tmp/report.md
+          WEEK=$(sed -n 's/.*daknowledge-week:\([^ ]*\).*/\1/p' /tmp/report.md | head -1 | tr -d '\r')
+          echo "week=$WEEK" >> "$GITHUB_OUTPUT"
+          echo "Collected week=$WEEK"
+
+      - name: Commit analytics snapshot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/analytics
+          if git diff --cached --quiet; then
+            echo "No analytics file changes"
+          else
+            git commit -m "chore(analytics): weekly snapshot ${{ steps.report.outputs.week }}"
+            git push
+          fi
+
+      - name: Upsert weekly analytics issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          WEEK: ${{ steps.report.outputs.week }}
+        run: |
+          TITLE="Weekly analytics — ${WEEK}"
+          BODY_FILE=/tmp/report.md
+          EXISTING=$(gh issue list --label analytics --state open --search "${TITLE} in:title" --json number,title --jq '.[0].number // empty')
+          if [ -n "$EXISTING" ]; then
+            gh issue edit "$EXISTING" --body-file "$BODY_FILE"
+            echo "Updated issue #$EXISTING"
+          else
+            for n in $(gh issue list --label analytics --state open --json number,title --jq '.[] | select(.title|test("^Weekly analytics — ")) | .number'); do
+              gh issue close "$n" --comment "Superseded by ${TITLE}"
+            done
+            gh label create analytics --description "Automated site/API analytics" --color 0E8A16 2>/dev/null || true
+            gh issue create --title "$TITLE" --label analytics --body-file "$BODY_FILE"
+          fi

@@ -40,7 +40,10 @@ Env vars:
 | `X402_NETWORK` | `eip155:8453` (mainnet) or `eip155:84532` (testnet) |
 | `FACILITATOR_URL` | CDP mainnet URL or `https://x402.org/facilitator` |
 | `PUBLIC_BASE_URL` | your `https://….onrender.com` URL |
+| `METRICS_TOKEN` | optional; gates `/metrics/detail` |
 | `CDP_API_KEY_ID` / `CDP_API_KEY_SECRET` | mainnet only |
+
+Analytics & weekly reports: [`ANALYTICS.md`](ANALYTICS.md).
 
 `PORT` is set by Render. Do not commit secrets. Blueprint: `render.yaml`.
 
@@ -56,7 +59,8 @@ npm run api
 
 | Route | Cost |
 |-------|------|
-| `GET /`, `/.well-known/x402.json`, `/openapi.json`, `/health`, `/v1/stats` | free |
+| `GET /`, `/.well-known/x402.json`, `/openapi.json`, `/health`, `/v1/stats`, `/metrics` | free |
+| `POST /v1/collect` | free (site pageview beacon) |
 | `GET /v1/search?q=` | `$0.05` |
 | `GET /v1/topic/:topic` | `$0.05` |
 | `GET /v1/scripture?ref=` | `$0.05` |

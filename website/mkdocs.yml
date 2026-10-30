@@ -164,8 +164,14 @@ plugins:
             quote: cita
 extra_css:
   - stylesheets/extra.css
+extra_javascript:
+  - javascripts/analytics.js
 extra:
   generator: false
+  # Optional: set goatcounter to your site code (e.g. daknowledge) for a public dashboard.
+  # Create a free site at https://www.goatcounter.com then uncomment:
+  # goatcounter: daknowledge
+
 exclude_docs: |
   includes/**
 nav:
