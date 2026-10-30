@@ -1,0 +1,11 @@
+The Biblical Canon Lists from Early Christianity
+Texts and Analysis
+Edmon L. Gallagher and John D. Meade
+OXFORD
+
+Cover image: Byzantine icon of Saint Athanasius (Ο ΑΓΙΟΣ ΑΘΑΝΑΣΙΟΣ)
+holding an open book; Oxford University Press imprint at foot.
+
+Note: Only the front cover was photographed for this ingest run.
+Interior pages can be dropped into ingest/inbox/biblical-canon-lists-early-christianity/
+and re-run with: npm run ingest -- biblical-canon-lists-early-christianity
