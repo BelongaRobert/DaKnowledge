@@ -67,10 +67,12 @@ The apostles preached orally and wrote letters. Their writings were read in the 
 Church Fathers like St. Clement of Rome, St. Ignatius of Antioch, and St. Polycarp quoted New Testament writings as authoritative. The four Gospels and Paul's letters were universally accepted.
 
 ### The Apologetic Period (200-300 AD)
-St. Irenaeus of Lyons explicitly affirmed the four Gospels and listed most of the New Testament books. St. Athanasius in his Easter letter of 367 AD listed exactly the 27 books recognized today.
+St. Irenaeus of Lyons explicitly affirmed the four Gospels and listed most of the New Testament books. Early Western evidence such as the Muratorian Fragment shows a large New Testament core already named and heretical books refused.
 
 ### The Conciliar Period (300-400 AD)
-The Councils of Hippo (393) and Carthage (397) gave the first official lists of the canon for both Old and New Testaments. These lists matched the 73-book Catholic Bible.
+Eusebius sorted writings into acknowledged, disputed, and rejected. St. Athanasius in his Easter letter of 367 listed exactly the 27 New Testament books recognized today. The Councils of Hippo (393) and Carthage (397), in line with St. Augustine, gave conciliar lists for both Testaments that match the 73-book Catholic Bible. Trent later defined that received canon.
+
+For the lists themselves—Athanasius, Eusebius, the Muratorian Fragment, Cyril, Jerome, Augustine, and the African councils—see [Early Christian Canon Lists](early-canon-lists/).
 
 ---
 
@@ -90,6 +92,6 @@ Scripture and Tradition flow from the same divine wellspring: the Gospel of Chri
 
 ---
 
-*See also: [Biblical Inspiration](inspiration/) | [Biblical Interpretation](interpretation/) | [The Trinity](../trinity/)*
+*See also: [Early Christian Canon Lists](early-canon-lists/) | [Biblical Inspiration](inspiration/) | [Biblical Interpretation](interpretation/) | [Sources](../sources/) | [The Trinity](../trinity/)*
 
 --8<-- "includes/study-prompts.md"

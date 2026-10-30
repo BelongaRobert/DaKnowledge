@@ -14,6 +14,7 @@ Sentidos breves según los usa este sitio. Busca en el encabezado si necesitas l
 |---------|---------|--------|
 | **Aseidad** (*aseitas*) | Dios existe por sí mismo; no depende de nada | [Atributos](../theology-proper/attributes-of-god/) |
 | **Canon** | La lista de libros inspirados de la Iglesia (73) | [Canon](../scripture/canon/) |
+| **Lista canónica** | Un catálogo antiguo de libros tratados como Escritura | [Listas canónicas](../scripture/early-canon-lists/) |
 | **Consubstancial** (*homoousios*) | El Hijo es de la misma sustancia que el Padre | [Trinidad](../trinity/) |
 | **Dulia / latría** | Veneración de los santos; culto solo a Dios | [Reliquias](../relics/) |
 | **Economía** | La obra de Dios hacia nosotros en la historia | [Económica e inmanente](../trinity/economic-immanent/) |

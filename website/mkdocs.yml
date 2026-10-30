@@ -127,6 +127,7 @@ plugins:
             Scripture: Sagrada Escritura
             Biblical Inspiration: Inspiración bíblica
             Biblical Canon: Canon bíblico
+            Early Christian Canon Lists: Listas canónicas del cristianismo primitivo
             Biblical Interpretation: Interpretación bíblica
             Scripture Index: Índice de Escritura
             Prayer: Oración
@@ -237,6 +238,7 @@ nav:
     - Overview: scripture/index.md
     - Biblical Inspiration: scripture/inspiration.md
     - Biblical Canon: scripture/canon.md
+    - Early Christian Canon Lists: scripture/early-canon-lists.md
     - Biblical Interpretation: scripture/interpretation.md
     - Scripture Index: scripture/citation-index.md
   - Prayer:

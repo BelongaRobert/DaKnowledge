@@ -26,6 +26,7 @@ La fe católica no opone la Escritura a la Tradición. Ambas brotan de la misma 
 |-------|-------------|
 | [Inspiración bíblica](inspiration/) | Autoría inspirada por Dios, sin dictado mecánico |
 | [Canon bíblico](canon/) | Los 73 libros de la Biblia católica, incluidos los deuterocanónicos |
+| [Listas canónicas del cristianismo primitivo](early-canon-lists/) | Atanasio, Eusebio, Fragmento muratoriano, Hipona, Cartago y testigos afines |
 | [Interpretación bíblica](interpretation/) | Hermenéutica en la Iglesia: cuatro sentidos y lectio divina |
 | [Índice de citas bíblicas](citation-index/) | Versículos citados en el sitio publicado |
 
@@ -53,6 +54,6 @@ La Escritura se proclama en la Misa, se reza en la Liturgia de las Horas y se re
 
 ---
 
-*Véase también: [Inspiración](inspiration/) | [Canon](canon/) | [Interpretación](interpretation/) | [Índice de citas bíblicas](citation-index/) | [Oración](../prayer/)*
+*Véase también: [Inspiración](inspiration/) | [Canon](canon/) | [Listas canónicas](early-canon-lists/) | [Interpretación](interpretation/) | [Índice de citas bíblicas](citation-index/) | [Oración](../prayer/)*
 
 --8<-- "includes/study-prompts.es.md"

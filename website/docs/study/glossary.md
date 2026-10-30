@@ -14,6 +14,7 @@ Short senses as this site uses them. Search the header if you need the full page
 |------|--------|------|
 | **Aseity** | God exists from Himself; He depends on nothing | [Attributes](../theology-proper/attributes-of-god/) |
 | **Canon** | The Church's list of inspired books (73) | [Canon](../scripture/canon/) |
+| **Canon list** | An early catalogue of books treated as Scripture | [Early Canon Lists](../scripture/early-canon-lists/) |
 | **Consubstantial** | The Son is of one being with the Father | [Trinity](../trinity/) |
 | **Dulia / latria** | Veneration of saints; worship of God alone | [Relics](../relics/) |
 | **Economy** | God's work toward us in history | [Economic & Immanent](../trinity/economic-immanent/) |

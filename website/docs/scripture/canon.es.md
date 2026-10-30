@@ -67,10 +67,12 @@ Los apóstoles predicaron oralmente y escribieron cartas. Sus escritos se leían
 Padres de la Iglesia como san Clemente de Roma, san Ignacio de Antioquía y san Policarpo citaban los escritos del Nuevo Testamento como autoritativos. Los cuatro Evangelios y las cartas de Pablo fueron aceptados universalmente.
 
 ### El período apologético (200-300 d. C.)
-San Ireneo de Lyon afirmó explícitamente los cuatro Evangelios y enumeró la mayor parte de los libros del Nuevo Testamento. San Atanasio, en su carta pascual del año 367 d. C., enumeró exactamente los 27 libros reconocidos hoy.
+San Ireneo de Lyon afirmó explícitamente los cuatro Evangelios y enumeró la mayor parte de los libros del Nuevo Testamento. Testimonios occidentales tempranos como el Fragmento muratoriano muestran un amplio núcleo del Nuevo Testamento ya nombrado y los libros heréticos rechazados.
 
 ### El período conciliar (300-400 d. C.)
-Los Concilios de Hipona (393) y Cartago (397) dieron las primeras listas oficiales del canon para el Antiguo y el Nuevo Testamento. Esas listas coincidían con la Biblia católica de 73 libros.
+Eusebio clasificó los escritos en reconocidos, disputados y rechazados. San Atanasio, en su carta pascual del año 367, enumeró exactamente los 27 libros del Nuevo Testamento reconocidos hoy. Los Concilios de Hipona (393) y Cartago (397), en línea con san Agustín, dieron listas conciliares para ambos Testamentos que coinciden con la Biblia católica de 73 libros. Trento definió después ese canon recibido.
+
+Para las listas mismas—Atanasio, Eusebio, el Fragmento muratoriano, Cirilo, Jerónimo, Agustín y los concilios africanos—véase [Listas canónicas del cristianismo primitivo](early-canon-lists/).
 
 ---
 
@@ -90,6 +92,6 @@ Escritura y Tradición brotan de la misma fuente divina: el Evangelio de Cristo 
 
 ---
 
-*Véase también: [Inspiración bíblica](inspiration/) | [Interpretación bíblica](interpretation/) | [La Santísima Trinidad](../trinity/)*
+*Véase también: [Listas canónicas del cristianismo primitivo](early-canon-lists/) | [Inspiración bíblica](inspiration/) | [Interpretación bíblica](interpretation/) | [Fuentes](../sources/) | [La Santísima Trinidad](../trinity/)*
 
 --8<-- "includes/study-prompts.es.md"

@@ -123,6 +123,9 @@ Patriarch of Alexandria; champion of Trinitarian doctrine against Arianism.
 - **[On the Incarnation](https://www.newadvent.org/fathers/2802.htm)**  
   Classic treatise on the Word made flesh.
 
+- **[Festal Letter 39 (367)](https://www.newadvent.org/fathers/2806039.htm)**  
+  Easter letter listing the twenty-seven New Testament books and distinguishing canonical OT books from those appointed to be read.
+
 - **[De Decretis](https://www.newadvent.org/fathers/2806.htm)**  
   Defense of the Council of Nicaea.
 
@@ -404,6 +407,23 @@ The most recent ecumenical council; 16 documents on liturgy, revelation, ecclesi
 
 ---
 
+## Modern Scholarship (Conversation Partners)
+
+These works are not magisterium. They gather primary evidence or clarify history so the Church's teaching can be studied with accuracy.
+
+### Biblical Canon
+
+- **Edmon L. Gallagher and John D. Meade.** *The Biblical Canon Lists from Early Christianity: Texts and Analysis.* Oxford: Oxford University Press, 2017. ISBN 9780198792499.  
+  Greek, Latin, and related early lists of canonical books with translation and notes. Orients DaKnowledge's page on [Early Christian Canon Lists](scripture/early-canon-lists/). Standing: conversation partner.
+
+- **[Eusebius — Church History](https://www.newadvent.org/fathers/2501.htm)**  
+  Includes the acknowledged / disputed / rejected scheme for Christian writings (esp. Book III).
+
+- **[Augustine — On Christian Doctrine](https://www.newadvent.org/fathers/1202.htm)**  
+  Book II contains Augustine's catalogue of scriptural books received in the Latin Church.
+
+---
+
 ## Additional Resources
 
 ### Vatican Websites
@@ -452,4 +472,4 @@ For further study, begin with the **Catechism of the Catholic Church** and **Sac
 ---
 
 *Compiled for DaKnowledge — Biblical Theology Knowledge Base*  
-*Last updated: 2026-05-30*
+*Last updated: 2026-10-30*

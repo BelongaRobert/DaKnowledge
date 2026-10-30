@@ -26,6 +26,7 @@ Catholic faith does not set Scripture against Tradition. Both flow from the same
 |-------|-------------|
 | [Biblical Inspiration](inspiration/) | God-breathed authorship without mechanical dictation |
 | [Biblical Canon](canon/) | The 73 books of the Catholic Bible, including the deuterocanonicals |
+| [Early Christian Canon Lists](early-canon-lists/) | Athanasius, Eusebius, Muratorian Fragment, Hippo, Carthage, and related witnesses |
 | [Biblical Interpretation](interpretation/) | Hermeneutics in the Church: four senses and lectio divina |
 | [Scripture Index](citation-index/) | Verses cited across the published site |
 
@@ -53,6 +54,6 @@ Scripture is proclaimed at Mass, prayed in the Liturgy of the Hours, and receive
 
 ---
 
-*See also: [Inspiration](inspiration/) | [Canon](canon/) | [Interpretation](interpretation/) | [Scripture Index](citation-index/) | [Prayer](../prayer/)*
+*See also: [Inspiration](inspiration/) | [Canon](canon/) | [Early Canon Lists](early-canon-lists/) | [Interpretation](interpretation/) | [Scripture Index](citation-index/) | [Prayer](../prayer/)*
 
 --8<-- "includes/study-prompts.md"
