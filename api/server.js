@@ -17,6 +17,7 @@ import {
   buildRobotsTxt,
   buildWellKnownCatalog,
 } from './discovery-catalog.js';
+import { createAnalyticsStore } from './analytics.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const repoRoot = join(__dirname, '..');
@@ -222,6 +223,9 @@ export async function createApp(options = {}) {
   const logAccess = createAccessLogger(
     options.accessLogFile || process.env.X402_ACCESS_LOG || null,
   );
+  const analytics = options.analytics || createAnalyticsStore();
+  const metricsToken =
+    options.metricsToken || process.env.METRICS_TOKEN || null;
 
   const facilitator = await createFacilitatorClient({
     network,
@@ -250,29 +254,49 @@ export async function createApp(options = {}) {
     );
     res.setHeader(
       'Access-Control-Allow-Headers',
-      'PAYMENT-SIGNATURE, Content-Type',
+      'PAYMENT-SIGNATURE, Content-Type, X-Metrics-Token',
     );
-    res.setHeader('Access-Control-Allow-Methods', 'GET, OPTIONS');
+    res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS');
     if (req.method === 'OPTIONS') return res.status(204).end();
     next();
   });
 
   app.use((req, res, next) => {
-    if (!req.path.startsWith('/v1/') || req.path === '/v1/stats') return next();
+    const path = req.path;
+    const trackApi =
+      (path.startsWith('/v1/') && path !== '/v1/collect') ||
+      path.startsWith('/.well-known/') ||
+      path === '/openapi.json' ||
+      path === '/llms.txt' ||
+      path === '/llms-full.txt' ||
+      path === '/agent.json';
+    if (!trackApi) return next();
+
     const started = Date.now();
     res.on('finish', () => {
       const status = res.statusCode;
       let outcome = String(status);
       if (status === 402) outcome = '402';
       else if (status === 200) outcome = '200';
-      void logAccess({
-        route: `${req.method} ${req.path}`,
-        query: truncateQuery(req.query),
-        amount: amountForPath(req.path),
+      const demo = isDemoRequest(req);
+      analytics.recordApiHit({
+        route: path,
         status,
         outcome,
+        demo,
         ms: Date.now() - started,
+        ua: req.get('user-agent'),
       });
+      if (path.startsWith('/v1/') && path !== '/v1/stats') {
+        void logAccess({
+          route: `${req.method} ${path}`,
+          query: truncateQuery(req.query),
+          amount: amountForPath(path),
+          status,
+          outcome,
+          ms: Date.now() - started,
+        });
+      }
     });
     next();
   });
@@ -283,6 +307,12 @@ export async function createApp(options = {}) {
   );
 
   resourceServer.onAfterSettle(async ({ result }) => {
+    analytics.recordApiHit({
+      route: 'settle',
+      status: 200,
+      outcome: 'settled',
+      settled: true,
+    });
     await logAccess({
       route: 'settle',
       query: '{}',
@@ -295,6 +325,11 @@ export async function createApp(options = {}) {
   });
 
   resourceServer.onSettleFailure(async (context) => {
+    analytics.recordApiHit({
+      route: 'settle',
+      status: 402,
+      outcome: 'settle_failure',
+    });
     await logAccess({
       route: 'settle',
       query: '{}',
@@ -307,13 +342,62 @@ export async function createApp(options = {}) {
 
   const routeOptions = { network, payTo };
 
+  // Free analytics + metrics (before payment middleware).
+  app.get('/metrics', (_req, res) => {
+    res.json(analytics.snapshot({ detail: false }));
+  });
+
+  app.get('/metrics/detail', (req, res) => {
+    if (metricsToken) {
+      const provided =
+        req.get('x-metrics-token') ||
+        String(req.query.token || '');
+      if (provided !== metricsToken) {
+        return res.status(401).json({ error: 'Unauthorized' });
+      }
+    }
+    res.json(analytics.snapshot({ detail: true }));
+  });
+
+  app.post(
+    '/v1/collect',
+    express.text({ type: ['application/json', 'text/plain', '*/*'], limit: '4kb' }),
+    (req, res) => {
+      let body = {};
+      const raw = typeof req.body === 'string' ? req.body : '';
+      if (raw) {
+        try {
+          body = JSON.parse(raw);
+        } catch {
+          return res.status(400).json({ ok: false, error: 'invalid_json' });
+        }
+      }
+      if (!body || typeof body !== 'object') body = {};
+      const result = analytics.recordPageview({
+        path: body.path || body.p,
+        referrer: body.referrer || body.r || req.get('referer'),
+        lang: body.lang || body.l,
+        ua: req.get('user-agent'),
+      });
+      if (!result.ok) {
+        return res.status(429).json({ ok: false, error: result.error || 'rejected' });
+      }
+      res.status(204).end();
+    },
+  );
+
   // Free demo previews must run BEFORE payment middleware so scanners can
   // inspect response shape without a wallet (directories expect ?demo=1).
   const publicBaseUrlEarly =
     options.publicBaseUrl || process.env.PUBLIC_BASE_URL || null;
 
   app.use(async (req, res, next) => {
-    if (!isDemoRequest(req) || !req.path.startsWith('/v1/') || req.path === '/v1/stats') {
+    if (
+      !isDemoRequest(req) ||
+      !req.path.startsWith('/v1/') ||
+      req.path === '/v1/stats' ||
+      req.path === '/v1/collect'
+    ) {
       return next();
     }
     try {
@@ -426,11 +510,15 @@ export async function createApp(options = {}) {
       api: 'x402',
       live: isMainnet(network),
       network,
+      analytics: true,
     });
   });
 
   app.get('/', (_req, res) => {
-    res.json(discovery);
+    res.json({
+      ...discovery,
+      metrics: '/metrics',
+    });
   });
 
   app.get('/.well-known/x402.json', (_req, res) => {

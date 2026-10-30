@@ -6,12 +6,14 @@
   "scripts": {
     "build": "python3 -m pip install -r requirements.txt && cd website && mkdocs build -d ../site",
     "build:indexes": "node src/build-indexes.js",
-    "test": "node test-engine.mjs && node test-ingest.mjs && node test-api-x402.mjs && node test-discovery-catalog.mjs && node test-agent-keywords.mjs",
+    "test": "node test-engine.mjs && node test-ingest.mjs && node test-api-x402.mjs && node test-discovery-catalog.mjs && node test-agent-keywords.mjs && node test-analytics.mjs",
     "api": "node api/server.js",
     "ingest": "node src/ingest.js",
     "validate": "node src/validate.js",
     "frontmatter": "node src/frontmatter.js",
-    "indexes": "node src/build-indexes.js"
+    "indexes": "node src/build-indexes.js",
+    "analytics:report": "node scripts/weekly-analytics-report.mjs",
+    "analytics:snapshot": "node scripts/weekly-analytics-report.mjs --write"
   },
   "dependencies": {
     "@coinbase/cdp-sdk": "^1.55.0",

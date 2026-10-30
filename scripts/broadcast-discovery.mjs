@@ -14,7 +14,7 @@ const checks = [
   [`${API}/llms-full.txt`, 'text', (t) => t.includes('hypostatic union')],
   [`${API}/v1/ask?q=trinity&demo=1`, 'json', (b) => b.demo === true],
   [`${SITE}/llms.txt`, 'text', (t) => t.includes('DaKnowledge')],
-  [`${SITE}/llms-full.txt`, 'text', (t) => t.includes('Agent routing')],
+  [`${SITE}/llms-full.txt`, 'text', (t) => /agent routing/i.test(t)],
 ];
 
 let failed = 0;

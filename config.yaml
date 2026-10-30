@@ -165,6 +165,8 @@ search:
 integrations:
   dashboard: true
   danotify: true
+  # First-party analytics: POST /v1/collect + GET /metrics (see api/ANALYTICS.md)
+  analytics: true
 
 # Privacy
 privacy:
