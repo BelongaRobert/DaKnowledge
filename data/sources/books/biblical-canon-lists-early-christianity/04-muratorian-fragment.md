@@ -8,11 +8,13 @@ tags:
   - muratorian
   - new-testament
 scripture: []
-status: promoted
+status: draft
 date: 2026-10-30
 ---
 
 # Extract
+
+> **NOT a book extract.** Draft sketch from public-domain primary sources. Gallagher & Meade interior pages have not been read for this note.
 
 ## Claim
 
@@ -22,7 +24,7 @@ The Muratorian Fragment (Latin, often dated late second century, though scholars
 
 Primary: Muratorian Canon (fragment discovered by Ludovico Antonio Muratori). Standard editions and translations in patristic / NT introduction literature; collected with notes in Gallagher & Meade.
 
-Page: pending Gallagher & Meade interior citation.
+Page: not from Gallagher & Meade — primary-source sketch only; replace with book page cite after interior ingest.
 
 ## How it touches DaKnowledge
 

@@ -9,11 +9,13 @@ tags:
   - conversation-partner
 scripture:
   - John 20:31
-status: promoted
+status: draft
 date: 2026-10-30
 ---
 
 # Extract
+
+> **NOT a book extract.** Draft sketch from public-domain primary sources. Gallagher & Meade interior pages have not been read for this note.
 
 ## Claim
 
@@ -23,7 +25,7 @@ Early Christian canon lists are among the clearest witnesses to which books chur
 
 Gallagher and Meade present the lists (usually Greek or Latin, with English) as primary evidence for what compilers considered canonical, with brief introductions and notes rather than a replacement for magisterial definition.
 
-Page: cover / volume purpose (OUP 2017); interior pagination pending scan.
+Page: not extracted from the book. Cover/catalog metadata only.
 
 ## How it touches DaKnowledge
 

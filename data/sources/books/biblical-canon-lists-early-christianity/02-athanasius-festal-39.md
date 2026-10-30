@@ -10,11 +10,13 @@ tags:
   - deuterocanonicals
 scripture:
   - Luke 24:44
-status: promoted
+status: draft
 date: 2026-10-30
 ---
 
 # Extract
+
+> **NOT a book extract.** Draft sketch from public-domain primary sources. Gallagher & Meade interior pages have not been read for this note.
 
 ## Claim
 
@@ -24,7 +26,7 @@ In the Easter letter of 367, St. Athanasius gives the earliest surviving list th
 
 Primary: Athanasius, *Epistola festalis* 39. English access via standard patristic translations (e.g. NPNF / New Advent). The letter is the reason Athanasius appears on this volume's cover.
 
-Page: pending Gallagher & Meade interior citation.
+Page: not from Gallagher & Meade — primary-source sketch only; replace with book page cite after interior ingest.
 
 ## How it touches DaKnowledge
 

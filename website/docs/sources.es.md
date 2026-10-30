@@ -407,20 +407,18 @@ El concilio ecuménico más reciente; 16 documentos sobre liturgia, revelación,
 
 ---
 
-## Erudición moderna (interlocutores)
+## Libros en cola de extracción
 
-Estas obras no son magisterio. Reúnen evidencia primaria o aclaran la historia para que la enseñanza de la Iglesia pueda estudiarse con precisión.
-
-### Canon bíblico
+Volúmenes físicos registrados en `ingest/` que **aún no** son fuentes citadas por página en las páginas publicadas. No los trates como notas a pie de la doctrina viva hasta que las notas tengan números de página y hayan sido promovidas.
 
 - **Edmon L. Gallagher y John D. Meade.** *The Biblical Canon Lists from Early Christianity: Texts and Analysis.* Oxford: Oxford University Press, 2017. ISBN 9780198792499.  
-  Listas tempranas de libros canónicos en griego, latín y lenguas afines, con traducción y notas. Orienta la página de DaKnowledge sobre las [Listas canónicas del cristianismo primitivo](scripture/early-canon-lists/). Categoría: interlocutor académico.
+  Cubierta ingerida; páginas interiores aún no fotografiadas. La página [Listas canónicas del cristianismo primitivo](scripture/early-canon-lists/) se apoya por ahora en los textos primarios antiguos (Atanasio, Eusebio, Agustín, etc.), no en esta monografía.
 
-- **[Eusebio — Historia eclesiástica](https://www.newadvent.org/fathers/2501.htm)**  
-  Incluye el esquema de escritos reconocidos / disputados / rechazados (esp. libro III).
+Testigos primarios ya usados en esa página:
 
-- **[Agustín — La doctrina cristiana](https://www.newadvent.org/fathers/1202.htm)**  
-  El libro II contiene el catálogo agustiniano de los libros de la Escritura recibidos en la Iglesia latina.
+- **[Eusebio — Historia eclesiástica](https://www.newadvent.org/fathers/2501.htm)** (esp. libro III, reconocidos / disputados / rechazados)
+- **[Agustín — La doctrina cristiana](https://www.newadvent.org/fathers/1202.htm)** (catálogo del libro II)
+- **[Atanasio — Carta pascual 39](https://www.newadvent.org/fathers/2806039.htm)** (listada arriba bajo Atanasio)
 
 ---
 

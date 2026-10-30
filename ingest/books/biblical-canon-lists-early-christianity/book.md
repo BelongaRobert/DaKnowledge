@@ -11,7 +11,7 @@ standing: conversation-partner
 topics:
   - scripture
   - canon
-status: review
+status: ocr
 date_added: 2026-10-30
 ---
 
@@ -19,30 +19,31 @@ date_added: 2026-10-30
 
 ## Why this book is here
 
-Gallagher and Meade gather the early Christian (and some Jewish) lists of canonical books in original languages with English translation and brief notes. DaKnowledge's published canon page already teaches the 73-book Catholic canon and the broad formation story; this volume supplies the concrete lists—Athanasius, Eusebius, the Muratorian Fragment, Cyril, Jerome, Augustine, Hippo and Carthage—so the site can show *how* the Church recognized Scripture rather than only *that* she did. Standing: modern scholarly conversation partner, not magisterium. Ancient lists themselves are public-domain primary sources; published pages cite those primaries and use this book as the organizing reference.
+Gallagher and Meade collect early Christian (and some Jewish) canon lists in original languages with English translation and notes. Once interior pages are photographed and extracted with page numbers, this volume can deepen DaKnowledge’s Scripture section as a modern conversation partner. **It has not yet been extracted.** Only the cover is in the ingest store.
+
+## Honesty check (2026-10-30)
+
+- Cover photo: yes
+- Interior OCR / page-cited notes from this book: **no**
+- Published [Early Christian Canon Lists](../../../website/docs/scripture/early-canon-lists.md) page: rests on ancient primary texts (Athanasius, Eusebius, Augustine, etc.), **not** on Gallagher & Meade’s wording, notes, or analysis
+- Do not cite this book as a source for live pages until notes below have real page numbers and status `promoted`
 
 ## How to read it for this project
 
 - Chapters to extract first:
   - Overview of Christian biblical canon development
-  - Greek Christian lists (esp. Athanasius, *Festal Letter* 39; Cyril of Jerusalem; Gregory Nazianzen; Amphilochius; Epiphanius)
+  - Greek Christian lists (esp. Athanasius, *Festal Letter* 39; Cyril; Gregory Nazianzen; Amphilochius; Epiphanius)
   - Latin Christian lists (Muratorian Fragment; Jerome; Augustine; African councils)
-  - Eusebius's categories of accepted / disputed / rejected books
-- Claims to watch for (doctrine, history, devotion):
-  - Distinction between books "in the canon" and books "appointed to be read" (Athanasius)
-  - Stability of the 27-book New Testament by the late fourth century
-  - Diversity and eventual consensus on Old Testament deuterocanonicals
-  - Church reception vs. private scholarly preference (Jerome vs. Augustine / councils)
-- Pages or sections to skip:
-  - Exhaustive manuscript catalogues beyond what catechesis needs
-  - Purely bibliographical digressions once the list text is secured
+  - Eusebius’s categories
+- Claims to watch for: canon vs. books “appointed to be read”; NT stability; deuterocanonical reception; Jerome vs. Augustine
+- Pages or sections to skip: exhaustive manuscript digressions beyond catechesis
 
 ## Promotion checklist
 
-- [x] Cover OCR reviewed (cover only; interior pages not yet photographed)
-- [ ] Notes have page numbers (await interior scans; current notes cite primary loci)
-- [x] Topics match `config.yaml` (`scripture` / `canon`)
-- [x] Scripture citations normalized
-- [x] No raw OCR copied to `website/docs/`
-- [x] Promoted research notes → `data/sources/books/biblical-canon-lists-early-christianity/`
-- [x] Published synthesis → `website/docs/scripture/canon.md` and `early-canon-lists.md`
+- [x] Cover on file
+- [ ] Interior pages photographed and OCR reviewed
+- [ ] Notes have page numbers **from this book**
+- [ ] Topics match `config.yaml`
+- [ ] Scripture citations normalized
+- [ ] No raw OCR copied to `website/docs/`
+- [ ] Published pages updated only from verified extracts

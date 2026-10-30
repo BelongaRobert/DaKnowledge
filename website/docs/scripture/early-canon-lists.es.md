@@ -4,7 +4,6 @@ tags:
   - sagrada-escritura
   - canon
   - padres-de-la-iglesia
-  - gallagher-meade
 topic: scripture
 scripture:
   - Luke 24:44
@@ -18,7 +17,7 @@ scripture:
 
 La Iglesia no amaneció un día con un índice sellado. Obispos, maestros e Iglesias locales nombraban los libros que leían como Escritura en la liturgia y en la catequesis. Esas **listas canónicas**—catálogos de libros tratados como norma—son de los testimonios históricos más claros de cómo el canon bíblico fue *reconocido*.
 
-Esta página reúne las listas que más importan para el estudio católico. Se orienta por Edmon L. Gallagher y John D. Meade, *The Biblical Canon Lists from Early Christianity: Texts and Analysis* (Oxford University Press, 2017), una colección académica moderna de los textos primarios. DaKnowledge cita las **fuentes antiguas** mismas; Gallagher y Meade son el interlocutor contemporáneo que ayudó a seleccionarlas y ordenarlas. Para la enseñanza católica acabada sobre los 73 libros, véase [El canon bíblico](canon/).
+Esta página reúne las listas que más importan para el estudio católico. Se basa en los **textos primarios antiguos** (Atanasio, Eusebio, Agustín y testigos afines) y en la recepción posterior de la Iglesia—no en una monografía moderna. Para la enseñanza católica acabada sobre los 73 libros, véase [El canon bíblico](canon/).
 
 > *«Estas cosas se han escrito para que crean que Jesús es el Cristo, el Hijo de Dios.»*  
 > — Juan 20,31
@@ -102,9 +101,9 @@ Las listas coinciden más de lo que admiten los eslóganes populares: los cuatro
 
 ## Para seguir leyendo
 
-- Gallagher, Edmon L., y John D. Meade. *The Biblical Canon Lists from Early Christianity: Texts and Analysis*. Oxford: Oxford University Press, 2017. ISBN 9780198792499. (Interlocutor académico; textos y notas.)
-- Atanasio, *Carta pascual* 39; Eusebio, *Historia eclesiástica* 3,25; Agustín, *La doctrina cristiana* 2,8 — véase [Fuentes](../sources/).
+- Atanasio, [*Carta pascual* 39](https://www.newadvent.org/fathers/2806039.htm); Eusebio, [*Historia eclesiástica*](https://www.newadvent.org/fathers/2501.htm) 3,25; Agustín, [*La doctrina cristiana*](https://www.newadvent.org/fathers/1202.htm) 2,8 — véase también [Fuentes](../sources/).
 - Sobre la enseñanza católica acabada: [El canon bíblico](canon/).
+- Una colección moderna de estas listas (Gallagher y Meade, OUP 2017) está registrada en la cola de ingestión del proyecto para una extracción posterior con citas de página. **Todavía no es fuente de esta página.**
 
 ---
 

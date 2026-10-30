@@ -407,20 +407,18 @@ The most recent ecumenical council; 16 documents on liturgy, revelation, ecclesi
 
 ---
 
-## Modern Scholarship (Conversation Partners)
+## Books queued for extraction
 
-These works are not magisterium. They gather primary evidence or clarify history so the Church's teaching can be studied with accuracy.
-
-### Biblical Canon
+Physical volumes registered in `ingest/` that are **not yet** page-cited sources for published pages. Do not treat these as footnotes for live doctrine until notes have page numbers and have been promoted.
 
 - **Edmon L. Gallagher and John D. Meade.** *The Biblical Canon Lists from Early Christianity: Texts and Analysis.* Oxford: Oxford University Press, 2017. ISBN 9780198792499.  
-  Greek, Latin, and related early lists of canonical books with translation and notes. Orients DaKnowledge's page on [Early Christian Canon Lists](scripture/early-canon-lists/). Standing: conversation partner.
+  Cover ingested; interior pages not yet photographed. The [Early Christian Canon Lists](scripture/early-canon-lists/) page currently rests on the ancient primary texts (Athanasius, Eusebius, Augustine, etc.), not on this monograph.
 
-- **[Eusebius — Church History](https://www.newadvent.org/fathers/2501.htm)**  
-  Includes the acknowledged / disputed / rejected scheme for Christian writings (esp. Book III).
+Primary witnesses already used on that page:
 
-- **[Augustine — On Christian Doctrine](https://www.newadvent.org/fathers/1202.htm)**  
-  Book II contains Augustine's catalogue of scriptural books received in the Latin Church.
+- **[Eusebius — Church History](https://www.newadvent.org/fathers/2501.htm)** (esp. Book III, acknowledged / disputed / rejected)
+- **[Augustine — On Christian Doctrine](https://www.newadvent.org/fathers/1202.htm)** (Book II catalogue)
+- **[Athanasius — Festal Letter 39](https://www.newadvent.org/fathers/2806039.htm)** (listed above under Athanasius)
 
 ---
 

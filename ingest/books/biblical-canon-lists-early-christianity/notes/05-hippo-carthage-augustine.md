@@ -10,11 +10,13 @@ tags:
   - carthage
   - deuterocanonicals
 scripture: []
-status: promoted
+status: draft
 date: 2026-10-30
 ---
 
 # Extract
+
+> **NOT a book extract.** Draft sketch from public-domain primary sources. Gallagher & Meade interior pages have not been read for this note.
 
 ## Claim
 
@@ -24,7 +26,7 @@ The North African councils of Hippo (393) and Carthage (397), in continuity with
 
 Primary: Augustine, *De doctrina christiana* 2.8; canons associated with Hippo / Carthage as transmitted in Latin conciliar collections; Council of Trent, Session IV (8 April 1546). Gallagher & Meade place these Latin lists beside the Greek witnesses so the reception history is visible.
 
-Page: pending Gallagher & Meade interior citation.
+Page: not from Gallagher & Meade — primary-source sketch only; replace with book page cite after interior ingest.
 
 ## How it touches DaKnowledge
 

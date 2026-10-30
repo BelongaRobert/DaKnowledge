@@ -4,7 +4,6 @@ tags:
   - scripture
   - canon
   - church-fathers
-  - gallagher-meade
 topic: scripture
 scripture:
   - Luke 24:44
@@ -18,7 +17,7 @@ scripture:
 
 The Church did not wake up one morning with a sealed table of contents. Bishops, teachers, and local churches named the books they read as Scripture in liturgy and catechesis. Those **canon lists**—catalogues of books treated as normative—are among the clearest historical witnesses to how the biblical canon was *recognized*.
 
-This page gathers the lists that matter most for Catholic study. It is oriented by Edmon L. Gallagher and John D. Meade, *The Biblical Canon Lists from Early Christianity: Texts and Analysis* (Oxford University Press, 2017), a modern scholarly collection of the primary texts. DaKnowledge cites the **ancient sources** themselves; Gallagher and Meade are the conversation partner that helped select and order them. For the finished Catholic teaching on the 73 books, see [The Biblical Canon](canon/).
+This page gathers the lists that matter most for Catholic study. It is drawn from the **ancient primary texts** (Athanasius, Eusebius, Augustine, and related witnesses) and from the Church's later reception—not from a modern monograph. For the finished Catholic teaching on the 73 books, see [The Biblical Canon](canon/).
 
 > *"These are written that you may believe that Jesus is the Christ, the Son of God."*  
 > — John 20:31
@@ -102,9 +101,9 @@ The lists agree more than popular slogans admit: four Gospels, Pauline letters, 
 
 ## Further reading
 
-- Gallagher, Edmon L., and John D. Meade. *The Biblical Canon Lists from Early Christianity: Texts and Analysis*. Oxford: Oxford University Press, 2017. ISBN 9780198792499. (Conversation partner; texts and notes.)
-- Athanasius, *Festal Letter* 39; Eusebius, *Church History* 3.25; Augustine, *On Christian Doctrine* 2.8 — see [Sources](../sources/).
+- Athanasius, [*Festal Letter* 39](https://www.newadvent.org/fathers/2806039.htm); Eusebius, [*Church History*](https://www.newadvent.org/fathers/2501.htm) 3.25; Augustine, [*On Christian Doctrine*](https://www.newadvent.org/fathers/1202.htm) 2.8 — see also [Sources](../sources/).
 - On the finished Catholic teaching: [The Biblical Canon](canon/).
+- A modern collection of these lists (Gallagher & Meade, OUP 2017) is registered in the project ingest queue for later page-cited extraction. **It is not a source for this page yet.**
 
 ---
 

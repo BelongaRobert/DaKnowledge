@@ -9,11 +9,13 @@ tags:
   - cyril-of-jerusalem
   - gregory-nazianzen
 scripture: []
-status: promoted
+status: draft
 date: 2026-10-30
 ---
 
 # Extract
+
+> **NOT a book extract.** Draft sketch from public-domain primary sources. Gallagher & Meade interior pages have not been read for this note.
 
 ## Claim
 
@@ -23,7 +25,7 @@ Fourth-century Greek lists (Cyril of Jerusalem's catecheses, Gregory of Nazianzu
 
 Primary: Cyril of Jerusalem, *Catecheses* 4; Gregory Nazianzen, *Carmen* on the genuine books; Amphilochius, iambic lines to Seleucus; Jerome, *Prologus Galeatus*; compared in Gallagher & Meade's Greek and Latin chapters.
 
-Page: pending Gallagher & Meade interior citation.
+Page: not from Gallagher & Meade — primary-source sketch only; replace with book page cite after interior ingest.
 
 ## How it touches DaKnowledge
 

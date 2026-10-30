@@ -1,13 +1,13 @@
 # Biblical Canon Lists — inbox
 
-Cover photo is already ingested.
+Cover photo only so far. **No interior pages have been extracted.**
 
-To deepen page-cited extracts from Gallagher & Meade:
+Published Early Christian Canon Lists pages cite ancient primary texts, not this monograph.
 
-1. Photograph interior pages (one file per page, sequential names: `001.jpg`, `002.jpg`, …).
-2. Drop them in this folder.
+To extract Gallagher & Meade properly:
+
+1. Photograph interior pages (`001.jpg`, `002.jpg`, …).
+2. Drop them here.
 3. Run `npm run ingest -- biblical-canon-lists-early-christianity`.
-4. Correct `ingest/books/biblical-canon-lists-early-christianity/ocr/`.
-5. Add page numbers to notes under `notes/`, then re-promote to `data/sources/books/`.
-
-Published synthesis already lives at `website/docs/scripture/early-canon-lists.md`, citing the ancient primary lists.
+4. Correct OCR; write notes with **page numbers from this book**.
+5. Only then promote into `data/` and update published pages that should cite the volume.
