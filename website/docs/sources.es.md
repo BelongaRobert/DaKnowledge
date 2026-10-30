@@ -123,9 +123,6 @@ Patriarca de Alejandría; defensor de la doctrina trinitaria contra el arrianism
 - **[Sobre la Encarnación](https://www.newadvent.org/fathers/2802.htm)**  
   Tratado clásico sobre el Verbo hecho carne.
 
-- **[Carta pascual 39 (367)](https://www.newadvent.org/fathers/2806039.htm)**  
-  Carta de Pascua que enumera los veintisiete libros del Nuevo Testamento y distingue los libros canónicos del AT de los designados para ser leídos.
-
 - **[De Decretis](https://www.newadvent.org/fathers/2806.htm)**  
   Defensa del Concilio de Nicea.
 
@@ -407,21 +404,6 @@ El concilio ecuménico más reciente; 16 documentos sobre liturgia, revelación,
 
 ---
 
-## Libros en cola de extracción
-
-Volúmenes físicos registrados en `ingest/` que **aún no** son fuentes citadas por página en las páginas publicadas. No los trates como notas a pie de la doctrina viva hasta que las notas tengan números de página y hayan sido promovidas.
-
-- **Edmon L. Gallagher y John D. Meade.** *The Biblical Canon Lists from Early Christianity: Texts and Analysis.* Oxford: Oxford University Press, 2017. ISBN 9780198792499.  
-  Cubierta ingerida; páginas interiores aún no fotografiadas. La página [Listas canónicas del cristianismo primitivo](scripture/early-canon-lists/) se apoya por ahora en los textos primarios antiguos (Atanasio, Eusebio, Agustín, etc.), no en esta monografía.
-
-Testigos primarios ya usados en esa página:
-
-- **[Eusebio — Historia eclesiástica](https://www.newadvent.org/fathers/2501.htm)** (esp. libro III, reconocidos / disputados / rechazados)
-- **[Agustín — La doctrina cristiana](https://www.newadvent.org/fathers/1202.htm)** (catálogo del libro II)
-- **[Atanasio — Carta pascual 39](https://www.newadvent.org/fathers/2806039.htm)** (listada arriba bajo Atanasio)
-
----
-
 ## Recursos adicionales
 
 ### Sitios del Vaticano
@@ -470,4 +452,4 @@ Para un estudio ulterior, comienza por el **Catecismo de la Iglesia Católica** 
 ---
 
 *Compilado para DaKnowledge — Base de conocimiento de teología bíblica*  
-*Última actualización: 2026-10-30*
+*Última actualización: 2026-05-30*

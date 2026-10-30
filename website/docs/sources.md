@@ -123,9 +123,6 @@ Patriarch of Alexandria; champion of Trinitarian doctrine against Arianism.
 - **[On the Incarnation](https://www.newadvent.org/fathers/2802.htm)**  
   Classic treatise on the Word made flesh.
 
-- **[Festal Letter 39 (367)](https://www.newadvent.org/fathers/2806039.htm)**  
-  Easter letter listing the twenty-seven New Testament books and distinguishing canonical OT books from those appointed to be read.
-
 - **[De Decretis](https://www.newadvent.org/fathers/2806.htm)**  
   Defense of the Council of Nicaea.
 
@@ -407,21 +404,6 @@ The most recent ecumenical council; 16 documents on liturgy, revelation, ecclesi
 
 ---
 
-## Books queued for extraction
-
-Physical volumes registered in `ingest/` that are **not yet** page-cited sources for published pages. Do not treat these as footnotes for live doctrine until notes have page numbers and have been promoted.
-
-- **Edmon L. Gallagher and John D. Meade.** *The Biblical Canon Lists from Early Christianity: Texts and Analysis.* Oxford: Oxford University Press, 2017. ISBN 9780198792499.  
-  Cover ingested; interior pages not yet photographed. The [Early Christian Canon Lists](scripture/early-canon-lists/) page currently rests on the ancient primary texts (Athanasius, Eusebius, Augustine, etc.), not on this monograph.
-
-Primary witnesses already used on that page:
-
-- **[Eusebius — Church History](https://www.newadvent.org/fathers/2501.htm)** (esp. Book III, acknowledged / disputed / rejected)
-- **[Augustine — On Christian Doctrine](https://www.newadvent.org/fathers/1202.htm)** (Book II catalogue)
-- **[Athanasius — Festal Letter 39](https://www.newadvent.org/fathers/2806039.htm)** (listed above under Athanasius)
-
----
-
 ## Additional Resources
 
 ### Vatican Websites
@@ -470,4 +452,4 @@ For further study, begin with the **Catechism of the Catholic Church** and **Sac
 ---
 
 *Compiled for DaKnowledge — Biblical Theology Knowledge Base*  
-*Last updated: 2026-10-30*
+*Last updated: 2026-05-30*

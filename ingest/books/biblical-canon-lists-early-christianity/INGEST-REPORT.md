@@ -1,12 +1,13 @@
 # Ingest report: biblical-canon-lists-early-christianity
 
-- Pages written: 1 (cover only)
-- Interior pages: none
-- Book used as published-page source: **no**
+- Cover on file: `assets/cover.jpg`
+- Interior pages: none yet
+- Published site updates from this book: **none** (by design)
 
-## Honesty (2026-10-30)
+Drop interior photos in `ingest/inbox/biblical-canon-lists-early-christianity/` and run:
 
-Published Early Christian Canon Lists content cites ancient primary texts.
-Gallagher & Meade remains queued until interior photos yield page-cited notes.
+```bash
+npm run ingest -- biblical-canon-lists-early-christianity
+```
 
-Next: photograph interior pages into `ingest/inbox/biblical-canon-lists-early-christianity/` and re-run ingest.
+Then write page-cited notes before promoting anything to `website/docs/`.
