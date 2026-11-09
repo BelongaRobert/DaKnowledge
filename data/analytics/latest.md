@@ -1,14 +1,14 @@
-# DaKnowledge weekly analytics — 2026-W45
+# DaKnowledge weekly analytics — 2026-W46
 
-Generated: **2026-11-02T22:05:15.145Z** (UTC)
+Generated: **2026-11-09T22:51:13.785Z** (UTC)
 
 ## Uptime
 
 | Check | Status | Latency |
 |-------|--------|---------|
-| Human site | ✅ HTTP 200 | 232 ms |
-| API /health | ✅ HTTP 200 | 32338 ms |
-| API /metrics | ✅ HTTP 200 | 81 ms |
+| Human site | ✅ HTTP 200 | 217 ms |
+| API /health | ✅ HTTP 200 | 21330 ms |
+| API /metrics | ✅ HTTP 200 | 125 ms |
 
 ## Discovery
 
