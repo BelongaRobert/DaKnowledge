@@ -1,0 +1,277 @@
+{
+  "week": "2026-W47",
+  "generatedAt": "2026-11-16T22:43:03.987Z",
+  "site": {
+    "ok": true,
+    "status": 200,
+    "ms": 261
+  },
+  "api": {
+    "health": {
+      "ok": true,
+      "status": 200,
+      "ms": 32624,
+      "body": {
+        "ok": true,
+        "site": "free",
+        "api": "x402",
+        "live": true,
+        "network": "eip155:8453",
+        "analytics": true
+      }
+    },
+    "metrics": {
+      "ok": true,
+      "status": 200,
+      "ms": 105,
+      "body": {
+        "ok": true,
+        "service": "DaKnowledge analytics",
+        "startedAt": "2026-11-16T22:43:15.232Z",
+        "generatedAt": "2026-11-16T22:43:36.939Z",
+        "note": "In-process counters reset on Render cold starts. Weekly GitHub Action snapshots persist history under data/analytics/.",
+        "lifetime": {
+          "pageviews": 0,
+          "apiHits": 0,
+          "settled": 0
+        },
+        "last7Days": {
+          "pageviews": 0,
+          "apiHits": 0,
+          "demos": 0,
+          "paid200": 0,
+          "paymentRequired": 0,
+          "settled": 0
+        },
+        "today": {
+          "day": "2026-11-16",
+          "pageviews": 0,
+          "apiHits": 0,
+          "demos": 0,
+          "paid200": 0,
+          "paymentRequired": 0,
+          "settled": 0
+        },
+        "topPages": [],
+        "topReferrers": [],
+        "topApiRoutes": []
+      }
+    },
+    "detail": {
+      "ok": true,
+      "service": "DaKnowledge analytics",
+      "startedAt": "2026-11-16T22:43:15.232Z",
+      "generatedAt": "2026-11-16T22:43:37.041Z",
+      "note": "In-process counters reset on Render cold starts. Weekly GitHub Action snapshots persist history under data/analytics/.",
+      "lifetime": {
+        "pageviews": 0,
+        "apiHits": 0,
+        "settled": 0
+      },
+      "last7Days": {
+        "pageviews": 0,
+        "apiHits": 0,
+        "demos": 0,
+        "paid200": 0,
+        "paymentRequired": 0,
+        "settled": 0
+      },
+      "today": {
+        "day": "2026-11-16",
+        "pageviews": 0,
+        "apiHits": 0,
+        "demos": 0,
+        "paid200": 0,
+        "paymentRequired": 0,
+        "settled": 0
+      },
+      "topPages": [],
+      "topReferrers": [],
+      "topApiRoutes": [],
+      "days": [],
+      "recent": []
+    }
+  },
+  "metrics": {
+    "url": "https://daknowledge-x402.onrender.com/metrics",
+    "ok": true,
+    "status": 200,
+    "body": {
+      "ok": true,
+      "service": "DaKnowledge analytics",
+      "startedAt": "2026-11-16T22:43:15.232Z",
+      "generatedAt": "2026-11-16T22:43:36.939Z",
+      "note": "In-process counters reset on Render cold starts. Weekly GitHub Action snapshots persist history under data/analytics/.",
+      "lifetime": {
+        "pageviews": 0,
+        "apiHits": 0,
+        "settled": 0
+      },
+      "last7Days": {
+        "pageviews": 0,
+        "apiHits": 0,
+        "demos": 0,
+        "paid200": 0,
+        "paymentRequired": 0,
+        "settled": 0
+      },
+      "today": {
+        "day": "2026-11-16",
+        "pageviews": 0,
+        "apiHits": 0,
+        "demos": 0,
+        "paid200": 0,
+        "paymentRequired": 0,
+        "settled": 0
+      },
+      "topPages": [],
+      "topReferrers": [],
+      "topApiRoutes": []
+    },
+    "ms": 105
+  },
+  "discovery": {
+    "passed": 8,
+    "total": 8,
+    "results": [
+      {
+        "url": "https://daknowledge-x402.onrender.com/.well-known/x402.json",
+        "ok": true,
+        "status": 200,
+        "ms": 119
+      },
+      {
+        "url": "https://daknowledge-x402.onrender.com/.well-known/agent.json",
+        "ok": true,
+        "status": 200,
+        "ms": 160
+      },
+      {
+        "url": "https://daknowledge-x402.onrender.com/openapi.json",
+        "ok": {
+          "get": {
+            "summary": "Cited synthesis from the curated index: a short answer plus CCC, Scripture, and source paths. Not a generic LLM.",
+            "description": "Paid x402 route. $0.05 USDC per call on eip155:8453.",
+            "tags": [
+              "paid"
+            ],
+            "parameters": [
+              {
+                "name": "q",
+                "in": "query",
+                "required": true,
+                "schema": {
+                  "type": "string",
+                  "description": "Question or topic to answer from the index"
+                }
+              }
+            ],
+            "responses": {
+              "200": {
+                "description": "JSON result",
+                "content": {
+                  "application/json": {
+                    "example": {
+                      "query": "What is the hypostatic union?",
+                      "answer": "The Son assumed a human nature in the unity of his person...",
+                      "citations": {
+                        "paths": [
+                          {
+                            "path": "site/christology/hypostatic-union.md",
+                            "title": "Hypostatic Union",
+                            "topic": "christology"
+                          }
+                        ],
+                        "scripture": [
+                          "John 1:14"
+                        ],
+                        "ccc": [
+                          "464",
+                          "467"
+                        ],
+                        "sources": []
+                      }
+                    }
+                  }
+                }
+              },
+              "402": {
+                "description": "Payment required (x402 PAYMENT-REQUIRED header)"
+              }
+            },
+            "x-x402-price": "$0.05"
+          }
+        },
+        "status": 200,
+        "ms": 202
+      },
+      {
+        "url": "https://daknowledge-x402.onrender.com/llms.txt",
+        "ok": true,
+        "status": 200,
+        "ms": 303
+      },
+      {
+        "url": "https://daknowledge-x402.onrender.com/llms-full.txt",
+        "ok": true,
+        "status": 200,
+        "ms": 106
+      },
+      {
+        "url": "https://daknowledge-x402.onrender.com/v1/ask?q=trinity&demo=1",
+        "ok": true,
+        "status": 200,
+        "ms": 991
+      },
+      {
+        "url": "https://belongarobert.github.io/DaKnowledge/llms.txt",
+        "ok": true,
+        "status": 200,
+        "ms": 128
+      },
+      {
+        "url": "https://belongarobert.github.io/DaKnowledge/llms-full.txt",
+        "ok": true,
+        "status": 200,
+        "ms": 104
+      }
+    ]
+  },
+  "bazaar": {
+    "listed": false,
+    "count": 0
+  },
+  "traffic": {
+    "views": {
+      "ok": false,
+      "status": 403,
+      "body": {
+        "message": "Resource not accessible by integration",
+        "documentation_url": "https://docs.github.com/rest/metrics/traffic#get-page-views",
+        "status": "403"
+      }
+    },
+    "clones": {
+      "ok": false,
+      "status": 403,
+      "body": {
+        "message": "Resource not accessible by integration",
+        "documentation_url": "https://docs.github.com/rest/metrics/traffic#get-repository-clones",
+        "status": "403"
+      }
+    },
+    "paths": {
+      "ok": false,
+      "status": 403,
+      "body": {
+        "message": "Resource not accessible by integration",
+        "documentation_url": "https://docs.github.com/rest/metrics/traffic#get-top-referral-paths",
+        "status": "403"
+      }
+    }
+  },
+  "notes": [
+    "Not listed on CDP Bazaar yet — seed with one settled paid call (see api/MARKETING.md).",
+    "No first-party pageviews yet in this API process (beacon ships with the next Pages deploy)."
+  ]
+}

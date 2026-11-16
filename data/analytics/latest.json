@@ -1,16 +1,16 @@
 {
-  "week": "2026-W46",
-  "generatedAt": "2026-11-09T22:51:13.785Z",
+  "week": "2026-W47",
+  "generatedAt": "2026-11-16T22:43:03.987Z",
   "site": {
     "ok": true,
     "status": 200,
-    "ms": 217
+    "ms": 261
   },
   "api": {
     "health": {
       "ok": true,
       "status": 200,
-      "ms": 21330,
+      "ms": 32624,
       "body": {
         "ok": true,
         "site": "free",
@@ -23,12 +23,12 @@
     "metrics": {
       "ok": true,
       "status": 200,
-      "ms": 125,
+      "ms": 105,
       "body": {
         "ok": true,
         "service": "DaKnowledge analytics",
-        "startedAt": "2026-11-09T22:51:22.567Z",
-        "generatedAt": "2026-11-09T22:51:35.421Z",
+        "startedAt": "2026-11-16T22:43:15.232Z",
+        "generatedAt": "2026-11-16T22:43:36.939Z",
         "note": "In-process counters reset on Render cold starts. Weekly GitHub Action snapshots persist history under data/analytics/.",
         "lifetime": {
           "pageviews": 0,
@@ -44,7 +44,7 @@
           "settled": 0
         },
         "today": {
-          "day": "2026-11-09",
+          "day": "2026-11-16",
           "pageviews": 0,
           "apiHits": 0,
           "demos": 0,
@@ -60,8 +60,8 @@
     "detail": {
       "ok": true,
       "service": "DaKnowledge analytics",
-      "startedAt": "2026-11-09T22:51:22.567Z",
-      "generatedAt": "2026-11-09T22:51:35.517Z",
+      "startedAt": "2026-11-16T22:43:15.232Z",
+      "generatedAt": "2026-11-16T22:43:37.041Z",
       "note": "In-process counters reset on Render cold starts. Weekly GitHub Action snapshots persist history under data/analytics/.",
       "lifetime": {
         "pageviews": 0,
@@ -77,7 +77,7 @@
         "settled": 0
       },
       "today": {
-        "day": "2026-11-09",
+        "day": "2026-11-16",
         "pageviews": 0,
         "apiHits": 0,
         "demos": 0,
@@ -99,8 +99,8 @@
     "body": {
       "ok": true,
       "service": "DaKnowledge analytics",
-      "startedAt": "2026-11-09T22:51:22.567Z",
-      "generatedAt": "2026-11-09T22:51:35.421Z",
+      "startedAt": "2026-11-16T22:43:15.232Z",
+      "generatedAt": "2026-11-16T22:43:36.939Z",
       "note": "In-process counters reset on Render cold starts. Weekly GitHub Action snapshots persist history under data/analytics/.",
       "lifetime": {
         "pageviews": 0,
@@ -116,7 +116,7 @@
         "settled": 0
       },
       "today": {
-        "day": "2026-11-09",
+        "day": "2026-11-16",
         "pageviews": 0,
         "apiHits": 0,
         "demos": 0,
@@ -128,7 +128,7 @@
       "topReferrers": [],
       "topApiRoutes": []
     },
-    "ms": 125
+    "ms": 105
   },
   "discovery": {
     "passed": 8,
@@ -138,13 +138,13 @@
         "url": "https://daknowledge-x402.onrender.com/.well-known/x402.json",
         "ok": true,
         "status": 200,
-        "ms": 110
+        "ms": 119
       },
       {
         "url": "https://daknowledge-x402.onrender.com/.well-known/agent.json",
         "ok": true,
         "status": 200,
-        "ms": 109
+        "ms": 160
       },
       {
         "url": "https://daknowledge-x402.onrender.com/openapi.json",
@@ -203,37 +203,37 @@
           }
         },
         "status": 200,
-        "ms": 112
+        "ms": 202
       },
       {
         "url": "https://daknowledge-x402.onrender.com/llms.txt",
         "ok": true,
         "status": 200,
-        "ms": 114
+        "ms": 303
       },
       {
         "url": "https://daknowledge-x402.onrender.com/llms-full.txt",
         "ok": true,
         "status": 200,
-        "ms": 111
+        "ms": 106
       },
       {
         "url": "https://daknowledge-x402.onrender.com/v1/ask?q=trinity&demo=1",
         "ok": true,
         "status": 200,
-        "ms": 803
+        "ms": 991
       },
       {
         "url": "https://belongarobert.github.io/DaKnowledge/llms.txt",
         "ok": true,
         "status": 200,
-        "ms": 148
+        "ms": 128
       },
       {
         "url": "https://belongarobert.github.io/DaKnowledge/llms-full.txt",
         "ok": true,
         "status": 200,
-        "ms": 131
+        "ms": 104
       }
     ]
   },
