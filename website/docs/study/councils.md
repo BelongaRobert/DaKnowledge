@@ -19,6 +19,7 @@ A short story, not a catalog. Full documents live on [Sources](../sources/).
 | 681 | Constantinople III | Monothelitism (no human will in Christ) | Two wills, divine and human |
 | 787 | Nicaea II | Iconoclasm | Holy images may be venerated, not worshiped |
 | 1215 | Lateran IV | Confusion about the Eucharist | Transubstantiation named |
+| 1439–1442 | Florence | East–West division; questions of primacy and salvation | Filioque, papal primacy, purgatory; *Cantate Domino* on *extra Ecclesiam* (see [Sources](../sources/)) |
 | 1545–63 | Trent | Reformation disputes on Scripture, grace, sacraments | Scripture and Tradition; seven sacraments; justification as transformation |
 | 1869–70 | Vatican I | Denial of a living magisterium | Papal primacy and infallibility, tightly defined |
 | 1962–65 | Vatican II | A Church turned in on herself | Liturgy, revelation (*Dei Verbum*), the Church (*Lumen Gentium*) |

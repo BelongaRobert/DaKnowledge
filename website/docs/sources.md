@@ -290,8 +290,23 @@ Suppressed the Knights Templar; discussed crusades and church reform.
 #### Council of Constance (1414–1418)
 Ended the Western Schism; condemned Hus and Wycliffe.
 
-#### Council of Basel/Ferrara/Florence (1431–1445)
-Attempted reunion with Eastern Orthodox; discussed papal primacy and Filioque.
+#### Council of Florence (Basel–Ferrara–Florence, 1431–1445)
+Seventeenth ecumenical council. Attempted reunion with the Eastern Churches; defined the Filioque, papal primacy, purgatory, and (in the Coptic union bull) *extra Ecclesiam nulla salus*. Holy See texts are available in Latin and Italian only.
+
+- **[Eugene IV — Holy See document index](https://www.vatican.va/content/eugenius-iv/en.html)**  
+  Vatican listing of Eugene IV bulls and decrees from the Florentine sessions.
+
+- **[*Laetentur caeli* (6 July 1439) — Union with the Greeks](https://www.vatican.va/content/eugenius-iv/la/documents/bulla-laetentur-caeli-6-iulii-1439.html)**  
+  Filioque, Eucharistic species, purgatory/particular judgment, Roman primacy. ([Italian](https://www.vatican.va/content/eugenius-iv/it/documents/bulla-laetentur-caeli-6-iulii-1439.html))
+
+- **[*Exultate Deo* (22 November 1439) — Union with the Armenians](https://www.vatican.va/content/eugenius-iv/la/documents/bulla-exultate-deo-22-nov-1439.html)**  
+  Decree for the Armenians (sacraments and profession of faith). ([Italian](https://www.vatican.va/content/eugenius-iv/it/documents/bulla-exultate-deo-22-nov-1439.html))
+
+- **[*Moyses vir* (4 September 1439) — Against the Basel remnant](https://www.vatican.va/content/eugenius-iv/la/documents/decretum-moyses-vir-4-sept-1439.html)**  
+  Florentine decree against the schismatic Basel assembly. ([Italian](https://www.vatican.va/content/eugenius-iv/it/documents/decretum-moyses-vir-4-sept-1439.html))
+
+- **[*Cantate Domino* (4 February 1442) — Union with the Copts and Ethiopians](https://www.vatican.va/content/eugenius-iv/la/documents/bulla-cantate-domino-4-febr-1442.html)**  
+  Profession of faith including the classic *extra Ecclesiam* paragraph. ([Italian](https://www.vatican.va/content/eugenius-iv/it/documents/bulla-cantate-domino-4-febr-1442.html) · [Latin PDF](https://www.vatican.va/content/eugenius-iv/la/documents/bulla-cantate-domino-4-febr-1442.pdf))
 
 #### Fifth Lateran Council (1512–1517)
 Last council before Protestant Reformation; addressed church reform.
