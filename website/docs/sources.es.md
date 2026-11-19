@@ -290,8 +290,24 @@ Suprimió a los Caballeros Templarios; discutió cruzadas y reforma eclesial.
 #### Concilio de Constanza (1414–1418)
 Puso fin al Cisma de Occidente; condenó a Hus y a Wycliffe.
 
-#### Concilio de Basilea/Ferrara/Florencia (1431–1445)
-Intentó la reunificación con los ortodoxos orientales; discutió el primado papal y el Filioque.
+#### Concilio de Florencia (Basilea–Ferrara–Florencia, 1431–1445)
+Decimoséptimo concilio ecuménico. Intentó la reunificación con las Iglesias orientales; definió el Filioque, el primado papal, el purgatorio y (en la bula de unión con los coptos) *extra Ecclesiam nulla salus*. En la Santa Sede los textos están en latín e italiano solamente.
+
+- **[Eugenio IV — Índice de documentos de la Santa Sede](https://www.vatican.va/content/eugenius-iv/en.html)**  
+  Listado vaticano de bulas y decretos de las sesiones florentinas.
+
+- **[*Laetentur caeli* (6 de julio de 1439) — Unión con los griegos](https://www.vatican.va/content/eugenius-iv/la/documents/bulla-laetentur-caeli-6-iulii-1439.html)**  
+  Filioque, especies eucarísticas, purgatorio/juicio particular, primado romano. ([Italiano](https://www.vatican.va/content/eugenius-iv/it/documents/bulla-laetentur-caeli-6-iulii-1439.html))
+
+- **[*Exultate Deo* (22 de noviembre de 1439) — Unión con los armenios](https://www.vatican.va/content/eugenius-iv/la/documents/bulla-exultate-deo-22-nov-1439.html)**  
+  Decreto para los armenios (sacramentos y profesión de fe). ([Italiano](https://www.vatican.va/content/eugenius-iv/it/documents/bulla-exultate-deo-22-nov-1439.html))
+
+- **[*Moyses vir* (4 de septiembre de 1439) — Contra el remanente de Basilea](https://www.vatican.va/content/eugenius-iv/la/documents/decretum-moyses-vir-4-sept-1439.html)**  
+  Decreto florentino contra la asamblea cismática de Basilea. ([Italiano](https://www.vatican.va/content/eugenius-iv/it/documents/decretum-moyses-vir-4-sept-1439.html))
+
+- **[*Cantate Domino* (4 de febrero de 1442) — Unión con coptos y etíopes](https://www.vatican.va/content/eugenius-iv/la/documents/bulla-cantate-domino-4-febr-1442.html)**  
+  Profesión de fe con el párrafo clásico *extra Ecclesiam*. ([Italiano](https://www.vatican.va/content/eugenius-iv/it/documents/bulla-cantate-domino-4-febr-1442.html) · [PDF latino](https://www.vatican.va/content/eugenius-iv/la/documents/bulla-cantate-domino-4-febr-1442.pdf))  
+  **Inglés de estudio (no oficial):** [versión DaKnowledge](sources/cantate-domino.md). No es una traducción profesional ni de la Santa Sede; el latín en vatican.va sigue siendo normativo.
 
 #### Quinto Concilio de Letrán (1512–1517)
 Último concilio antes de la Reforma protestante; abordó la reforma de la Iglesia.
