@@ -306,7 +306,8 @@ Decimoséptimo concilio ecuménico. Intentó la reunificación con las Iglesias 
   Decreto florentino contra la asamblea cismática de Basilea. ([Italiano](https://www.vatican.va/content/eugenius-iv/it/documents/decretum-moyses-vir-4-sept-1439.html))
 
 - **[*Cantate Domino* (4 de febrero de 1442) — Unión con coptos y etíopes](https://www.vatican.va/content/eugenius-iv/la/documents/bulla-cantate-domino-4-febr-1442.html)**  
-  Profesión de fe con el párrafo clásico *extra Ecclesiam*. ([Italiano](https://www.vatican.va/content/eugenius-iv/it/documents/bulla-cantate-domino-4-febr-1442.html) · [PDF latino](https://www.vatican.va/content/eugenius-iv/la/documents/bulla-cantate-domino-4-febr-1442.pdf))
+  Profesión de fe con el párrafo clásico *extra Ecclesiam*. ([Italiano](https://www.vatican.va/content/eugenius-iv/it/documents/bulla-cantate-domino-4-febr-1442.html) · [PDF latino](https://www.vatican.va/content/eugenius-iv/la/documents/bulla-cantate-domino-4-febr-1442.pdf))  
+  **Inglés de estudio (no oficial):** [versión DaKnowledge](sources/cantate-domino.md). No es una traducción profesional ni de la Santa Sede; el latín en vatican.va sigue siendo normativo.
 
 #### Quinto Concilio de Letrán (1512–1517)
 Último concilio antes de la Reforma protestante; abordó la reforma de la Iglesia.

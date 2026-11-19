@@ -184,7 +184,9 @@ nav:
     - Find a page: study/find.md
     - Machine access (x402): study/developers.md
     - Agent reference (keywords): study/agents-reference.md
-  - Sources & Bibliography: sources.md
+  - Sources:
+    - Bibliography: sources.md
+    - Cantate Domino (study EN): sources/cantate-domino.md
   - Theology Proper:
     - Overview: theology-proper/index.md
     - Attributes of God: theology-proper/attributes-of-god.md

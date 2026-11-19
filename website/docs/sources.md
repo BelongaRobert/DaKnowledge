@@ -306,7 +306,8 @@ Seventeenth ecumenical council. Attempted reunion with the Eastern Churches; def
   Florentine decree against the schismatic Basel assembly. ([Italian](https://www.vatican.va/content/eugenius-iv/it/documents/decretum-moyses-vir-4-sept-1439.html))
 
 - **[*Cantate Domino* (4 February 1442) — Union with the Copts and Ethiopians](https://www.vatican.va/content/eugenius-iv/la/documents/bulla-cantate-domino-4-febr-1442.html)**  
-  Profession of faith including the classic *extra Ecclesiam* paragraph. ([Italian](https://www.vatican.va/content/eugenius-iv/it/documents/bulla-cantate-domino-4-febr-1442.html) · [Latin PDF](https://www.vatican.va/content/eugenius-iv/la/documents/bulla-cantate-domino-4-febr-1442.pdf))
+  Profession of faith including the classic *extra Ecclesiam* paragraph. ([Italian](https://www.vatican.va/content/eugenius-iv/it/documents/bulla-cantate-domino-4-febr-1442.html) · [Latin PDF](https://www.vatican.va/content/eugenius-iv/la/documents/bulla-cantate-domino-4-febr-1442.pdf))  
+  **Study English (unofficial):** [DaKnowledge rendering](sources/cantate-domino.md). Not a professional or Holy See translation; Latin on vatican.va remains authoritative.
 
 #### Fifth Lateran Council (1512–1517)
 Last council before Protestant Reformation; addressed church reform.
